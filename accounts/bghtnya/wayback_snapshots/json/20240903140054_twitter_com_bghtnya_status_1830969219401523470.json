@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1830767798664265899",
+    "created_at": "2024-09-03T14:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T15:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830969219401523470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753293214826848256",
+          "start": 0,
+          "username": "tatanakots"
+        },
+        {
+          "end": 28,
+          "id": "1249525383797456898",
+          "start": 12,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830969219401523470",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830875590200828163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatanakots @jakobsonradical 天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1830767798664265899",
+        "created_at": "2024-09-03T14:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T15:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830969219401523470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 28,
+              "id": "1249525383797456898",
+              "start": 12,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830969219401523470",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830875590200828163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @jakobsonradical 天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "1830767798664265899",
+        "created_at": "2024-09-03T07:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T08:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830875590200828163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830875590200828163",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1785,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830767798664265899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 先是4，然后我有无限钱了之后除了1全买了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 1504,
+          "like_count": 92588,
+          "listed_count": 10,
+          "tweet_count": 20216
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 / 百合厨 / 不涩涩哦 / 姐姐@ins_wan 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "ins_wan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.im",
+                "end": 23,
+                "expanded_url": "http://mtf.im",
+                "start": 0,
+                "url": "https://t.co/d4a9azwpjV"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 147,
+          "like_count": 14874,
+          "listed_count": 2,
+          "tweet_count": 4179
+        },
+        "url": "https://t.co/d4a9azwpjV",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209126,
+          "following_count": 1520,
+          "like_count": 43851,
+          "listed_count": 880,
+          "tweet_count": 22753
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

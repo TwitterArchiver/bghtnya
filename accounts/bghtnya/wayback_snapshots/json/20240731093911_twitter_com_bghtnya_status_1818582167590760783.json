@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1818433793566626098",
+    "created_at": "2024-07-31T09:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T10:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818582167590760783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299312684991569920",
+          "start": 0,
+          "username": "DanJack67524194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818582167590760783",
+    "in_reply_to_user_id": "1299312684991569920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818433793566626098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanJack67524194 达成成就 年过七旬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1818433793566626098",
+        "created_at": "2024-07-31T09:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T10:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818582167590760783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299312684991569920",
+              "start": 0,
+              "username": "DanJack67524194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818582167590760783",
+        "in_reply_to_user_id": "1299312684991569920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818433793566626098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanJack67524194 达成成就 年过七旬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818433788055371777"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "1818433793566626098",
+        "created_at": "2024-07-30T23:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T00:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818433793566626098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SMhbryuHfm",
+              "end": 47,
+              "expanded_url": "https://twitter.com/DanJack67524194/status/1818433793566626098/photo/1",
+              "media_key": "3_1818433788055371777",
+              "start": 24,
+              "url": "https://t.co/SMhbryuHfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818433793566626098",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 30885,
+          "like_count": 477,
+          "quote_count": 13,
+          "reply_count": 89,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "71歲 \n然後資產4千五百萬.....\n好啊！ https://t.co/SMhbryuHfm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 1436,
+          "like_count": 81830,
+          "listed_count": 9,
+          "tweet_count": 17732
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\nblue sky ：https://t.co/DB3a0TSOwA\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/foxday…",
+                "end": 73,
+                "expanded_url": "https://bsky.app/profile/foxdaymoon.bsky.social",
+                "start": 50,
+                "url": "https://t.co/DB3a0TSOwA"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 106,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 83,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "name": "狐曌🦊統測準備儲備“軍備”中",
+        "pinned_tweet_id": "1769544675147522087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214761003757569/RLdX87B__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5709,
+          "following_count": 1514,
+          "like_count": 23641,
+          "listed_count": 30,
+          "tweet_count": 25289
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

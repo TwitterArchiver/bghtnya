@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1998575625569796206",
+    "created_at": "2025-12-10T14:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T15:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998761530817691790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        },
+        {
+          "end": 20,
+          "id": "1666308936721477633",
+          "start": 10,
+          "username": "fleurpwup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998761530817691790",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998709983362560240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 @fleurpwup 窝去 真的好像"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1998709983362560240].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1998709983362560240",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1998709983362560240"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1998575625569796206",
+        "created_at": "2025-12-10T14:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998761530817691790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            },
+            {
+              "end": 20,
+              "id": "1666308936721477633",
+              "start": 10,
+              "username": "fleurpwup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998761530817691790",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998709983362560240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 @fleurpwup 窝去 真的好像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8324,
+          "following_count": 2109,
+          "like_count": 172539,
+          "listed_count": 20,
+          "media_count": 3603,
+          "tweet_count": 44198
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984463067321942020/psX-4v6W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 93,
+          "like_count": 22367,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 11736
+        },
+        "username": "tube1925",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T05:00:01.000Z",
+        "description": "sprout/pwup girl🌱🏳️‍⚧️ | ママ:@Mikuyamiart | 🔞 Minors DNI ! !| bugs wife 💕 | pfp : @ComradeAshenov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Mikuyamiart"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "ComradeAshenov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/fleur_vt",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/fleur_vt",
+                "start": 0,
+                "url": "https://t.co/AUarENELYa"
+              }
+            ]
+          }
+        },
+        "id": "1666308936721477633",
+        "location": "she/her ",
+        "name": "fleur🌱🏳️‍⚧️",
+        "pinned_tweet_id": "1992366107798437914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997867977346023424/sfHiZwc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3531,
+          "following_count": 498,
+          "like_count": 11152,
+          "listed_count": 14,
+          "media_count": 1057,
+          "tweet_count": 3960
+        },
+        "url": "https://t.co/AUarENELYa",
+        "username": "fleurpwup",
+        "verified": false
+      }
+    ]
+  }
+}

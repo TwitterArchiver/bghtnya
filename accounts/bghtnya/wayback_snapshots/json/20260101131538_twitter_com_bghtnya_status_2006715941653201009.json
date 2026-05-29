@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2006715941653201009",
+    "created_at": "2026-01-01T13:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T14:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006715941653201009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 25,
+          "id": "1512976991976402949",
+          "start": 17,
+          "username": "bghtnya"
+        },
+        {
+          "end": 33,
+          "id": "1817584080437014528",
+          "start": 26,
+          "username": "N552AA"
+        },
+        {
+          "end": 46,
+          "id": "1780369819310981120",
+          "start": 34,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006715941653201009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006621919466995847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: @bghtnya @N552AA @520illusion 原视频里，我为了保护所有当事人的安全，国内的几乎所有信息（包括地点、网名）我都隐藏了🥺为了你们的安全我选择不公开具体的细节信息，为此十分抱歉，你们一定要好好的……我们活着才是对恶意最大…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N552AA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N552AA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N552AA"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2006715941653201009",
+        "created_at": "2026-01-01T13:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T14:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006715941653201009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 25,
+              "id": "1512976991976402949",
+              "start": 17,
+              "username": "bghtnya"
+            },
+            {
+              "end": 33,
+              "id": "1817584080437014528",
+              "start": 26,
+              "username": "N552AA"
+            },
+            {
+              "end": 46,
+              "id": "1780369819310981120",
+              "start": 34,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006715941653201009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006621919466995847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: @bghtnya @N552AA @520illusion 原视频里，我为了保护所有当事人的安全，国内的几乎所有信息（包括地点、网名）我都隐藏了🥺为了你们的安全我选择不公开具体的细节信息，为此十分抱歉，你们一定要好好的……我们活着才是对恶意最大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "2006612781001539814",
+        "created_at": "2026-01-01T07:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006621919466995847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 16,
+              "id": "1817584080437014528",
+              "start": 9,
+              "username": "N552AA"
+            },
+            {
+              "end": 29,
+              "id": "1780369819310981120",
+              "start": 17,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006621919466995847",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "原视频里，我为了保护所有当事人的安全，国内的几乎所有信息（包括地点、网名）我都隐藏了🥺为了你们的安全我选择不公开具体的细节信息，为此十分抱歉，你们一定要好好的……我们活着才是对恶意最大的反抗，更何况，咴还想回国面对面采访你们，给你们拍纪录片呢🥺🥺🥺\n刚听说一位当事人刚进ICU了……不要离开，还想和你们一起打wm呢😭大佬们带带我这个9500分的小菜鸟qwq"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1089,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006612781001539814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @N552AA @520illusion 原视频里，我为了保护所有当事人的安全，国内的几乎所有信息（包括地点、网名）我都隐藏了🥺为了你们的安全我选择不公开具体的细节信息，为此十分抱歉，你们一定要好好的……我们活着才是对恶意最大的反抗，更何况，咴还想回国面对面采访你们，给你们拍纪录片呢🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8644,
+          "following_count": 2090,
+          "like_count": 174168,
+          "listed_count": 18,
+          "media_count": 3673,
+          "tweet_count": 44794
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/？？岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11842,
+          "following_count": 1410,
+          "like_count": 156497,
+          "listed_count": 25,
+          "media_count": 4948,
+          "tweet_count": 66616
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "是病娇   骚扰我会被拉黑",
+        "id": "1780369819310981120",
+        "name": "ill",
+        "pinned_tweet_id": "1893476978109620710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004245780102615040/pktU--jz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 133,
+          "like_count": 4538,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 2996
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

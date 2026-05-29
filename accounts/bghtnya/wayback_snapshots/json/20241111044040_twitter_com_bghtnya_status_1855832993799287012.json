@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1855511115016609933",
+    "created_at": "2024-11-11T04:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T05:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855832993799287012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608589193999167488",
+          "start": 0,
+          "username": "DogFromAfrica"
+        },
+        {
+          "end": 31,
+          "id": "1213287267181027328",
+          "start": 15,
+          "username": "dahaoSho8931919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855832993799287012",
+    "in_reply_to_user_id": "1608589193999167488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855789942154338348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DogFromAfrica @dahaoSho8931919 吃掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1855511115016609933",
+        "created_at": "2024-11-11T04:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T05:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855832993799287012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608589193999167488",
+              "start": 0,
+              "username": "DogFromAfrica"
+            },
+            {
+              "end": 31,
+              "id": "1213287267181027328",
+              "start": 15,
+              "username": "dahaoSho8931919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855832993799287012",
+        "in_reply_to_user_id": "1608589193999167488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855789942154338348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DogFromAfrica @dahaoSho8931919 吃掉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855789937901420544"
+          ]
+        },
+        "author_id": "1608589193999167488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1855511115016609933",
+        "created_at": "2024-11-11T01:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T02:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855789942154338348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 25,
+              "id": "1213287267181027328",
+              "start": 9,
+              "username": "dahaoSho8931919"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsqeBDxo7Q",
+              "end": 69,
+              "expanded_url": "https://x.com/DogFromAfrica/status/1855789942154338348/photo/1",
+              "media_key": "3_1855789937901420544",
+              "start": 46,
+              "url": "https://t.co/jsqeBDxo7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855789942154338348",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855594784020459957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @dahaoSho8931919 逢人就v50，已经变成kfc的形状了捏 https://t.co/jsqeBDxo7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3387,
+          "following_count": 1559,
+          "like_count": 104367,
+          "listed_count": 9,
+          "tweet_count": 24540
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T22:22:15.000Z",
+        "description": "诶嘿~",
+        "id": "1608589193999167488",
+        "location": "中国河北省",
+        "name": "亦昇君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855797847956008960/Bp2v4Tlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 28
+        },
+        "username": "DogFromAfrica",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T02:33:32.000Z",
+        "description": "参考@Sho1919893 大号（复活失败中...）\n小小号：@ShoBeiYong 防止失联",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Sho1919893"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "ShoBeiYong"
+              }
+            ]
+          }
+        },
+        "id": "1213287267181027328",
+        "location": "下北沢　野獣邸",
+        "name": "Sho魈✟ ❂☭ 饮冰室主人🇨🇳🇨🇦 绝赞复活中",
+        "pinned_tweet_id": "1841910058424410470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823582488209580033/lP5DFS6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 207,
+          "like_count": 4592,
+          "listed_count": 9,
+          "tweet_count": 3967
+        },
+        "username": "dahaoSho8931919",
+        "verified": false
+      }
+    ]
+  }
+}

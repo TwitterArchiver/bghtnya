@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956203099284234241"
+      ],
+      "media_source_tweet_id": [
+        "1956203110843736338"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1956204023373291842",
+    "created_at": "2025-08-15T03:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T04:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956204023373291842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817584080437014528",
+          "start": 3,
+          "username": "N552AA"
+        },
+        {
+          "end": 40,
+          "id": "1512976991976402949",
+          "start": 32,
+          "username": "bghtnya"
+        },
+        {
+          "end": 56,
+          "id": "1468416451208179712",
+          "start": 42,
+          "username": "shina_makotsu"
+        },
+        {
+          "end": 75,
+          "id": "1657175394267848704",
+          "start": 63,
+          "username": "Zh40Le1ZOOB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KtHE4Ko0dG",
+          "end": 99,
+          "expanded_url": "https://x.com/N552AA/status/1956203110843736338/photo/1",
+          "media_key": "3_1956203099284234241",
+          "start": 76,
+          "url": "https://t.co/KtHE4Ko0dG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956204023373291842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956203110843736338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA: 上海市前yn骰子会见广州市yn骰子（x\n@bghtnya \n@shina_makotsu \nCoco\n@Zh40Le1ZOOB https://t.co/KtHE4Ko0dG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1956203099284234241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXUWrla4AEBDeA.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956203099284234241"
+          ],
+          "media_source_tweet_id": [
+            "1956203110843736338"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956204023373291842",
+        "created_at": "2025-08-15T03:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T04:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956204023373291842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817584080437014528",
+              "start": 3,
+              "username": "N552AA"
+            },
+            {
+              "end": 40,
+              "id": "1512976991976402949",
+              "start": 32,
+              "username": "bghtnya"
+            },
+            {
+              "end": 56,
+              "id": "1468416451208179712",
+              "start": 42,
+              "username": "shina_makotsu"
+            },
+            {
+              "end": 75,
+              "id": "1657175394267848704",
+              "start": 63,
+              "username": "Zh40Le1ZOOB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtHE4Ko0dG",
+              "end": 99,
+              "expanded_url": "https://x.com/N552AA/status/1956203110843736338/photo/1",
+              "media_key": "3_1956203099284234241",
+              "start": 76,
+              "url": "https://t.co/KtHE4Ko0dG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956204023373291842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956203110843736338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA: 上海市前yn骰子会见广州市yn骰子（x\n@bghtnya \n@shina_makotsu \nCoco\n@Zh40Le1ZOOB https://t.co/KtHE4Ko0dG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956203099284234241"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956203110843736338",
+        "created_at": "2025-08-15T03:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T04:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956203110843736338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1512976991976402949",
+              "start": 20,
+              "username": "bghtnya"
+            },
+            {
+              "end": 44,
+              "id": "1468416451208179712",
+              "start": 30,
+              "username": "shina_makotsu"
+            },
+            {
+              "end": 63,
+              "id": "1657175394267848704",
+              "start": 51,
+              "username": "Zh40Le1ZOOB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtHE4Ko0dG",
+              "end": 87,
+              "expanded_url": "https://x.com/N552AA/status/1956203110843736338/photo/1",
+              "media_key": "3_1956203099284234241",
+              "start": 64,
+              "url": "https://t.co/KtHE4Ko0dG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956203110843736338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上海市前yn骰子会见广州市yn骰子（x\n@bghtnya \n@shina_makotsu \nCoco\n@Zh40Le1ZOOB https://t.co/KtHE4Ko0dG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7261,
+          "following_count": 2055,
+          "like_count": 155936,
+          "listed_count": 17,
+          "media_count": 3032,
+          "tweet_count": 39243
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/双相/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq\n妈妈：@bolichara0\n主人：@yumekaayumi @nahida_miao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "bolichara0"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "yumekaayumi"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927899559306612736/St9dcsoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 948,
+          "like_count": 3425,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//路过的骑士厨//学生\n长毛象 https://t.co/P1XBuGxUJO\n糖果药店表https://t.co/d7W8od16Xd\n已逝爱人 @ANQNKNy\n溺死在理想之中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "ANQNKNy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 52,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 29,
+                "url": "https://t.co/P1XBuGxUJO"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 81,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 58,
+                "url": "https://t.co/d7W8od16Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuScjJA"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫楓·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3907,
+          "following_count": 726,
+          "like_count": 4969,
+          "listed_count": 23,
+          "media_count": 704,
+          "tweet_count": 21626
+        },
+        "url": "https://t.co/FWQxuScjJA",
+        "username": "shina_makotsu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "广州跨性别避难所运营者｜NixOS｜Uplifting Trance｜TG：https://t.co/Bcj9BmrTTv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 61,
+                "expanded_url": "http://Zh40Le1ZOOB.t.me",
+                "start": 38,
+                "url": "https://t.co/Bcj9BmrTTv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Zh40Le1ZOOB",
+                "end": 23,
+                "expanded_url": "https://github.com/Zh40Le1ZOOB",
+                "start": 0,
+                "url": "https://t.co/yxR4GeWz6U"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "nixpkgs#ςσmmαηd_βλσςκ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 513,
+          "like_count": 5896,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 4552
+        },
+        "url": "https://t.co/yxR4GeWz6U",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

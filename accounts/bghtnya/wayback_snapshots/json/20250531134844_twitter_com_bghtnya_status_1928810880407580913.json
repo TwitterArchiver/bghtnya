@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1928503880431841650",
+    "created_at": "2025-05-31T13:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T14:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928810880407580913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1723499534502834177",
+          "start": 0,
+          "username": "zhngjngyu237394"
+        },
+        {
+          "end": 25,
+          "id": "1514050647330635778",
+          "start": 17,
+          "username": "fu40615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928810880407580913",
+    "in_reply_to_user_id": "1723499534502834177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928746184325345698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngjngyu237394 @fu40615 lo和mtf有啥关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1928503880431841650",
+        "created_at": "2025-05-31T13:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T14:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928810880407580913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1723499534502834177",
+              "start": 0,
+              "username": "zhngjngyu237394"
+            },
+            {
+              "end": 25,
+              "id": "1514050647330635778",
+              "start": 17,
+              "username": "fu40615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928810880407580913",
+        "in_reply_to_user_id": "1723499534502834177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928746184325345698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngjngyu237394 @fu40615 lo和mtf有啥关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723499534502834177",
+        "conversation_id": "1928503880431841650",
+        "created_at": "2025-05-31T09:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T10:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928746184325345698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1514050647330635778",
+              "start": 0,
+              "username": "fu40615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928746184325345698",
+        "in_reply_to_user_id": "1514050647330635778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928503880431841650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fu40615 你们mtf是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6326,
+          "following_count": 1957,
+          "like_count": 139588,
+          "listed_count": 13,
+          "media_count": 2594,
+          "tweet_count": 35376
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T00:34:56.000Z",
+        "description": "如果永远是深夜那该有多好",
+        "id": "1723499534502834177",
+        "name": "goby233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916583217127391232/kJFx-sHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 94,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "username": "zhngjngyu237394",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T01:19:51.000Z",
+        "description": "是xyn！！！     身高157 体重47 (2009.6.15 生日 双子座))   有女朋友  ( 在广州和香港 不线下！！！不敢见面 ！！！ 或者凭运气偶遇) I'm from China.",
+        "id": "1514050647330635778",
+        "location": "广州 花都",
+        "name": "西 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1771179425113247996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774213137337843712/BgLU8-7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 169,
+          "like_count": 3825,
+          "listed_count": 6,
+          "media_count": 185,
+          "tweet_count": 732
+        },
+        "username": "fu40615",
+        "verified": false
+      }
+    ]
+  }
+}

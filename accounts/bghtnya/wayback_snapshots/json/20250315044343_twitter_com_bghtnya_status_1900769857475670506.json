@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1900769855462404608",
+    "created_at": "2025-03-15T04:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T05:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900769857475670506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900769857475670506",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900769855462404608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "逝者如斯朝暮去，浮生若梦片时休\n万里铁路云和月，伴我渡江越壑丘\n归来往复苦差役，业重学杂烦事稠\n摧眉折腰权贵酗，河东河西莫欺穷！\n蛰伏暂且安天命，待得春雷震九州\n他时若遂秋收义，哪无仓杆治侯公？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1783,
+        "media_key": "3_1900769852811603970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDkHESbcAItyWu.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1900769855462404608",
+        "created_at": "2025-03-15T04:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T05:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900769857475670506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900769857475670506",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900769855462404608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逝者如斯朝暮去，浮生若梦片时休\n万里铁路云和月，伴我渡江越壑丘\n归来往复苦差役，业重学杂烦事稠\n摧眉折腰权贵酗，河东河西莫欺穷！\n蛰伏暂且安天命，待得春雷震九州\n他时若遂秋收义，哪无仓杆治侯公？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900769852811603970"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1900769855462404608",
+        "created_at": "2025-03-15T04:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T05:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900769855462404608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ul7t5lG7Ra",
+              "end": 128,
+              "expanded_url": "https://x.com/bghtnya/status/1900769855462404608/photo/1",
+              "media_key": "3_1900769852811603970",
+              "start": 105,
+              "url": "https://t.co/Ul7t5lG7Ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900769855462404608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《忆泊头行》\n正月初七春节罄，尚存寒假一丝秋\n缰不羁马鸟不笼，暂别亲戚访友朋\n十四火车成人票，十八才独住酒楼\n携手共游泊头地，破冰踩雪访商荣\n无案无牍无尘网，有云有花有裳容\n设酒杀鸡直 OD ，三日乐胜三年愁 https://t.co/Ul7t5lG7Ra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 1835,
+          "like_count": 124811,
+          "listed_count": 13,
+          "media_count": 2234,
+          "tweet_count": 31458
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

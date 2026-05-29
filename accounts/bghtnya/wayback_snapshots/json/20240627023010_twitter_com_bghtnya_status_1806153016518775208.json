@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1805941226434437396",
+    "created_at": "2024-06-27T02:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T03:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806153016518775208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1470410046353858565",
+          "start": 0,
+          "username": "miumcii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806153016518775208",
+    "in_reply_to_user_id": "1470410046353858565",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805941226434437396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumcii 窝也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1805941226434437396",
+        "created_at": "2024-06-27T02:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T03:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806153016518775208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470410046353858565",
+              "start": 0,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806153016518775208",
+        "in_reply_to_user_id": "1470410046353858565",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805941226434437396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumcii 窝也想"
+      },
+      {
+        "attachments": {},
+        "author_id": "1470410046353858565",
+        "conversation_id": "1805941226434437396",
+        "created_at": "2024-06-26T12:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T13:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805941226434437396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805941226434437396",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11284,
+          "like_count": 126,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想去男娘咖啡厅打工了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 1378,
+          "like_count": 73200,
+          "listed_count": 7,
+          "tweet_count": 15476
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T15:07:45.000Z",
+        "description": "手红冰碗藕，藕碗冰红手。郎笑藕丝长，长丝藕笑郎。",
+        "id": "1470410046353858565",
+        "name": "闵目夕曦🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795108929795772416/IwrHJCyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23919,
+          "following_count": 316,
+          "like_count": 16958,
+          "listed_count": 75,
+          "tweet_count": 9961
+        },
+        "username": "miumcii",
+        "verified": false
+      }
+    ]
+  }
+}

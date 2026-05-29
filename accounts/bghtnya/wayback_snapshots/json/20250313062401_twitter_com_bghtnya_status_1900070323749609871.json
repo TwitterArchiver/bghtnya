@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1900029680486621467",
+    "created_at": "2025-03-13T06:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T07:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900070323749609871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900070323749609871",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900029680486621467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 看来这个导师也好事没少干"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22442,
+        "height": 480,
+        "media_key": "7_1900029144215461888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900029144215461888/pu/img/pq3LmZqCHOnuC7Ky.jpg",
+        "public_metrics": {
+          "view_count": 1075
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900029144215461888/pu/vid/avc1/480x270/H_rsQFDzBXvU-W1M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900029144215461888/pu/vid/avc1/640x360/515zei5Bj6PMW6tM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900029144215461888/pu/vid/avc1/854x480/kVFGCoXiR_dcG-f8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900029144215461888/pu/pl/PAa-6Vn3xg28F5l0.m3u8?tag=12"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1900029680486621467",
+        "created_at": "2025-03-13T06:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T07:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900070323749609871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900070323749609871",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900029680486621467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 看来这个导师也好事没少干"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900029144215461888"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1900029680486621467",
+        "created_at": "2025-03-13T03:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T04:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900029680486621467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/imEpcBml6w",
+              "end": 60,
+              "expanded_url": "https://x.com/FurinaDF/status/1900029680486621467/video/1",
+              "media_key": "7_1900029144215461888",
+              "start": 37,
+              "url": "https://t.co/imEpcBml6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900029680486621467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2256,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "河北工业大学门口，愤怒的博士生用刀狂砍导师\n（旁边的保安就像NPC一样） https://t.co/imEpcBml6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5732,
+          "following_count": 1832,
+          "like_count": 124735,
+          "listed_count": 13,
+          "media_count": 2230,
+          "tweet_count": 31417
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "放下自己内心深处的执念吧，地球人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870862200082235393/gfYowbA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13368,
+          "following_count": 1695,
+          "like_count": 20319,
+          "listed_count": 42,
+          "media_count": 3569,
+          "tweet_count": 6927
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

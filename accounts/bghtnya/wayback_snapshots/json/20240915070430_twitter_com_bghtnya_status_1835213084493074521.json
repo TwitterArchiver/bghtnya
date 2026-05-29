@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835213075886358528"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1835158596252057730",
+    "created_at": "2024-09-15T07:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T08:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835213084493074521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721033524155916288",
+          "start": 0,
+          "username": "ANON_SHANGHAI"
+        },
+        {
+          "end": 24,
+          "id": "1577836636783902720",
+          "start": 15,
+          "username": "njujimbo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uevjdcfmcx",
+          "end": 48,
+          "expanded_url": "https://twitter.com/bghtnya/status/1835213084493074521/photo/1",
+          "media_key": "3_1835213075886358528",
+          "start": 25,
+          "url": "https://t.co/uevjdCFMcx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835213084493074521",
+    "in_reply_to_user_id": "1721033524155916288",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835211955604173190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANON_SHANGHAI @njujimbo https://t.co/uevjdCFMcx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1835213075886358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXf8kbNbwAABA4x.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835213075886358528"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1835158596252057730",
+        "created_at": "2024-09-15T07:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T08:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835213084493074521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721033524155916288",
+              "start": 0,
+              "username": "ANON_SHANGHAI"
+            },
+            {
+              "end": 24,
+              "id": "1577836636783902720",
+              "start": 15,
+              "username": "njujimbo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uevjdcfmcx",
+              "end": 48,
+              "expanded_url": "https://twitter.com/bghtnya/status/1835213084493074521/photo/1",
+              "media_key": "3_1835213075886358528",
+              "start": 25,
+              "url": "https://t.co/uevjdCFMcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835213084493074521",
+        "in_reply_to_user_id": "1721033524155916288",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835211955604173190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANON_SHANGHAI @njujimbo https://t.co/uevjdCFMcx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721033524155916288",
+        "conversation_id": "1835158596252057730",
+        "created_at": "2024-09-15T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835211955604173190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 18,
+              "id": "1577836636783902720",
+              "start": 9,
+              "username": "njujimbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835211955604173190",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835211721755312519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @njujimbo 好好好你赢了🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 1509,
+          "like_count": 95288,
+          "listed_count": 10,
+          "tweet_count": 20922
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T05:15:57.000Z",
+        "description": "自己给自己打标签总是一件很愚蠢的事情🙃 It’s always silly to tag yourself ^_^  @MephiSprt 的🐶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "MephiSprt"
+              }
+            ]
+          }
+        },
+        "id": "1721033524155916288",
+        "name": "无水柠檬不加糖🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819057901186715648/6808SdQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 255,
+          "like_count": 35467,
+          "listed_count": 0,
+          "tweet_count": 1979
+        },
+        "username": "ANON_SHANGHAI",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T01:42:36.000Z",
+        "description": "持证含糖MtF🏳️‍⚧️/萌新Kiger/maimaidx/交通迷/北京研一在读/我们今天都很可爱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/zuUF1b5",
+                "end": 23,
+                "expanded_url": "https://b23.tv/zuUF1b5",
+                "start": 0,
+                "url": "https://t.co/lrEeRv2oRd"
+              }
+            ]
+          }
+        },
+        "id": "1577836636783902720",
+        "location": "北京",
+        "name": "🍥金啵🍥",
+        "pinned_tweet_id": "1822548716370452835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577836925406556160/TewEQgDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 543,
+          "like_count": 16,
+          "listed_count": 3,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/lrEeRv2oRd",
+        "username": "njujimbo",
+        "verified": false
+      }
+    ]
+  }
+}

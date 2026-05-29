@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1979738186696753538",
+    "created_at": "2025-10-19T19:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T20:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979988398757875791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1586955045450416129",
+          "start": 0,
+          "username": "WesterAOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979988398757875791",
+    "in_reply_to_user_id": "1586955045450416129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979738186696753538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WesterAOC 希望有生之年能见到这样的中国"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137033,
+        "height": 1920,
+        "media_key": "13_1979737868382658560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979737868382658560/img/qJM4nix4gM6_33Jf.jpg",
+        "public_metrics": {
+          "view_count": 456497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979737868382658560/vid/avc1/720x1308/H624NNFVnky86G4R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979737868382658560/pl/tG9RZ8AE3e_fn7ss.m3u8?v=e0f"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979737868382658560/vid/avc1/1056x1920/9VI7NMiT34uA8iH2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979737868382658560/vid/avc1/480x872/pXhH11ryk9xPYmnV.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979737868382658560/vid/avc1/320x580/Cywnib5YMbRY34OI.mp4"
+          }
+        ],
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1979738186696753538",
+        "created_at": "2025-10-19T19:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T20:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979988398757875791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1586955045450416129",
+              "start": 0,
+              "username": "WesterAOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979988398757875791",
+        "in_reply_to_user_id": "1586955045450416129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979738186696753538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WesterAOC 希望有生之年能见到这样的中国"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979737868382658560"
+          ]
+        },
+        "author_id": "1586955045450416129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1979738186696753538",
+        "created_at": "2025-10-19T02:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979738186696753538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuGg31eV6c",
+              "end": 152,
+              "expanded_url": "https://x.com/WesterAOC/status/1979738186696753538/video/1",
+              "media_key": "13_1979737868382658560",
+              "start": 129,
+              "url": "https://t.co/zuGg31eV6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979738186696753538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我做了一场噩梦。\n在梦中我窥见了另一个黑暗的世界。\n在那里，共产党没有被人民推翻。\n他依旧延续着自己血腥残暴的统治。\n在那里，习近平依然是国家主席。\n中国的经济和民生都走到了崩溃的边缘。\n在那里，劳工权利不受保障，特权和贪腐横行，人们连最基本的自由都没有。\n在那里，人民没有选票政府就丝毫不用顾及民生。\n好希望这场噩梦尽快结束。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1332,
+          "impression_count": 852288,
+          "like_count": 4507,
+          "quote_count": 93,
+          "reply_count": 729,
+          "retweet_count": 598
+        },
+        "reply_settings": "everyone",
+        "text": "我做了一场噩梦。\n在梦中我窥见了另一个黑暗的世界。\n在那里，共产党没有被人民推翻。\n他依旧延续着自己血腥残暴的统治。\n在那里，习近平依然是国家主席。\n中国的经济和民生都走到了崩溃的边缘。\n在那里，劳工权利不受保障，特权和贪腐横行，人们连最基本的自由都没有。 https://t.co/zuGg31eV6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7950,
+          "following_count": 2089,
+          "like_count": 163896,
+          "listed_count": 20,
+          "media_count": 3296,
+          "tweet_count": 41319
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T05:36:01.000Z",
+        "description": "务实的党外工作者。Justitia Omnibus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "assemblyofcitizens.org",
+                "end": 23,
+                "expanded_url": "https://assemblyofcitizens.org",
+                "start": 0,
+                "url": "https://t.co/AwR3SakgFb"
+              }
+            ]
+          }
+        },
+        "id": "1586955045450416129",
+        "location": "转型正义纪念馆, 北京",
+        "name": "杨若晖 Ruohui Yang🤓",
+        "pinned_tweet_id": "1798123206311625007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899515483021336576/AeUgc84G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22947,
+          "following_count": 554,
+          "like_count": 538,
+          "listed_count": 90,
+          "media_count": 625,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/AwR3SakgFb",
+        "username": "WesterAOC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983838393063669760",
+        "3_1983838393483010048"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1983838410843553888",
+    "created_at": "2025-10-30T10:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983838410843553888"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "Halloween",
+          "probability": 0.6526,
+          "start": 6,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZWegm5pFm",
+          "end": 40,
+          "expanded_url": "https://x.com/bghtnya/status/1983838410843553888/photo/1",
+          "media_key": "3_1983838393063669760",
+          "start": 17,
+          "url": "https://t.co/JZWegm5pFm"
+        },
+        {
+          "display_url": "pic.x.com/JZWegm5pFm",
+          "end": 40,
+          "expanded_url": "https://x.com/bghtnya/status/1983838410843553888/photo/1",
+          "media_key": "3_1983838393483010048",
+          "start": 17,
+          "url": "https://t.co/JZWegm5pFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983838410843553888",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Happy Halloween！ https://t.co/JZWegm5pFm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983838393063669760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gCgfZXgAAMVFv.jpg",
+        "width": 1593
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983838393483010048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gCgg9WIAAYN7m.jpg",
+        "width": 1593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983838393063669760",
+            "3_1983838393483010048"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1983838410843553888",
+        "created_at": "2025-10-30T10:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983838410843553888"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Halloween",
+              "probability": 0.6526,
+              "start": 6,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZWegm5pFm",
+              "end": 40,
+              "expanded_url": "https://x.com/bghtnya/status/1983838410843553888/photo/1",
+              "media_key": "3_1983838393063669760",
+              "start": 17,
+              "url": "https://t.co/JZWegm5pFm"
+            },
+            {
+              "display_url": "pic.x.com/JZWegm5pFm",
+              "end": 40,
+              "expanded_url": "https://x.com/bghtnya/status/1983838410843553888/photo/1",
+              "media_key": "3_1983838393483010048",
+              "start": 17,
+              "url": "https://t.co/JZWegm5pFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983838410843553888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Halloween！ https://t.co/JZWegm5pFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1983125347576230255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7999,
+          "following_count": 2095,
+          "like_count": 165388,
+          "listed_count": 20,
+          "media_count": 3346,
+          "tweet_count": 41789
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

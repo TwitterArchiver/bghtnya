@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2056012335102509217",
+    "created_at": "2026-05-17T14:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056013227746795859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056013227746795859",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056012720043122917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 自己找ChatGPT喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2056012335102509217",
+        "created_at": "2026-05-17T14:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056013227746795859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056013227746795859",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056012720043122917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 自己找ChatGPT喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780369819310981120",
+        "conversation_id": "2056012335102509217",
+        "created_at": "2026-05-17T14:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056012720043122917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056012720043122917",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056012335102509217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 把我也加一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9360,
+          "following_count": 2273,
+          "like_count": 178160,
+          "listed_count": 21,
+          "media_count": 3909,
+          "tweet_count": 47843
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 终将成为你 | 我向神明祈祷 许你岁岁平安  | 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "1879295666419286059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4631,
+          "following_count": 194,
+          "like_count": 10279,
+          "listed_count": 7,
+          "media_count": 927,
+          "tweet_count": 6005
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

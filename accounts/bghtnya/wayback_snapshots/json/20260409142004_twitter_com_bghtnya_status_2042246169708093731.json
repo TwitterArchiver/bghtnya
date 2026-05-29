@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2042176868825305309",
+    "created_at": "2026-04-09T14:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042246169708093731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "889194065333338112",
+          "start": 0,
+          "username": "wsdd2_fhc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042246169708093731",
+    "in_reply_to_user_id": "889194065333338112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042176868825305309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsdd2_fhc 可能是内部渠道找的关系"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2042176863771250688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdFCaWbUAA9mSS.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2042176868825305309",
+        "created_at": "2026-04-09T14:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042246169708093731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "889194065333338112",
+              "start": 0,
+              "username": "wsdd2_fhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042246169708093731",
+        "in_reply_to_user_id": "889194065333338112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042176868825305309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsdd2_fhc 可能是内部渠道找的关系"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042176863771250688"
+          ]
+        },
+        "author_id": "889194065333338112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2042176868825305309",
+        "created_at": "2026-04-09T09:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042176868825305309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3FcsIvFdC",
+              "end": 141,
+              "expanded_url": "https://x.com/wsdd2_fhc/status/2042176868825305309/photo/1",
+              "media_key": "3_2042176863771250688",
+              "start": 118,
+              "url": "https://t.co/P3FcsIvFdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042176868825305309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 27433,
+          "like_count": 372,
+          "quote_count": 8,
+          "reply_count": 50,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界太不合理了，一个文科出身、没学过微积分和线代，连Python安装都不会，分不清GPU和CPU的人，居然可以成为产品经理而且是我的直属上司？工资比我高就不说了，竟然说有资格指挥我用什么算法？他那些算法全是梦到什么说什么，我都服了 https://t.co/P3FcsIvFdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9002,
+          "following_count": 2120,
+          "like_count": 175426,
+          "listed_count": 19,
+          "media_count": 3827,
+          "tweet_count": 46807
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-23T18:42:40.000Z",
+        "description": "【不接推广&只约娃】永远的猫猫少女心coser/Kiger；she/her；INFJ- T; 重度抖M; 地雷系少女; OOC警告; K圈边缘人; 薄绿喵是世界上最聪明最可爱的猫猫！（注：所有涩涩视频均为表演）",
+        "id": "889194065333338112",
+        "location": "猫猫星球",
+        "name": "蛋蛋喵=w=",
+        "pinned_tweet_id": "1992468162668044410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724831119202455552/zJSWhC6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45962,
+          "following_count": 2849,
+          "like_count": 4550,
+          "listed_count": 177,
+          "media_count": 916,
+          "tweet_count": 2730
+        },
+        "username": "wsdd2_fhc",
+        "verified": false
+      }
+    ]
+  }
+}

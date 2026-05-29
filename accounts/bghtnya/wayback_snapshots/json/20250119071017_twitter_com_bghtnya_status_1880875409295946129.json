@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1880700194419028324",
+    "created_at": "2025-01-19T07:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T08:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880875409295946129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1640059357974130688",
+          "start": 0,
+          "username": "a12348964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880875409295946129",
+    "in_reply_to_user_id": "1640059357974130688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880875155918074194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a12348964 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1880700194419028324",
+        "created_at": "2025-01-19T07:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T08:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880875409295946129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1640059357974130688",
+              "start": 0,
+              "username": "a12348964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880875409295946129",
+        "in_reply_to_user_id": "1640059357974130688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880875155918074194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a12348964 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640059357974130688",
+        "conversation_id": "1880700194419028324",
+        "created_at": "2025-01-19T07:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T08:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880875155918074194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880875155918074194",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880700194419028324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 可以打黑钱过去吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4220,
+          "following_count": 1813,
+          "like_count": 120819,
+          "listed_count": 11,
+          "media_count": 1941,
+          "tweet_count": 29323
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T18:33:26.000Z",
+        "description": "性癖广泛，物欲很低，脑洞极大，能构建前无古人的猎奇色情游戏。家庭关系和谐，不冲塔 。涉猎币圈美股，熟悉无风险套利。在校，生活强者情绪稳定。见支黑粉红和轮子必拉黑，有啥想法私信留言24小时都在",
+        "id": "1640059357974130688",
+        "location": "苏南",
+        "name": "天下兵马大元帅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847722706932027393/kC9jsHn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 111,
+          "like_count": 57,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 208
+        },
+        "username": "a12348964",
+        "verified": true
+      }
+    ]
+  }
+}

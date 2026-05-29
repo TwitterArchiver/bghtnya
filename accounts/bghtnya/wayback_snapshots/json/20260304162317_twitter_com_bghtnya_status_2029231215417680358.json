@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2029227417219547311",
+    "created_at": "2026-03-04T16:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T17:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029231215417680358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 30,
+          "id": "1862988877964681216",
+          "start": 14,
+          "username": "transchineseorg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029231215417680358",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029230942934483155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee @transchineseorg 正常\n不过我说打算基于github也就是开放所有人的编辑权限\n大家一起修史"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2029227417219547311",
+        "created_at": "2026-03-04T16:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T17:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029231215417680358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 30,
+              "id": "1862988877964681216",
+              "start": 14,
+              "username": "transchineseorg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029231215417680358",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029230942934483155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @transchineseorg 正常\n不过我说打算基于github也就是开放所有人的编辑权限\n大家一起修史"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2029227417219547311",
+        "created_at": "2026-03-04T16:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T17:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029230942934483155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 25,
+              "id": "1862988877964681216",
+              "start": 9,
+              "username": "transchineseorg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029230942934483155",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029230111221006552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @transchineseorg 我知道 不过从个人经验来讲 修史这种工作一般都是最挨骂的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9169,
+          "following_count": 2138,
+          "like_count": 175946,
+          "listed_count": 18,
+          "media_count": 3810,
+          "tweet_count": 46572
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ᴍᴛꜰ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 17,
+                "username": "wgsi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/HULOGnNnLt"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ (she/her/她)",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22470,
+          "following_count": 2637,
+          "like_count": 37385,
+          "listed_count": 0,
+          "media_count": 474,
+          "tweet_count": 19800
+        },
+        "url": "https://t.co/HULOGnNnLt",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T22:35:43.000Z",
+        "description": "致力于收集、保存、整理、展示中文社区关于跨性别、非二元的一切多元性别内容与记忆 / 本推特账号互动仅代表个人观点 / 尝试关注所有跨与非二元或友好人士",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transchinese.org",
+                "end": 23,
+                "expanded_url": "https://transchinese.org/",
+                "start": 0,
+                "url": "https://t.co/RcEbBOdi6A"
+              }
+            ]
+          }
+        },
+        "id": "1862988877964681216",
+        "location": "United States",
+        "name": "多元性别中文数字图书馆",
+        "pinned_tweet_id": "1863456372958068817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863152868338929664/334kBlk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 1809,
+          "like_count": 11635,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/RcEbBOdi6A",
+        "username": "transchineseorg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974992362368602112"
+      ],
+      "media_source_tweet_id": [
+        "1974992367682986113"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1975184869136490949",
+    "created_at": "2025-10-06T13:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T14:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975184869136490949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1693700595331289089",
+          "start": 3,
+          "username": "CryingEmojiman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V4kGjLdned",
+          "end": 45,
+          "expanded_url": "https://x.com/CryingEmojiman/status/1974992367682986113/photo/1",
+          "media_key": "3_1974992362368602112",
+          "start": 22,
+          "url": "https://t.co/V4kGjLdned"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975184869136490949",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974992367682986113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CryingEmojiman: 💔 https://t.co/V4kGjLdned"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_1974992362368602112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2iVFvEXEAAJmsv.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974992362368602112"
+          ],
+          "media_source_tweet_id": [
+            "1974992367682986113"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1975184869136490949",
+        "created_at": "2025-10-06T13:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975184869136490949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1693700595331289089",
+              "start": 3,
+              "username": "CryingEmojiman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4kGjLdned",
+              "end": 45,
+              "expanded_url": "https://x.com/CryingEmojiman/status/1974992367682986113/photo/1",
+              "media_key": "3_1974992362368602112",
+              "start": 22,
+              "url": "https://t.co/V4kGjLdned"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975184869136490949",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974992367682986113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CryingEmojiman: 💔 https://t.co/V4kGjLdned"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974992362368602112"
+          ]
+        },
+        "author_id": "1693700595331289089",
+        "conversation_id": "1974992367682986113",
+        "created_at": "2025-10-06T00:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T01:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974992367682986113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4kGjLdned",
+              "end": 25,
+              "expanded_url": "https://x.com/CryingEmojiman/status/1974992367682986113/photo/1",
+              "media_key": "3_1974992362368602112",
+              "start": 2,
+              "url": "https://t.co/V4kGjLdned"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974992367682986113",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 23695,
+          "like_count": 1757,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "💔 https://t.co/V4kGjLdned"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7820,
+          "following_count": 2079,
+          "like_count": 161452,
+          "listed_count": 20,
+          "media_count": 3219,
+          "tweet_count": 40755
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T19:05:20.000Z",
+        "description": "Submissions Open // alt @TheUOHMAN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "TheUOHMAN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@cryingemojima…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@cryingemojiman?si=YRHKkc8WlDNirSSQ",
+                "start": 0,
+                "url": "https://t.co/43YJWX9X7S"
+              }
+            ]
+          }
+        },
+        "id": "1693700595331289089",
+        "location": "Kivotos",
+        "name": "Bad Blue Archive Memes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970309065445081088/-W5O-SAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112693,
+          "following_count": 999,
+          "like_count": 78714,
+          "listed_count": 194,
+          "media_count": 11871,
+          "tweet_count": 21188
+        },
+        "url": "https://t.co/43YJWX9X7S",
+        "username": "CryingEmojiman",
+        "verified": false
+      }
+    ]
+  }
+}

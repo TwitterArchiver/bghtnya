@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1819595200085610871",
+    "created_at": "2024-08-03T09:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T10:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819668954950025564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "356116759",
+          "start": 0,
+          "username": "Mizuhashi_Z"
+        },
+        {
+          "end": 28,
+          "id": "2665462272",
+          "start": 13,
+          "username": "shiinakaoru_mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819668954950025564",
+    "in_reply_to_user_id": "356116759",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819662222987268531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mizuhashi_Z @shiinakaoru_mo 114514"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1819595200085610871",
+        "created_at": "2024-08-03T09:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T10:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819668954950025564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "356116759",
+              "start": 0,
+              "username": "Mizuhashi_Z"
+            },
+            {
+              "end": 28,
+              "id": "2665462272",
+              "start": 13,
+              "username": "shiinakaoru_mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819668954950025564",
+        "in_reply_to_user_id": "356116759",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819662222987268531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mizuhashi_Z @shiinakaoru_mo 114514"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "356116759",
+        "conversation_id": "1819595200085610871",
+        "created_at": "2024-08-03T09:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T10:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819662222987268531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2665462272",
+              "start": 0,
+              "username": "shiinakaoru_mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819662222987268531",
+        "in_reply_to_user_id": "2665462272",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819595200085610871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiinakaoru_mo 我知道你的银行卡密码了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 1453,
+          "like_count": 84126,
+          "listed_count": 10,
+          "tweet_count": 18161
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-16T11:05:13.000Z",
+        "description": "In the Heat of the Sun （历史推文已删除）",
+        "id": "356116759",
+        "location": "-Google+-",
+        "name": "MizuhashiZ",
+        "pinned_tweet_id": "1220156177243234306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/856885890039169024/YaJ5A0kS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 3862,
+          "like_count": 30594,
+          "listed_count": 6,
+          "tweet_count": 1111
+        },
+        "username": "Mizuhashi_Z",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-21T10:23:45.000Z",
+        "description": "૮₍ ˃ ⤙ ˂ ₎ა人生めちゃめちゃ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "momo173.cc",
+                "end": 23,
+                "expanded_url": "https://www.momo173.cc",
+                "start": 0,
+                "url": "https://t.co/hdc452Pf7g"
+              }
+            ]
+          }
+        },
+        "id": "2665462272",
+        "location": "Chiba-shi Chuo, Chiba",
+        "name": "椎名薫",
+        "pinned_tweet_id": "1219283278462517248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803722140992348160/3iGRZ6JM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 389,
+          "like_count": 1920,
+          "listed_count": 2,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/hdc452Pf7g",
+        "username": "shiinakaoru_mo",
+        "verified": false
+      }
+    ]
+  }
+}

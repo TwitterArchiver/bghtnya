@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860706981499289600"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1860637774032064550",
+    "created_at": "2024-11-24T15:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T16:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860706985601384719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826101934409003011",
+          "start": 0,
+          "username": "Magical_yux"
+        },
+        {
+          "end": 27,
+          "id": "1813371882059726848",
+          "start": 13,
+          "username": "chenethan1023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1P0Q9qYj0w",
+          "end": 51,
+          "expanded_url": "https://x.com/bghtnya/status/1860706985601384719/photo/1",
+          "media_key": "3_1860706981499289600",
+          "start": 28,
+          "url": "https://t.co/1P0Q9qYj0w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860706985601384719",
+    "in_reply_to_user_id": "1826101934409003011",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860706899232170373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magical_yux @chenethan1023 https://t.co/1P0Q9qYj0w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1860706981499289600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKPJCdawAAIjtq.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860706981499289600"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1860637774032064550",
+        "created_at": "2024-11-24T15:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T16:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860706985601384719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826101934409003011",
+              "start": 0,
+              "username": "Magical_yux"
+            },
+            {
+              "end": 27,
+              "id": "1813371882059726848",
+              "start": 13,
+              "username": "chenethan1023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1P0Q9qYj0w",
+              "end": 51,
+              "expanded_url": "https://x.com/bghtnya/status/1860706985601384719/photo/1",
+              "media_key": "3_1860706981499289600",
+              "start": 28,
+              "url": "https://t.co/1P0Q9qYj0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860706985601384719",
+        "in_reply_to_user_id": "1826101934409003011",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860706899232170373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magical_yux @chenethan1023 https://t.co/1P0Q9qYj0w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826101934409003011",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1860637774032064550",
+        "created_at": "2024-11-24T15:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T16:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860706899232170373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 23,
+              "id": "1813371882059726848",
+              "start": 9,
+              "username": "chenethan1023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860706899232170373",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860706044412133849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @chenethan1023 “美团内置原神”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3481,
+          "following_count": 1592,
+          "like_count": 106294,
+          "listed_count": 9,
+          "tweet_count": 25310
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T03:40:24.000Z",
+        "description": "消失的魔法 Magic😇|高中牲🤓|未来主义|是花粉呦 也是星粉|愿 跨越山海🗻 终见曙光🌠|希望交到一些朋友罢",
+        "id": "1826101934409003011",
+        "location": "冀",
+        "name": "Magic予",
+        "pinned_tweet_id": "1853677062009266295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857455658452557824/stesGZmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 141,
+          "like_count": 1478,
+          "listed_count": 0,
+          "tweet_count": 372
+        },
+        "username": "Magical_yux",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T00:35:47.000Z",
+        "description": "在中推圈打滾的台灣人🇹🇼/日本語学習者🇯🇵/友地球人🌏/梗圖收集者/可悲高中生😭/不定發推/偶爾鍵政/互fo請私我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chenet…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/chenethan1023.bsky.social",
+                "start": 0,
+                "url": "https://t.co/OOyxt8BmRq"
+              }
+            ]
+          }
+        },
+        "id": "1813371882059726848",
+        "location": "地球上的某個角落",
+        "name": "うてん 🌧️",
+        "pinned_tweet_id": "1845790325706813884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850096396030095360/V1cRLQez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 175,
+          "like_count": 4929,
+          "listed_count": 2,
+          "tweet_count": 1390
+        },
+        "url": "https://t.co/OOyxt8BmRq",
+        "username": "chenethan1023",
+        "verified": false
+      }
+    ]
+  }
+}

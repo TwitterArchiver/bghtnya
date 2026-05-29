@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1941479618265088096",
+    "created_at": "2025-07-05T14:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941511933309616311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "shenlebanyueyin"
+        },
+        {
+          "end": 27,
+          "id": "1709376564713127936",
+          "start": 17,
+          "username": "guanjiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941511933309616311",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941479618265088096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenlebanyueyin @guanjiao_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1941479618265088096",
+        "created_at": "2025-07-05T14:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941511933309616311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "shenlebanyueyin"
+            },
+            {
+              "end": 27,
+              "id": "1709376564713127936",
+              "start": 17,
+              "username": "guanjiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941511933309616311",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941479618265088096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenlebanyueyin @guanjiao_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720356797758763008",
+        "conversation_id": "1941479618265088096",
+        "created_at": "2025-07-05T12:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941479618265088096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misaka_14376/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/misaka_14376/status/1941423179987288391",
+              "start": 12,
+              "url": "https://t.co/IFcSB8WO0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941479618265088096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941423179987288391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要给每一个牢广互关看 https://t.co/IFcSB8WO0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7074,
+          "following_count": 2019,
+          "like_count": 152337,
+          "listed_count": 17,
+          "media_count": 2859,
+          "tweet_count": 37899
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "散养海苔肉松小猫咪一只（169/60kg），每天都会饿。🚪80r",
+        "id": "1720356797758763008",
+        "location": "小倉山",
+        "name": "狐萝卜好烫喵🍥🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1857050525256089666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903013874330374145/6TDxEmNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 2135,
+          "like_count": 17418,
+          "listed_count": 1,
+          "media_count": 707,
+          "tweet_count": 14293
+        },
+        "username": "shenlebanyueyin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1081,
+          "like_count": 61213,
+          "listed_count": 3,
+          "media_count": 1673,
+          "tweet_count": 11966
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

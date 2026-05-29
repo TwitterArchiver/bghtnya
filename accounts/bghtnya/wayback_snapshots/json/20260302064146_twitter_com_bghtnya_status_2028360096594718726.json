@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2028342938640773345",
+    "created_at": "2026-03-02T06:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028360096594718726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1824818634809806848",
+          "start": 0,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028360096594718726",
+    "in_reply_to_user_id": "1824818634809806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028342938640773345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsgmxz 你自己也在跨圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2028342938640773345",
+        "created_at": "2026-03-02T06:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028360096594718726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028360096594718726",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028342938640773345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz 你自己也在跨圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824818634809806848",
+        "conversation_id": "2028342938640773345",
+        "created_at": "2026-03-02T05:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028342938640773345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsgmxz/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hsgmxz/status/2028342160706375694",
+              "start": 12,
+              "url": "https://t.co/Hck12uc3Tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028342938640773345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028342160706375694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我对跨圈破事的评价 https://t.co/Hck12uc3Tm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9075,
+          "following_count": 2097,
+          "like_count": 175225,
+          "listed_count": 18,
+          "media_count": 3794,
+          "tweet_count": 46359
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|永远14🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|2011.1.24|同类互fo|极度社恐|重焦重郁|intp-t|三好跨喵|匿名提问箱https://t.co/eJ9r7NqD38|老婆：@chao_ching_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 137,
+                "username": "chao_ching_i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 133,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 110,
+                "url": "https://t.co/eJ9r7NqD38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHM4p"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2028342160706375694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010288262104088577/1zvRCsQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 1223,
+          "like_count": 9637,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/Xrx6CgHM4p",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

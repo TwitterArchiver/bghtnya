@@ -1,0 +1,745 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988053423636234240",
+        "3_1988053423632048128"
+      ],
+      "media_source_tweet_id": [
+        "1988053428518490326",
+        "1988053428518490326"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Aerospace",
+          "id": "872801340224806912",
+          "name": "Aerospace"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352681651516567553",
+          "name": "Space agencies & companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357372374941790208",
+          "name": "Solar System"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1989321201341309268",
+    "created_at": "2025-11-14T13:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989321201341309268"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "NASA",
+          "probability": 0.9545,
+          "start": 22,
+          "type": "Organization"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Júpiter",
+          "probability": 0.2772,
+          "start": 46,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "93479786",
+          "start": 3,
+          "username": "odaradeverdade"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GnJp6qtZzU",
+          "end": 106,
+          "expanded_url": "https://x.com/odaradeverdade/status/1988053428518490326/photo/1",
+          "media_key": "3_1988053423636234240",
+          "start": 83,
+          "url": "https://t.co/GnJp6qtZzU"
+        },
+        {
+          "display_url": "pic.x.com/GnJp6qtZzU",
+          "end": 106,
+          "expanded_url": "https://x.com/odaradeverdade/status/1988053428518490326/photo/1",
+          "media_key": "3_1988053423632048128",
+          "start": 83,
+          "url": "https://t.co/GnJp6qtZzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989321201341309268",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3506
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988053428518490326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odaradeverdade: A NASA postou uma foto de Júpiter sob a luz ultravioleta 🏳️‍⚧️ https://t.co/GnJp6qtZzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_1988053423636234240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5b8Dj5WQAAAh7U.jpg",
+        "width": 647
+      },
+      {
+        "height": 608,
+        "media_key": "3_1988053423632048128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5b8Dj4WYAAFeVB.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988053423636234240",
+            "3_1988053423632048128"
+          ],
+          "media_source_tweet_id": [
+            "1988053428518490326",
+            "1988053428518490326"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357372374941790208",
+              "name": "Solar System"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1989321201341309268",
+        "created_at": "2025-11-14T13:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989321201341309268"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "NASA",
+              "probability": 0.9545,
+              "start": 22,
+              "type": "Organization"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Júpiter",
+              "probability": 0.2772,
+              "start": 46,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "93479786",
+              "start": 3,
+              "username": "odaradeverdade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnJp6qtZzU",
+              "end": 106,
+              "expanded_url": "https://x.com/odaradeverdade/status/1988053428518490326/photo/1",
+              "media_key": "3_1988053423636234240",
+              "start": 83,
+              "url": "https://t.co/GnJp6qtZzU"
+            },
+            {
+              "display_url": "pic.x.com/GnJp6qtZzU",
+              "end": 106,
+              "expanded_url": "https://x.com/odaradeverdade/status/1988053428518490326/photo/1",
+              "media_key": "3_1988053423632048128",
+              "start": 83,
+              "url": "https://t.co/GnJp6qtZzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989321201341309268",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3506
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988053428518490326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odaradeverdade: A NASA postou uma foto de Júpiter sob a luz ultravioleta 🏳️‍⚧️ https://t.co/GnJp6qtZzU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988053423636234240",
+            "3_1988053423632048128"
+          ]
+        },
+        "author_id": "93479786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357372374941790208",
+              "name": "Solar System"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1988053428518490326",
+        "created_at": "2025-11-11T01:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988053428518490326"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "NASA",
+              "probability": 0.9485,
+              "start": 2,
+              "type": "Organization"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Júpiter",
+              "probability": 0.5001,
+              "start": 26,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnJp6qtZzU",
+              "end": 86,
+              "expanded_url": "https://x.com/odaradeverdade/status/1988053428518490326/photo/1",
+              "media_key": "3_1988053423636234240",
+              "start": 63,
+              "url": "https://t.co/GnJp6qtZzU"
+            },
+            {
+              "display_url": "pic.x.com/GnJp6qtZzU",
+              "end": 86,
+              "expanded_url": "https://x.com/odaradeverdade/status/1988053428518490326/photo/1",
+              "media_key": "3_1988053423632048128",
+              "start": 63,
+              "url": "https://t.co/GnJp6qtZzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988053428518490326",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1297,
+          "impression_count": 2909861,
+          "like_count": 32855,
+          "quote_count": 961,
+          "reply_count": 479,
+          "retweet_count": 3506
+        },
+        "reply_settings": "everyone",
+        "text": "A NASA postou uma foto de Júpiter sob a luz ultravioleta 🏳️‍⚧️ https://t.co/GnJp6qtZzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8187,
+          "following_count": 2119,
+          "like_count": 166975,
+          "listed_count": 20,
+          "media_count": 3418,
+          "tweet_count": 42429
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-29T21:10:33.000Z",
+        "description": "(𝗲𝗹𝗮/𝗱𝗲𝗹𝗮/𝘀𝗵𝗲/𝗵𝗲𝗿) ativista, Twitteira, & agitadora cultural  💅🏽 a chata mais legal que você vai conhecer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/odaradeverdade…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/odaradeverdade?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/WX6y6RHCSG"
+              }
+            ]
+          }
+        },
+        "id": "93479786",
+        "location": "Liberté,Egalité,Beyoncé",
+        "name": "Travesti que Habla 🏳️‍⚧️",
+        "pinned_tweet_id": "1880254279501640073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985500071144697856/0_Zmn7FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174615,
+          "following_count": 143167,
+          "like_count": 78758,
+          "listed_count": 117,
+          "media_count": 10844,
+          "tweet_count": 33609
+        },
+        "url": "https://t.co/WX6y6RHCSG",
+        "username": "odaradeverdade",
+        "verified": true
+      }
+    ]
+  }
+}

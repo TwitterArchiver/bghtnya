@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2054817552036184082",
+    "created_at": "2026-05-16T02:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T03:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055473194157666736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3168720802",
+          "start": 0,
+          "username": "Dunlukmyname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055473194157666736",
+    "in_reply_to_user_id": "3168720802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055319719096574372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dunlukmyname 今天又重现了一遍，SX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2054817552036184082",
+        "created_at": "2026-05-16T02:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055473194157666736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3168720802",
+              "start": 0,
+              "username": "Dunlukmyname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055473194157666736",
+        "in_reply_to_user_id": "3168720802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055319719096574372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dunlukmyname 今天又重现了一遍，SX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3168720802",
+        "conversation_id": "2054817552036184082",
+        "created_at": "2026-05-15T16:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055319719096574372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055319719096574372",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054817552036184082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 原来中美友好是今天才提出来的?SX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9322,
+          "following_count": 2258,
+          "like_count": 178229,
+          "listed_count": 21,
+          "media_count": 3902,
+          "tweet_count": 47787
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-15T06:30:13.000Z",
+        "description": "上推(X)第一课：远离反中账号，这些账号不会提供有价值的内容。\n抹黑中国是他们的日常业务，就像喝水吃饭。\n反中是一门生意。\n没有欧美庇护，中国贪污诈骗少一半。",
+        "id": "3168720802",
+        "location": "Wonderland, Avatar Planet",
+        "name": "反贼,十年了,还造谣中国崩,坏B.财经博主=骗子。",
+        "pinned_tweet_id": "1701707676923879641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/588233100641099777/ljt8smVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 88,
+          "like_count": 27336,
+          "listed_count": 13,
+          "media_count": 244,
+          "tweet_count": 17140
+        },
+        "username": "Dunlukmyname",
+        "verified": false
+      }
+    ]
+  }
+}

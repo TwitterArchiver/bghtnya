@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1935954398481727543",
+    "created_at": "2025-06-20T17:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T18:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936106961940234731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoFan7551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936106961940234731",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935954398481727543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoFan7551 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1935954398481727543",
+        "created_at": "2025-06-20T17:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T18:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936106961940234731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoFan7551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936106961940234731",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935954398481727543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoFan7551 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1935954398481727543",
+        "created_at": "2025-06-20T06:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T07:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935954398481727543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935954398481727543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 746,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "准备 b 一些人\n1.名字带一长串国旗包括不限于带🇨🇳🇵🇰🇵🇸🇷🇺（🏳️‍⚧️🏳️‍🌈不在此列）\n2.名字头像近期言论大面积带 8964 以及种族歧视性别歧视的，美化侵略者的以及在国际公认问题当中被谴责的\n3.回复大面积带脏话的\n4.无脑支持华为吴京哪吒原神，圣诞节刷长津湖的，支持高考选拔制度，张口闭口就是各种地狱笑话的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 2003,
+          "like_count": 148022,
+          "listed_count": 14,
+          "media_count": 2766,
+          "tweet_count": 36826
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅/19 目前在大陆 生理性别男/友跨友双友同无任何政治倾向/抽象 b",
+        "id": "1756909109788753920",
+        "location": "china mainland",
+        "name": "包着番茄籽的番茄",
+        "pinned_tweet_id": "1923230527705817125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876828438067363841/Jp8N96wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 1150,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2253
+        },
+        "username": "BaoFan7551",
+        "verified": false
+      }
+    ]
+  }
+}

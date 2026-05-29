@@ -1,0 +1,255 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1805539741158514815",
+    "created_at": "2024-06-27T02:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T03:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806153871028527247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723998986103894017",
+          "start": 0,
+          "username": "imodo_noru"
+        },
+        {
+          "end": 22,
+          "id": "345437084",
+          "start": 12,
+          "username": "iamcheyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806153871028527247",
+    "in_reply_to_user_id": "1723998986103894017",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805547398703497640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imodo_noru @iamcheyan 高素质（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1805539741158514815",
+        "created_at": "2024-06-27T02:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T03:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806153871028527247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723998986103894017",
+              "start": 0,
+              "username": "imodo_noru"
+            },
+            {
+              "end": 22,
+              "id": "345437084",
+              "start": 12,
+              "username": "iamcheyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806153871028527247",
+        "in_reply_to_user_id": "1723998986103894017",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805547398703497640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imodo_noru @iamcheyan 高素质（）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1723998986103894017",
+        "conversation_id": "1805539741158514815",
+        "created_at": "2024-06-25T10:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T11:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805547398703497640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "345437084",
+              "start": 0,
+              "username": "iamcheyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805547398703497640",
+        "in_reply_to_user_id": "345437084",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4277,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805539741158514815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamcheyan 既然骂人了，还用您？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 1378,
+          "like_count": 73220,
+          "listed_count": 7,
+          "tweet_count": 15480
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T09:40:02.000Z",
+        "description": "一个低俗的人，一个彻底脱离了高级趣味的人。",
+        "id": "1723998986103894017",
+        "location": "Tokyo",
+        "name": "妹乘達人🤼🧏🧑‍🦽🤡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786790995180597248/5NC9ynzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 247,
+          "like_count": 13119,
+          "listed_count": 7,
+          "tweet_count": 3840
+        },
+        "username": "imodo_noru",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-30T16:05:20.000Z",
+        "description": "作家 · 编剧 · 程序员 / 现居东京\nhttps://t.co/IoKuPngzUE \nhttps://t.co/LdVs3Q7iXb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 44,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 21,
+                "url": "https://t.co/IoKuPngzUE"
+              },
+              {
+                "display_url": "t.me/UenoTetsuya",
+                "end": 69,
+                "expanded_url": "https://t.me/UenoTetsuya",
+                "start": 46,
+                "url": "https://t.co/LdVs3Q7iXb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 23,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 0,
+                "url": "https://t.co/IoKuPngzUE"
+              }
+            ]
+          }
+        },
+        "id": "345437084",
+        "name": "澈言",
+        "pinned_tweet_id": "1431803902769332224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23172,
+          "following_count": 4935,
+          "like_count": 24316,
+          "listed_count": 114,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/IoKuPngzUE",
+        "username": "iamcheyan",
+        "verified": true
+      }
+    ]
+  }
+}

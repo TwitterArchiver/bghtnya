@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1836361332121309487",
+    "created_at": "2024-09-18T14:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T15:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836405088103084371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1673634417871589376",
+          "start": 0,
+          "username": "XCCQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836405088103084371",
+    "in_reply_to_user_id": "1673634417871589376",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836361332121309487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XCCQAQ qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1836361332121309487",
+        "created_at": "2024-09-18T14:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T15:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836405088103084371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1673634417871589376",
+              "start": 0,
+              "username": "XCCQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836405088103084371",
+        "in_reply_to_user_id": "1673634417871589376",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836361332121309487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XCCQAQ qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836361322457632768"
+          ]
+        },
+        "author_id": "1673634417871589376",
+        "conversation_id": "1836361332121309487",
+        "created_at": "2024-09-18T11:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T12:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836361332121309487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7sy6wygnp",
+              "end": 63,
+              "expanded_url": "https://twitter.com/XCCQAQ/status/1836361332121309487/photo/1",
+              "media_key": "3_1836361322457632768",
+              "start": 40,
+              "url": "https://t.co/l7SY6WyGNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836361332121309487",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1201,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天女装出门打台球，用本音和朋友讲话被隔壁桌听到了，那个小哥哥盯了我好久好久） https://t.co/l7SY6WyGNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 1526,
+          "like_count": 96201,
+          "listed_count": 10,
+          "tweet_count": 21203
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T10:08:45.000Z",
+        "description": "05年的xyn|🍥2024.2.6|偶尔会发癫|欢迎同好互fo～|感谢投喂投喂会进肚子里或变成好看的衣服喵～|🚪30|大家的关注和点赞会让我开心很久很久的🌸|XCC的老婆们@mingxiaomiao2和@meviuslX_Xl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "mingxiaomiao2"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "meviuslX_Xl"
+              }
+            ]
+          }
+        },
+        "id": "1673634417871589376",
+        "location": "喵？",
+        "name": "XCC🍥",
+        "pinned_tweet_id": "1820311533559435637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811818076490346496/WH28kA1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3349,
+          "following_count": 798,
+          "like_count": 3520,
+          "listed_count": 15,
+          "tweet_count": 637
+        },
+        "username": "XCCQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

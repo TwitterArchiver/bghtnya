@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947332558464942080"
+      ],
+      "media_source_tweet_id": [
+        "1947332722990669843"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1309059220717756416",
+          "name": "魔女の旅々"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431299952718712833",
+          "name": "The Journey of Elaina"
+        }
+      }
+    ],
+    "conversation_id": "1947482201895133250",
+    "created_at": "2025-07-22T02:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T03:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947482201895133250"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "イレイナさん",
+          "probability": 0.4164,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1702468142",
+          "start": 3,
+          "username": "daddymulk2013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gzzgj5NaxA",
+          "end": 54,
+          "expanded_url": "https://x.com/daddymulk2013/status/1947332722990669843/photo/1",
+          "media_key": "3_1947332558464942080",
+          "start": 31,
+          "url": "https://t.co/Gzzgj5NaxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947482201895133250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 425
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947332722990669843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daddymulk2013: 魔女の旅々イレイナさん https://t.co/Gzzgj5NaxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1947332558464942080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwZQpP7bAAAzwtO.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947332558464942080"
+          ],
+          "media_source_tweet_id": [
+            "1947332722990669843"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1309059220717756416",
+              "name": "魔女の旅々"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299952718712833",
+              "name": "The Journey of Elaina"
+            }
+          }
+        ],
+        "conversation_id": "1947482201895133250",
+        "created_at": "2025-07-22T02:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T03:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947482201895133250"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "イレイナさん",
+              "probability": 0.4164,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1702468142",
+              "start": 3,
+              "username": "daddymulk2013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gzzgj5NaxA",
+              "end": 54,
+              "expanded_url": "https://x.com/daddymulk2013/status/1947332722990669843/photo/1",
+              "media_key": "3_1947332558464942080",
+              "start": 31,
+              "url": "https://t.co/Gzzgj5NaxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947482201895133250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 425
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947332722990669843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daddymulk2013: 魔女の旅々イレイナさん https://t.co/Gzzgj5NaxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947332558464942080"
+          ]
+        },
+        "author_id": "1702468142",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1309059220717756416",
+              "name": "魔女の旅々"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299952718712833",
+              "name": "The Journey of Elaina"
+            }
+          }
+        ],
+        "conversation_id": "1947332722990669843",
+        "created_at": "2025-07-21T16:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947332722990669843"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "イレイナさん",
+              "probability": 0.378,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gzzgj5NaxA",
+              "end": 35,
+              "expanded_url": "https://x.com/daddymulk2013/status/1947332722990669843/photo/1",
+              "media_key": "3_1947332558464942080",
+              "start": 12,
+              "url": "https://t.co/Gzzgj5NaxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947332722990669843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 68972,
+          "like_count": 4535,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 425
+        },
+        "reply_settings": "everyone",
+        "text": "魔女の旅々イレイナさん https://t.co/Gzzgj5NaxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7208,
+          "following_count": 2030,
+          "like_count": 153358,
+          "listed_count": 17,
+          "media_count": 2943,
+          "tweet_count": 38449
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-26T17:17:05.000Z",
+        "description": "かわいいものが好き。 きまぐれに絵を描いたり描かなかったり。\nきらら系、ぼっち・ざ・ろっく、ゆるキャン△、魔女の旅々、好き。たまにブルアカ、艦むすは特に第六駆逐好きです。車、鉄道模型、ドライブなども大好きかもです。 絵ツイート多め \nhttps://t.co/8xDQXH7sm2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 140,
+                "expanded_url": "http://www.pixiv.net/member.php?id=11211325",
+                "start": 117,
+                "url": "https://t.co/8xDQXH7sm2"
+              }
+            ]
+          }
+        },
+        "id": "1702468142",
+        "name": "CORE",
+        "pinned_tweet_id": "1947332722990669843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354095395945672704/rETudOYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82856,
+          "following_count": 249,
+          "like_count": 40775,
+          "listed_count": 851,
+          "media_count": 7100,
+          "tweet_count": 62205
+        },
+        "username": "daddymulk2013",
+        "verified": true
+      }
+    ]
+  }
+}

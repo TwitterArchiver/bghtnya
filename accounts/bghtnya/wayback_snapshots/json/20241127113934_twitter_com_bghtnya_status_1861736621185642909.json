@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1861446691666436443",
+    "created_at": "2024-11-27T11:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T12:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861736621185642909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "TheSoutaLynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861736621185642909",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861446691666436443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSoutaLynn 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1861446691666436443",
+        "created_at": "2024-11-27T11:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T12:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861736621185642909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "TheSoutaLynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861736621185642909",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861446691666436443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSoutaLynn 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1861446691666436443",
+        "created_at": "2024-11-26T16:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T17:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861446691666436443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861446691666436443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4537,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下周的钱全拿来买小裙子好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3544,
+          "following_count": 1596,
+          "like_count": 107230,
+          "listed_count": 9,
+          "tweet_count": 25583
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈/🍥2024.4.20/ADHDer/178cm57kg/A-Level/birth:2008.5.6/minority/Apex Legand 22 Season Diamond Controller/maimai/VOCALOID Sis: @beijieyoufengle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 132,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "https://b23.tv/jzX4Sbm",
+        "name": ".翎Souta🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860287229563928577/sw3uvLPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3533,
+          "following_count": 1405,
+          "like_count": 66858,
+          "listed_count": 8,
+          "tweet_count": 16111
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "TheSoutaLynn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2028505837199896777",
+    "created_at": "2026-03-03T13:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028832431919493273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022556004089753600",
+          "start": 0,
+          "username": "jiechengmadoka"
+        },
+        {
+          "end": 24,
+          "id": "2027594385685417989",
+          "start": 16,
+          "username": "zuo8375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028832431919493273",
+    "in_reply_to_user_id": "2022556004089753600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028521210808771069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiechengmadoka @zuo8375 刚想炒作号就没了哈哈"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [zuo8375].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "zuo8375",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "zuo8375"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2028505837199896777",
+        "created_at": "2026-03-03T13:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028832431919493273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022556004089753600",
+              "start": 0,
+              "username": "jiechengmadoka"
+            },
+            {
+              "end": 24,
+              "id": "2027594385685417989",
+              "start": 16,
+              "username": "zuo8375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028832431919493273",
+        "in_reply_to_user_id": "2022556004089753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028521210808771069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiechengmadoka @zuo8375 刚想炒作号就没了哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022556004089753600",
+        "conversation_id": "2028505837199896777",
+        "created_at": "2026-03-02T17:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028521210808771069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2027594385685417989",
+              "start": 0,
+              "username": "zuo8375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028521210808771069",
+        "in_reply_to_user_id": "2022556004089753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3280,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028505837199896777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo8375 事件原主是这位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9121,
+          "following_count": 2119,
+          "like_count": 175559,
+          "listed_count": 18,
+          "media_count": 3807,
+          "tweet_count": 46457
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T06:18:29.000Z",
+        "description": "糖和糖商，粉白蓝与梦想大家好我是小圆环/2009.09.26/小证日期25.9.16/一年xyn兼紫砂干预志愿者/n55唐毓文冰棍爱爱酱推荐的糖商(下略)，清蒸协会荣誉获奖者/心理疏导需求的可以私我的说/tg:yuukihanashiya, qq3518541175加不上时:2398521880",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySky_Snow…",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySky_Snowfield",
+                "start": 0,
+                "url": "https://t.co/4oTEnQ18V1"
+              }
+            ]
+          }
+        },
+        "id": "2022556004089753600",
+        "location": "药娘之城",
+        "name": "鹿目圆环（糖商/全球直发）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022556799510147072/mplNMfTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 97,
+          "like_count": 92,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/4oTEnQ18V1",
+        "username": "jiechengmadoka",
+        "verified": false
+      }
+    ]
+  }
+}

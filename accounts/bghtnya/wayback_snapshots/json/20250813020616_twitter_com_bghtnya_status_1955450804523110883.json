@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955450794553282560",
+        "3_1955450795706683392"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1955446863676772800",
+    "created_at": "2025-08-13T02:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T03:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955450804523110883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tM0fer4qjP",
+          "end": 131,
+          "expanded_url": "https://x.com/bghtnya/status/1955450804523110883/photo/1",
+          "media_key": "3_1955450794553282560",
+          "start": 108,
+          "url": "https://t.co/tM0fer4qjP"
+        },
+        {
+          "display_url": "pic.x.com/tM0fer4qjP",
+          "end": 131,
+          "expanded_url": "https://x.com/bghtnya/status/1955450804523110883/photo/1",
+          "media_key": "3_1955450795706683392",
+          "start": 108,
+          "url": "https://t.co/tM0fer4qjP"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1955450804523110883",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955446874191827028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补后续：\n看到酷安上有人遇到同样问题，装了TrickyAddonModule模块解决了，但窝还是不行！QAQ\n\n想了下会不会是模块需要修改谷歌组件，于是排除列表开和不开都试过了\n都不能过！\n\n继续求助👀\n问各方大佬 https://t.co/tM0fer4qjP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955450794553282560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMoIyEakAA7oJC.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955450795706683392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMoI2XaEAAgCd8.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955446868089118720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMkkO2aIAA2U77.jpg",
+        "width": 921
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955450794553282560",
+            "3_1955450795706683392"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1955446863676772800",
+        "created_at": "2025-08-13T02:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T03:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955450804523110883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tM0fer4qjP",
+              "end": 131,
+              "expanded_url": "https://x.com/bghtnya/status/1955450804523110883/photo/1",
+              "media_key": "3_1955450794553282560",
+              "start": 108,
+              "url": "https://t.co/tM0fer4qjP"
+            },
+            {
+              "display_url": "pic.x.com/tM0fer4qjP",
+              "end": 131,
+              "expanded_url": "https://x.com/bghtnya/status/1955450804523110883/photo/1",
+              "media_key": "3_1955450795706683392",
+              "start": 108,
+              "url": "https://t.co/tM0fer4qjP"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1955450804523110883",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955446874191827028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补后续：\n看到酷安上有人遇到同样问题，装了TrickyAddonModule模块解决了，但窝还是不行！QAQ\n\n想了下会不会是模块需要修改谷歌组件，于是排除列表开和不开都试过了\n都不能过！\n\n继续求助👀\n问各方大佬 https://t.co/tM0fer4qjP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955446868089118720"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1955446863676772800",
+        "created_at": "2025-08-13T01:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T02:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955446874191827028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXcQeB0fys",
+              "end": 40,
+              "expanded_url": "https://x.com/bghtnya/status/1955446874191827028/photo/1",
+              "media_key": "3_1955446868089118720",
+              "start": 17,
+              "url": "https://t.co/lXcQeB0fys"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1955446874191827028",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955446863676772800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补图：play商店保护认证已通过 https://t.co/lXcQeB0fys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7243,
+          "following_count": 2056,
+          "like_count": 155844,
+          "listed_count": 17,
+          "media_count": 3020,
+          "tweet_count": 39183
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

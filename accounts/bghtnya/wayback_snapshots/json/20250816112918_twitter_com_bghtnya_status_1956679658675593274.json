@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1956333741929799800",
+    "created_at": "2025-08-16T11:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T12:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956679658675593274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1830546768779755520",
+          "start": 0,
+          "username": "c25vdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956679658675593274",
+    "in_reply_to_user_id": "1830546768779755520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956661842131980420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c25vdw 在哦 还贴到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1956333741929799800",
+        "created_at": "2025-08-16T11:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956679658675593274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1830546768779755520",
+              "start": 0,
+              "username": "c25vdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956679658675593274",
+        "in_reply_to_user_id": "1830546768779755520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956661842131980420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c25vdw 在哦 还贴到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830546768779755520",
+        "conversation_id": "1956333741929799800",
+        "created_at": "2025-08-16T10:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T11:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956661842131980420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956661842131980420",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956333741929799800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 雪球本體一直都在吧🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7271,
+          "following_count": 2059,
+          "like_count": 155970,
+          "listed_count": 17,
+          "media_count": 3037,
+          "tweet_count": 39259
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T10:02:57.000Z",
+        "description": "「只要一心正確地去生活，世界看起來也顯得正確」\n|提醒：備註 #雪同學的暴論時間 所有言論不負責\n|政治冷感\n|申必帳戶 @ListbySnow\n|頭像原作者 @zr6Ov\n|常玩遊戲：東方Project、Minecraft、TF2、maimai DX、CHUNITHM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 31,
+                "tag": "雪同學的暴論時間"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "ListbySnow"
+              },
+              {
+                "end": 86,
+                "start": 80,
+                "username": "zr6Ov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/RqWXagqXJZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/RqWXagqXJZ",
+                "start": 0,
+                "url": "https://t.co/vSIhKYiNd7"
+              }
+            ]
+          }
+        },
+        "id": "1830546768779755520",
+        "location": "六色宣伝室",
+        "name": "雪平さん🍥🍉",
+        "pinned_tweet_id": "1874430945677529456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947590601115111425/dnlvAyP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 134,
+          "like_count": 9680,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1713
+        },
+        "url": "https://t.co/vSIhKYiNd7",
+        "username": "c25vdw",
+        "verified": false
+      }
+    ]
+  }
+}

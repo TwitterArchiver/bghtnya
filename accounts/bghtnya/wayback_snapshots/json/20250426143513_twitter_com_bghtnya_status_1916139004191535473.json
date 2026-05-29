@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1916052525591236663",
+    "created_at": "2025-04-26T14:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T15:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916139004191535473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682445540695609345",
+          "start": 0,
+          "username": "zfuihg81263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916139004191535473",
+    "in_reply_to_user_id": "1682445540695609345",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916137005601460309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zfuihg81263 😺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1916052525591236663",
+        "created_at": "2025-04-26T14:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916139004191535473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682445540695609345",
+              "start": 0,
+              "username": "zfuihg81263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916139004191535473",
+        "in_reply_to_user_id": "1682445540695609345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916137005601460309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zfuihg81263 😺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682445540695609345",
+        "conversation_id": "1916052525591236663",
+        "created_at": "2025-04-26T14:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916137005601460309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916137005601460309",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916136859962577394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 喵呜居然是冰棍喵!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6182,
+          "following_count": 1919,
+          "like_count": 133344,
+          "listed_count": 13,
+          "media_count": 2443,
+          "tweet_count": 33938
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖 | 163cm45kg |HRT2024.10.2 |已炸柜|想和同类贴贴|性取向是同类和男娘|梦想是成为可爱的小女孩|TG:@cmyf_qwq|有事请联系我的TG|颜控|不要上来就私信要我联系方式请说明原因|不援交！|我们活着就是对恶意的最大反抗！|老公～@daiduodexs|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "cmyf_qwq"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "daiduodexs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cmyf_qwq",
+                "end": 23,
+                "expanded_url": "http://t.me/cmyf_qwq",
+                "start": 0,
+                "url": "https://t.co/Xg5Th62LhY"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "location": "小药娘和小男娘怀里",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903313856602181945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 393,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/Xg5Th62LhY",
+        "username": "zfuihg81263",
+        "verified": false
+      }
+    ]
+  }
+}

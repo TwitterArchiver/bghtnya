@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2003622262692577787",
+    "created_at": "2025-12-24T01:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T02:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003644706878845101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        },
+        {
+          "end": 23,
+          "id": "1996347854613602304",
+          "start": 8,
+          "username": "yuukihanashiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003644706878845101",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003642106129317919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ @yuukihanashiya 350喵"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [yuukihanashiya].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "yuukihanashiya",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "yuukihanashiya"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2003622262692577787",
+        "created_at": "2025-12-24T01:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003644706878845101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            },
+            {
+              "end": 23,
+              "id": "1996347854613602304",
+              "start": 8,
+              "username": "yuukihanashiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003644706878845101",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003642106129317919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ @yuukihanashiya 350喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "2003622262692577787",
+        "created_at": "2025-12-24T01:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003642106129317919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 24,
+              "id": "1996347854613602304",
+              "start": 9,
+              "username": "yuukihanashiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003642106129317919",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003622262692577787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @yuukihanashiya 日雌多少钱呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8372,
+          "following_count": 2086,
+          "like_count": 173170,
+          "listed_count": 19,
+          "media_count": 3646,
+          "tweet_count": 44527
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|有爱人|生命久如暗室，不妨碍我明写春诗",
+        "id": "1560129932524544000",
+        "location": "爱人的小笼子",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3299,
+          "following_count": 830,
+          "like_count": 179274,
+          "listed_count": 2,
+          "media_count": 562,
+          "tweet_count": 8737
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

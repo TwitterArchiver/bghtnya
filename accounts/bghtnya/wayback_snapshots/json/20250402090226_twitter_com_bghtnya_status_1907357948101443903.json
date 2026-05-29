@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1906972782522691660",
+    "created_at": "2025-04-02T09:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T10:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907357948101443903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907357948101443903",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906972782522691660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 文明观🐒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22662,
+        "height": 1280,
+        "media_key": "7_1906971580921774080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906971580921774080/pu/img/RruSDnR0G08QBJ5-.jpg",
+        "public_metrics": {
+          "view_count": 259243
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906971580921774080/pu/vid/avc1/320x568/04qnuvxrCVnxDz42.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906971580921774080/pu/vid/avc1/480x852/gOAv7s1GyHKMZWwn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906971580921774080/pu/vid/avc1/720x1280/2iPY_lyPDCHI0Kfy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906971580921774080/pu/pl/RsS_UTh9BE49GBvm.m3u8?tag=12&v=16b"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 24706,
+        "height": 1280,
+        "media_key": "7_1906971588395958272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906971588395958272/pu/img/VeC5paM9tmVo1ULw.jpg",
+        "public_metrics": {
+          "view_count": 39161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906971588395958272/pu/vid/avc1/320x568/eV5piKGLdzy6RPG1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906971588395958272/pu/vid/avc1/480x852/kUXmpyQ72v4tTwlK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906971588395958272/pu/vid/avc1/720x1280/4hydKkP69U4jBqia.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906971588395958272/pu/pl/1kpedQBqyWyMRPg7.m3u8?tag=12&v=ad7"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1906972782522691660",
+        "created_at": "2025-04-02T09:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907357948101443903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907357948101443903",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906972782522691660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 文明观🐒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906971580921774080",
+            "7_1906971588395958272"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906972782522691660",
+        "created_at": "2025-04-01T07:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T08:31:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906972589584478659",
+          "1906972782522691660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62RNJzP9fF",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906972782522691660/video/1",
+              "media_key": "7_1906971580921774080",
+              "start": 94,
+              "url": "https://t.co/62RNJzP9fF"
+            },
+            {
+              "display_url": "pic.x.com/62RNJzP9fF",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1906972782522691660/video/1",
+              "media_key": "7_1906971588395958272",
+              "start": 94,
+              "url": "https://t.co/62RNJzP9fF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906972782522691660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 544278,
+          "like_count": 1829,
+          "quote_count": 64,
+          "reply_count": 1118,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "3月30日，山东。一名男子身穿迷彩服肩扛红旗，在大街上表示：“愿台湾早日回归祖国大陆，当台湾回归时，说明中国人民强大” “我最大的心愿和梦想就是台湾回归祖国大陆”说到这里，男子哭了起来。 https://t.co/62RNJzP9fF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 1839,
+          "like_count": 126155,
+          "listed_count": 14,
+          "media_count": 2279,
+          "tweet_count": 32022
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964969,
+          "following_count": 946,
+          "like_count": 6141,
+          "listed_count": 8082,
+          "media_count": 25789,
+          "tweet_count": 32203
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1985326185690112050",
+    "created_at": "2025-11-03T20:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T21:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985445352112340995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985445352112340995",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985326185690112050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 这个窝记得b站一个up主也做过类似的视频讲解"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985325276050448384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41K0eKXYAA9I0I.jpg",
+        "width": 1035
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985325845951442944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41LVpNWcAAoXzW.jpg",
+        "width": 965
+      },
+      {
+        "height": 1137,
+        "media_key": "3_1985325867384406016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41LW5DXgAA4XcY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1985326185690112050",
+        "created_at": "2025-11-03T20:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T21:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985445352112340995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985445352112340995",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985326185690112050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 这个窝记得b站一个up主也做过类似的视频讲解"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985325276050448384",
+            "3_1985325845951442944",
+            "3_1985325867384406016"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1985326185690112050",
+        "created_at": "2025-11-03T12:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985326185690112050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPo4fBPu1G",
+              "end": 173,
+              "expanded_url": "https://x.com/SalviaSWC/status/1985326185690112050/photo/1",
+              "media_key": "3_1985325276050448384",
+              "start": 150,
+              "url": "https://t.co/EPo4fBPu1G"
+            },
+            {
+              "display_url": "pic.x.com/EPo4fBPu1G",
+              "end": 173,
+              "expanded_url": "https://x.com/SalviaSWC/status/1985326185690112050/photo/1",
+              "media_key": "3_1985325845951442944",
+              "start": 150,
+              "url": "https://t.co/EPo4fBPu1G"
+            },
+            {
+              "display_url": "pic.x.com/EPo4fBPu1G",
+              "end": 173,
+              "expanded_url": "https://x.com/SalviaSWC/status/1985326185690112050/photo/1",
+              "media_key": "3_1985325867384406016",
+              "start": 150,
+              "url": "https://t.co/EPo4fBPu1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985326185690112050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 2685,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "OD右美的万恶之源——1995年在互联网上发表的文档《右美沙芬的常见问题解答》😈\n大家常见的许多理论都源于这个30年前的文档，包括六大高原论、永久耐药论、酶抑制剂增效论等🤓☝\n但是，原文的愈美分提取术和充分享用右美术在传入中国时被有意无意地删减掉了，我已经在Github上传了全文翻译，供大家查阅🥰 https://t.co/EPo4fBPu1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1983125347576230255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606741670346754/ZL5Mm9Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8033,
+          "following_count": 2104,
+          "like_count": 165536,
+          "listed_count": 20,
+          "media_count": 3363,
+          "tweet_count": 41914
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 649,
+          "like_count": 10137,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 3174
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

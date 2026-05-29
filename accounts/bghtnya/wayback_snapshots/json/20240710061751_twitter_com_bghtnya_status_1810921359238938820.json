@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1810707131597005158",
+    "created_at": "2024-07-10T06:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T07:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810921359238938820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1728614089142996992",
+          "start": 0,
+          "username": "SeiransTH"
+        },
+        {
+          "end": 23,
+          "id": "1705414209432064000",
+          "start": 11,
+          "username": "hung1623120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810921359238938820",
+    "in_reply_to_user_id": "1728614089142996992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810877200419500466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeiransTH @hung1623120 专业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1810707131597005158",
+        "created_at": "2024-07-10T06:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T07:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810921359238938820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1728614089142996992",
+              "start": 0,
+              "username": "SeiransTH"
+            },
+            {
+              "end": 23,
+              "id": "1705414209432064000",
+              "start": 11,
+              "username": "hung1623120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810921359238938820",
+        "in_reply_to_user_id": "1728614089142996992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810877200419500466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeiransTH @hung1623120 专业"
+      },
+      {
+        "attachments": {},
+        "author_id": "1728614089142996992",
+        "conversation_id": "1810707131597005158",
+        "created_at": "2024-07-10T03:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T04:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810877200419500466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705414209432064000",
+              "start": 0,
+              "username": "hung1623120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810877200419500466",
+        "in_reply_to_user_id": "1705414209432064000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810707131597005158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hung1623120 因为时间计算函数time（0）为1970.1.1 12:00，这就是未加载时间函数导致的\n美国在1969年8月发明互联网，需要统计时间而弄了个time函数，这个time函数就是1970年初，所以就设定在1970.1.1，因为统计上限问题（2032危机），32位系统被要求要在未来彻底淘汰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 1412,
+          "like_count": 77064,
+          "listed_count": 7,
+          "tweet_count": 16318
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T03:18:26.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。",
+        "id": "1728614089142996992",
+        "name": "清兰",
+        "pinned_tweet_id": "1798741479437025529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802974322275053568/i3UuGEK8_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 19,
+          "like_count": 255,
+          "listed_count": 0,
+          "tweet_count": 228
+        },
+        "username": "SeiransTH",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T02:50:29.000Z",
+        "description": "本人王洪文，1935年出生在长春，早年参加过朝鲜战争，1951年入党，战争结束后在国棉十七厂保卫科担任科事部，1966年成立工总司并担任总司令，1973年在中共十大当选为副主席，在随后的几年里成功当选为主席",
+        "id": "1705414209432064000",
+        "location": "中南海",
+        "name": "王洪文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214483579916288/AOfFqC95_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3865,
+          "following_count": 337,
+          "like_count": 3738,
+          "listed_count": 32,
+          "tweet_count": 5356
+        },
+        "username": "hung1623120",
+        "verified": false
+      }
+    ]
+  }
+}

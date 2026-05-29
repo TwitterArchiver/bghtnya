@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1823939319419347021",
+    "created_at": "2024-08-15T05:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T06:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823956994568675496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1577274400700669953",
+          "start": 0,
+          "username": "GNU_Box_Master1"
+        },
+        {
+          "end": 27,
+          "id": "1589203507852152832",
+          "start": 17,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823956994568675496",
+    "in_reply_to_user_id": "1577274400700669953",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823942037147934991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GNU_Box_Master1 @JianLv117 和头像框配合的不是很好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1823942037147934991].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1823942037147934991",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1823942037147934991"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1823939319419347021",
+        "created_at": "2024-08-15T05:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T06:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823956994568675496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1577274400700669953",
+              "start": 0,
+              "username": "GNU_Box_Master1"
+            },
+            {
+              "end": 27,
+              "id": "1589203507852152832",
+              "start": 17,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823956994568675496",
+        "in_reply_to_user_id": "1577274400700669953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823942037147934991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GNU_Box_Master1 @JianLv117 和头像框配合的不是很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 1467,
+          "like_count": 87844,
+          "listed_count": 11,
+          "tweet_count": 18999
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T12:28:40.000Z",
+        "description": "🏳️‍🌈🇵🇸🇺🇦/gnu.box@skiff.com",
+        "id": "1577274400700669953",
+        "location": "/",
+        "name": "矮哈基米站在稻子上",
+        "pinned_tweet_id": "1690068478924136448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804132277372489733/H4TXVqtu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1071,
+          "like_count": 53687,
+          "listed_count": 2,
+          "tweet_count": 965
+        },
+        "username": "GNU_Box_Master1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分鼻祖 性格：intg\n喜欢二次元 热爱于与大家讨论史政，菊撅对线与汴京🙅‍♀️ 华北人 🇺🇸🇩🇪🇫🇷🇦🇺🇬🇧🇮🇹🇪🇸🇯🇵\n兼娱乐与见证推\n支持互关fo(需要私信)\n@lyngxu3 逃生舱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "lyngxu3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰",
+        "name": "简律",
+        "pinned_tweet_id": "1810327259917783089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811787803287822336/fPzOPdPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2927,
+          "following_count": 682,
+          "like_count": 15393,
+          "listed_count": 12,
+          "tweet_count": 2538
+        },
+        "username": "JianLv117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2003011052368482576",
+    "created_at": "2025-12-23T03:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T04:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003312135254999494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684241711080574976",
+          "start": 0,
+          "username": "KY_SNWAZ"
+        },
+        {
+          "end": 22,
+          "id": "1780369819310981120",
+          "start": 10,
+          "username": "520illusion"
+        },
+        {
+          "end": 30,
+          "id": "1817584080437014528",
+          "start": 23,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003312135254999494",
+    "in_reply_to_user_id": "1684241711080574976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003031056208081361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KY_SNWAZ @520illusion @N552AA 初升喵"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N552AA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N552AA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N552AA"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2003031054123442178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8wyIZcaoAIjUJ0.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2003011052368482576",
+        "created_at": "2025-12-23T03:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T04:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003312135254999494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684241711080574976",
+              "start": 0,
+              "username": "KY_SNWAZ"
+            },
+            {
+              "end": 22,
+              "id": "1780369819310981120",
+              "start": 10,
+              "username": "520illusion"
+            },
+            {
+              "end": 30,
+              "id": "1817584080437014528",
+              "start": 23,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003312135254999494",
+        "in_reply_to_user_id": "1684241711080574976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003031056208081361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KY_SNWAZ @520illusion @N552AA 初升喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003031054123442178"
+          ]
+        },
+        "author_id": "1684241711080574976",
+        "conversation_id": "2003011052368482576",
+        "created_at": "2025-12-22T09:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T10:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003031056208081361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            },
+            {
+              "end": 20,
+              "id": "1817584080437014528",
+              "start": 13,
+              "username": "N552AA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtDqiyvKfZ",
+              "end": 44,
+              "expanded_url": "https://x.com/KY_SNWAZ/status/2003031056208081361/photo/1",
+              "media_key": "3_2003031054123442178",
+              "start": 21,
+              "url": "https://t.co/xtDqiyvKfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003031056208081361",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003011052368482576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion @N552AA https://t.co/xtDqiyvKfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8346,
+          "following_count": 2086,
+          "like_count": 173083,
+          "listed_count": 19,
+          "media_count": 3639,
+          "tweet_count": 44453
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T16:38:20.000Z",
+        "description": "十六岁/青春期阻断剂使用中/非二元/不玩原神/最爱的宝宝@raincandy_VVV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "raincandy_VVV"
+              }
+            ]
+          }
+        },
+        "id": "1684241711080574976",
+        "location": "Palma, Spain",
+        "name": "KY丶SNWAZ",
+        "pinned_tweet_id": "1723753179148423506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780256438344089600/3ceStlfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 59,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 2915
+        },
+        "username": "KY_SNWAZ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "循此苦旅 终抵繁星",
+        "id": "1780369819310981120",
+        "name": "ill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999441282867847171/xfMVe-73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 160,
+          "like_count": 4049,
+          "listed_count": 5,
+          "media_count": 279,
+          "tweet_count": 2604
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

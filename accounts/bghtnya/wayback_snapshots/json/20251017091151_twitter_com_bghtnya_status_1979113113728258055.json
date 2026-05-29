@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1979034634362196006",
+    "created_at": "2025-10-17T09:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979113113728258055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979113113728258055",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979034634362196006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 日本泡沫经济破碎 本科生再就职"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46741,
+        "height": 1280,
+        "media_key": "13_1978935573369765888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1978935573369765888/img/jzjaOBwvUnVA6pI5.jpg",
+        "public_metrics": {
+          "view_count": 61896
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978935573369765888/vid/avc1/320x568/n43HCtp3yg--iogv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978935573369765888/vid/avc1/480x852/GryYdrmYqqeyNkX7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978935573369765888/vid/avc1/720x1280/rV91TbqGkptZ5XX1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1978935573369765888/pl/gH2K0D5C32bsIVti.m3u8?v=120"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1979034634362196006",
+        "created_at": "2025-10-17T09:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979113113728258055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979113113728258055",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979034634362196006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 日本泡沫经济破碎 本科生再就职"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1978935573369765888"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979034634362196006",
+        "created_at": "2025-10-17T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979034634362196006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdxAr9vr6Q",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1979034634362196006/video/1",
+              "media_key": "13_1978935573369765888",
+              "start": 127,
+              "url": "https://t.co/cdxAr9vr6Q"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1972851392336503002",
+              "start": 151,
+              "url": "https://t.co/Hhm8GDJ7L0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979034634362196006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 201085,
+          "like_count": 686,
+          "quote_count": 12,
+          "reply_count": 204,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972851392336503002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近日，失业率居高不下之下，媒体纷纷开始鼓吹“本科生回炉上技校”，不少专科学校也趁势推出“本科生技能提升班”。\n媒体称：其实，这并不是学历“倒退”，而是教育回归务实的体现。企业现在缺的，不是只会啃书本的毕业生，而是能上手操作、懂理论又会实操的技术型人才。 https://t.co/cdxAr9vr6Q https://t.co/Hhm8GDJ7L0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7954,
+          "following_count": 2085,
+          "like_count": 163977,
+          "listed_count": 20,
+          "media_count": 3287,
+          "tweet_count": 41281
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123628,
+          "following_count": 983,
+          "like_count": 8264,
+          "listed_count": 8369,
+          "media_count": 36221,
+          "tweet_count": 43050
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

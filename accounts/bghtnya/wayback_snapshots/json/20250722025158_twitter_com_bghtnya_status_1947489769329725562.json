@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1947466824884621764",
+    "created_at": "2025-07-22T02:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T03:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947489769329725562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "kawaii_akiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947489769329725562",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947466824884621764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii_akiiko 你好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1947466824884621764].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947466824884621764",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1947466824884621764"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1947466824884621764",
+        "created_at": "2025-07-22T02:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T03:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947489769329725562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "kawaii_akiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947489769329725562",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947466824884621764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_akiiko 你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7209,
+          "following_count": 2030,
+          "like_count": 153412,
+          "listed_count": 17,
+          "media_count": 2943,
+          "tweet_count": 38454
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "♥️@qiuylove 😋@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "qiuylove"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "saonanaa"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "秋以降akiiko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913860496383684608/6rdN60Rd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 1046,
+          "like_count": 148413,
+          "listed_count": 4,
+          "media_count": 1143,
+          "tweet_count": 6767
+        },
+        "username": "kawaii_akiiko",
+        "verified": false
+      }
+    ]
+  }
+}

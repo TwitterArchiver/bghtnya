@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1906965938127143087",
+    "created_at": "2025-04-02T12:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T13:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907402849643876589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1842587173494927360",
+          "start": 0,
+          "username": "sgxiaoshen3121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907402849643876589",
+    "in_reply_to_user_id": "1842587173494927360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907385692478701593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sgxiaoshen3121 好好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1906965938127143087",
+        "created_at": "2025-04-02T12:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T13:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907402849643876589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1842587173494927360",
+              "start": 0,
+              "username": "sgxiaoshen3121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907402849643876589",
+        "in_reply_to_user_id": "1842587173494927360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907385692478701593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sgxiaoshen3121 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842587173494927360",
+        "conversation_id": "1906965938127143087",
+        "created_at": "2025-04-02T10:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907385692478701593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907385692478701593",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907366097579565090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya md那一次我吐的成什么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5810,
+          "following_count": 1842,
+          "like_count": 126698,
+          "listed_count": 14,
+          "media_count": 2289,
+          "tweet_count": 32142
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T15:26:46.000Z",
+        "description": "iP上海滴09年mtf，家长党。ENFP。丑郭楠哥布林一只。hrt2025.3.9，计划中考完吃糖。姐姐@stellachan0w0，@SakanaInhere。爱人@dargonfeather1期待手术，欢迎同类找小岚玩捏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "SakanaInhere"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "dargonfeather1"
+              }
+            ]
+          }
+        },
+        "id": "1842587173494927360",
+        "name": "小岚爱鱼板🍥",
+        "pinned_tweet_id": "1902963006876815375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880313754371641344/Lc9MLg0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 45,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 320
+        },
+        "username": "sgxiaoshen3121",
+        "verified": false
+      }
+    ]
+  }
+}

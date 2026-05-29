@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864675577506254848"
+      ],
+      "media_source_tweet_id": [
+        "1864676033427046789"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "1864676972305240398",
+    "created_at": "2024-12-05T14:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T15:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864676972305240398"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 16,
+          "tag": "ずんだもん誕生祭2024"
+        },
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "ずんだもん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1666934189076381696",
+          "start": 3,
+          "username": "sora020304"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dcs4KBffzm",
+          "end": 73,
+          "expanded_url": "https://x.com/sora020304/status/1864676033427046789/photo/1",
+          "media_key": "3_1864675577506254848",
+          "start": 50,
+          "url": "https://t.co/Dcs4KBffzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864676972305240398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864676033427046789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sora020304: #ずんだもん誕生祭2024 \n#ずんだもん　\n冬はやはり温泉なのだ https://t.co/Dcs4KBffzm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3275,
+        "media_key": "3_1864675577506254848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeCojuqbUAAHY3_.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864675577506254848"
+          ],
+          "media_source_tweet_id": [
+            "1864676033427046789"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "1864676972305240398",
+        "created_at": "2024-12-05T14:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864676972305240398"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "ずんだもん誕生祭2024"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "ずんだもん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1666934189076381696",
+              "start": 3,
+              "username": "sora020304"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dcs4KBffzm",
+              "end": 73,
+              "expanded_url": "https://x.com/sora020304/status/1864676033427046789/photo/1",
+              "media_key": "3_1864675577506254848",
+              "start": 50,
+              "url": "https://t.co/Dcs4KBffzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864676972305240398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864676033427046789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sora020304: #ずんだもん誕生祭2024 \n#ずんだもん　\n冬はやはり温泉なのだ https://t.co/Dcs4KBffzm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864675577506254848"
+          ]
+        },
+        "author_id": "1666934189076381696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "1864676033427046789",
+        "created_at": "2024-12-05T14:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864676033427046789"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "ずんだもん誕生祭2024"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "ずんだもん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dcs4KBffzm",
+              "end": 57,
+              "expanded_url": "https://x.com/sora020304/status/1864676033427046789/photo/1",
+              "media_key": "3_1864675577506254848",
+              "start": 34,
+              "url": "https://t.co/Dcs4KBffzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864676033427046789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#ずんだもん誕生祭2024 \n#ずんだもん　\n冬はやはり温泉なのだ https://t.co/Dcs4KBffzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 1616,
+          "like_count": 108558,
+          "listed_count": 9,
+          "media_count": 1749,
+          "tweet_count": 26090
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T22:24:24.000Z",
+        "description": "かわいい女の子が好き・中国語/日本語OK・\n\nPIXIV：https://t.co/3ZjJW6fweg\nbilibili：https://t.co/7yL6zp5Pxq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19761365",
+                "end": 52,
+                "expanded_url": "http://pixiv.net/users/19761365",
+                "start": 29,
+                "url": "https://t.co/3ZjJW6fweg"
+              },
+              {
+                "display_url": "space.bilibili.com/32113229",
+                "end": 85,
+                "expanded_url": "https://space.bilibili.com/32113229",
+                "start": 62,
+                "url": "https://t.co/7yL6zp5Pxq"
+              }
+            ]
+          }
+        },
+        "id": "1666934189076381696",
+        "location": "リプしてくれると嬉しい～🥳✨",
+        "name": "绊空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770323959030181888/qHS4COHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 2025,
+          "like_count": 3094,
+          "listed_count": 30,
+          "media_count": 91,
+          "tweet_count": 569
+        },
+        "username": "sora020304",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2024901801422790706",
+    "created_at": "2026-02-21T14:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025219059156218363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025219059156218363",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024901801422790706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 你的ai图用的哪家生成的 ChatGPT嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024901795068477442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnldEgbgAIEXh6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2024901801422790706",
+        "created_at": "2026-02-21T14:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025219059156218363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025219059156218363",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024901801422790706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 你的ai图用的哪家生成的 ChatGPT嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024901795068477442"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "conversation_id": "2024901801422790706",
+        "created_at": "2026-02-20T17:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024901801422790706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ospitpGAQM",
+              "end": 48,
+              "expanded_url": "https://x.com/Konekoutena/status/2024901801422790706/photo/1",
+              "media_key": "3_2024901795068477442",
+              "start": 25,
+              "url": "https://t.co/ospitpGAQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024901801422790706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 744,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么提到唐毓文，每个人都会忍不住想蹂躏一下呢？ https://t.co/ospitpGAQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8988,
+          "following_count": 2079,
+          "like_count": 173653,
+          "listed_count": 17,
+          "media_count": 3762,
+          "tweet_count": 45953
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "自由作家，喜欢AI绘图的乐子人，关注我的YouTube频道，分享读书心得，一起闲聊，一起成长：https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 70,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 47,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021092251036942337/Y-kSi9A8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11584,
+          "following_count": 4175,
+          "like_count": 10704,
+          "listed_count": 49,
+          "media_count": 5956,
+          "tweet_count": 21358
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

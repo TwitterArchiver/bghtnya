@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1860909536770740613",
+    "created_at": "2024-11-25T22:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T23:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861181403628741011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495378934610857985",
+          "start": 0,
+          "username": "Fiammetta1453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861181403628741011",
+    "in_reply_to_user_id": "1495378934610857985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860909536770740613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiammetta1453 墙内有 也承认 只是不叫8964  叫1989春夏之交政治风波 百度搜一下就有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1860909536770740613",
+        "created_at": "2024-11-25T22:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T23:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861181403628741011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495378934610857985",
+              "start": 0,
+              "username": "Fiammetta1453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861181403628741011",
+        "in_reply_to_user_id": "1495378934610857985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860909536770740613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiammetta1453 墙内有 也承认 只是不叫8964  叫1989春夏之交政治风波 百度搜一下就有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860909531599155200"
+          ]
+        },
+        "author_id": "1495378934610857985",
+        "conversation_id": "1860909536770740613",
+        "created_at": "2024-11-25T04:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T05:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860909536770740613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/axk9aRudVm",
+              "end": 45,
+              "expanded_url": "https://x.com/Fiammetta1453/status/1860909536770740613/photo/1",
+              "media_key": "3_1860909531599155200",
+              "start": 22,
+              "url": "https://t.co/axk9aRudVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860909536770740613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 487590,
+          "like_count": 1670,
+          "quote_count": 5,
+          "reply_count": 156,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "一位日子人舍友今天突然问我什么是8964🙀 https://t.co/axk9aRudVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3510,
+          "following_count": 1594,
+          "like_count": 106590,
+          "listed_count": 9,
+          "tweet_count": 25392
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T12:45:05.000Z",
+        "description": "funk-Jazz lofi 轻音乐 流行歌曲爱好者/ATLUS的狗/列宁主义康米/爱人 @duxin12th/电波 @Ave_Mujika/小猫@hibikineko777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "duxin12th"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Ave_Mujika"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "hibikineko777"
+              }
+            ]
+          }
+        },
+        "id": "1495378934610857985",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "逃过纽伦堡审判の施佩尔",
+        "pinned_tweet_id": "1847493399479537896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859988966377971712/H0Tb0l9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5315,
+          "following_count": 1620,
+          "like_count": 68145,
+          "listed_count": 27,
+          "tweet_count": 20824
+        },
+        "username": "Fiammetta1453",
+        "verified": false
+      }
+    ]
+  }
+}

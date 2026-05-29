@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1931935332011753625",
+    "created_at": "2025-06-10T04:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932292363080077330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2772757234",
+          "start": 0,
+          "username": "rainbow78521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932292363080077330",
+    "in_reply_to_user_id": "2772757234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931935332011753625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainbow78521 共和党都是傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13831,
+        "height": 640,
+        "media_key": "13_1931917667260104704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931917667260104704/img/QuiduHDsGTt-Bn5Q.jpg",
+        "public_metrics": {
+          "view_count": 33888
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931917667260104704/vid/avc1/320x568/6QBlucLG4Dn72eAq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931917667260104704/vid/avc1/360x640/RZvzh55tEBsjD1TN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931917667260104704/pl/5nwTGZMJrn7lrFDc.m3u8?v=e91"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1931935332011753625",
+        "created_at": "2025-06-10T04:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932292363080077330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2772757234",
+              "start": 0,
+              "username": "rainbow78521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932292363080077330",
+        "in_reply_to_user_id": "2772757234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931935332011753625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainbow78521 共和党都是傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931917667260104704"
+          ],
+          "media_source_tweet_id": [
+            "1931917732498300988"
+          ]
+        },
+        "author_id": "2772757234",
+        "conversation_id": "1931935332011753625",
+        "created_at": "2025-06-09T04:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931935332011753625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6ViMMMTDZ",
+              "end": 72,
+              "expanded_url": "https://x.com/CausMoney/status/1931917732498300988/video/1",
+              "media_key": "13_1931917667260104704",
+              "start": 49,
+              "url": "https://t.co/Q6ViMMMTDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931935332011753625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 85868,
+          "like_count": 408,
+          "quote_count": 12,
+          "reply_count": 84,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "洛杉矶抗议现场，国民警卫队有人故意近距离用橡胶子弹击中9News澳大利亚记者劳伦·托马西的腿部。\nhttps://t.co/Q6ViMMMTDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6366,
+          "following_count": 1972,
+          "like_count": 143625,
+          "listed_count": 14,
+          "media_count": 2662,
+          "tweet_count": 35939
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-16T21:40:26.000Z",
+        "description": "Hope is a life, and life is a hope",
+        "id": "2772757234",
+        "name": "rainbow7852",
+        "pinned_tweet_id": "1787793638304420127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085067996387835904/cig0kMNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23840,
+          "following_count": 2073,
+          "like_count": 67801,
+          "listed_count": 157,
+          "media_count": 12028,
+          "tweet_count": 47062
+        },
+        "username": "rainbow78521",
+        "verified": true
+      }
+    ]
+  }
+}

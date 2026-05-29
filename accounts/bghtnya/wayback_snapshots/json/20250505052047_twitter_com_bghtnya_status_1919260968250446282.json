@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1919258824248033395",
+    "created_at": "2025-05-05T05:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T06:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919260968250446282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1020355860315324416",
+          "start": 0,
+          "username": "shami_928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919260968250446282",
+    "in_reply_to_user_id": "1020355860315324416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919259141589160415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shami_928 主线剧情我还没有看完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1919258824248033395",
+        "created_at": "2025-05-05T05:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T06:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919260968250446282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1020355860315324416",
+              "start": 0,
+              "username": "shami_928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919260968250446282",
+        "in_reply_to_user_id": "1020355860315324416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919259141589160415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shami_928 主线剧情我还没有看完"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1020355860315324416",
+        "conversation_id": "1919258824248033395",
+        "created_at": "2025-05-05T05:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T06:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919259141589160415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919259141589160415",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919258947740967152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 友達のアカウントです"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 1932,
+          "like_count": 135179,
+          "listed_count": 13,
+          "media_count": 2483,
+          "tweet_count": 34317
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-20T17:12:49.000Z",
+        "description": "06 多趣味 サブ垢@shami_928Sub リア友 @9909zaazzzaz @GzkmbXe @rx_8Rem1201\n @Hirocha_E657 @Yuhno196974\nさぼてんさん @saisabo10",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "shami_928Sub"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "9909zaazzzaz"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "username": "GzkmbXe"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "rx_8Rem1201"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "Hirocha_E657"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "Yuhno196974"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "saisabo10"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/543595639",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/543595639",
+                "start": 0,
+                "url": "https://t.co/Yu7xpyR37L"
+              }
+            ]
+          }
+        },
+        "id": "1020355860315324416",
+        "location": "東京 北区",
+        "name": "なか@フォロバ制限",
+        "pinned_tweet_id": "1915442525034455335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882434127082971136/5okpbh7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5155,
+          "following_count": 7501,
+          "like_count": 571576,
+          "listed_count": 38,
+          "media_count": 24031,
+          "tweet_count": 66358
+        },
+        "url": "https://t.co/Yu7xpyR37L",
+        "username": "shami_928",
+        "verified": false
+      }
+    ]
+  }
+}

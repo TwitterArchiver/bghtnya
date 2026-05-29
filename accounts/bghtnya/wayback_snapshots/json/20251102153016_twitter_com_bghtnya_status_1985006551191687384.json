@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1984655898074366414",
+    "created_at": "2025-11-02T15:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T16:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985006551191687384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460443622533320712",
+          "start": 0,
+          "username": "_lidonhtingone_"
+        },
+        {
+          "end": 28,
+          "id": "1948280350108680193",
+          "start": 17,
+          "username": "luoxue3943"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985006551191687384",
+    "in_reply_to_user_id": "1460443622533320712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984997417624973706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_lidonhtingone_ @luoxue3943 语音输入干的别怪我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1984997417624973706].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1984997417624973706",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1984997417624973706"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1984655898074366414",
+        "created_at": "2025-11-02T15:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985006551191687384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460443622533320712",
+              "start": 0,
+              "username": "_lidonhtingone_"
+            },
+            {
+              "end": 28,
+              "id": "1948280350108680193",
+              "start": 17,
+              "username": "luoxue3943"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985006551191687384",
+        "in_reply_to_user_id": "1460443622533320712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984997417624973706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_lidonhtingone_ @luoxue3943 语音输入干的别怪我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1983125347576230255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606741670346754/ZL5Mm9Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8027,
+          "following_count": 2102,
+          "like_count": 165526,
+          "listed_count": 20,
+          "media_count": 3359,
+          "tweet_count": 41882
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T03:04:46.000Z",
+        "description": "114514",
+        "id": "1460443622533320712",
+        "location": "太原",
+        "name": "ldt🇨🇳",
+        "pinned_tweet_id": "1957480912356303245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678620505807507456/Re3gt1sv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 503,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 1128,
+          "tweet_count": 17397
+        },
+        "username": "_lidonhtingone_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T07:13:39.000Z",
+        "description": "07年天才少女丨INFP丨 半个家长党丨日常状态随机刷新丨因为淡推所以纯随缘回fo，当然也可以私信/tg丨日常出没在湖南长沙｜tg：https://t.co/7t1w3pp2gd 最爱的老婆是@Moyang0709 ^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Moyang0709"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/luoxue3943",
+                "end": 89,
+                "expanded_url": "http://t.me/luoxue3943",
+                "start": 66,
+                "url": "https://t.co/7t1w3pp2gd"
+              }
+            ]
+          }
+        },
+        "id": "1948280350108680193",
+        "location": "Hong Kong",
+        "name": "珞雪 😉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984517921352437760/WGDXQ1y2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 44,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 451
+        },
+        "username": "luoxue3943",
+        "verified": false
+      }
+    ]
+  }
+}

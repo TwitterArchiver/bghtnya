@@ -1,0 +1,559 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797229601531559937"
+      ],
+      "media_source_tweet_id": [
+        "1797231659512946928"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1797254225963131104",
+    "created_at": "2024-06-02T13:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T14:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797254225963131104"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1389722569041879041",
+          "start": 3,
+          "username": "Ryoku_sui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/mhcX7xmm8T",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Ryoku_sui/status/1797231659512946928/photo/1",
+          "media_key": "3_1797229601531559937",
+          "start": 27,
+          "url": "https://t.co/mhcX7xmm8T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797254225963131104",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797231659512946928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ryoku_sui: かわいい✨　#ブルアカ https://t.co/mhcX7xmm8T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_1797229601531559937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPEKzOsbAAEqKJs.jpg",
+        "width": 1568
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797229601531559937"
+          ],
+          "media_source_tweet_id": [
+            "1797231659512946928"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1797254225963131104",
+        "created_at": "2024-06-02T13:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T14:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797254225963131104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1389722569041879041",
+              "start": 3,
+              "username": "Ryoku_sui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mhcX7xmm8T",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Ryoku_sui/status/1797231659512946928/photo/1",
+              "media_key": "3_1797229601531559937",
+              "start": 27,
+              "url": "https://t.co/mhcX7xmm8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797254225963131104",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797231659512946928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ryoku_sui: かわいい✨　#ブルアカ https://t.co/mhcX7xmm8T"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797229601531559937"
+          ]
+        },
+        "author_id": "1389722569041879041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1797231659512946928",
+        "created_at": "2024-06-02T11:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T12:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797231659512946928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mhcX7xmm8T",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Ryoku_sui/status/1797231659512946928/photo/1",
+              "media_key": "3_1797229601531559937",
+              "start": 12,
+              "url": "https://t.co/mhcX7xmm8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797231659512946928",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 743,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい✨　#ブルアカ https://t.co/mhcX7xmm8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 1353,
+          "like_count": 69195,
+          "listed_count": 7,
+          "tweet_count": 14400
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T23:31:09.000Z",
+        "description": "お絵描き|創作とﾌｧﾝｱｰﾄ|pixiv https://t.co/sNUTj3OjPK |skeb https://t.co/8NnKNLROHs |リンク集 https://t.co/uPS0ViFVj9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/37985303",
+                "end": 44,
+                "expanded_url": "http://pixiv.net/users/37985303",
+                "start": 21,
+                "url": "https://t.co/sNUTj3OjPK"
+              },
+              {
+                "display_url": "skeb.jp/@Ryoku_sui",
+                "end": 74,
+                "expanded_url": "https://skeb.jp/@Ryoku_sui",
+                "start": 51,
+                "url": "https://t.co/8NnKNLROHs"
+              },
+              {
+                "display_url": "lit.link/ryokusuiii",
+                "end": 104,
+                "expanded_url": "https://lit.link/ryokusuiii",
+                "start": 81,
+                "url": "https://t.co/uPS0ViFVj9"
+              }
+            ]
+          }
+        },
+        "id": "1389722569041879041",
+        "location": "無断転載使用等禁止 (FAは本人様のみ使用可)",
+        "name": "緑翠🌱",
+        "pinned_tweet_id": "1755215031174902029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651187478437695488/XKQnBxLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5197,
+          "following_count": 298,
+          "like_count": 5029,
+          "listed_count": 108,
+          "tweet_count": 851
+        },
+        "username": "Ryoku_sui",
+        "verified": false
+      }
+    ]
+  }
+}

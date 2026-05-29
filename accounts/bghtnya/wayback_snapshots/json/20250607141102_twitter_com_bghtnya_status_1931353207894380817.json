@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1931302876867097063",
+    "created_at": "2025-06-07T14:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931353207894380817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597116471733211136",
+          "start": 0,
+          "username": "hnbngzhg1"
+        },
+        {
+          "end": 26,
+          "id": "1682031537016147972",
+          "start": 11,
+          "username": "KimJong_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931353207894380817",
+    "in_reply_to_user_id": "1597116471733211136",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931306811568595430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnbngzhg1 @KimJong_114514 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1931302876867097063",
+        "created_at": "2025-06-07T14:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T15:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931353207894380817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597116471733211136",
+              "start": 0,
+              "username": "hnbngzhg1"
+            },
+            {
+              "end": 26,
+              "id": "1682031537016147972",
+              "start": 11,
+              "username": "KimJong_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931353207894380817",
+        "in_reply_to_user_id": "1597116471733211136",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931306811568595430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnbngzhg1 @KimJong_114514 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597116471733211136",
+        "conversation_id": "1931302876867097063",
+        "created_at": "2025-06-07T11:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931306811568595430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1682031537016147972",
+              "start": 0,
+              "username": "KimJong_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931306811568595430",
+        "in_reply_to_user_id": "1682031537016147972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931306713308635186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KimJong_114514 疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6344,
+          "following_count": 1958,
+          "like_count": 141816,
+          "listed_count": 14,
+          "media_count": 2633,
+          "tweet_count": 35694
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:33:50.000Z",
+        "description": "ㅋㅋㅋㅋㅋㅋ.\n커피를 좋아해요.",
+        "id": "1597116471733211136",
+        "location": "Los Angeles, CA",
+        "name": "한병지구",
+        "pinned_tweet_id": "1889350334390456335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684618374612217856/FL11qBR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 7501,
+          "like_count": 70105,
+          "listed_count": 9,
+          "media_count": 520,
+          "tweet_count": 16718
+        },
+        "username": "hnbngzhg1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T14:15:54.000Z",
+        "description": "花有重开日人无再少年 中国古代神话爱好者 将军头号粉丝",
+        "id": "1682031537016147972",
+        "location": "大铁棍子医院主治医师办公室",
+        "name": "少林寺驻武当山办事处大神父王喇嘛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928634638031007745/stbGKnMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 5654,
+          "like_count": 14579,
+          "listed_count": 7,
+          "media_count": 894,
+          "tweet_count": 13991
+        },
+        "username": "KimJong_114514",
+        "verified": false
+      }
+    ]
+  }
+}

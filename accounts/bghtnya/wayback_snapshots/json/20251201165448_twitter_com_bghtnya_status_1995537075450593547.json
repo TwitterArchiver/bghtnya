@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1995085403263754345",
+    "created_at": "2025-12-01T16:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T17:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995537075450593547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "360897875",
+          "start": 0,
+          "username": "yx53834975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995537075450593547",
+    "in_reply_to_user_id": "360897875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995085403263754345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yx53834975 网络文革"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27494,
+        "height": 496,
+        "media_key": "13_1982069297338818560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982069297338818560/img/rfwitGBxf9pdpvxX.jpg",
+        "public_metrics": {
+          "view_count": 462694
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982069297338818560/vid/avc1/320x412/ZnW2JcRqLvwNqJ6M.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982069297338818560/vid/avc1/384x496/qeQcRBpPsiZP9Yei.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982069297338818560/pl/1LaxvvYHAYKcDFLT.m3u8?tag=14&v=03e"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1995085403263754345",
+        "created_at": "2025-12-01T16:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995537075450593547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "360897875",
+              "start": 0,
+              "username": "yx53834975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995537075450593547",
+        "in_reply_to_user_id": "360897875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995085403263754345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yx53834975 网络文革"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982069297338818560"
+          ]
+        },
+        "author_id": "360897875",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1995085403263754345",
+        "created_at": "2025-11-30T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995085403263754345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ek172NrKXd",
+              "end": 145,
+              "expanded_url": "https://x.com/yx53834975/status/1995085403263754345/video/1",
+              "media_key": "13_1982069297338818560",
+              "start": 122,
+              "url": "https://t.co/Ek172NrKXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995085403263754345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 897545,
+          "like_count": 1547,
+          "quote_count": 17,
+          "reply_count": 179,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "惊人的相似！😱\n转： 1959年，毛泽东66岁，三年大饥荒\n         2019年，习近平66岁，三年大疫情 \n         1966年，毛泽东73岁，文化大革命 \n          2026年，习近平73岁_________？. https://t.co/Ek172NrKXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8315,
+          "following_count": 2120,
+          "like_count": 171177,
+          "listed_count": 20,
+          "media_count": 3545,
+          "tweet_count": 43633
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-23T23:01:57.000Z",
+        "description": "幸福在于自给自足之中。\n坏人因畏惧而服从，好人因爱而服从。",
+        "id": "360897875",
+        "name": "映萱",
+        "pinned_tweet_id": "1954718409444499829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690624895451824128/OtBLsh9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13752,
+          "following_count": 738,
+          "like_count": 5863,
+          "listed_count": 66,
+          "media_count": 6363,
+          "tweet_count": 7318
+        },
+        "username": "yx53834975",
+        "verified": false
+      }
+    ]
+  }
+}

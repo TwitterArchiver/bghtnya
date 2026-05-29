@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1912548084942532861",
+    "created_at": "2025-04-17T15:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T16:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912895576217460985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1718511628109688832",
+          "start": 0,
+          "username": "jjj1927551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912895576217460985",
+    "in_reply_to_user_id": "1718511628109688832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912730840406323608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjj1927551 中国南梁大学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1912548084942532861",
+        "created_at": "2025-04-17T15:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912895576217460985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718511628109688832",
+              "start": 0,
+              "username": "jjj1927551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912895576217460985",
+        "in_reply_to_user_id": "1718511628109688832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912730840406323608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjj1927551 中国南梁大学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718511628109688832",
+        "conversation_id": "1912548084942532861",
+        "created_at": "2025-04-17T04:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T05:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912730840406323608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912730840406323608",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912548084942532861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 中国南京大学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5934,
+          "following_count": 1894,
+          "like_count": 130523,
+          "listed_count": 13,
+          "media_count": 2392,
+          "tweet_count": 33320
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T06:14:54.000Z",
+        "description": "19\n168/52",
+        "id": "1718511628109688832",
+        "location": "shenyang",
+        "name": "软糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774837880118267904/INsSA12D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 81,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 112
+        },
+        "username": "jjj1927551",
+        "verified": false
+      }
+    ]
+  }
+}

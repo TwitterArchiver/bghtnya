@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "1932327531107274793",
+    "created_at": "2025-06-10T10:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T11:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932384184875790439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607005037825515520",
+          "start": 0,
+          "username": "Scout_Sheart"
+        },
+        {
+          "end": 26,
+          "id": "1491429513779359745",
+          "start": 14,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932384184875790439",
+    "in_reply_to_user_id": "1607005037825515520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932341560311791877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scout_Sheart @mizuchanqwq 安卓底层是linux）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1932327531107274793",
+        "created_at": "2025-06-10T10:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T11:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932384184875790439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607005037825515520",
+              "start": 0,
+              "username": "Scout_Sheart"
+            },
+            {
+              "end": 26,
+              "id": "1491429513779359745",
+              "start": 14,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932384184875790439",
+        "in_reply_to_user_id": "1607005037825515520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932341560311791877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scout_Sheart @mizuchanqwq 安卓底层是linux）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607005037825515520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1932327531107274793",
+        "created_at": "2025-06-10T07:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T08:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932341560311791877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932341560311791877",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932327531107274793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq linux好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6373,
+          "following_count": 1977,
+          "like_count": 143960,
+          "listed_count": 14,
+          "media_count": 2668,
+          "tweet_count": 36016
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-25T13:27:24.000Z",
+        "description": "Brave & Kind",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scout-siai.com",
+                "end": 23,
+                "expanded_url": "http://www.scout-siai.com",
+                "start": 0,
+                "url": "https://t.co/Um2ol6Lw35"
+              }
+            ]
+          }
+        },
+        "id": "1607005037825515520",
+        "location": "1.1.1.1",
+        "name": "Scout归来 | 看旧推圈土崩瓦解 | 推友们出头之日已经到来",
+        "pinned_tweet_id": "1717503862121316382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913624204349681664/-Rv2trQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 654,
+          "like_count": 6657,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1432
+        },
+        "url": "https://t.co/Um2ol6Lw35",
+        "username": "Scout_Sheart",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "長不大的小貓 | 😽❤️@yuzuchanqwq | 推文隨時可能被清除請諒解",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "Void",
+        "name": "若水醬𖦹 ̫ ×🐱",
+        "pinned_tweet_id": "1926501516615000200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924689021063876608/gCBiyq12_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 2208,
+          "like_count": 85906,
+          "listed_count": 9,
+          "media_count": 1855,
+          "tweet_count": 9791
+        },
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

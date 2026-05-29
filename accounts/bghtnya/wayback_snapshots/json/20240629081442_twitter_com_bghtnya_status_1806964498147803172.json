@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1806637540017144015",
+    "created_at": "2024-06-29T08:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T09:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806964498147803172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442362841193795593",
+          "start": 0,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806964498147803172",
+    "in_reply_to_user_id": "1442362841193795593",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806637540017144015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusunoki_riko 这是可以吃的嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1806637540017144015",
+        "created_at": "2024-06-29T08:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T09:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806964498147803172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806964498147803172",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806637540017144015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko 这是可以吃的嘛"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806637536900681728"
+          ]
+        },
+        "author_id": "1442362841193795593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1806637540017144015",
+        "created_at": "2024-06-28T10:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T11:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806637540017144015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6xWHuxwHjf",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kusunoki_riko/status/1806637540017144015/photo/1",
+              "media_key": "3_1806637536900681728",
+              "start": 10,
+              "url": "https://t.co/6xWHuxwHjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806637540017144015",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 703,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜，，我想吃这个 https://t.co/6xWHuxwHjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 1384,
+          "like_count": 73695,
+          "listed_count": 8,
+          "tweet_count": 15592
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "为你明灯三千，为你花开满城： @Suzushirochika\n || \n旧墨已为陈迹，新章展卷待书\n || \n在这里，你可能看到不限于以下内容：①暴论  ②情绪宣泄  ③意义不明  ④日常  ⑤凡尔赛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "Suzushirochika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "location": "此心安处是吾乡",
+        "name": "楠•理子",
+        "pinned_tweet_id": "1669604468877565952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791833882444353536/SRl_9Z3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8045,
+          "following_count": 1538,
+          "like_count": 112869,
+          "listed_count": 31,
+          "tweet_count": 54470
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": false
+      }
+    ]
+  }
+}

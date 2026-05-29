@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1798360553213280426",
+    "created_at": "2024-06-05T15:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T16:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798370390760362037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798370390760362037",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798370190624960665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ 不清楚 不太看抖音）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1798370190624960665].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1798370190624960665",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1798370190624960665"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1798360553213280426",
+        "created_at": "2024-06-05T15:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T16:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798370390760362037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798370390760362037",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798370190624960665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ 不清楚 不太看抖音）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1351,
+          "like_count": 69999,
+          "listed_count": 7,
+          "tweet_count": 14549
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/xyn/she/天残党/深柜/不键政，中立派/INT(F?)P/音游人/\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 908,
+          "like_count": 18492,
+          "listed_count": 7,
+          "tweet_count": 3595
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

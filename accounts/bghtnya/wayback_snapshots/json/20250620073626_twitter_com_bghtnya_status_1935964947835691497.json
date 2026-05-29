@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1935446213018665103",
+    "created_at": "2025-06-20T07:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T08:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935964947835691497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768487038645678080",
+          "start": 0,
+          "username": "Yamada_Ryo4"
+        },
+        {
+          "end": 26,
+          "id": "1769078117052854272",
+          "start": 13,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935964947835691497",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935446213018665103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamada_Ryo4 @huahuojiang_ 我是晶哥，介于你在推特上频繁发送“习近平你妈什么时候死啊？” ，我们初步认定你违反了《国家安全法》，作为美国间谍并涉及犯颠覆国家政权罪，请你在24小时之内穿上白丝水手服前往最近派出所自首，否则我将派出武装直升机围攻你家"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [huahuojiang_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "huahuojiang_",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "huahuojiang_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2292,
+        "media_key": "3_1935446200590942213",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtwWEKQaQAUWkOa.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1935446213018665103",
+        "created_at": "2025-06-20T07:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935964947835691497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryo4"
+            },
+            {
+              "end": 26,
+              "id": "1769078117052854272",
+              "start": 13,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935964947835691497",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935446213018665103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryo4 @huahuojiang_ 我是晶哥，介于你在推特上频繁发送“习近平你妈什么时候死啊？” ，我们初步认定你违反了《国家安全法》，作为美国间谍并涉及犯颠覆国家政权罪，请你在24小时之内穿上白丝水手服前往最近派出所自首，否则我将派出武装直升机围攻你家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935446200590942213"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935446213018665103",
+        "created_at": "2025-06-18T21:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T22:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935446213018665103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1769078117052854272",
+              "start": 4,
+              "username": "huahuojiang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rwjzt08dwp",
+              "end": 108,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1935446213018665103/photo/1",
+              "media_key": "3_1935446200590942213",
+              "start": 85,
+              "url": "https://t.co/Rwjzt08dwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935446213018665103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 169173,
+          "like_count": 742,
+          "quote_count": 24,
+          "reply_count": 110,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "永远怀念@huahuojiang_\n总结：\n1,没有分离墙内外账号，以至于晶哥很容易查到本人\n2,妄议圣上生日以及诅咒圣上（以及QQ发的）\n3,妄议公主，发了公主全家盒 https://t.co/Rwjzt08dwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6479,
+          "following_count": 2001,
+          "like_count": 147255,
+          "listed_count": 14,
+          "media_count": 2748,
+          "tweet_count": 36671
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": "🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜逃生艙 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY｜🚪：1 ₿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 103,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 80,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yamadaryo.me",
+                "end": 23,
+                "expanded_url": "https://yamadaryo.me",
+                "start": 0,
+                "url": "https://t.co/czFMqdFO4N"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3450,
+          "following_count": 638,
+          "like_count": 11178,
+          "listed_count": 16,
+          "media_count": 1221,
+          "tweet_count": 6597
+        },
+        "url": "https://t.co/czFMqdFO4N",
+        "username": "Yamada_Ryo4",
+        "verified": false
+      }
+    ]
+  }
+}

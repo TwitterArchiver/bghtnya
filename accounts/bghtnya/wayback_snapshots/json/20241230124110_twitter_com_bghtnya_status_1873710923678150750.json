@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1873561268013207961",
+    "created_at": "2024-12-30T12:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T13:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873710923678150750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737053348740603904",
+          "start": 0,
+          "username": "shiroko2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873710923678150750",
+    "in_reply_to_user_id": "1737053348740603904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873561268013207961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko2024 可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1873561268013207961",
+        "created_at": "2024-12-30T12:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T13:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873710923678150750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737053348740603904",
+              "start": 0,
+              "username": "shiroko2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873710923678150750",
+        "in_reply_to_user_id": "1737053348740603904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873561268013207961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko2024 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873561264620032000"
+          ]
+        },
+        "author_id": "1737053348740603904",
+        "conversation_id": "1873561268013207961",
+        "created_at": "2024-12-30T02:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T03:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873561268013207961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTvuCfDNCm",
+              "end": 23,
+              "expanded_url": "https://x.com/shiroko2024/status/1873561268013207961/photo/1",
+              "media_key": "3_1873561264620032000",
+              "start": 0,
+              "url": "https://t.co/LTvuCfDNCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873561268013207961",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5910,
+          "like_count": 300,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LTvuCfDNCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4045,
+          "following_count": 1772,
+          "like_count": 117682,
+          "listed_count": 13,
+          "media_count": 1859,
+          "tweet_count": 28260
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbyss | 爱你 @squirrelGUW | 老婆 @MeowSakur76073 | 极端人士魔怔人和粉红退散|友跨LGBT的顺直",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kurioshifio"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "GlimpseAbyss"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "squirrelGUW"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "MeowSakur76073"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shirok…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shiroko2024.bsky.social",
+                "start": 0,
+                "url": "https://t.co/ourvdZc0Xc"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "砂狼白子",
+        "pinned_tweet_id": "1867208961969246582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872582106423185408/0VPkfMr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3080,
+          "following_count": 1000,
+          "like_count": 111851,
+          "listed_count": 9,
+          "media_count": 949,
+          "tweet_count": 7204
+        },
+        "url": "https://t.co/ourvdZc0Xc",
+        "username": "shiroko2024",
+        "verified": false
+      }
+    ]
+  }
+}

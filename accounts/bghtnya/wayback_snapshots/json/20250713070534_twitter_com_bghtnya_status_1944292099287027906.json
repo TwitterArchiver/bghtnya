@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1944249544344211763",
+    "created_at": "2025-07-13T07:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T08:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944292099287027906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622166630951428097",
+          "start": 0,
+          "username": "some_snow_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944292099287027906",
+    "in_reply_to_user_id": "1622166630951428097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944282933340274735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@some_snow_cat 是窝嘛（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1944249544344211763",
+        "created_at": "2025-07-13T07:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T08:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944292099287027906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622166630951428097",
+              "start": 0,
+              "username": "some_snow_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944292099287027906",
+        "in_reply_to_user_id": "1622166630951428097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944282933340274735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@some_snow_cat 是窝嘛（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622166630951428097",
+        "conversation_id": "1944249544344211763",
+        "created_at": "2025-07-13T06:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T07:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944282933340274735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944282933340274735",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944249544344211763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 昨天没看到👀倒是看到有挂🍥的跑去suzume那边的摊位买东西了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7110,
+          "following_count": 2021,
+          "like_count": 151849,
+          "listed_count": 17,
+          "media_count": 2893,
+          "tweet_count": 38118
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T09:34:09.000Z",
+        "description": "是一只xyn |🏳️‍⚧无证含糖中mtftx（其实是友跨翻车）🍥|喜欢贴贴 目前在西安喵 | 在上苦逼大三 | 会在这个号上发点日常清水 ︱hrt2023/2/25",
+        "id": "1622166630951428097",
+        "location": "猫猫星",
+        "name": "这里没有雪音😺🍥喵~",
+        "pinned_tweet_id": "1874493125223489980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631264226550632448/4a5ZkjDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 348,
+          "like_count": 1365,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 1092
+        },
+        "username": "some_snow_cat",
+        "verified": false
+      }
+    ]
+  }
+}

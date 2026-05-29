@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1888918166602215522",
+    "created_at": "2025-02-10T16:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T17:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888982544773009753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850755206040006656",
+          "start": 0,
+          "username": "moeKiwiSAMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888982544773009753",
+    "in_reply_to_user_id": "850755206040006656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888936468539924661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeKiwiSAMA 听不懂但我明天去试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1888918166602215522",
+        "created_at": "2025-02-10T16:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T17:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888982544773009753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "850755206040006656",
+              "start": 0,
+              "username": "moeKiwiSAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888982544773009753",
+        "in_reply_to_user_id": "850755206040006656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888936468539924661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeKiwiSAMA 听不懂但我明天去试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850755206040006656",
+        "conversation_id": "1888918166602215522",
+        "created_at": "2025-02-10T13:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T14:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888936468539924661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888936468539924661",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888918166602215522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 开tun，或者用proxifier，git+ssh不走http代理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5571,
+          "following_count": 1829,
+          "like_count": 123850,
+          "listed_count": 14,
+          "media_count": 2125,
+          "tweet_count": 30695
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-08T17:00:22.000Z",
+        "description": "| 蝈蝻 | 💰 没钱没车没房 | 📷 with A7M3 |  ⛰️ Male to Alpine Linux | 有只暹罗🐱 | 这是我正宫 @langua___ | ❤️  @DaHuangCore |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "langua___"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "DaHuangCore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyan.kiwi.cat",
+                "end": 23,
+                "expanded_url": "https://nyan.kiwi.cat",
+                "start": 0,
+                "url": "https://t.co/YqOlCzRyiE"
+              }
+            ]
+          }
+        },
+        "id": "850755206040006656",
+        "location": "Your Heart 💕",
+        "name": "🧂🧂🧂 Kiwi 🧂🧂🧂",
+        "pinned_tweet_id": "1880644171062714791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841802643951550464/eKqQdfGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 898,
+          "like_count": 12601,
+          "listed_count": 11,
+          "media_count": 2263,
+          "tweet_count": 4869
+        },
+        "url": "https://t.co/YqOlCzRyiE",
+        "username": "moeKiwiSAMA",
+        "verified": false
+      }
+    ]
+  }
+}

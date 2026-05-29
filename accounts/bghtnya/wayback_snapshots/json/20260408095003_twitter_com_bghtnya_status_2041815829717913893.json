@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041799031672954880"
+      ],
+      "media_source_tweet_id": [
+        "2041799035325948102"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2041815829717913893",
+    "created_at": "2026-04-08T09:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041815829717913893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1775149090881560580",
+          "start": 3,
+          "username": "aparicher_core1"
+        },
+        {
+          "end": 41,
+          "id": "469933928",
+          "start": 33,
+          "username": "N552AA7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7UizMIGeE",
+          "end": 65,
+          "expanded_url": "https://x.com/aparicher_core1/status/2041799035325948102/photo/1",
+          "media_key": "3_2041799031672954880",
+          "start": 42,
+          "url": "https://t.co/p7UizMIGeE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041815829717913893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041799035325948102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aparicher_core1: 好耶！n55终于复活了！@N552AA7 https://t.co/p7UizMIGeE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041799031672954880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXtZsGaYAA7m6Q.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041799031672954880"
+          ],
+          "media_source_tweet_id": [
+            "2041799035325948102"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2041815829717913893",
+        "created_at": "2026-04-08T09:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041815829717913893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1775149090881560580",
+              "start": 3,
+              "username": "aparicher_core1"
+            },
+            {
+              "end": 41,
+              "id": "469933928",
+              "start": 33,
+              "username": "N552AA7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7UizMIGeE",
+              "end": 65,
+              "expanded_url": "https://x.com/aparicher_core1/status/2041799035325948102/photo/1",
+              "media_key": "3_2041799031672954880",
+              "start": 42,
+              "url": "https://t.co/p7UizMIGeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041815829717913893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041799035325948102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aparicher_core1: 好耶！n55终于复活了！@N552AA7 https://t.co/p7UizMIGeE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041799031672954880"
+          ]
+        },
+        "author_id": "1775149090881560580",
+        "conversation_id": "2041799035325948102",
+        "created_at": "2026-04-08T08:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041799035325948102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "469933928",
+              "start": 12,
+              "username": "N552AA7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7UizMIGeE",
+              "end": 44,
+              "expanded_url": "https://x.com/aparicher_core1/status/2041799035325948102/photo/1",
+              "media_key": "3_2041799031672954880",
+              "start": 21,
+              "url": "https://t.co/p7UizMIGeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041799035325948102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好耶！n55终于复活了！@N552AA7 https://t.co/p7UizMIGeE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9020,
+          "following_count": 2119,
+          "like_count": 175197,
+          "listed_count": 18,
+          "media_count": 3824,
+          "tweet_count": 46740
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T13:12:09.000Z",
+        "description": "09年/无业/N55二世/ZIO科技总监/无证含糖mtf/身高180体重??/🚪30(同类免费)/pvz/mc/术力口/JK制服，不卖不援交不od不割手，目前还是男生，qq:2198461644",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2027182697",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/2027182697",
+                "start": 0,
+                "url": "https://t.co/0qAMIXgYtl"
+              }
+            ]
+          }
+        },
+        "id": "1775149090881560580",
+        "location": "ZIO科技",
+        "name": "柠檬味软糖_XYN喵🏳️‍⚧️🍥🍬🍭【ZIO科技】(N55大帝)",
+        "pinned_tweet_id": "1990640830965756028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015393907874353152/OSzjOmqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 386,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/0qAMIXgYtl",
+        "username": "aparicher_core1",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-21T04:35:27.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/ASD（？/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/NrRSmyWC6K"
+              }
+            ]
+          }
+        },
+        "id": "469933928",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（七代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041797825961586692/wc9PBx2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 31,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/NrRSmyWC6K",
+        "username": "N552AA7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1997644002196115638",
+    "created_at": "2025-12-08T02:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T03:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997851723659169858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 26,
+          "id": "1943704460813041665",
+          "start": 16,
+          "username": "misakixyg"
+        },
+        {
+          "end": 40,
+          "id": "1965531250447568896",
+          "start": 27,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997851723659169858",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997836820168728845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @misakixyg @jingyin_8964 喵呜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1997836820168728845].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1997836820168728845",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1997836820168728845"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1997644002196115638",
+        "created_at": "2025-12-08T02:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997851723659169858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 26,
+              "id": "1943704460813041665",
+              "start": 16,
+              "username": "misakixyg"
+            },
+            {
+              "end": 40,
+              "id": "1965531250447568896",
+              "start": 27,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997851723659169858",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997836820168728845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @misakixyg @jingyin_8964 喵呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8314,
+          "following_count": 2111,
+          "like_count": 172235,
+          "listed_count": 20,
+          "media_count": 3594,
+          "tweet_count": 44071
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 Female PgdStu🎧🍟Hunger（¿）🍔sleepy🥤No timetable🚪1680JPY/C spl tri/EN/JP 😘Eating 🍩fobackAuto",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndCarrotHot🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1856596418926129304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 3794,
+          "like_count": 22776,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 17264
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎，是🐟而已，没什么",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 813,
+          "like_count": 16191,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 4564
+        },
+        "username": "misakixyg",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼",
+        "id": "1965531250447568896",
+        "name": "镜音（二代目）",
+        "pinned_tweet_id": "1996620377464975755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 84,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 100
+        },
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

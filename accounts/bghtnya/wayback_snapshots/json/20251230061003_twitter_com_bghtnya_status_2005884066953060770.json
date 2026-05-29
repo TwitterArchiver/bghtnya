@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2005869096173175215",
+    "created_at": "2025-12-30T06:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T07:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005884066953060770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005884066953060770",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005870538997039151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ 要外国签证或者护照"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005870538997039151].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005870538997039151",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005870538997039151"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2005869096173175215",
+        "created_at": "2025-12-30T06:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T07:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005884066953060770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005884066953060770",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005870538997039151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ 要外国签证或者护照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8515,
+          "following_count": 2091,
+          "like_count": 173938,
+          "listed_count": 19,
+          "media_count": 3669,
+          "tweet_count": 44723
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "/生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了/我情愿躺在虚无主义的深渊里，什么也不做，静静地看着一切，等待终结的降临。",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998434886038978560/sdvrbieA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 1056,
+          "like_count": 72054,
+          "listed_count": 2,
+          "media_count": 2078,
+          "tweet_count": 13773
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

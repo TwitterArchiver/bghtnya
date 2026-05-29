@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994382407127212032"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1994382418816721163",
+    "created_at": "2025-11-28T12:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994382418816721163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2W8NGTm8oB",
+          "end": 29,
+          "expanded_url": "https://x.com/bghtnya/status/1994382418816721163/photo/1",
+          "media_key": "3_1994382407127212032",
+          "start": 6,
+          "url": "https://t.co/2W8NGTm8oB"
+        },
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/gdioiui/status/1994292674673684874",
+          "start": 30,
+          "url": "https://t.co/uK9hPEL9WD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994382418816721163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994292674673684874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《反od》 https://t.co/2W8NGTm8oB https://t.co/uK9hPEL9WD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994382407127212032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G614O4sbIAA8BI-.jpg",
+        "width": 942
+      },
+      {
+        "height": 608,
+        "media_key": "3_1994272110181797889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60T6wja0AEPk1x.png",
+        "width": 966
+      },
+      {
+        "height": 177,
+        "media_key": "3_1994273917754855425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60Vj-Sa0AEGxVd.png",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994382407127212032"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1994382418816721163",
+        "created_at": "2025-11-28T12:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994382418816721163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2W8NGTm8oB",
+              "end": 29,
+              "expanded_url": "https://x.com/bghtnya/status/1994382418816721163/photo/1",
+              "media_key": "3_1994382407127212032",
+              "start": 6,
+              "url": "https://t.co/2W8NGTm8oB"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/gdioiui/status/1994292674673684874",
+              "start": 30,
+              "url": "https://t.co/uK9hPEL9WD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994382418816721163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994292674673684874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《反od》 https://t.co/2W8NGTm8oB https://t.co/uK9hPEL9WD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994272110181797889",
+            "3_1994273917754855425"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1994292674673684874",
+        "created_at": "2025-11-28T06:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994292674673684874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gexBLWsE6x",
+              "end": 57,
+              "expanded_url": "https://x.com/gdioiui/status/1994292674673684874/photo/1",
+              "media_key": "3_1994272110181797889",
+              "start": 34,
+              "url": "https://t.co/gexBLWsE6x"
+            },
+            {
+              "display_url": "pic.x.com/gexBLWsE6x",
+              "end": 57,
+              "expanded_url": "https://x.com/gdioiui/status/1994292674673684874/photo/1",
+              "media_key": "3_1994273917754855425",
+              "start": 34,
+              "url": "https://t.co/gexBLWsE6x"
+            },
+            {
+              "display_url": "x.com/ElysiumFengxua…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/ElysiumFengxuan/status/1994026176801599667",
+              "start": 58,
+              "url": "https://t.co/6WpPsBgAl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994292674673684874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "被grok看光了＞﹏＜\n原来我聪明 可爱\n但是精神病......."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994026176801599667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被grok看光了＞﹏＜\n原来我聪明 可爱\n但是精神病....... https://t.co/gexBLWsE6x https://t.co/6WpPsBgAl0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 2119,
+          "like_count": 170550,
+          "listed_count": 20,
+          "media_count": 3505,
+          "tweet_count": 43316
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 90,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1295
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

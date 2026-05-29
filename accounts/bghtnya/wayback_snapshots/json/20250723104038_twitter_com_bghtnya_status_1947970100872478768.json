@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1947540724553289771",
+    "created_at": "2025-07-23T10:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T11:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947970100872478768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1138408165014364162",
+          "start": 0,
+          "username": "shiratsuyudachi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947970100872478768",
+    "in_reply_to_user_id": "1138408165014364162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947626083655848313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiratsuyudachi 不是 小米的电子卡 上海交通有交通联合"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1947540724553289771",
+        "created_at": "2025-07-23T10:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T11:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947970100872478768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1138408165014364162",
+              "start": 0,
+              "username": "shiratsuyudachi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947970100872478768",
+        "in_reply_to_user_id": "1138408165014364162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947626083655848313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiratsuyudachi 不是 小米的电子卡 上海交通有交通联合"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138408165014364162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "1947540724553289771",
+        "created_at": "2025-07-22T11:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947626083655848313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947626083655848313",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947625548475248917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 🤔实体卡吗，我刷的apple pay的上海交通卡，不过最近几个月没坐过不清楚是不是最近改过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7220,
+          "following_count": 2034,
+          "like_count": 153780,
+          "listed_count": 17,
+          "media_count": 2949,
+          "tweet_count": 38532
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T11:30:31.000Z",
+        "description": "Trans-Magica｜aka. Nico｜使用大语言模型程度的能力｜更多信息请参阅置顶推文｜水平偏振单推 @Cyan_0731 ｜垂直偏振单推 @Nickel_Angel｜tg同id有频道&群，有兴趣可以自行寻找",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Cyan_0731"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Nickel_Angel"
+              }
+            ]
+          }
+        },
+        "id": "1138408165014364162",
+        "location": "Sol III",
+        "name": "白露型四番艦の枝",
+        "pinned_tweet_id": "1853466452797608080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815937634252038144/a9IzEm89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 1677,
+          "like_count": 53553,
+          "listed_count": 14,
+          "media_count": 1190,
+          "tweet_count": 13405
+        },
+        "username": "shiratsuyudachi",
+        "verified": false
+      }
+    ]
+  }
+}

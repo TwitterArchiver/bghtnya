@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1965560927614632161",
+    "created_at": "2025-09-09T23:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T00:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965563115682365798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1437785792211034114",
+          "start": 0,
+          "username": "Xerenceu"
+        },
+        {
+          "end": 24,
+          "id": "1896923926112169984",
+          "start": 10,
+          "username": "FrostyStrings"
+        },
+        {
+          "end": 39,
+          "id": "1770810702707470336",
+          "start": 25,
+          "username": "aiheng6499464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965563115682365798",
+    "in_reply_to_user_id": "1437785792211034114",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965560927614632161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xerenceu @FrostyStrings @aiheng6499464 xmtt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2457,
+        "media_key": "3_1965560895339421697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0cTOGca4AE9zR1.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1965560927614632161",
+        "created_at": "2025-09-09T23:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T00:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965563115682365798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1437785792211034114",
+              "start": 0,
+              "username": "Xerenceu"
+            },
+            {
+              "end": 24,
+              "id": "1896923926112169984",
+              "start": 10,
+              "username": "FrostyStrings"
+            },
+            {
+              "end": 39,
+              "id": "1770810702707470336",
+              "start": 25,
+              "username": "aiheng6499464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965563115682365798",
+        "in_reply_to_user_id": "1437785792211034114",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965560927614632161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xerenceu @FrostyStrings @aiheng6499464 xmtt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965560895339421697"
+          ]
+        },
+        "author_id": "1437785792211034114",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965560927614632161",
+        "created_at": "2025-09-09T23:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T00:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965560927614632161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PudwnzLS2a",
+              "end": 28,
+              "expanded_url": "https://x.com/Xerenceu/status/1965560927614632161/photo/1",
+              "media_key": "3_1965560895339421697",
+              "start": 5,
+              "url": "https://t.co/PudwnzLS2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965560927614632161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨日贴贴 https://t.co/PudwnzLS2a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7445,
+          "following_count": 2069,
+          "like_count": 157542,
+          "listed_count": 18,
+          "media_count": 3124,
+          "tweet_count": 39846
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T14:30:34.000Z",
+        "description": "“烷胺不是晚安”\n🚪疯狂星期四",
+        "id": "1437785792211034114",
+        "name": "CYP2D6💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940282173522644993/fx-De2ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 298,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 555
+        },
+        "username": "Xerenceu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T14:01:36.000Z",
+        "description": "可以叫窝雪琴/无证含糖/HRT2025.06.06/回避型依恋/ISFJ/已炸柜/中抑中焦(未诊断)/解离谱系/DID/同类互fo/🚪52掉落qq陪聊可涩涩喵 最好的姐姐@Iridium_xiaoyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "Iridium_xiaoyi"
+              }
+            ]
+          }
+        },
+        "id": "1896923926112169984",
+        "location": "Shanghai",
+        "name": "霜落雪琴FS🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896925547395166208/3fST8pDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 68,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 262
+        },
+        "username": "FrostyStrings",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T13:52:54.000Z",
+        "description": "八年老mtf\n真实的我是个骗子！#双相情感障碍#药娘#易性症联系需门槛费20多了不要请喝杯奶茶不过分吧？多了不要只要20诚心交友不收门槛，以后门槛归为一百",
+        "id": "1770810702707470336",
+        "location": "江苏省 南京市江宁区谷里街道",
+        "name": "千本樱 萌爱🏳️‍⚧️🍥💊",
+        "pinned_tweet_id": "1855900792223617052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771888497986842624/BsxUzGjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 861,
+          "like_count": 1907,
+          "listed_count": 6,
+          "media_count": 510,
+          "tweet_count": 3339
+        },
+        "username": "aiheng6499464",
+        "verified": false
+      }
+    ]
+  }
+}

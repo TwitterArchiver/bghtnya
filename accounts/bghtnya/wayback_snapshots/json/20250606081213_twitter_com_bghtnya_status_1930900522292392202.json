@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1930823530226368912",
+    "created_at": "2025-06-06T08:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T09:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930900522292392202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930900522292392202",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930823530226368912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 说的道理"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89912,
+        "height": 640,
+        "media_key": "7_1930822866255405056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930822866255405056/pu/img/3tOAUh2L8ZF9_AqH.jpg",
+        "public_metrics": {
+          "view_count": 3838
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930822866255405056/pu/vid/avc1/320x580/xlNNZdm-lJpvGWcI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930822866255405056/pu/vid/avc1/352x640/-Eqk8aFvICff8ClK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930822866255405056/pu/pl/-N6kfKSd6zDlBmdz.m3u8?tag=12"
+          }
+        ],
+        "width": 352
+      },
+      {
+        "duration_ms": 45580,
+        "height": 1024,
+        "media_key": "7_1930823120883261440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930823120883261440/pu/img/GJwZXHYP76tB_sMW.jpg",
+        "public_metrics": {
+          "view_count": 848
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930823120883261440/pu/vid/avc1/320x568/VDvT6X9aCUmF5Qs9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930823120883261440/pu/vid/avc1/480x852/fIDDNJNesVPJnIXG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930823120883261440/pu/vid/avc1/576x1024/BqP0ebohAZFFQ94P.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930823120883261440/pu/pl/CL7VYtoulHm7b3Ls.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 55933,
+        "height": 1280,
+        "media_key": "7_1930822932542185472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930822932542185472/pu/img/uNQjjhpEHEOpinL9.jpg",
+        "public_metrics": {
+          "view_count": 756
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930822932542185472/pu/vid/avc1/320x640/voyWrT7GsmpJNsTT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930822932542185472/pu/vid/avc1/480x960/afEE49ITjhNGEktE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930822932542185472/pu/vid/avc1/640x1280/fHumrXJ-iKAsReR5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930822932542185472/pu/pl/e9FeP5vbf1_VWd6l.m3u8?tag=12&v=ba8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1930823530226368912",
+        "created_at": "2025-06-06T08:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T09:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930900522292392202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930900522292392202",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930823530226368912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 说的道理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1930822866255405056",
+            "7_1930823120883261440",
+            "7_1930822932542185472"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1930823530226368912",
+        "created_at": "2025-06-06T03:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T04:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930823530226368912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FrjP4aGuo",
+              "end": 78,
+              "expanded_url": "https://x.com/FurinaDF/status/1930823530226368912/video/1",
+              "media_key": "7_1930822866255405056",
+              "start": 55,
+              "url": "https://t.co/3FrjP4aGuo"
+            },
+            {
+              "display_url": "pic.x.com/3FrjP4aGuo",
+              "end": 78,
+              "expanded_url": "https://x.com/FurinaDF/status/1930823530226368912/video/1",
+              "media_key": "7_1930823120883261440",
+              "start": 55,
+              "url": "https://t.co/3FrjP4aGuo"
+            },
+            {
+              "display_url": "pic.x.com/3FrjP4aGuo",
+              "end": 78,
+              "expanded_url": "https://x.com/FurinaDF/status/1930823530226368912/video/1",
+              "media_key": "7_1930822932542185472",
+              "start": 55,
+              "url": "https://t.co/3FrjP4aGuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930823530226368912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 8220,
+          "like_count": 63,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "人类伦理问题：\n如果孕妇及其家属执意要将“畸形儿”生下来，其他人是否有权阻止？可接受的外力介入程度是多少？🤔 https://t.co/3FrjP4aGuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 1960,
+          "like_count": 141333,
+          "listed_count": 14,
+          "media_count": 2625,
+          "tweet_count": 35638
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "支黑、皇汉、包蜜、神棍、汉奸、姨粉、小草、青鸟、台派、民运、安人、社民、神友、兔友、殖人、圣母、毛左、黄左、左逼、纳粹、浪人、太监、目田、川粉、老中、民小、劳保、社达、自由派、河南人、小粉红、民国派、听床师、法轮功、基督徒、佛教徒、穆斯林、大中华胶、台独分子、岁月静好、民主小清新、诸夏爱国者、中共大外宣、无政府主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1930636503635619897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29634,
+          "following_count": 2165,
+          "like_count": 26050,
+          "listed_count": 81,
+          "media_count": 4975,
+          "tweet_count": 9104
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1935921116113256896",
+    "created_at": "2025-06-20T10:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936006363899187532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695975046051942400",
+          "start": 0,
+          "username": "mitsuki87613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936006363899187532",
+    "in_reply_to_user_id": "1695975046051942400",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935921116113256896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki87613 hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_1935921108840050688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3F_dWXcAAf_SJ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1935921116113256896",
+        "created_at": "2025-06-20T10:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936006363899187532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695975046051942400",
+              "start": 0,
+              "username": "mitsuki87613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936006363899187532",
+        "in_reply_to_user_id": "1695975046051942400",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935921116113256896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki87613 hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935921108840050688"
+          ]
+        },
+        "author_id": "1695975046051942400",
+        "conversation_id": "1935921116113256896",
+        "created_at": "2025-06-20T04:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T05:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935921116113256896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1usIi1xh5l",
+              "end": 29,
+              "expanded_url": "https://x.com/mitsuki87613/status/1935921116113256896/photo/1",
+              "media_key": "3_1935921108840050688",
+              "start": 6,
+              "url": "https://t.co/1usIi1xh5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935921116113256896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1380,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最高指示🫡 https://t.co/1usIi1xh5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6478,
+          "following_count": 2003,
+          "like_count": 147536,
+          "listed_count": 14,
+          "media_count": 2751,
+          "tweet_count": 36726
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T01:42:26.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️/免费树洞/已出柜/跨女同/社会主义/马列毛主义，卢森堡思想/反资反修/术力口/愿人类彻底解放，愿人类真正自由/想和大家交朋友，同类会回fo(◍˃̶ᗜ˂̶◍)/为世界上所有的美好而战/\nWe shall meet in the place where there is no darkness",
+        "id": "1695975046051942400",
+        "location": "亚细亚苏维埃社会主义人民联盟（PASSU）-上海公社",
+        "name": "なな🍥Demodosia（暖言版）",
+        "pinned_tweet_id": "1924281280566583396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908598291681677312/j-YqJbMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 727,
+          "like_count": 10289,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 2561
+        },
+        "username": "mitsuki87613",
+        "verified": false
+      }
+    ]
+  }
+}

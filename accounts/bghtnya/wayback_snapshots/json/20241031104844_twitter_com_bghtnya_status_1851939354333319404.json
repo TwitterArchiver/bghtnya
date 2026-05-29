@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1851853316772245627",
+    "created_at": "2024-10-31T10:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T11:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851939354333319404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1660343948945006593",
+          "start": 0,
+          "username": "qiand33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851939354333319404",
+    "in_reply_to_user_id": "1660343948945006593",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851853316772245627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiand33 锁推肯定没有流量qwq\n流量（开放）和安全（封闭）只能二选一"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1851853316772245627].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1851853316772245627",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1851853316772245627"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1851853316772245627",
+        "created_at": "2024-10-31T10:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T11:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851939354333319404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1660343948945006593",
+              "start": 0,
+              "username": "qiand33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851939354333319404",
+        "in_reply_to_user_id": "1660343948945006593",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851853316772245627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiand33 锁推肯定没有流量qwq\n流量（开放）和安全（封闭）只能二选一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 1542,
+          "like_count": 102087,
+          "listed_count": 9,
+          "tweet_count": 23788
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T17:57:15.000Z",
+        "description": "14歲/infp/10後/抖m屬性 願生活如清泉，永流不息希望生活能更甜一些，苦澀消逝願關係如同在星軌上的星星，願我們永遠在一起永遠愛與相信@ShaDow_0528 @EDU1991US 來自香港，小學中文水平，星粉(三星愛好者)永遠的三星主義者 中推第一三星正星旗星粉 背景@ShaDow_0528\n白影畫的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "ShaDow_0528"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "EDU1991US"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "ShaDow_0528"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiand33",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qiand33",
+                "start": 0,
+                "url": "https://t.co/Rj8p3CvmoW"
+              }
+            ]
+          }
+        },
+        "id": "1660343948945006593",
+        "location": "永遠陪在你身邊",
+        "name": "千晴🇭🇰",
+        "pinned_tweet_id": "1851501122399191296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824679384550158336/Oj7NV8zs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4461,
+          "following_count": 119,
+          "like_count": 33190,
+          "listed_count": 11,
+          "tweet_count": 16701
+        },
+        "url": "https://t.co/Rj8p3CvmoW",
+        "username": "qiand33",
+        "verified": true
+      }
+    ]
+  }
+}

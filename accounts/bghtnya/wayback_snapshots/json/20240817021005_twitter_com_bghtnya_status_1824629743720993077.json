@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1824476599494086745",
+    "created_at": "2024-08-17T02:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T03:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824629743720993077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1412647630002262020",
+          "start": 0,
+          "username": "theergold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824629743720993077",
+    "in_reply_to_user_id": "1412647630002262020",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824476599494086745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theergold 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1824476599494086745",
+        "created_at": "2024-08-17T02:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T03:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824629743720993077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1412647630002262020",
+              "start": 0,
+              "username": "theergold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824629743720993077",
+        "in_reply_to_user_id": "1412647630002262020",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824476599494086745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theergold 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824476591222878208"
+          ]
+        },
+        "author_id": "1412647630002262020",
+        "conversation_id": "1824476599494086745",
+        "created_at": "2024-08-16T16:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T17:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824476599494086745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0blhdoifvr",
+              "end": 56,
+              "expanded_url": "https://twitter.com/theergold/status/1824476599494086745/photo/1",
+              "media_key": "3_1824476591222878208",
+              "start": 33,
+              "url": "https://t.co/0BlhDoIfvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824476599494086745",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1352,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚是小女仆哦( ❛⃘ ∨ ❜⃘⃘ )੭⁂\n（初音抱枕超级可爱！ https://t.co/0BlhDoIfvR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 1471,
+          "like_count": 88524,
+          "listed_count": 10,
+          "tweet_count": 19153
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T05:42:53.000Z",
+        "description": "",
+        "id": "1412647630002262020",
+        "name": "Theergold",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612340156970962945/tsqFgW0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 459,
+          "like_count": 9296,
+          "listed_count": 0,
+          "tweet_count": 163
+        },
+        "username": "theergold",
+        "verified": false
+      }
+    ]
+  }
+}

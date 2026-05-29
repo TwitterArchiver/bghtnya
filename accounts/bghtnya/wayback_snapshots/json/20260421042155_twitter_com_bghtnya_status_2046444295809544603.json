@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2046323018092380564",
+    "created_at": "2026-04-21T04:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046444295809544603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 2,
+          "id": "783214",
+          "start": 0,
+          "username": "X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046444295809544603",
+    "in_reply_to_user_id": "783214",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046323018092380564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X fuck you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2046323018092380564",
+        "created_at": "2026-04-21T04:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046444295809544603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 2,
+              "id": "783214",
+              "start": 0,
+              "username": "X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046444295809544603",
+        "in_reply_to_user_id": "783214",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046323018092380564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X fuck you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "783214",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2046323018092380564",
+        "created_at": "2026-04-20T20:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046323018092380564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046323018092380564",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2494,
+          "impression_count": 7877785,
+          "like_count": 39020,
+          "quote_count": 4582,
+          "reply_count": 10689,
+          "retweet_count": 6105
+        },
+        "reply_settings": "everyone",
+        "text": "hehehe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9009,
+          "following_count": 2142,
+          "like_count": 177178,
+          "listed_count": 19,
+          "media_count": 3849,
+          "tweet_count": 47183
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "location": "everywhere",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60864442,
+          "following_count": 1,
+          "like_count": 5988,
+          "listed_count": 85159,
+          "media_count": 2485,
+          "tweet_count": 15692
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true
+      }
+    ]
+  }
+}

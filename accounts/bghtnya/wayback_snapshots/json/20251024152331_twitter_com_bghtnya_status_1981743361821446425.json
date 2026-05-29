@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981236232173588480"
+      ],
+      "media_source_tweet_id": [
+        "1981236242730844224"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1981743361821446425",
+    "created_at": "2025-10-24T15:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T16:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981743361821446425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1816123872087007235",
+          "start": 3,
+          "username": "jim71351321670"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FTOytwfgiP",
+          "end": 43,
+          "expanded_url": "https://x.com/jim71351321670/status/1981236242730844224/photo/1",
+          "media_key": "3_1981236232173588480",
+          "start": 20,
+          "url": "https://t.co/FTOytwfgiP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981743361821446425",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981236242730844224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jim71351321670: https://t.co/FTOytwfgiP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1882,
+        "media_key": "3_1981236232173588480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37D2yrXEAAR7vk.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981236232173588480"
+          ],
+          "media_source_tweet_id": [
+            "1981236242730844224"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1981743361821446425",
+        "created_at": "2025-10-24T15:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981743361821446425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1816123872087007235",
+              "start": 3,
+              "username": "jim71351321670"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTOytwfgiP",
+              "end": 43,
+              "expanded_url": "https://x.com/jim71351321670/status/1981236242730844224/photo/1",
+              "media_key": "3_1981236232173588480",
+              "start": 20,
+              "url": "https://t.co/FTOytwfgiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981743361821446425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981236242730844224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jim71351321670: https://t.co/FTOytwfgiP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981236232173588480"
+          ]
+        },
+        "author_id": "1816123872087007235",
+        "conversation_id": "1981236242730844224",
+        "created_at": "2025-10-23T05:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981236242730844224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTOytwfgiP",
+              "end": 23,
+              "expanded_url": "https://x.com/jim71351321670/status/1981236242730844224/photo/1",
+              "media_key": "3_1981236232173588480",
+              "start": 0,
+              "url": "https://t.co/FTOytwfgiP"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1981236242730844224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 301735,
+          "like_count": 2103,
+          "quote_count": 13,
+          "reply_count": 25,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FTOytwfgiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7971,
+          "following_count": 2096,
+          "like_count": 164799,
+          "listed_count": 19,
+          "media_count": 3306,
+          "tweet_count": 41508
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n因為幫女的說話被開除男籍，因為幫男的說話被開除女籍，因為幫正常人說話被開除同跨籍，現在已經不在三界之外，五行之中。😭\n  平壤江東郡現任執事【2025-2028】\n主人：@xmin240286 第二書記：@yanshiyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xmin240286"
+              },
+              {
+                "end": 142,
+                "start": 133,
+                "username": "yanshiyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "admin.khh.travel",
+                "end": 23,
+                "expanded_url": "https://admin.khh.travel/",
+                "start": 0,
+                "url": "https://t.co/sr3UvrcjOD"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "中華民國高雄市",
+        "name": "Left Wilting🇨🇳🇹🇼【江東執事】（機械人bot）",
+        "pinned_tweet_id": "1981236242730844224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 602,
+          "like_count": 12220,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/sr3UvrcjOD",
+        "username": "jim71351321670",
+        "verified": false
+      }
+    ]
+  }
+}

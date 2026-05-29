@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965633551652847618"
+      ],
+      "media_source_tweet_id": [
+        "1965633554769215905"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1966327932487680276",
+    "created_at": "2025-09-12T02:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T03:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966327932487680276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842203626418409472",
+          "start": 3,
+          "username": "yyyzlz3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t5tvG9IBgH",
+          "end": 36,
+          "expanded_url": "https://x.com/yyyzlz3/status/1965633554769215905/photo/1",
+          "media_key": "3_1965633551652847618",
+          "start": 13,
+          "url": "https://t.co/t5tvG9IBgH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966327932487680276",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965633554769215905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyyzlz3: https://t.co/t5tvG9IBgH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1317,
+        "media_key": "3_1965633551652847618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0dVTQTbgAIDhBe.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965633551652847618"
+          ],
+          "media_source_tweet_id": [
+            "1965633554769215905"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1966327932487680276",
+        "created_at": "2025-09-12T02:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966327932487680276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842203626418409472",
+              "start": 3,
+              "username": "yyyzlz3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5tvG9IBgH",
+              "end": 36,
+              "expanded_url": "https://x.com/yyyzlz3/status/1965633554769215905/photo/1",
+              "media_key": "3_1965633551652847618",
+              "start": 13,
+              "url": "https://t.co/t5tvG9IBgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966327932487680276",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965633554769215905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyyzlz3: https://t.co/t5tvG9IBgH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965633551652847618"
+          ]
+        },
+        "author_id": "1842203626418409472",
+        "conversation_id": "1965633554769215905",
+        "created_at": "2025-09-10T04:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965633554769215905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5tvG9IBgH",
+              "end": 23,
+              "expanded_url": "https://x.com/yyyzlz3/status/1965633554769215905/photo/1",
+              "media_key": "3_1965633551652847618",
+              "start": 0,
+              "url": "https://t.co/t5tvG9IBgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965633554769215905",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 247629,
+          "like_count": 1651,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/t5tvG9IBgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一学生 / 📍 坐标北京海淀 / 🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7454,
+          "following_count": 2072,
+          "like_count": 158087,
+          "listed_count": 19,
+          "media_count": 3141,
+          "tweet_count": 39990
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T14:02:46.000Z",
+        "description": "@yzhlzi3二代目，旧账处于封禁和未封禁之间的量子叠加态，我带着梗图和对🐜🐉的怨恨回来了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "yzhlzi3"
+              }
+            ]
+          }
+        },
+        "id": "1842203626418409472",
+        "location": "罗克萨特主义合众国联盟",
+        "name": "狸",
+        "pinned_tweet_id": "1961348886498554330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965335406511296513/n9cTYrnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 390,
+          "like_count": 6931,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1710
+        },
+        "username": "yyyzlz3",
+        "verified": false
+      }
+    ]
+  }
+}

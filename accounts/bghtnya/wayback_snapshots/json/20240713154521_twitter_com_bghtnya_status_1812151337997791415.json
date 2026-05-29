@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1812059253886324756",
+    "created_at": "2024-07-13T15:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T16:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812151337997791415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 24,
+          "id": "1345706318703722496",
+          "start": 11,
+          "username": "OriyukiAkari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812151337997791415",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812151184121352700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @OriyukiAkari xm富姐打车"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1812151184121352700].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1812151184121352700",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1812151184121352700"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1812059253886324756",
+        "created_at": "2024-07-13T15:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T16:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812151337997791415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 24,
+              "id": "1345706318703722496",
+              "start": 11,
+              "username": "OriyukiAkari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812151337997791415",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812151184121352700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @OriyukiAkari xm富姐打车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 1416,
+          "like_count": 78161,
+          "listed_count": 7,
+          "tweet_count": 16562
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/天残党/深柜/INT(F?)P/音游人/\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 898,
+          "like_count": 21735,
+          "listed_count": 5,
+          "tweet_count": 4264
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T12:20:19.000Z",
+        "description": "〇 18.y.o 〇 男大 〇 简中｜Eng｜日本語 〇 CS｜金融｜数码 〇 友🏳️‍⚧️ 〇 对上电波的会Fo 〇",
+        "id": "1345706318703722496",
+        "location": "P.R.China",
+        "name": "鸢",
+        "pinned_tweet_id": "1755984910152601828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788330455902855169/TIIDX8h1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 93,
+          "like_count": 4168,
+          "listed_count": 0,
+          "tweet_count": 2182
+        },
+        "username": "OriyukiAkari",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966842293673226249"
+      ],
+      "media_source_tweet_id": [
+        "1966842432970223980"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1967269723646963856",
+    "created_at": "2025-09-14T16:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T17:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967269723646963856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "223710779",
+          "start": 3,
+          "username": "gishiki_unc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nFqpWUgMwT",
+          "end": 40,
+          "expanded_url": "https://x.com/gishiki_unc/status/1966842432970223980/photo/1",
+          "media_key": "3_1966842293673226249",
+          "start": 17,
+          "url": "https://t.co/nFqpWUgMwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967269723646963856",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 994
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966842432970223980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gishiki_unc: https://t.co/nFqpWUgMwT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1966842293673226249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ugpTObcAkIQv9.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966842293673226249"
+          ],
+          "media_source_tweet_id": [
+            "1966842432970223980"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1967269723646963856",
+        "created_at": "2025-09-14T16:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T17:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967269723646963856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "223710779",
+              "start": 3,
+              "username": "gishiki_unc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFqpWUgMwT",
+              "end": 40,
+              "expanded_url": "https://x.com/gishiki_unc/status/1966842432970223980/photo/1",
+              "media_key": "3_1966842293673226249",
+              "start": 17,
+              "url": "https://t.co/nFqpWUgMwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967269723646963856",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 994
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966842432970223980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gishiki_unc: https://t.co/nFqpWUgMwT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966842293673226249"
+          ]
+        },
+        "author_id": "223710779",
+        "conversation_id": "1966842432970223980",
+        "created_at": "2025-09-13T12:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966842432970223980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFqpWUgMwT",
+              "end": 23,
+              "expanded_url": "https://x.com/gishiki_unc/status/1966842432970223980/photo/1",
+              "media_key": "3_1966842293673226249",
+              "start": 0,
+              "url": "https://t.co/nFqpWUgMwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966842432970223980",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1037,
+          "impression_count": 152004,
+          "like_count": 11066,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 994
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nFqpWUgMwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7498,
+          "following_count": 2080,
+          "like_count": 158923,
+          "listed_count": 18,
+          "media_count": 3149,
+          "tweet_count": 40128
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-07T03:42:14.000Z",
+        "description": "FANBOX→ https://t.co/ElvfRXkxMM / Bluesky→ https://t.co/xuftdkGvnj / insta→ https://t.co/Ensd7reRfp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gishiki-unc.fanbox.cc",
+                "end": 31,
+                "expanded_url": "http://gishiki-unc.fanbox.cc",
+                "start": 8,
+                "url": "https://t.co/ElvfRXkxMM"
+              },
+              {
+                "display_url": "bsky.app/profile/gishik…",
+                "end": 66,
+                "expanded_url": "https://bsky.app/profile/gishiki.bsky.social",
+                "start": 43,
+                "url": "https://t.co/xuftdkGvnj"
+              },
+              {
+                "display_url": "instagram.com/gishiki_unc/",
+                "end": 99,
+                "expanded_url": "http://instagram.com/gishiki_unc/",
+                "start": 76,
+                "url": "https://t.co/Ensd7reRfp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deathangels.shop",
+                "end": 23,
+                "expanded_url": "https://deathangels.shop/",
+                "start": 0,
+                "url": "https://t.co/aMdXskutjv"
+              }
+            ]
+          }
+        },
+        "id": "223710779",
+        "name": "儀式",
+        "pinned_tweet_id": "1957013008166604977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952104897186529280/ojX1ws7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371471,
+          "following_count": 365,
+          "like_count": 9306,
+          "listed_count": 2958,
+          "media_count": 928,
+          "tweet_count": 3761
+        },
+        "url": "https://t.co/aMdXskutjv",
+        "username": "gishiki_unc",
+        "verified": true
+      }
+    ]
+  }
+}

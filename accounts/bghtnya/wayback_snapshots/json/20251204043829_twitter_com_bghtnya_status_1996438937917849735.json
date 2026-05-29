@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1996090710664380612",
+    "created_at": "2025-12-04T04:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T05:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996438937917849735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        },
+        {
+          "end": 24,
+          "id": "1912003169842040832",
+          "start": 11,
+          "username": "maika111nobu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996438937917849735",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996152959064035488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko @maika111nobu 宪法也有"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996152959064035488].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996152959064035488",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996152959064035488"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1996090710664380612",
+        "created_at": "2025-12-04T04:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996438937917849735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            },
+            {
+              "end": 24,
+              "id": "1912003169842040832",
+              "start": 11,
+              "username": "maika111nobu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996438937917849735",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996152959064035488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko @maika111nobu 宪法也有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8308,
+          "following_count": 2121,
+          "like_count": 171821,
+          "listed_count": 20,
+          "media_count": 3570,
+          "tweet_count": 43881
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "7-20-1999/2012",
+        "id": "1261560609214087168",
+        "name": "南茜",
+        "pinned_tweet_id": "1962915094620504138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4534,
+          "following_count": 1264,
+          "like_count": 127672,
+          "listed_count": 58,
+          "media_count": 5764,
+          "tweet_count": 56643
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T04:41:07.000Z",
+        "description": "♂/日本語を勉強中/\n最喜欢p主@maretu01/\n最喜欢术ホワイトハッピー/\n画画手残党/\n骂人不牵扯父母，先恶意对我的人死一边/\n第二人格@asumehoda111/@maumao1272586\n推上最好的两位朋友：@Treverie_/@leaderxiu\n/对象@X16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "maretu01"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "asumehoda111"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "maumao1272586"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "Treverie_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "leaderxiu"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "X16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1912003169842040832",
+        "location": "アナタノココロ",
+        "name": "脳電波NōdenPa",
+        "pinned_tweet_id": "1990398447426408509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995885908286210056/Eo0gu83d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 245,
+          "like_count": 6014,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1686
+        },
+        "username": "maika111nobu",
+        "verified": false
+      }
+    ]
+  }
+}

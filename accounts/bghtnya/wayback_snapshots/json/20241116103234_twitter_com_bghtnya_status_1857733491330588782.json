@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "1857688002795024458",
+    "created_at": "2024-11-16T10:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T11:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857733491330588782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722343055163027456",
+          "start": 0,
+          "username": "HakuAzusaSaki"
+        },
+        {
+          "end": 24,
+          "id": "44196397",
+          "start": 15,
+          "username": "elonmusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857733491330588782",
+    "in_reply_to_user_id": "1722343055163027456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857726287063953597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HakuAzusaSaki @elonmusk 你所热爱的，就是你的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1857688002795024458",
+        "created_at": "2024-11-16T10:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857733491330588782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722343055163027456",
+              "start": 0,
+              "username": "HakuAzusaSaki"
+            },
+            {
+              "end": 24,
+              "id": "44196397",
+              "start": 15,
+              "username": "elonmusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857733491330588782",
+        "in_reply_to_user_id": "1722343055163027456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857726287063953597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HakuAzusaSaki @elonmusk 你所热爱的，就是你的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722343055163027456",
+        "conversation_id": "1857688002795024458",
+        "created_at": "2024-11-16T10:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857726287063953597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857726287063953597",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857691771544940879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 2007，2008都改不了，我无法更改此设置，马斯克我要骂人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3442,
+          "following_count": 1568,
+          "like_count": 105252,
+          "listed_count": 9,
+          "tweet_count": 24847
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T19:59:26.000Z",
+        "description": "重樱之鲨 | 犹记当时灯火朦胧，烟花盛世，终成旧梦 |love @QiuTtang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "QiuTtang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 0,
+                "url": "https://t.co/oxS1kEY79L"
+              }
+            ]
+          }
+        },
+        "id": "1722343055163027456",
+        "location": "见泷原",
+        "name": "白梓咲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857065181399932929/ZUJ-aA6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 312,
+          "like_count": 1852,
+          "listed_count": 0,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/oxS1kEY79L",
+        "username": "HakuAzusaSaki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "The people voted for major government reform",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "1857457274102403138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849727333617573888/HBgPUrjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204912510,
+          "following_count": 825,
+          "like_count": 90432,
+          "listed_count": 154064,
+          "tweet_count": 58635
+        },
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

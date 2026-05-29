@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1943289962730000841",
+    "created_at": "2025-07-10T12:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T13:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943289962730000841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835753359015624704",
+          "start": 3,
+          "username": "aoi_mti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943289962730000841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943278914316517879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoi_mti: 迅速的面\n又迅速的撤\n\n明天见！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1943289962730000841",
+        "created_at": "2025-07-10T12:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943289962730000841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835753359015624704",
+              "start": 3,
+              "username": "aoi_mti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943289962730000841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943278914316517879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoi_mti: 迅速的面\n又迅速的撤\n\n明天见！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835753359015624704",
+        "conversation_id": "1943278914316517879",
+        "created_at": "2025-07-10T11:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T12:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943278914316517879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/bghtnya/status/1943278515421614385",
+              "start": 17,
+              "url": "https://t.co/HxBMNZW2iS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943278914316517879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943278515421614385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "迅速的面\n又迅速的撤\n\n明天见！ https://t.co/HxBMNZW2iS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7103,
+          "following_count": 2019,
+          "like_count": 151600,
+          "listed_count": 17,
+          "media_count": 2879,
+          "tweet_count": 38050
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "杭州地铁 bot / 微信公众号 aoinoheya / maimai / 严重 ASD 注意 / 英語教師 / @aoimti02 / https://t.co/WLQhXMNMNv / 非二元性别努力中 / 日本語可 / 連絡はメールまで / 上海言话学习中 / 长三角创业公司 HR Lead",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "aoimti02"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/j8aX2rt2",
+                "end": 92,
+                "expanded_url": "https://discord.gg/j8aX2rt2",
+                "start": 69,
+                "url": "https://t.co/WLQhXMNMNv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/gjzPrisrKk"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "Hangzhou, Zhejiang & Shanghai ",
+        "name": "Aoi M - T.I.",
+        "pinned_tweet_id": "1942219196613685402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929219142609154048/Opc5NMtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1408,
+          "like_count": 38253,
+          "listed_count": 6,
+          "media_count": 1956,
+          "tweet_count": 7966
+        },
+        "url": "https://t.co/gjzPrisrKk",
+        "username": "aoi_mti",
+        "verified": true
+      }
+    ]
+  }
+}

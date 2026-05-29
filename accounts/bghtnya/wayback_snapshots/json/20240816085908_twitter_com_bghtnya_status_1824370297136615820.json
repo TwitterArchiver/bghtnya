@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1824328191646789988",
+    "created_at": "2024-08-16T08:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T09:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824370297136615820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580368006525616128",
+          "start": 0,
+          "username": "Allknowbody"
+        },
+        {
+          "end": 29,
+          "id": "25073877",
+          "start": 13,
+          "username": "realDonaldTrump"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824370297136615820",
+    "in_reply_to_user_id": "1580368006525616128",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824328191646789988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allknowbody @realDonaldTrump"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1824328191646789988",
+        "created_at": "2024-08-16T08:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T09:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824370297136615820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580368006525616128",
+              "start": 0,
+              "username": "Allknowbody"
+            },
+            {
+              "end": 29,
+              "id": "25073877",
+              "start": 13,
+              "username": "realDonaldTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824370297136615820",
+        "in_reply_to_user_id": "1580368006525616128",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824328191646789988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allknowbody @realDonaldTrump"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824328188304166915"
+          ]
+        },
+        "author_id": "1580368006525616128",
+        "conversation_id": "1824328191646789988",
+        "created_at": "2024-08-16T06:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T07:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824328191646789988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xd5ra8ktm",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Allknowbody/status/1824328191646789988/photo/1",
+              "media_key": "3_1824328188304166915",
+              "start": 12,
+              "url": "https://t.co/9Xd5ra8KTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824328191646789988",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@出你认为全推最丑的人 https://t.co/9Xd5ra8KTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 1467,
+          "like_count": 88228,
+          "listed_count": 10,
+          "tweet_count": 19084
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T01:21:22.000Z",
+        "description": "互fo私信/先天百合圣体/简介还在招募亲友，直接和我说就行，只过熟人  喜欢的凉 @MengSanba54477  社@zhao_Remake 雨@Romanorum 友https://t.co/GGXrOra6BN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "MengSanba54477"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "zhao_Remake"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "Romanorum"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/wbizZD1cKX",
+                "end": 108,
+                "expanded_url": "https://line.me/ti/p/wbizZD1cKX",
+                "start": 85,
+                "url": "https://t.co/GGXrOra6BN"
+              }
+            ]
+          }
+        },
+        "id": "1580368006525616128",
+        "location": "33重天",
+        "name": "千早愛音 🟨🌗⬛",
+        "pinned_tweet_id": "1822252304067699005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824333391749337088/zsXjn6lQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 2671,
+          "like_count": 3762,
+          "listed_count": 4,
+          "tweet_count": 33015
+        },
+        "username": "Allknowbody",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-18T13:46:38.000Z",
+        "description": "45th President of the United States of America🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DonaldJTrump.com",
+                "end": 23,
+                "expanded_url": "http://DonaldJTrump.com",
+                "start": 0,
+                "url": "https://t.co/mjKdTvQzae"
+              }
+            ]
+          }
+        },
+        "id": "25073877",
+        "name": "Donald J. Trump",
+        "pinned_tweet_id": "1823430600872878321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89475118,
+          "following_count": 50,
+          "like_count": 0,
+          "listed_count": 114672,
+          "tweet_count": 59134
+        },
+        "url": "https://t.co/mjKdTvQzae",
+        "username": "realDonaldTrump",
+        "verified": true
+      }
+    ]
+  }
+}

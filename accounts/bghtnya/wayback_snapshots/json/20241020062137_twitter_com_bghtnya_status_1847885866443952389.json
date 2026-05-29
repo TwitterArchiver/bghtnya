@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1847878517561905651",
+    "created_at": "2024-10-20T06:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T07:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847885866443952389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781937276349550592",
+          "start": 0,
+          "username": "zindganjalan"
+        },
+        {
+          "end": 30,
+          "id": "1826871427972362240",
+          "start": 14,
+          "username": "misaka__network"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847885866443952389",
+    "in_reply_to_user_id": "1781937276349550592",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847885227009724850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zindganjalan @misaka__network 你能否解释 《一般我认为这两个维度的是同步的，就比如说github上很多项目的大佬都是二次元头像，体现出文化和科技的同步进步性》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1847878517561905651",
+        "created_at": "2024-10-20T06:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T07:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847885866443952389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781937276349550592",
+              "start": 0,
+              "username": "zindganjalan"
+            },
+            {
+              "end": 30,
+              "id": "1826871427972362240",
+              "start": 14,
+              "username": "misaka__network"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847885866443952389",
+        "in_reply_to_user_id": "1781937276349550592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847885227009724850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zindganjalan @misaka__network 你能否解释 《一般我认为这两个维度的是同步的，就比如说github上很多项目的大佬都是二次元头像，体现出文化和科技的同步进步性》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781937276349550592",
+        "conversation_id": "1847878517561905651",
+        "created_at": "2024-10-20T06:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T07:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847885227009724850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 25,
+              "id": "1826871427972362240",
+              "start": 9,
+              "username": "misaka__network"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847885227009724850",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847881471421460553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @misaka__network 我发过这个 原教旨保守主义如何和技术官僚、科学实在论者互动的…可以多看思想史"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3137,
+          "following_count": 1542,
+          "like_count": 100757,
+          "listed_count": 9,
+          "tweet_count": 23166
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T06:45:41.000Z",
+        "description": "多语种 /gender：she her/ ethnic：Qaračin Mongolian /lesbian / 人类学、古典史、宗教研究、语言学相关 印度伊朗专精｜ܒܓܐ ܪܘܫܢ ܙܐܘܪܐ ܘܗܝܗ Mysticism 爱人与姐妹：@MuyuShaya42901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "MuyuShaya42901"
+              }
+            ]
+          }
+        },
+        "id": "1781937276349550592",
+        "location": "qaračin jegün qošiğu",
+        "name": "🎀Inçušeyan嘉兰娜📝",
+        "pinned_tweet_id": "1819756593774293295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793525513937678336/i-9CWHN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1227,
+          "like_count": 317,
+          "listed_count": 0,
+          "tweet_count": 550
+        },
+        "username": "zindganjalan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T06:38:09.000Z",
+        "description": "Pronoun: Misaka/Misaka's;\nGPG Key Fingerprint : \nC6EE 98C9 0714 4E04 81A7  8874 256D 314E F566 D12A\nCA25 14E9 3307 7868 A070  6314 469E 4E0E CE23 01E4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "misaka-makoto.github.io",
+                "end": 23,
+                "expanded_url": "http://misaka-makoto.github.io",
+                "start": 0,
+                "url": "https://t.co/Gbt4CLz2if"
+              }
+            ]
+          }
+        },
+        "id": "1826871427972362240",
+        "location": "/Users/MisakaNetworkServices/",
+        "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️@🇳🇿*🇦🇶O🇹🇼",
+        "pinned_tweet_id": "1827748764364472464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826886163657105408/KV2SG0F2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 156,
+          "like_count": 8796,
+          "listed_count": 0,
+          "tweet_count": 1751
+        },
+        "url": "https://t.co/Gbt4CLz2if",
+        "username": "misaka__network",
+        "verified": false
+      }
+    ]
+  }
+}

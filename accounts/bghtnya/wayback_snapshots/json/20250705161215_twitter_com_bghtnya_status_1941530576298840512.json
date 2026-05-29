@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1941519466099249610",
+    "created_at": "2025-07-05T16:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T17:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941530576298840512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941530576298840512",
+    "in_reply_to_user_id": "1502654786453204994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941519466099249610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_1941519463112912896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGpqkNaMAAOT2b.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1941519466099249610",
+        "created_at": "2025-07-05T16:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941530576298840512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941530576298840512",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941519466099249610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941519463112912896"
+          ]
+        },
+        "author_id": "1502654786453204994",
+        "conversation_id": "1941519466099249610",
+        "created_at": "2025-07-05T15:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941519466099249610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3kCmOEb26",
+              "end": 41,
+              "expanded_url": "https://x.com/uranus_chaos/status/1941519466099249610/photo/1",
+              "media_key": "3_1941519463112912896",
+              "start": 18,
+              "url": "https://t.co/a3kCmOEb26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941519466099249610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评论“喵”即可获取小诺对你的好感度 https://t.co/a3kCmOEb26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7074,
+          "following_count": 2019,
+          "like_count": 152356,
+          "listed_count": 17,
+          "media_count": 2859,
+          "tweet_count": 37904
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYIIS"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "天才SM少女红心K🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1940892006949310848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770688626776752128/wJvCr3Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 232,
+          "like_count": 18392,
+          "listed_count": 0,
+          "media_count": 688,
+          "tweet_count": 5845
+        },
+        "url": "https://t.co/ResOORYIIS",
+        "username": "uranus_chaos",
+        "verified": false
+      }
+    ]
+  }
+}

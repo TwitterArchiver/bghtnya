@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2028902706543501550",
+    "created_at": "2026-03-05T13:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T14:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029545312617214122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 27,
+          "id": "1956544219751063552",
+          "start": 16,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029545312617214122",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029534628244271268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @wu_si42846 堪比钟离假死"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029534628244271268].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2029534628244271268",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2029534628244271268"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2028902706543501550",
+        "created_at": "2026-03-05T13:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029545312617214122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 27,
+              "id": "1956544219751063552",
+              "start": 16,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029545312617214122",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029534628244271268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @wu_si42846 堪比钟离假死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9183,
+          "following_count": 2141,
+          "like_count": 176063,
+          "listed_count": 18,
+          "media_count": 3812,
+          "tweet_count": 46610
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 F PgdStu🎧🍟🍔🥤🚪1680JPY/CN/EN/JP 😘🍩 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています🍬",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1854448337673699556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 4858,
+          "like_count": 30575,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 19063
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "最强大脑的天才末影人🔪- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生/✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "dbdbsjbsja"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2024329117580349689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 669,
+          "like_count": 24929,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 8485
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

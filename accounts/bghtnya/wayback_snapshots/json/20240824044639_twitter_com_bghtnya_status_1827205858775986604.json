@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1827172243052576802",
+    "created_at": "2024-08-24T04:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T05:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827205858775986604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639929500753600512",
+          "start": 0,
+          "username": "TsuCi_NoE_YoRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827205858775986604",
+    "in_reply_to_user_id": "1639929500753600512",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827172243052576802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TsuCi_NoE_YoRu 让它关注到唯一真神反二吧了hhhh"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1827172243052576802].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1827172243052576802",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1827172243052576802"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1827172243052576802",
+        "created_at": "2024-08-24T04:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T05:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827205858775986604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639929500753600512",
+              "start": 0,
+              "username": "TsuCi_NoE_YoRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827205858775986604",
+        "in_reply_to_user_id": "1639929500753600512",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827172243052576802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TsuCi_NoE_YoRu 让它关注到唯一真神反二吧了hhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 1488,
+          "like_count": 90076,
+          "listed_count": 10,
+          "tweet_count": 19540
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T09:57:30.000Z",
+        "description": "這個被zyn套皮的仿冒號@Yoru_TsCiNoE1似掉之後\n我才會解開鎖推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Yoru_TsCiNoE1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/tsuchinoeyo",
+                "end": 23,
+                "expanded_url": "https://twitter.com/tsuchinoeyo",
+                "start": 0,
+                "url": "https://t.co/MbQSeWJRFy"
+              }
+            ]
+          }
+        },
+        "id": "1639929500753600512",
+        "location": "公元一九六六年陰曆九月廿八的兲朝沙東省曲阜縣某個足球場",
+        "name": "Ⓐ☭🏴🚩🏴‍☠️戊亱ﾂﾁﾉｴﾖﾙ💛🤍💜🖤（ZYN 4000+）",
+        "pinned_tweet_id": "1817618856153845861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808057339515396097/OMYGFmGn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 1204,
+          "like_count": 12115,
+          "listed_count": 3,
+          "tweet_count": 4215
+        },
+        "url": "https://t.co/MbQSeWJRFy",
+        "username": "TsuCi_NoE_YoRu",
+        "verified": false
+      }
+    ]
+  }
+}

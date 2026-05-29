@@ -1,0 +1,637 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024410376155340800"
+      ],
+      "media_source_tweet_id": [
+        "2024410629562667232"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2024449399775215831",
+    "created_at": "2026-02-19T11:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024449399775215831"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "華ロリちゃん",
+          "probability": 0.4134,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1263087080973807617",
+          "start": 3,
+          "username": "yachippppp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WHZ2C3xZ3n",
+          "end": 52,
+          "expanded_url": "https://x.com/yachippppp/status/2024410629562667232/photo/1",
+          "media_key": "3_2024410376155340800",
+          "start": 29,
+          "url": "https://t.co/WHZ2C3xZ3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024449399775215831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024410629562667232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yachippppp: 華ロリちゃん🐼新年快乐！ https://t.co/WHZ2C3xZ3n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2699,
+        "media_key": "3_2024410376155340800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgmguZaoAAVpSc.jpg",
+        "width": 1506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024410376155340800"
+          ],
+          "media_source_tweet_id": [
+            "2024410629562667232"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2024449399775215831",
+        "created_at": "2026-02-19T11:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024449399775215831"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "華ロリちゃん",
+              "probability": 0.4134,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1263087080973807617",
+              "start": 3,
+              "username": "yachippppp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHZ2C3xZ3n",
+              "end": 52,
+              "expanded_url": "https://x.com/yachippppp/status/2024410629562667232/photo/1",
+              "media_key": "3_2024410376155340800",
+              "start": 29,
+              "url": "https://t.co/WHZ2C3xZ3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024449399775215831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024410629562667232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yachippppp: 華ロリちゃん🐼新年快乐！ https://t.co/WHZ2C3xZ3n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024410376155340800"
+          ]
+        },
+        "author_id": "1263087080973807617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2024410629562667232",
+        "created_at": "2026-02-19T09:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024410629562667232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "華ロリちゃん",
+              "probability": 0.4247,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHZ2C3xZ3n",
+              "end": 36,
+              "expanded_url": "https://x.com/yachippppp/status/2024410629562667232/photo/1",
+              "media_key": "3_2024410376155340800",
+              "start": 13,
+              "url": "https://t.co/WHZ2C3xZ3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024410629562667232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4798,
+          "like_count": 249,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "華ロリちゃん🐼新年快乐！ https://t.co/WHZ2C3xZ3n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2023057004500296149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8961,
+          "following_count": 2077,
+          "like_count": 173373,
+          "listed_count": 17,
+          "media_count": 3754,
+          "tweet_count": 45850
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-20T12:44:17.000Z",
+        "description": "ちうね（＠yachixxxxxx)の健全なアカウントです。秋丸ねう名義で学マスアンソロ参加したよ きららキャラットで「紡ぐ乙女と大正の月」連載してました。お仕事のご依頼はchiune329⭐︎https://t.co/ESNqlmjveQ(⭐︎→@)まで 単行本→https://t.co/JUsP17B0uC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "yachixxxxxx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 119,
+                "expanded_url": "http://gmail.com",
+                "start": 96,
+                "url": "https://t.co/ESNqlmjveQ"
+              },
+              {
+                "display_url": "amazon.co.jp/dp/4832271997/",
+                "end": 155,
+                "expanded_url": "http://amazon.co.jp/dp/4832271997/",
+                "start": 132,
+                "url": "https://t.co/JUsP17B0uC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiunetube",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@chiunetube",
+                "start": 0,
+                "url": "https://t.co/0ei6hjpE4n"
+              }
+            ]
+          }
+        },
+        "id": "1263087080973807617",
+        "location": "締切でリンボーダンス",
+        "name": "ちうね",
+        "pinned_tweet_id": "2001932586374017157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263090551596802049/CBn6WK99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21791,
+          "following_count": 104,
+          "like_count": 6768,
+          "listed_count": 189,
+          "media_count": 858,
+          "tweet_count": 11046
+        },
+        "url": "https://t.co/0ei6hjpE4n",
+        "username": "yachippppp",
+        "verified": true
+      }
+    ]
+  }
+}

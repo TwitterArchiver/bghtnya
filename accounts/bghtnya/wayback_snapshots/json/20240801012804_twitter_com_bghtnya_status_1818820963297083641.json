@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1818642750738513940",
+    "created_at": "2024-08-01T01:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T02:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818820963297083641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818820963297083641",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818806621029773773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 这个应该没什么问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1818642750738513940",
+        "created_at": "2024-08-01T01:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T02:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818820963297083641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818820963297083641",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818806621029773773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 这个应该没什么问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "1818642750738513940",
+        "created_at": "2024-08-01T00:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T01:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818806621029773773"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "泰补和",
+              "probability": 0.5884,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818806621029773773",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818660966374212003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 泰补和土色各三板"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1444,
+          "like_count": 82316,
+          "listed_count": 9,
+          "tweet_count": 17836
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF 🍥24.3.12 | 炸柜 可能是家长不管党 | 坐标山东济宁 欢迎来贴贴 | 日常碎碎念 不键政 | 对咱最好的姐姐 @Kisaragi_Momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "Kisaragi_Momoe"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "中华人民共和国 山东省 济宁市",
+        "name": "綾乃Ayano🍥",
+        "pinned_tweet_id": "1818245692995084387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763609097147183104/Awu7gGXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 763,
+          "like_count": 929,
+          "listed_count": 0,
+          "tweet_count": 1235
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

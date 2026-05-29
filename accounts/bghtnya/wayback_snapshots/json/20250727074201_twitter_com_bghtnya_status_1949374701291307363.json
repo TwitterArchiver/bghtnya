@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1949334170670432463",
+    "created_at": "2025-07-27T07:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T08:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949374701291307363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1236317911431536640",
+          "start": 0,
+          "username": "RusndageSNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949374701291307363",
+    "in_reply_to_user_id": "1236317911431536640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949364324637737044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RusndageSNF 与其皇帝，后者更重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1949334170670432463",
+        "created_at": "2025-07-27T07:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T08:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949374701291307363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949374701291307363",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949364324637737044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 与其皇帝，后者更重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949334170670432463",
+        "created_at": "2025-07-27T07:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T08:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949364324637737044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949364324637737044",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949362297497092567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 我懒得当皇帝，我只想和别人好好相处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7219,
+          "following_count": 2041,
+          "like_count": 154567,
+          "listed_count": 17,
+          "media_count": 2969,
+          "tweet_count": 38722
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1012,
+          "like_count": 26801,
+          "listed_count": 7,
+          "media_count": 466,
+          "tweet_count": 5102
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

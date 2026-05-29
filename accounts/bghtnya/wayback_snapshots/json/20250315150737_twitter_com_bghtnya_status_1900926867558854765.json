@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1900902109790552271",
+    "created_at": "2025-03-15T15:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T16:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900926867558854765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1677212807056723974",
+          "start": 0,
+          "username": "Sanyia_Neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900926867558854765",
+    "in_reply_to_user_id": "1677212807056723974",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900902109790552271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanyia_Neko 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1900902109790552271",
+        "created_at": "2025-03-15T15:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T16:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900926867558854765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1677212807056723974",
+              "start": 0,
+              "username": "Sanyia_Neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900926867558854765",
+        "in_reply_to_user_id": "1677212807056723974",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900902109790552271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanyia_Neko 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677212807056723974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1900902109790552271",
+        "created_at": "2025-03-15T13:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900902109790552271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/bghtnya/status/1900769855462404608",
+              "start": 2,
+              "url": "https://t.co/XMSTkKnINx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900902109790552271",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900769855462404608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/XMSTkKnINx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 1834,
+          "like_count": 124809,
+          "listed_count": 13,
+          "media_count": 2235,
+          "tweet_count": 31469
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T07:08:23.000Z",
+        "description": "MtF(Maybe?）/小证含糖2024-2-13/MECT+TMS/互fo私信/不建政/里推不开放/休学两年/计算机入门/PVE入门/Previous lover：@Rentable_A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Rentable_A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ubuntu.com",
+                "end": 23,
+                "expanded_url": "https://ubuntu.com/",
+                "start": 0,
+                "url": "https://t.co/mSWUbcFZrS"
+              }
+            ]
+          }
+        },
+        "id": "1677212807056723974",
+        "location": "星落湖",
+        "name": "山奈雪阳🍣",
+        "pinned_tweet_id": "1877082396790530114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834502804129677315/NBE-X4HI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 418,
+          "like_count": 8918,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1538
+        },
+        "url": "https://t.co/mSWUbcFZrS",
+        "username": "Sanyia_Neko",
+        "verified": false
+      }
+    ]
+  }
+}

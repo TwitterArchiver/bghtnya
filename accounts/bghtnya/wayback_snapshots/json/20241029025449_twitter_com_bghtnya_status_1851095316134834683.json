@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1850499630418596352",
+    "created_at": "2024-10-29T02:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T03:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851095316134834683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "KillBasi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851095316134834683",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850499630418596352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillBasi1 你说得对（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1850499630418596352",
+        "created_at": "2024-10-29T02:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T03:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851095316134834683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851095316134834683",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850499630418596352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillBasi1 你说得对（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1850499630418596352",
+        "created_at": "2024-10-27T11:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T12:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850499630418596352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850499630418596352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 36767,
+          "like_count": 382,
+          "quote_count": 7,
+          "reply_count": 68,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "感觉名字里带 “重度依赖” 的都很唐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3359,
+          "following_count": 1544,
+          "like_count": 101751,
+          "listed_count": 9,
+          "tweet_count": 23681
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "I love Mari 🥰互动小号： @qhqq114514 傻逼：@RS_100505 （最喜欢干的事情是睡觉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "qhqq114514"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "RS_100505"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "name": "时行（男娘重度依赖",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843973141850402817/REOm-m-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 786,
+          "like_count": 6635,
+          "listed_count": 2,
+          "tweet_count": 215
+        },
+        "username": "KillBasi1",
+        "verified": false
+      }
+    ]
+  }
+}

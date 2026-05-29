@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1975481410053095819",
+    "created_at": "2025-10-08T09:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T10:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975855665928458700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763921497138352128",
+          "start": 0,
+          "username": "damiaoedux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975855665928458700",
+    "in_reply_to_user_id": "1763921497138352128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975813249443766478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damiaoedux wow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1975481410053095819",
+        "created_at": "2025-10-08T09:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T10:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975855665928458700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763921497138352128",
+              "start": 0,
+              "username": "damiaoedux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975855665928458700",
+        "in_reply_to_user_id": "1763921497138352128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975813249443766478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damiaoedux wow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763921497138352128",
+        "conversation_id": "1975481410053095819",
+        "created_at": "2025-10-08T06:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975813249443766478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975813249443766478",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975481410053095819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 我竟然坐过这次车的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/35371135…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/63BEDCHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7884,
+          "following_count": 2081,
+          "like_count": 161644,
+          "listed_count": 20,
+          "media_count": 3234,
+          "tweet_count": 40813
+        },
+        "url": "https://t.co/63BEDCHLlz",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T13:38:04.000Z",
+        "description": "大喵前端致力于用认真、靠谱、踏实的教学方式，培养真正的程序员。\n8年来培养500+名零基础同学成功转行。\n曾将多名零基础、非科班的同学通过半年培养成为大厂正式员工。\n开设有 计算机预科班 和 前端就业班\n不要私信，直接加QQ/微信：285696737",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "damiaoedu.com",
+                "end": 23,
+                "expanded_url": "http://damiaoedu.com",
+                "start": 0,
+                "url": "https://t.co/38N849prrk"
+              }
+            ]
+          }
+        },
+        "id": "1763921497138352128",
+        "location": "杭州",
+        "name": "大喵CS、转码、预科班(9年讲师，能够教你学会编程)",
+        "pinned_tweet_id": "1971934528542556511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764187691653234688/JIvW3b3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8179,
+          "following_count": 46,
+          "like_count": 2480,
+          "listed_count": 37,
+          "media_count": 229,
+          "tweet_count": 2435
+        },
+        "url": "https://t.co/38N849prrk",
+        "username": "damiaoedux",
+        "verified": true
+      }
+    ]
+  }
+}

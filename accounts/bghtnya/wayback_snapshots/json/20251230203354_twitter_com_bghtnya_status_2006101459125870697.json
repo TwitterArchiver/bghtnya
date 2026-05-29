@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2006101459125870697",
+    "created_at": "2025-12-30T20:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T21:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006101459125870697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655118621172203520",
+          "start": 3,
+          "username": "bghta777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006101459125870697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006101433574191440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghta777: 公告批评：魏雅慧 （粉红MTF）\n（原神uid：430702200512280147）\n北语24人工智能2班 湖南省常德市武陵区\n在社团非法部门内发表鼓吹战争、宣扬极端民族主义的政治错误言论，再对观点不一的同学滥用权限进行踢出，已严重违反社团章程和社…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_2006101420710457344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9canQTacAAuurH.jpg",
+        "width": 1020
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2006101424820924417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9canfnbMAEGJqQ.jpg",
+        "width": 768
+      },
+      {
+        "height": 2220,
+        "media_key": "3_2006101429975703554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9cany0a4AIJL9e.jpg",
+        "width": 1196
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006101422434312192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9canWuaYAAFUdf.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2006101459125870697",
+        "created_at": "2025-12-30T20:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T21:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006101459125870697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655118621172203520",
+              "start": 3,
+              "username": "bghta777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006101459125870697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006101433574191440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghta777: 公告批评：魏雅慧 （粉红MTF）\n（原神uid：430702200512280147）\n北语24人工智能2班 湖南省常德市武陵区\n在社团非法部门内发表鼓吹战争、宣扬极端民族主义的政治错误言论，再对观点不一的同学滥用权限进行踢出，已严重违反社团章程和社…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006101420710457344",
+            "3_2006101424820924417",
+            "3_2006101429975703554",
+            "3_2006101422434312192"
+          ]
+        },
+        "author_id": "1655118621172203520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2006101433574191440",
+        "created_at": "2025-12-30T20:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T21:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006101433574191440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fuisaq40Ds",
+              "end": 179,
+              "expanded_url": "https://x.com/bghta777/status/2006101433574191440/photo/1",
+              "media_key": "3_2006101420710457344",
+              "start": 156,
+              "url": "https://t.co/Fuisaq40Ds"
+            },
+            {
+              "display_url": "pic.x.com/Fuisaq40Ds",
+              "end": 179,
+              "expanded_url": "https://x.com/bghta777/status/2006101433574191440/photo/1",
+              "media_key": "3_2006101424820924417",
+              "start": 156,
+              "url": "https://t.co/Fuisaq40Ds"
+            },
+            {
+              "display_url": "pic.x.com/Fuisaq40Ds",
+              "end": 179,
+              "expanded_url": "https://x.com/bghta777/status/2006101433574191440/photo/1",
+              "media_key": "3_2006101429975703554",
+              "start": 156,
+              "url": "https://t.co/Fuisaq40Ds"
+            },
+            {
+              "display_url": "pic.x.com/Fuisaq40Ds",
+              "end": 179,
+              "expanded_url": "https://x.com/bghta777/status/2006101433574191440/photo/1",
+              "media_key": "3_2006101422434312192",
+              "start": 156,
+              "url": "https://t.co/Fuisaq40Ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006101433574191440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "公告批评：魏雅慧 （粉红MTF）\n（原神uid：430702200512280147）\n北语24人工智能2班 湖南省常德市武陵区\n在社团非法部门内发表鼓吹战争、宣扬极端民族主义的政治错误言论，再对观点不一的同学滥用权限进行踢出，已严重违反社团章程和社会伦理，现予以通报批评并开除社团成员处置，并不允许其再次加入 https://t.co/Fuisaq40Ds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8607,
+          "following_count": 2091,
+          "like_count": 173978,
+          "listed_count": 19,
+          "media_count": 3671,
+          "tweet_count": 44743
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T07:53:31.000Z",
+        "description": "",
+        "id": "1655118621172203520",
+        "name": "bghta",
+        "pinned_tweet_id": "1809603081203773678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869244179303604224/g10dl381_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 196,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 426
+        },
+        "username": "bghta777",
+        "verified": false
+      }
+    ]
+  }
+}

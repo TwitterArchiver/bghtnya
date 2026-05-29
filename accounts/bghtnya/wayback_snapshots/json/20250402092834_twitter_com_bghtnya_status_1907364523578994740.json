@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907364521121087488"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1906998615899353143",
+    "created_at": "2025-04-02T09:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T10:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907364523578994740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hb20azIAPE",
+          "end": 40,
+          "expanded_url": "https://x.com/bghtnya/status/1907364523578994740/photo/1",
+          "media_key": "3_1907364521121087488",
+          "start": 17,
+          "url": "https://t.co/Hb20azIAPE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907364523578994740",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906998615899353143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 https://t.co/Hb20azIAPE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_1907364521121087488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhR7SKbAAArrCe.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907364521121087488"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1906998615899353143",
+        "created_at": "2025-04-02T09:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907364523578994740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hb20azIAPE",
+              "end": 40,
+              "expanded_url": "https://x.com/bghtnya/status/1907364523578994740/photo/1",
+              "media_key": "3_1907364521121087488",
+              "start": 17,
+              "url": "https://t.co/Hb20azIAPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907364523578994740",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906998615899353143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 https://t.co/Hb20azIAPE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644328501980561409",
+        "conversation_id": "1906998615899353143",
+        "created_at": "2025-04-01T09:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906998615899353143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UID660807512/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/UID660807512/status/1906906813188235325",
+              "start": 33,
+              "url": "https://t.co/8dspIgbxPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906998615899353143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 23850,
+          "like_count": 205,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906906813188235325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇，为啥小桃那个能炒作起来这个却没有，关键点是二次元要素？ https://t.co/8dspIgbxPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 1838,
+          "like_count": 126265,
+          "listed_count": 14,
+          "media_count": 2283,
+          "tweet_count": 32055
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "因为我们都还肺痒痒，不知烟高雾厚",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "丁老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896977721634512897/-yNPL87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10769,
+          "following_count": 3200,
+          "like_count": 44832,
+          "listed_count": 41,
+          "media_count": 1432,
+          "tweet_count": 11142
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

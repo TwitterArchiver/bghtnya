@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1942241629387325563",
+    "created_at": "2025-07-08T01:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T02:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942403047101194337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460443622533320712",
+          "start": 0,
+          "username": "_lidonhtingone_"
+        },
+        {
+          "end": 33,
+          "id": "1826871427972362240",
+          "start": 17,
+          "username": "misaka__network"
+        },
+        {
+          "end": 46,
+          "id": "1693935285577670656",
+          "start": 34,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942403047101194337",
+    "in_reply_to_user_id": "1460443622533320712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942398679450534381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_lidonhtingone_ @misaka__network @MinaseAyano 啊对对"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1942398679450534381].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1942398679450534381",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1942398679450534381"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1942241629387325563",
+        "created_at": "2025-07-08T01:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T02:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942403047101194337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460443622533320712",
+              "start": 0,
+              "username": "_lidonhtingone_"
+            },
+            {
+              "end": 33,
+              "id": "1826871427972362240",
+              "start": 17,
+              "username": "misaka__network"
+            },
+            {
+              "end": 46,
+              "id": "1693935285577670656",
+              "start": 34,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942403047101194337",
+        "in_reply_to_user_id": "1460443622533320712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942398679450534381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_lidonhtingone_ @misaka__network @MinaseAyano 啊对对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7085,
+          "following_count": 2017,
+          "like_count": 151274,
+          "listed_count": 17,
+          "media_count": 2866,
+          "tweet_count": 37973
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T03:04:46.000Z",
+        "description": "114514",
+        "id": "1460443622533320712",
+        "location": "太原",
+        "name": "ldt🇨🇳",
+        "pinned_tweet_id": "1940963834891817063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678620505807507456/Re3gt1sv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 441,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 708,
+          "tweet_count": 13166
+        },
+        "username": "_lidonhtingone_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T06:38:09.000Z",
+        "description": "Pronoun: Misaka/Misaka's;  1997-05-02 — 2026-08-09  Love Misaka Mikoto forever.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "webpagesvc.misakanetworksystem.org/index.html",
+                "end": 23,
+                "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
+                "start": 0,
+                "url": "https://t.co/cDAtzx6l4u"
+              }
+            ]
+          }
+        },
+        "id": "1826871427972362240",
+        "location": "/Users/MisakaNetworkServices/",
+        "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️🍥🇳🇿🇦🇶🇹🇼",
+        "pinned_tweet_id": "1925803308469334259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 715,
+          "like_count": 38068,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 13255
+        },
+        "url": "https://t.co/cDAtzx6l4u",
+        "username": "misaka__network",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推负能 & 可爱老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 可爱姐姐@yanmin1105 老婆大人@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "_Tojita_Sekai"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano1",
+                "start": 0,
+                "url": "https://t.co/AZVtx8jwKF"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "Longyearbyen",
+        "name": "綾乃 🏳️‍⚧️",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 1793,
+          "like_count": 6701,
+          "listed_count": 6,
+          "media_count": 562,
+          "tweet_count": 6769
+        },
+        "url": "https://t.co/AZVtx8jwKF",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

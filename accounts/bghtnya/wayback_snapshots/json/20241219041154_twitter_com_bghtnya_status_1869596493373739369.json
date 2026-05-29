@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1869357695155003638",
+    "created_at": "2024-12-19T04:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T05:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869596493373739369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1782607608089866240",
+          "start": 0,
+          "username": "Lovesunien"
+        },
+        {
+          "end": 21,
+          "id": "1628411023249096706",
+          "start": 12,
+          "username": "misakiyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869596493373739369",
+    "in_reply_to_user_id": "1782607608089866240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869360339344933318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovesunien @misakiyg 啊？？？\n尊嘟假嘟\n什么传奇年龄党"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1869360339344933318].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1869360339344933318",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1869360339344933318"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1869357695155003638",
+        "created_at": "2024-12-19T04:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T05:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869596493373739369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782607608089866240",
+              "start": 0,
+              "username": "Lovesunien"
+            },
+            {
+              "end": 21,
+              "id": "1628411023249096706",
+              "start": 12,
+              "username": "misakiyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869596493373739369",
+        "in_reply_to_user_id": "1782607608089866240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869360339344933318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovesunien @misakiyg 啊？？？\n尊嘟假嘟\n什么传奇年龄党"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3959,
+          "following_count": 1702,
+          "like_count": 113293,
+          "listed_count": 13,
+          "media_count": 1808,
+          "tweet_count": 27343
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T03:09:16.000Z",
+        "description": "2001/顺女/Aro/As/Multi/osdd-i/香港/常州/大三\n\n 对象：@hanlianyi331 @aypashayomoda\n（别问我为什么有两个，我也不知道为什么）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "aypashayomoda"
+              }
+            ]
+          }
+        },
+        "id": "1782607608089866240",
+        "location": "中国，香港",
+        "name": "張淑念（友顺跨女）",
+        "pinned_tweet_id": "1822533594700468488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863586373141405696/s9zIPumN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 284,
+          "like_count": 2100,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 3493
+        },
+        "username": "Lovesunien",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T15:07:07.000Z",
+        "description": "三崎的小号，三崎还是那个互联网小天使愿永远以帮助大家，买任何药都可以找我，也可以来和我玩，谢谢你们",
+        "id": "1628411023249096706",
+        "location": "Moon",
+        "name": "浅羽見崎（三崎小号",
+        "pinned_tweet_id": "1869357695155003638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865264977822781440/t8WvkdF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 417,
+          "like_count": 1785,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 328
+        },
+        "username": "misakiyg",
+        "verified": false
+      }
+    ]
+  }
+}

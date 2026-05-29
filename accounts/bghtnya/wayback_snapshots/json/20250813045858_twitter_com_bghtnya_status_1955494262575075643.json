@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955494251183403008",
+        "3_1955494252869451776"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1955494262575075643",
+    "created_at": "2025-08-13T04:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955494262575075643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1366548142913589250",
+          "start": 10,
+          "username": "XIAOLINGDANG520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QFsTP6nGtt",
+          "end": 50,
+          "expanded_url": "https://x.com/bghtnya/status/1955494262575075643/photo/1",
+          "media_key": "3_1955494251183403008",
+          "start": 27,
+          "url": "https://t.co/QFsTP6nGtt"
+        },
+        {
+          "display_url": "pic.x.com/QFsTP6nGtt",
+          "end": 50,
+          "expanded_url": "https://x.com/bghtnya/status/1955494262575075643/photo/1",
+          "media_key": "3_1955494252869451776",
+          "start": 27,
+          "url": "https://t.co/QFsTP6nGtt"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1955494262575075643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老冰棍一块钱一根！\n@XIAOLINGDANG520 https://t.co/QFsTP6nGtt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955494251183403008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNPqSoa8AASAVu.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955494252869451776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNPqY6aAAAQHhM.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955494251183403008",
+            "3_1955494252869451776"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1955494262575075643",
+        "created_at": "2025-08-13T04:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955494262575075643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1366548142913589250",
+              "start": 10,
+              "username": "XIAOLINGDANG520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QFsTP6nGtt",
+              "end": 50,
+              "expanded_url": "https://x.com/bghtnya/status/1955494262575075643/photo/1",
+              "media_key": "3_1955494251183403008",
+              "start": 27,
+              "url": "https://t.co/QFsTP6nGtt"
+            },
+            {
+              "display_url": "pic.x.com/QFsTP6nGtt",
+              "end": 50,
+              "expanded_url": "https://x.com/bghtnya/status/1955494262575075643/photo/1",
+              "media_key": "3_1955494252869451776",
+              "start": 27,
+              "url": "https://t.co/QFsTP6nGtt"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1955494262575075643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老冰棍一块钱一根！\n@XIAOLINGDANG520 https://t.co/QFsTP6nGtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7239,
+          "following_count": 2056,
+          "like_count": 155863,
+          "listed_count": 17,
+          "media_count": 3022,
+          "tweet_count": 39186
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T00:37:33.000Z",
+        "description": "要永远在一起的人，爱人@vegetable_ccai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "vegetable_ccai"
+              }
+            ]
+          }
+        },
+        "id": "1366548142913589250",
+        "name": "小铃铛🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366548360539168770/j71gl4Db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 151,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 174
+        },
+        "username": "XIAOLINGDANG520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1917024722354884861",
+    "created_at": "2025-04-29T08:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T09:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917127932834972087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715891855983026176",
+          "start": 0,
+          "username": "hetongzhi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917127932834972087",
+    "in_reply_to_user_id": "1715891855983026176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917024722354884861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetongzhi114514 神金学院"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917024722354884861].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917024722354884861",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917024722354884861"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1917024722354884861",
+        "created_at": "2025-04-29T08:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T09:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917127932834972087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715891855983026176",
+              "start": 0,
+              "username": "hetongzhi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917127932834972087",
+        "in_reply_to_user_id": "1715891855983026176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917024722354884861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetongzhi114514 神金学院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6219,
+          "following_count": 1924,
+          "like_count": 134081,
+          "listed_count": 13,
+          "media_count": 2454,
+          "tweet_count": 34032
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T00:44:44.000Z",
+        "description": "Libertarian Socialist | Democratic Socialist |Supporter of Participatory Economics | Agnostic | Focus on History & Politics | “终有一天，我们会在没有黑暗的地方相见。”",
+        "id": "1715891855983026176",
+        "name": "Citizen from Below🏴🚩",
+        "pinned_tweet_id": "1881835260826288244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910555002357358592/NFv9iHgZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 3701,
+          "like_count": 68237,
+          "listed_count": 6,
+          "media_count": 803,
+          "tweet_count": 14816
+        },
+        "username": "hetongzhi114514",
+        "verified": false
+      }
+    ]
+  }
+}

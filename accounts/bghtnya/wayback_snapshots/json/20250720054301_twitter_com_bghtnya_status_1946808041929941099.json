@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1946529733833113950",
+    "created_at": "2025-07-20T05:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T06:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946808041929941099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1869478972414967808",
+          "start": 0,
+          "username": "Rhein0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946808041929941099",
+    "in_reply_to_user_id": "1869478972414967808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946529733833113950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rhein0223 说的道理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 321,
+        "media_key": "3_1946529729286119426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwN2ecLWIAIOFye.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1946529733833113950",
+        "created_at": "2025-07-20T05:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T06:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946808041929941099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869478972414967808",
+              "start": 0,
+              "username": "Rhein0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946808041929941099",
+        "in_reply_to_user_id": "1869478972414967808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946529733833113950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rhein0223 说的道理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946529729286119426"
+          ]
+        },
+        "author_id": "1869478972414967808",
+        "conversation_id": "1946529733833113950",
+        "created_at": "2025-07-19T11:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T12:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946529733833113950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Av4KFJt3gr",
+              "end": 30,
+              "expanded_url": "https://x.com/Rhein0223/status/1946529733833113950/photo/1",
+              "media_key": "3_1946529729286119426",
+              "start": 7,
+              "url": "https://t.co/Av4KFJt3gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946529733833113950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 38836,
+          "like_count": 544,
+          "quote_count": 10,
+          "reply_count": 39,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "最支持的一集 https://t.co/Av4KFJt3gr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7194,
+          "following_count": 2026,
+          "like_count": 152701,
+          "listed_count": 17,
+          "media_count": 2927,
+          "tweet_count": 38321
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T20:25:02.000Z",
+        "description": "你好這裏是Rhein喔~ || 友跨友同🏳️‍🌈🏳️‍⚧️🍥 || ISFP || 特異人士😎 || 狀態不好🥹 || 日常+政治內容警告！ || 無固定政治立場 || 包容大部分意識形態🤝 || 包容大部分人😘 || 禁極端人士🚫 || 💕🇹🇼🇭🇰🇬🇧🇨🇳 || 睇到會回Fo的😘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.tw",
+                "end": 23,
+                "expanded_url": "https://www.president.gov.tw/",
+                "start": 0,
+                "url": "https://t.co/Xtr14VEgWK"
+              }
+            ]
+          }
+        },
+        "id": "1869478972414967808",
+        "location": "香港人民共和國 PRHK. 🇭🇰",
+        "name": "🍋‍🟩•Øne❀𝑹𝒉𝒆𝒊𝒏X•🇦🇶",
+        "pinned_tweet_id": "1945553319071789078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945913015422894080/M4eYCImY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 723,
+          "like_count": 7928,
+          "listed_count": 2,
+          "media_count": 818,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/Xtr14VEgWK",
+        "username": "Rhein0223",
+        "verified": false
+      }
+    ]
+  }
+}

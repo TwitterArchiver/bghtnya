@@ -1,0 +1,340 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1815341925660307457"
+      ],
+      "media_source_tweet_id": [
+        "1815342001094828416"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1815435781097615575",
+    "created_at": "2024-07-22T17:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T18:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815435781097615575"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Capoo",
+          "probability": 0.4848,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 41,
+          "tag": "capoo"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "咖波"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1519869093586751488",
+          "start": 3,
+          "username": "bugcat_capoo_tw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/paPJyOegzp",
+          "end": 75,
+          "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1815342001094828416/video/1",
+          "media_key": "13_1815341925660307457",
+          "start": 52,
+          "url": "https://t.co/paPJyOegzp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815435781097615575",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 484
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815342001094828416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bugcat_capoo_tw: Have a cup of Capoo #capoo #咖波 https://t.co/paPJyOegzp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14916,
+        "height": 1920,
+        "media_key": "13_1815341925660307457",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1815341925660307457/img/zjb8Et_tTJ0l7qB5.jpg",
+        "public_metrics": {
+          "view_count": 17789
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815341925660307457/vid/avc1/720x1280/QIfBWrbvPr8rlOj9.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815341925660307457/vid/avc1/480x852/MsA3udqsiCMBFlhI.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1815341925660307457/pl/MHGglLHvw1vngADj.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815341925660307457/vid/avc1/320x568/HjTsxZDMQCl2hKpS.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815341925660307457/vid/avc1/1080x1920/81AKwPzB0I-dnNnh.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1815341925660307457"
+          ],
+          "media_source_tweet_id": [
+            "1815342001094828416"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1815435781097615575",
+        "created_at": "2024-07-22T17:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T18:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815435781097615575"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Capoo",
+              "probability": 0.4848,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "capoo"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "咖波"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1519869093586751488",
+              "start": 3,
+              "username": "bugcat_capoo_tw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/paPJyOegzp",
+              "end": 75,
+              "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1815342001094828416/video/1",
+              "media_key": "13_1815341925660307457",
+              "start": 52,
+              "url": "https://t.co/paPJyOegzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815435781097615575",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 484
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815342001094828416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bugcat_capoo_tw: Have a cup of Capoo #capoo #咖波 https://t.co/paPJyOegzp"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1815341925660307457"
+          ]
+        },
+        "author_id": "1519869093586751488",
+        "conversation_id": "1815342001094828416",
+        "created_at": "2024-07-22T11:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T12:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815342001094828416"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Capoo",
+              "probability": 0.3848,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "capoo"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "咖波"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/paPJyOegzp",
+              "end": 54,
+              "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1815342001094828416/video/1",
+              "media_key": "13_1815341925660307457",
+              "start": 31,
+              "url": "https://t.co/paPJyOegzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815342001094828416",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 44203,
+          "like_count": 2753,
+          "quote_count": 8,
+          "reply_count": 17,
+          "retweet_count": 484
+        },
+        "reply_settings": "everyone",
+        "text": "Have a cup of Capoo #capoo #咖波 https://t.co/paPJyOegzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 1429,
+          "like_count": 79900,
+          "listed_count": 7,
+          "tweet_count": 16998
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. 貓貓蟲咖波官方帳號，作者亞拉，來自台灣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWPA9k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95231,
+          "following_count": 63,
+          "like_count": 35,
+          "listed_count": 193,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/XuFbWWPA9k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

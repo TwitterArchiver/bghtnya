@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1796535894268330464",
+    "created_at": "2024-05-31T13:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T14:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796538548717576663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        },
+        {
+          "end": 25,
+          "id": "1672124894694490117",
+          "start": 13,
+          "username": "NanaseToki0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796538548717576663",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796536962687635464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka @NanaseToki0 什么万能公式"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1796536962687635464].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1796536962687635464",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1796536962687635464"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1796535894268330464",
+        "created_at": "2024-05-31T13:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T14:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796538548717576663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            },
+            {
+              "end": 25,
+              "id": "1672124894694490117",
+              "start": 13,
+              "username": "NanaseToki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796538548717576663",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796536962687635464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka @NanaseToki0 什么万能公式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 1349,
+          "like_count": 68563,
+          "listed_count": 7,
+          "tweet_count": 14256
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "我們相信，只要堅定，就能清晰。在巨響來臨前，我們一定會先見到燦爛的光 。 /❤️ @Letana358121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Letana358121"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika 🍥",
+        "pinned_tweet_id": "1786069724679512373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792396738831257600/eFQtGYha_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 1003,
+          "like_count": 30418,
+          "listed_count": 11,
+          "tweet_count": 1943
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T06:10:28.000Z",
+        "description": "19岁/MtX/天残党丑蝈蝻/人群中最不像xyn的就是我/持证含糖/泛性恋/双相/BPD/HPD/ADHD/人格分裂/ISFP-T/高中文科生/火车迷/已炸柜/超大只/数码爱好者/负能小号@PROGYNOVAxyn/对象是@xingkong740923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "PROGYNOVAxyn"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "xingkong740923"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.LGBT",
+                "end": 23,
+                "expanded_url": "http://2345.LGBT",
+                "start": 0,
+                "url": "https://t.co/aNjIsIZxob"
+              }
+            ]
+          }
+        },
+        "id": "1672124894694490117",
+        "location": "西京医院心身科",
+        "name": "七濑与喜🏳️‍⚧️🍥不想o思诺思了",
+        "pinned_tweet_id": "1787727584719151222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774288718138056704/K9zcz1ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 727,
+          "like_count": 7380,
+          "listed_count": 7,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/aNjIsIZxob",
+        "username": "NanaseToki0",
+        "verified": false
+      }
+    ]
+  }
+}

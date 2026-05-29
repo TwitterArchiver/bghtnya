@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1866140997807395019",
+    "created_at": "2024-12-10T10:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T11:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866430465382711691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708478446501019648",
+          "start": 0,
+          "username": "chengyuey27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866430465382711691",
+    "in_reply_to_user_id": "1708478446501019648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866140997807395019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengyuey27 喵呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1866140997807395019",
+        "created_at": "2024-12-10T10:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T11:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866430465382711691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708478446501019648",
+              "start": 0,
+              "username": "chengyuey27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866430465382711691",
+        "in_reply_to_user_id": "1708478446501019648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866140997807395019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengyuey27 喵呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866140995253092352"
+          ]
+        },
+        "author_id": "1708478446501019648",
+        "conversation_id": "1866140997807395019",
+        "created_at": "2024-12-09T15:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866140997807395019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYHGoy5McY",
+              "end": 76,
+              "expanded_url": "https://x.com/chengyuey27/status/1866140997807395019/photo/1",
+              "media_key": "3_1866140995253092352",
+              "start": 53,
+              "url": "https://t.co/sYHGoy5McY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866140997807395019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12423,
+          "like_count": 239,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我已经把我175个follower都记下了，你们要是取关我的话我会找到你然后求你关注我的\n(o●︵●o) https://t.co/sYHGoy5McY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 1633,
+          "like_count": 109887,
+          "listed_count": 11,
+          "media_count": 1764,
+          "tweet_count": 26384
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T13:46:24.000Z",
+        "description": "高中生/男/1099/术/头像是バッドエンド・エトセトラ feat.洛天依的曲绘/给我发匿名消息↙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chengyuey27",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chengyuey27",
+                "start": 0,
+                "url": "https://t.co/7RnnzqA3mG"
+              }
+            ]
+          }
+        },
+        "id": "1708478446501019648",
+        "location": "武汉",
+        "name": "橙月y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859499407793868800/dVcNg1-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 205,
+          "like_count": 956,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/7RnnzqA3mG",
+        "username": "chengyuey27",
+        "verified": false
+      }
+    ]
+  }
+}

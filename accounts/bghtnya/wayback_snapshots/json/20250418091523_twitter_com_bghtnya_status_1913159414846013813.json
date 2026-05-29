@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1912888817226485885",
+    "created_at": "2025-04-18T09:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T10:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913159414846013813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1695649420539219968",
+          "start": 0,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913159414846013813",
+    "in_reply_to_user_id": "1695649420539219968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912888817226485885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiciiQAQ 华为是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912888814223470592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GovyPdqbsAAmLLo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1912888817226485885",
+        "created_at": "2025-04-18T09:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T10:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913159414846013813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913159414846013813",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912888817226485885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 华为是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912888814223470592"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1912888817226485885",
+        "created_at": "2025-04-17T15:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912888817226485885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olzBsuxxSv",
+              "end": 83,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1912888817226485885/photo/1",
+              "media_key": "3_1912888814223470592",
+              "start": 60,
+              "url": "https://t.co/olzBsuxxSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912888817226485885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1536,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《恶意应用》😅\n…只能说不愧是遥遥领先哈，一个开源软件都成恶意应用了，反诈提醒可以理解，没给继续安装的选项就挺抽象的（ https://t.co/olzBsuxxSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5940,
+          "following_count": 1900,
+          "like_count": 131164,
+          "listed_count": 13,
+          "media_count": 2405,
+          "tweet_count": 33495
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 617,
+          "like_count": 8642,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1184
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

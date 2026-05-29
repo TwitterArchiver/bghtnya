@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2025482074334052835",
+    "created_at": "2026-02-22T14:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025581725376565532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 31,
+          "id": "1810873766119100416",
+          "start": 16,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025581725376565532",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025581448498180568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @RainEngine2024 666那时候我刚上高中"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025581448498180568].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025581448498180568",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025581448498180568"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2025482074334052835",
+        "created_at": "2026-02-22T14:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025581725376565532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 31,
+              "id": "1810873766119100416",
+              "start": 16,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025581725376565532",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025581448498180568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @RainEngine2024 666那时候我刚上高中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8998,
+          "following_count": 2078,
+          "like_count": 173785,
+          "listed_count": 17,
+          "media_count": 3766,
+          "tweet_count": 46005
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 Female PgdStu🎧🍟🍔🥤🚪1680JPY/C spl tri/EN/JP 😘🍩fobackAuto 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1854448337673699556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 4672,
+          "like_count": 29125,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 18584
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "Xiaomi Partner/RainEngine UX Design/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "pinned_tweet_id": "2025393663921324409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6772,
+          "following_count": 778,
+          "like_count": 51962,
+          "listed_count": 7,
+          "media_count": 1167,
+          "tweet_count": 7812
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

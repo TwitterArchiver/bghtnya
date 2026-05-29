@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2045102829023752615",
+    "created_at": "2026-04-19T11:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045832358537101315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045832358537101315",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045102829023752615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 我全都要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2045102829023752615",
+        "created_at": "2026-04-19T11:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045832358537101315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045832358537101315",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045102829023752615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 我全都要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Virgo",
+              "id": "1138874019820662784",
+              "name": "Virgo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cancer",
+              "id": "1138864492526297093",
+              "name": "Cancer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Virgo",
+              "id": "1138874019820662784",
+              "name": "Virgo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2045102829023752615",
+        "created_at": "2026-04-17T11:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045102829023752615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045102829023752615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 31290,
+          "like_count": 467,
+          "quote_count": 12,
+          "reply_count": 72,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "十二星座选择你的专属od药\n白羊座：右美\n金牛座：白兔\n双子座：愈美片\n巨蟹座：晚安\n狮子座：盐野义（日本右美\n处女座：苯海索\n天秤座：苯海拉明\n天蝎座：普瑞巴林\n射手座：巴氯酚\n摩羯座：复方甘草片\n水瓶座：感康\n双鱼座：EVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8989,
+          "following_count": 2141,
+          "like_count": 176879,
+          "listed_count": 19,
+          "media_count": 3846,
+          "tweet_count": 47125
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 1740,
+          "like_count": 5220,
+          "listed_count": 5,
+          "media_count": 317,
+          "tweet_count": 3082
+        },
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

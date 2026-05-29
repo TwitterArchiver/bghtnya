@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1985904892012351880",
+    "created_at": "2025-11-05T10:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T11:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986023853789987149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986023853789987149",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985951894834200954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 还真是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985951894834200954].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985951894834200954",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985951894834200954"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1985904892012351880",
+        "created_at": "2025-11-05T10:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986023853789987149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986023853789987149",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985951894834200954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 还真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606741670346754/ZL5Mm9Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8056,
+          "following_count": 2111,
+          "like_count": 165818,
+          "listed_count": 20,
+          "media_count": 3380,
+          "tweet_count": 42043
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984463067321942020/psX-4v6W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 95,
+          "like_count": 21702,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 11181
+        },
+        "username": "tube1925",
+        "verified": false
+      }
+    ]
+  }
+}

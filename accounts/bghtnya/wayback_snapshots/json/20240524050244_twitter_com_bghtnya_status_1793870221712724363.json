@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1793821392518988254",
+    "created_at": "2024-05-24T05:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T06:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793870221712724363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1054322364870246400",
+          "start": 0,
+          "username": "mrwhat926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793870221712724363",
+    "in_reply_to_user_id": "1054322364870246400",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793829081324396902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrwhat926 但这是生物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1793821392518988254",
+        "created_at": "2024-05-24T05:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T06:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793870221712724363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1054322364870246400",
+              "start": 0,
+              "username": "mrwhat926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793870221712724363",
+        "in_reply_to_user_id": "1054322364870246400",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793829081324396902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrwhat926 但这是生物"
+      },
+      {
+        "attachments": {},
+        "author_id": "1054322364870246400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1793821392518988254",
+        "created_at": "2024-05-24T02:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T03:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793829081324396902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793829081324396902",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793821392518988254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 我化学最差了，根本搞不明白。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512977289151143942/MNqca0C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 1351,
+          "like_count": 66359,
+          "listed_count": 7,
+          "tweet_count": 13740
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-22T10:43:34.000Z",
+        "description": "幻想を信じて、今年も宜しくお願い致します。",
+        "id": "1054322364870246400",
+        "location": "無言フォロー失礼します / フォローバ100%",
+        "name": "Mr.What🏳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792262743040679936/hI0vec-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1314,
+          "like_count": 22380,
+          "listed_count": 1,
+          "tweet_count": 3067
+        },
+        "username": "mrwhat926",
+        "verified": false
+      }
+    ]
+  }
+}

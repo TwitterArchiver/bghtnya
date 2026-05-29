@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1938079702624964778",
+    "created_at": "2025-06-27T07:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T08:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938502304489218232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504676358475157504",
+          "start": 0,
+          "username": "8964TortoiseBlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938502304489218232",
+    "in_reply_to_user_id": "1504676358475157504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938498450741727589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964TortoiseBlk 这个不方便透露"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1938079702624964778",
+        "created_at": "2025-06-27T07:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938502304489218232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504676358475157504",
+              "start": 0,
+              "username": "8964TortoiseBlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938502304489218232",
+        "in_reply_to_user_id": "1504676358475157504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938498450741727589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964TortoiseBlk 这个不方便透露"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504676358475157504",
+        "conversation_id": "1938079702624964778",
+        "created_at": "2025-06-27T07:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938498450741727589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938498450741727589",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938494760655945832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 所以到底咋了呀咱只记得跟寒涟漪闹翻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6972,
+          "following_count": 2016,
+          "like_count": 150452,
+          "listed_count": 17,
+          "media_count": 2826,
+          "tweet_count": 37474
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T04:29:38.000Z",
+        "description": "你认为我是什么就是什么\nbluesky@8964tortoiseblk.bsky.social\nIG@BlackTortoise23",
+        "id": "1504676358475157504",
+        "location": "育空我的育空😭😭😭",
+        "name": "玄武🍥（防盗码8964天安门）",
+        "pinned_tweet_id": "1830623519102906386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830619515106758656/CL_2bqJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9217,
+          "following_count": 377,
+          "like_count": 246911,
+          "listed_count": 19,
+          "media_count": 2674,
+          "tweet_count": 60387
+        },
+        "username": "8964TortoiseBlk",
+        "verified": false
+      }
+    ]
+  }
+}

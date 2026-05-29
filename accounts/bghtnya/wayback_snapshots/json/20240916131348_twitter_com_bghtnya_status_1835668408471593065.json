@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1835634816848691633",
+    "created_at": "2024-09-16T13:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T14:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835668408471593065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818315659673210880",
+          "start": 0,
+          "username": "NeK1GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835668408471593065",
+    "in_reply_to_user_id": "1818315659673210880",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835634816848691633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeK1GG 国内有一堆套皮的免费ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1835634816848691633",
+        "created_at": "2024-09-16T13:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T14:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835668408471593065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818315659673210880",
+              "start": 0,
+              "username": "NeK1GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835668408471593065",
+        "in_reply_to_user_id": "1818315659673210880",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835634816848691633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeK1GG 国内有一堆套皮的免费ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818315659673210880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1835634816848691633",
+        "created_at": "2024-09-16T11:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T12:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835634816848691633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1835634816848691633",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到处都在吹Grok这个大语言模型，其实我也挺想试试的。刚刚看了x premium的价格还能接受，ChatGPT的订阅感觉好贵不太值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 1519,
+          "like_count": 95888,
+          "listed_count": 10,
+          "tweet_count": 21110
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "中国大陆高中生🇨🇳/游戏玩家👾/爱追番剧🔥/讨厌粉红支黑以及任何极端💀/不参与任何性质的骂战😇/不对任何国家的人民抱有任何偏见，始终坚持反极端主义、反恐怖主义、反法西斯主义，支持LGBT群体得到社会公平对待，支持巴勒斯坦人民与乌克兰人民抵抗侵略战争。CN/EN/a little JP\n-点赞关注不代表立场-",
+        "id": "1818315659673210880",
+        "location": "提瓦特大陆蒙德城",
+        "name": "Nek1🦌✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819550006468382720/MYDZ39fY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 191,
+          "like_count": 2730,
+          "listed_count": 1,
+          "tweet_count": 726
+        },
+        "username": "NeK1GG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1960242768263135453",
+    "created_at": "2025-08-26T15:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960360951049306409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1351485882696548357",
+          "start": 0,
+          "username": "OnlyAppleCanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960360951049306409",
+    "in_reply_to_user_id": "1351485882696548357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960242768263135453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyAppleCanDo 有点年代了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 257,
+        "media_key": "3_1960242759065014272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQuZ0-aEAAvTty.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1960242768263135453",
+        "created_at": "2025-08-26T15:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960360951049306409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960360951049306409",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960242768263135453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo 有点年代了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960242759065014272"
+          ]
+        },
+        "author_id": "1351485882696548357",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Maps",
+              "id": "1006154112021377024",
+              "name": "Google Maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701926",
+              "name": "Google Maps"
+            }
+          }
+        ],
+        "conversation_id": "1960242768263135453",
+        "created_at": "2025-08-26T07:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960242768263135453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EOTfOeYv0E",
+              "end": 43,
+              "expanded_url": "https://x.com/OnlyAppleCanDo/status/1960242768263135453/photo/1",
+              "media_key": "3_1960242759065014272",
+              "start": 20,
+              "url": "https://t.co/EOTfOeYv0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960242768263135453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 208,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Google Maps給我帶到這裡來了 https://t.co/EOTfOeYv0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7391,
+          "following_count": 2056,
+          "like_count": 156813,
+          "listed_count": 18,
+          "media_count": 3076,
+          "tweet_count": 39504
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🇬🇦 meowqwqnya@hotmail.com",
+        "id": "1351485882696548357",
+        "location": "Swadlincote, England",
+        "name": "🐭🏳️‍⚧️🏳️‍🌈🇬🇦",
+        "pinned_tweet_id": "1958637583350866361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945879649319325696/BkSgTj4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 744,
+          "like_count": 42826,
+          "listed_count": 7,
+          "media_count": 2075,
+          "tweet_count": 9504
+        },
+        "username": "OnlyAppleCanDo",
+        "verified": false
+      }
+    ]
+  }
+}

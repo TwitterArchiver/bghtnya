@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "1949318829814972637",
+    "created_at": "2025-07-27T05:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949341340770107443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702925354132992000",
+          "start": 0,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949341340770107443",
+    "in_reply_to_user_id": "1702925354132992000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949318829814972637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remilia_servant 上传wifi万能钥匙 有密码共享"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_1947413201634922498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwaZ_TJbEAIFXHD.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1949318829814972637",
+        "created_at": "2025-07-27T05:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949341340770107443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702925354132992000",
+              "start": 0,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949341340770107443",
+        "in_reply_to_user_id": "1702925354132992000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949318829814972637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remilia_servant 上传wifi万能钥匙 有密码共享"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947413201634922498"
+          ]
+        },
+        "author_id": "1702925354132992000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949318829814972637",
+        "created_at": "2025-07-27T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949318829814972637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyaJHBkbFa",
+              "end": 23,
+              "expanded_url": "https://x.com/remilia_servant/status/1949318829814972637/photo/1",
+              "media_key": "3_1947413201634922498",
+              "start": 0,
+              "url": "https://t.co/dyaJHBkbFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949318829814972637",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 538,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dyaJHBkbFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7219,
+          "following_count": 2040,
+          "like_count": 154314,
+          "listed_count": 17,
+          "media_count": 2966,
+          "tweet_count": 38671
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "英語/香港語 | 17 | He/Him | 會翻譯些喜歡的英文內容 | 東方廚 | 頭貼是好朋友畫的 | 左翼 | 香港獨立⬜🟦 | 裏帳號 @tnavres_ailimer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "tnavres_ailimer"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "We must love one another.",
+        "name": "⬜蕾米米🟦",
+        "pinned_tweet_id": "1916556956816249106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913497390289743872/qTHbrTMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15336,
+          "following_count": 1762,
+          "like_count": 100900,
+          "listed_count": 61,
+          "media_count": 570,
+          "tweet_count": 3154
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

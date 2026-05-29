@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1935263947281809630",
+    "created_at": "2025-06-19T08:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T09:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935609745941078048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1695305436508172288",
+          "start": 0,
+          "username": "hong198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935609745941078048",
+    "in_reply_to_user_id": "1695305436508172288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935263947281809630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hong198964 hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935263937911476224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttwTE3WUAABLq4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1935263947281809630",
+        "created_at": "2025-06-19T08:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T09:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935609745941078048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695305436508172288",
+              "start": 0,
+              "username": "hong198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935609745941078048",
+        "in_reply_to_user_id": "1695305436508172288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935263947281809630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hong198964 hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935263937911476224"
+          ]
+        },
+        "author_id": "1695305436508172288",
+        "conversation_id": "1935263947281809630",
+        "created_at": "2025-06-18T09:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935263947281809630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saRVMcKSZx",
+              "end": 45,
+              "expanded_url": "https://x.com/hong198964/status/1935263947281809630/photo/1",
+              "media_key": "3_1935263937911476224",
+              "start": 22,
+              "url": "https://t.co/saRVMcKSZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935263947281809630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 18515,
+          "like_count": 162,
+          "quote_count": 3,
+          "reply_count": 52,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "花火酱没了😭\n我缺的hi~这块怎么办啊😭😭 https://t.co/saRVMcKSZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 2002,
+          "like_count": 147154,
+          "listed_count": 14,
+          "media_count": 2746,
+          "tweet_count": 36645
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T05:21:53.000Z",
+        "description": "我还想和你谈论宇宙和天空",
+        "id": "1695305436508172288",
+        "location": "距离6.4km",
+        "name": "鸿哥亡命天涯",
+        "pinned_tweet_id": "1931787554074001627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931748567741603840/Uof3mZhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 515,
+          "like_count": 26611,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 4155
+        },
+        "username": "hong198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1866041201851564515",
+    "created_at": "2024-12-11T13:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T14:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866835940200857844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1782607608089866240",
+          "start": 0,
+          "username": "Lovesunien"
+        },
+        {
+          "end": 26,
+          "id": "1468416451208179712",
+          "start": 12,
+          "username": "kokowamakotsu"
+        },
+        {
+          "end": 38,
+          "id": "1836782122037874688",
+          "start": 27,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866835940200857844",
+    "in_reply_to_user_id": "1782607608089866240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866835861066879412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovesunien @kokowamakotsu @mio1738468 想看"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1866835861066879412].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1866835861066879412",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1866835861066879412"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1866041201851564515",
+        "created_at": "2024-12-11T13:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T14:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866835940200857844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782607608089866240",
+              "start": 0,
+              "username": "Lovesunien"
+            },
+            {
+              "end": 26,
+              "id": "1468416451208179712",
+              "start": 12,
+              "username": "kokowamakotsu"
+            },
+            {
+              "end": 38,
+              "id": "1836782122037874688",
+              "start": 27,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866835940200857844",
+        "in_reply_to_user_id": "1782607608089866240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866835861066879412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovesunien @kokowamakotsu @mio1738468 想看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 1643,
+          "like_count": 110624,
+          "listed_count": 11,
+          "media_count": 1770,
+          "tweet_count": 26584
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T03:09:16.000Z",
+        "description": "2001/顺女/Aro/As/Multi/osdd-i/香港/常州/大三\n\n 对象：@hanlianyi331 @aypashayomoda\n（别问我为什么有两个，我也不知道为什么）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "aypashayomoda"
+              }
+            ]
+          }
+        },
+        "id": "1782607608089866240",
+        "location": "中国，香港",
+        "name": "張淑念（友顺跨女）",
+        "pinned_tweet_id": "1822533594700468488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863586373141405696/s9zIPumN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 269,
+          "like_count": 1960,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 3393
+        },
+        "username": "Lovesunien",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//Oliva青果系骰娘骰主//路过的骑士厨//学生\n长毛象：https://t.co/P1XBuGxmUg\n糖果贩售商店表https://t.co/d7W8od0z7F\n已逝爱人 @ANQNKNy\n微信公众号 makotsu-transer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 103,
+                "username": "ANQNKNy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 66,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 43,
+                "url": "https://t.co/P1XBuGxmUg"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 97,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 74,
+                "url": "https://t.co/d7W8od0z7F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuSbLU2"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3576,
+          "following_count": 640,
+          "like_count": 5052,
+          "listed_count": 23,
+          "media_count": 656,
+          "tweet_count": 19662
+        },
+        "url": "https://t.co/FWQxuSbLU2",
+        "username": "kokowamakotsu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/碎碎念-分享日常/🚪20/50，好友位/纯绿陪聊，给的越多越热情/粥批/紫菜小号@jy3152509243 /谢谢你和我一起玩😽/手作围巾长期有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1857845525556638103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 473,
+          "like_count": 6024,
+          "listed_count": 5,
+          "media_count": 626,
+          "tweet_count": 5488
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

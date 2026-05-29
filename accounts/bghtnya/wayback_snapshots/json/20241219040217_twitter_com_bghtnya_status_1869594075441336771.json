@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1869590608635154606",
+    "created_at": "2024-12-19T04:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T05:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869594075441336771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1070340509376204800",
+          "start": 0,
+          "username": "type_lo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869594075441336771",
+    "in_reply_to_user_id": "1070340509376204800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869590608635154606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@type_lo 抱抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1869590608635154606",
+        "created_at": "2024-12-19T04:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T05:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869594075441336771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1070340509376204800",
+              "start": 0,
+              "username": "type_lo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869594075441336771",
+        "in_reply_to_user_id": "1070340509376204800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869590608635154606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@type_lo 抱抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869590605728481280"
+          ]
+        },
+        "author_id": "1070340509376204800",
+        "conversation_id": "1869590608635154606",
+        "created_at": "2024-12-19T03:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T04:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869590608635154606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qt7izRCk6K",
+              "end": 29,
+              "expanded_url": "https://x.com/type_lo/status/1869590608635154606/photo/1",
+              "media_key": "3_1869590605728481280",
+              "start": 6,
+              "url": "https://t.co/qt7izRCk6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869590608635154606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我没有人抱 https://t.co/qt7izRCk6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3958,
+          "following_count": 1701,
+          "like_count": 113254,
+          "listed_count": 13,
+          "media_count": 1808,
+          "tweet_count": 27335
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-05T15:33:58.000Z",
+        "description": "🍥INFP-T/沉迷打牌的表情包怪/做梦大师/我的@Rula_wbg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Rula_wbg"
+              }
+            ]
+          }
+        },
+        "id": "1070340509376204800",
+        "location": "某个人的梦里",
+        "name": "咩洛",
+        "pinned_tweet_id": "1851117470406578381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772301643922702336/-3_vdhL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18056,
+          "following_count": 362,
+          "like_count": 18941,
+          "listed_count": 34,
+          "media_count": 2428,
+          "tweet_count": 8100
+        },
+        "username": "type_lo",
+        "verified": false
+      }
+    ]
+  }
+}

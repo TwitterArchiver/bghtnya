@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046437755983626240"
+      ],
+      "media_source_tweet_id": [
+        "2046437759125262543"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2046524379102896500",
+    "created_at": "2026-04-21T09:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046524379102896500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1453714129814839299",
+          "start": 3,
+          "username": "_uk2_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/td7T4ZgN6B",
+          "end": 37,
+          "expanded_url": "https://x.com/_uk2_/status/2046437759125262543/photo/1",
+          "media_key": "3_2046437755983626240",
+          "start": 14,
+          "url": "https://t.co/td7T4ZgN6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046524379102896500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046437759125262543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_uk2_: ﾝｰ https://t.co/td7T4ZgN6B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2046437755983626240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZoS-xaAAAFpDu.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046437755983626240"
+          ],
+          "media_source_tweet_id": [
+            "2046437759125262543"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2046524379102896500",
+        "created_at": "2026-04-21T09:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046524379102896500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1453714129814839299",
+              "start": 3,
+              "username": "_uk2_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/td7T4ZgN6B",
+              "end": 37,
+              "expanded_url": "https://x.com/_uk2_/status/2046437759125262543/photo/1",
+              "media_key": "3_2046437755983626240",
+              "start": 14,
+              "url": "https://t.co/td7T4ZgN6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046524379102896500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046437759125262543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_uk2_: ﾝｰ https://t.co/td7T4ZgN6B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046437755983626240"
+          ]
+        },
+        "author_id": "1453714129814839299",
+        "conversation_id": "2046437759125262543",
+        "created_at": "2026-04-21T03:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046437759125262543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/td7T4ZgN6B",
+              "end": 26,
+              "expanded_url": "https://x.com/_uk2_/status/2046437759125262543/photo/1",
+              "media_key": "3_2046437755983626240",
+              "start": 3,
+              "url": "https://t.co/td7T4ZgN6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046437759125262543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 11016,
+          "like_count": 1008,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "ﾝｰ https://t.co/td7T4ZgN6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9009,
+          "following_count": 2143,
+          "like_count": 177305,
+          "listed_count": 19,
+          "media_count": 3850,
+          "tweet_count": 47208
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-28T13:24:53.000Z",
+        "description": "絵 ¦ 作曲(ボカロ) ¦ 3D ¦ pixiv - https://t.co/gwDGrC1LhL ¦ YouTube - https://t.co/Gcq8kO7ETt ¦ Skeb - https://t.co/dhFLEKjxSy ¦ メール - uk2.e@proton.me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/75554946",
+                "end": 50,
+                "expanded_url": "https://pixiv.net/users/75554946",
+                "start": 27,
+                "url": "https://t.co/gwDGrC1LhL"
+              },
+              {
+                "display_url": "youtube.com/@_uk2_",
+                "end": 86,
+                "expanded_url": "https://www.youtube.com/@_uk2_",
+                "start": 63,
+                "url": "https://t.co/Gcq8kO7ETt"
+              },
+              {
+                "display_url": "skeb.jp/@_uk2_",
+                "end": 119,
+                "expanded_url": "https://skeb.jp/@_uk2_",
+                "start": 96,
+                "url": "https://t.co/dhFLEKjxSy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "uk2.carrd.co",
+                "end": 23,
+                "expanded_url": "https://uk2.carrd.co",
+                "start": 0,
+                "url": "https://t.co/oG7OpFKcSo"
+              }
+            ]
+          }
+        },
+        "id": "1453714129814839299",
+        "location": "仕事が欲しい！　ご連絡ください",
+        "name": "愉血 🎨",
+        "pinned_tweet_id": "2046383186792567092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018980042945220608/kv_L8lfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23901,
+          "following_count": 0,
+          "like_count": 98,
+          "listed_count": 181,
+          "media_count": 143,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/oG7OpFKcSo",
+        "username": "_uk2_",
+        "verified": false
+      }
+    ]
+  }
+}

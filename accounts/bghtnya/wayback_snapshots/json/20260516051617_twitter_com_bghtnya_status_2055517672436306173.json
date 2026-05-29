@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2055481733471215832",
+    "created_at": "2026-05-16T05:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055517672436306173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412634516871532544",
+          "start": 0,
+          "username": "Kevin_Ascendex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055517672436306173",
+    "in_reply_to_user_id": "1412634516871532544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055481733471215832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevin_Ascendex 互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2055481733471215832",
+        "created_at": "2026-05-16T05:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055517672436306173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412634516871532544",
+              "start": 0,
+              "username": "Kevin_Ascendex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055517672436306173",
+        "in_reply_to_user_id": "1412634516871532544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055481733471215832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevin_Ascendex 互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412634516871532544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2055481733471215832",
+        "created_at": "2026-05-16T02:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055481733471215832"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "互关"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "web3"
+            },
+            {
+              "end": 106,
+              "start": 99,
+              "tag": "crypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055481733471215832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2076,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 114,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然今天是星期六，但蓝V互关这件事，我一直都在坚持。  \n\n周末不打烊，连接不停歇。  \n还没关注我的朋友，欢迎来互关，一起认识、一起互动、一起 build 🤝🚀\n\n#蓝V互关 #互关 #web3 #crypto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9328,
+          "following_count": 2266,
+          "like_count": 178247,
+          "listed_count": 21,
+          "media_count": 3902,
+          "tweet_count": 47796
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-07T04:48:20.000Z",
+        "description": "BD Director @AscendEX_ (Ex-BitMax| 7+Yrs,10M+ Users)\nDaily Market Insights&Listing Svcs\n6y verified Web3 degen&BullBear vet\nBuilding the future of web3&Connects",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "AscendEX_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/kevin-lee-8…",
+                "end": 23,
+                "expanded_url": "https://www.linkedin.com/in/kevin-lee-8a05a7271/",
+                "start": 0,
+                "url": "https://t.co/mDYCdWib7R"
+              }
+            ]
+          }
+        },
+        "id": "1412634516871532544",
+        "location": "HongKong",
+        "name": "Kevin🇭🇰(互fo)",
+        "pinned_tweet_id": "2038242799137837088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038256092673892352/exwIpd13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5340,
+          "following_count": 3694,
+          "like_count": 2478,
+          "listed_count": 10,
+          "media_count": 271,
+          "tweet_count": 2619
+        },
+        "url": "https://t.co/mDYCdWib7R",
+        "username": "Kevin_Ascendex",
+        "verified": true
+      }
+    ]
+  }
+}

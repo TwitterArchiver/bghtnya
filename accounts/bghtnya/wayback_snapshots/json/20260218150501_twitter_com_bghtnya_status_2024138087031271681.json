@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023818772105359362"
+      ],
+      "media_source_tweet_id": [
+        "2023818779109790043"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2024138087031271681",
+    "created_at": "2026-02-18T15:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024138087031271681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXyA7kQHeA",
+          "end": 46,
+          "expanded_url": "https://x.com/Cldeop/status/2023818779109790043/photo/1",
+          "media_key": "3_2023818772105359362",
+          "start": 23,
+          "url": "https://t.co/hXyA7kQHeA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024138087031271681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023818779109790043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 新年好（\n咱来拜年啦 https://t.co/hXyA7kQHeA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2023818772105359362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYMc1kbcAIi2vS.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023818772105359362"
+          ],
+          "media_source_tweet_id": [
+            "2023818779109790043"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2024138087031271681",
+        "created_at": "2026-02-18T15:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024138087031271681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXyA7kQHeA",
+              "end": 46,
+              "expanded_url": "https://x.com/Cldeop/status/2023818779109790043/photo/1",
+              "media_key": "3_2023818772105359362",
+              "start": 23,
+              "url": "https://t.co/hXyA7kQHeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024138087031271681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023818779109790043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 新年好（\n咱来拜年啦 https://t.co/hXyA7kQHeA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023818772105359362"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023818779109790043",
+        "created_at": "2026-02-17T17:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023818779109790043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXyA7kQHeA",
+              "end": 34,
+              "expanded_url": "https://x.com/Cldeop/status/2023818779109790043/photo/1",
+              "media_key": "3_2023818772105359362",
+              "start": 11,
+              "url": "https://t.co/hXyA7kQHeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023818779109790043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6912,
+          "like_count": 349,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "新年好（\n咱来拜年啦 https://t.co/hXyA7kQHeA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2023057004500296149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8949,
+          "following_count": 2075,
+          "like_count": 173162,
+          "listed_count": 17,
+          "media_count": 3749,
+          "tweet_count": 45778
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2023889364997337493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100058,
+          "following_count": 705,
+          "like_count": 34271,
+          "listed_count": 285,
+          "media_count": 16055,
+          "tweet_count": 23028
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

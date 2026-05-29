@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2058508534246240402",
+    "created_at": "2026-05-24T14:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058555154954375509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058555154954375509",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058508534246240402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 支持，不过面对推特的反爬虫机制有什么办法吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2058508200136298496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFKTTRaUAATk1F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2058508534246240402",
+        "created_at": "2026-05-24T14:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058555154954375509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058555154954375509",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058508534246240402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 支持，不过面对推特的反爬虫机制有什么办法吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058508200136298496"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2058508534246240402",
+        "created_at": "2026-05-24T11:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:19:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058508203168772333",
+          "2058508534246240402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "愿世间再无痛苦，唯爱永不独行 · 炽烈已极 谨以此工具纪念 @AnIncandescence 存档地址：github.com/sjshb57/AnIncanescence 项目地址：github.com/sjshb57/IncandescenceReader 本项目基于 GPL 3.0 协议开源，任何使用或分发均须遵守该协议。",
+              "display_url": "sjshb57.github.io/AnIncanescence/",
+              "end": 59,
+              "expanded_url": "http://sjshb57.github.io/AnIncanescence/",
+              "start": 36,
+              "status": 200,
+              "title": "白炽阅读器 · IncandescenceReader",
+              "unwound_url": "https://sjshb57.github.io/AnIncanescence/",
+              "url": "https://t.co/E6F0Tk2o8k"
+            },
+            {
+              "description": "愿世间再无痛苦，唯爱永不独行 · 炽烈已极 谨以此工具纪念 @AnIncandescence 存档地址：github.com/sjshb57/AnIncanescence 项目地址：github.com/sjshb57/IncandescenceReader 本项目基于 GPL 3.0 协议开源，任何使用或分发均须遵守该协议。",
+              "display_url": "sjshb57.github.io/damniwokeup/",
+              "end": 83,
+              "expanded_url": "http://sjshb57.github.io/damniwokeup/",
+              "start": 60,
+              "status": 200,
+              "title": "白炽阅读器 · IncandescenceReader",
+              "unwound_url": "https://sjshb57.github.io/damniwokeup/",
+              "url": "https://t.co/ibQqfjJSOb"
+            },
+            {
+              "display_url": "pic.x.com/97UreYTyl1",
+              "end": 191,
+              "expanded_url": "https://x.com/sjshb57/status/2058508534246240402/photo/1",
+              "media_key": "3_2058508200136298496",
+              "start": 168,
+              "url": "https://t.co/97UreYTyl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058508534246240402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "sjshb57.github.io/AnIncanescence/",
+                "end": 59,
+                "expanded_url": "http://sjshb57.github.io/AnIncanescence/",
+                "start": 36,
+                "url": "https://t.co/a5IKrru4eO"
+              },
+              {
+                "display_url": "sjshb57.github.io/damniwokeup/",
+                "end": 83,
+                "expanded_url": "http://sjshb57.github.io/damniwokeup/",
+                "start": 60,
+                "url": "https://t.co/7OYW7AOPZ8"
+              }
+            ]
+          },
+          "text": "想弄一个 “全员赛博永生” 的计划大家感兴趣吗？\n\n最终成品会是这样：\nhttps://t.co/a5IKrru4eO\nhttps://t.co/7OYW7AOPZ8\n只需要替换后面的账户名就可以查看自己或者是别人的推文存档。\n\n稍微麻烦的就是github上的工作流容量并不是免费的，不过价格很便宜，这个可以以后再考虑。\n\n过程实现：\n半完全自动化处理，使用github上的action工作流，数据完全托管在仓库。\n支持跟随账号更新，可以自行部署，以现在的技术完全可以实现。\n\n如果需要的人并不是很多，我会放弃这个想法。\n\n图片是chatgpt随便配的（（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 437,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想弄一个 “全员赛博永生” 的计划大家感兴趣吗？\n\n最终成品会是这样：\nhttps://t.co/E6F0Tk2o8k\nhttps://t.co/ibQqfjJSOb\n只需要替换后面的账户名就可以查看自己或者是别人的推文存档。\n\n稍微麻烦的就是github上的工作流容量并不是免费的，不过价格很便宜，这个可以以后再考虑。\n\n过程实现： https://t.co/97UreYTyl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9957,
+          "following_count": 2358,
+          "like_count": 179759,
+          "listed_count": 21,
+          "media_count": 3980,
+          "tweet_count": 48477
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2042185350140014617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 366,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}

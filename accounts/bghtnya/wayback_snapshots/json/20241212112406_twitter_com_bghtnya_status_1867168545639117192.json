@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1866851667624575086",
+    "created_at": "2024-12-12T11:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T12:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867168545639117192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1848519880405872640",
+          "start": 0,
+          "username": "nuannuan7347"
+        },
+        {
+          "end": 25,
+          "id": "1491838845901750272",
+          "start": 14,
+          "username": "yuki03aria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867168545639117192",
+    "in_reply_to_user_id": "1848519880405872640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867003660493848787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuannuan7347 @yuki03aria 个性化推送（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1866851667624575086",
+        "created_at": "2024-12-12T11:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T12:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867168545639117192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1848519880405872640",
+              "start": 0,
+              "username": "nuannuan7347"
+            },
+            {
+              "end": 25,
+              "id": "1491838845901750272",
+              "start": 14,
+              "username": "yuki03aria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867168545639117192",
+        "in_reply_to_user_id": "1848519880405872640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867003660493848787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuannuan7347 @yuki03aria 个性化推送（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867003647311106048"
+          ]
+        },
+        "author_id": "1848519880405872640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1866851667624575086",
+        "created_at": "2024-12-12T00:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T01:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867003660493848787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491838845901750272",
+              "start": 0,
+              "username": "yuki03aria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDSvxYQ6TK",
+              "end": 153,
+              "expanded_url": "https://x.com/nuannuan7347/status/1867003660493848787/photo/1",
+              "media_key": "3_1867003647311106048",
+              "start": 130,
+              "url": "https://t.co/tDSvxYQ6TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867003660493848787",
+        "in_reply_to_user_id": "1491838845901750272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1295,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866851667624575086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki03aria 抖音还算正常点……至少有人尊重……或者不少人反对公开身份证😥\n\n这样一对比，bilibili简直差到没边了……🤢🤢🤢🤢\n\n还中国YouTube，现在都成青年大勉强了\n主流用户已经变成纳粹区+游戏区+恶俗区了\n很多up都刻意迎合纳粹郭楠 https://t.co/tDSvxYQ6TK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3664,
+          "following_count": 1646,
+          "like_count": 110925,
+          "listed_count": 11,
+          "media_count": 1773,
+          "tweet_count": 26659
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T00:21:35.000Z",
+        "description": "变成鹰的鱼🍥傲然屹立于苍穹中，鹰眸中始终倒映着那两个假仁假义的身影，瞳孔中充斥着恨意。\n鹰知道，他们对鹰有着养育之恩，但任何剥夺她自由的人，纵然是亲生父母，也是可恨的！",
+        "id": "1848519880405872640",
+        "name": "暖暖🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854855012788453377/zJHezMOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 208,
+          "like_count": 5836,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 747
+        },
+        "username": "nuannuan7347",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T18:18:00.000Z",
+        "description": "自由追逐者/ENFP/美少女/努力赚钱ing/偶尔鉴证/哲学/情绪稳定/WHUPhD/塔学专家/中式摇滚/爱喝酒/社交力MAX/🚪88R支付宝口令…@EcstasyRC的优乐美",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "EcstasyRC"
+              }
+            ]
+          }
+        },
+        "id": "1491838845901750272",
+        "name": "阿雪Yukki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837437046492913664/zaQ1Sfuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7604,
+          "following_count": 238,
+          "like_count": 8290,
+          "listed_count": 26,
+          "media_count": 447,
+          "tweet_count": 2372
+        },
+        "username": "yuki03aria",
+        "verified": true
+      }
+    ]
+  }
+}

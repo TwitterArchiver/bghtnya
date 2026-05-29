@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1990700632035201229",
+    "created_at": "2025-11-19T00:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990934442568003804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1470410046353858565",
+          "start": 0,
+          "username": "miumcii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990934442568003804",
+    "in_reply_to_user_id": "1470410046353858565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990700632035201229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miumcii 你们那边怎么都不冷😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_1990700625341108224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bjq-ua0AAgWZ2.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1990700632035201229",
+        "created_at": "2025-11-19T00:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990934442568003804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470410046353858565",
+              "start": 0,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990934442568003804",
+        "in_reply_to_user_id": "1470410046353858565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990700632035201229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumcii 你们那边怎么都不冷😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990700625341108224"
+          ]
+        },
+        "author_id": "1470410046353858565",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1990700632035201229",
+        "created_at": "2025-11-18T08:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990700632035201229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lP8o2gqO8",
+              "end": 42,
+              "expanded_url": "https://x.com/miumcii/status/1990700632035201229/photo/1",
+              "media_key": "3_1990700625341108224",
+              "start": 19,
+              "url": "https://t.co/9lP8o2gqO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990700632035201229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 11007,
+          "like_count": 274,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "cosplay了一下已经失去了的青春 https://t.co/9lP8o2gqO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8217,
+          "following_count": 2121,
+          "like_count": 169036,
+          "listed_count": 20,
+          "media_count": 3447,
+          "tweet_count": 42717
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T15:07:45.000Z",
+        "description": "好拥挤啊哈哈…。",
+        "id": "1470410046353858565",
+        "name": "闵目🍉夕曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133022334410752/JblCpcUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36853,
+          "following_count": 308,
+          "like_count": 21864,
+          "listed_count": 106,
+          "media_count": 303,
+          "tweet_count": 11762
+        },
+        "username": "miumcii",
+        "verified": false
+      }
+    ]
+  }
+}

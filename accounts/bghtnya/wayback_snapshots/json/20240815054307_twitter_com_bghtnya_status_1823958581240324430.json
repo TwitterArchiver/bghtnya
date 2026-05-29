@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1823828891120906555",
+    "created_at": "2024-08-15T05:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T06:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823958581240324430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1054322364870246400",
+          "start": 0,
+          "username": "mrwhat926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823958581240324430",
+    "in_reply_to_user_id": "1054322364870246400",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823828891120906555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrwhat926 地理东方 文化西方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1823828891120906555",
+        "created_at": "2024-08-15T05:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T06:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823958581240324430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1054322364870246400",
+              "start": 0,
+              "username": "mrwhat926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823958581240324430",
+        "in_reply_to_user_id": "1054322364870246400",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823828891120906555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrwhat926 地理东方 文化西方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054322364870246400",
+        "conversation_id": "1823828891120906555",
+        "created_at": "2024-08-14T21:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T22:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823828891120906555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823828891120906555",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本，到底算是西方還是東方？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 1467,
+          "like_count": 87865,
+          "listed_count": 11,
+          "tweet_count": 19002
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-22T10:43:34.000Z",
+        "description": "幻想を信じて、今年も宜しくお願い致します。",
+        "id": "1054322364870246400",
+        "location": "無言フォロー失礼します",
+        "name": "Mr.What🏳️ (re: Time Grass)",
+        "pinned_tweet_id": "1818846208984858812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823804372813537284/Eh3SUK2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 1498,
+          "like_count": 29673,
+          "listed_count": 1,
+          "tweet_count": 4849
+        },
+        "username": "mrwhat926",
+        "verified": false
+      }
+    ]
+  }
+}

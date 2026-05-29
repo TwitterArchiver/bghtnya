@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2054364428712489074",
+    "created_at": "2026-05-13T10:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054513710140740054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 18,
+          "id": "1959893383633358848",
+          "start": 11,
+          "username": "Cbscfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054513710140740054",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054510193447424198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @Cbscfe 而且并夕夕买很便宜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054510193447424198].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054510193447424198",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054510193447424198"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2054364428712489074",
+        "created_at": "2026-05-13T10:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054513710140740054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 18,
+              "id": "1959893383633358848",
+              "start": 11,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054513710140740054",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054510193447424198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @Cbscfe 而且并夕夕买很便宜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9212,
+          "following_count": 2197,
+          "like_count": 177830,
+          "listed_count": 20,
+          "media_count": 3886,
+          "tweet_count": 47576
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "/生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了/我情愿躺在虚无主义的深渊里，什么也不做，静静地看着一切，等待终结的降临。",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006928708179996672/pdnTrQ4E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1053,
+          "like_count": 75952,
+          "listed_count": 2,
+          "media_count": 2175,
+          "tweet_count": 14433
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 584,
+          "like_count": 23037,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 5229
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

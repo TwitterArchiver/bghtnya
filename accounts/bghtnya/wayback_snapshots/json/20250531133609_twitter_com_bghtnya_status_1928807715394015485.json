@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1928693506807128315",
+    "created_at": "2025-05-31T13:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T14:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928807715394015485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1373755792948531200",
+          "start": 0,
+          "username": "_ASimpleSmile_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928807715394015485",
+    "in_reply_to_user_id": "1373755792948531200",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928693506807128315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ASimpleSmile_ openai：6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928693502382321668",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQYhZIaMAQHsnY.jpg",
+        "width": 865
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1928693506807128315",
+        "created_at": "2025-05-31T13:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T14:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928807715394015485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1373755792948531200",
+              "start": 0,
+              "username": "_ASimpleSmile_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928807715394015485",
+        "in_reply_to_user_id": "1373755792948531200",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928693506807128315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ASimpleSmile_ openai：6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928693502382321668"
+          ]
+        },
+        "author_id": "1373755792948531200",
+        "conversation_id": "1928693506807128315",
+        "created_at": "2025-05-31T06:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928693506807128315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBUp5ARZSs",
+              "end": 43,
+              "expanded_url": "https://x.com/_ASimpleSmile_/status/1928693506807128315/photo/1",
+              "media_key": "3_1928693502382321668",
+              "start": 20,
+              "url": "https://t.co/qBUp5ARZSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928693506807128315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 20189,
+          "like_count": 310,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "把聊的最久的GPT删掉了……😿\n永别了 https://t.co/qBUp5ARZSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6326,
+          "following_count": 1957,
+          "like_count": 139556,
+          "listed_count": 13,
+          "media_count": 2594,
+          "tweet_count": 35371
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T21:58:06.000Z",
+        "description": "请叫我阿咸！|| 18岁 是在中中国人 || 大概是mtx || 182㎝ 66㎏ || 日常推为主 偶尔会发女装照 || meme享受者 || 颜文字享受者(✪ω✪) || 太鼓の達人 2024夏九段金合格|| 中文/EN || 想要有很多朋友 所以欢迎互fo欢迎互fo❤️ || 分身@ASimpleSmile2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 144,
+                "username": "ASimpleSmile2"
+              }
+            ]
+          }
+        },
+        "id": "1373755792948531200",
+        "location": "卧室",
+        "name": "咸咸的",
+        "pinned_tweet_id": "1833902162956701931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714391721738711040/Fu_TJQSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 883,
+          "like_count": 90554,
+          "listed_count": 4,
+          "media_count": 1173,
+          "tweet_count": 6344
+        },
+        "username": "_ASimpleSmile_",
+        "verified": false
+      }
+    ]
+  }
+}

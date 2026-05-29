@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936080343188328448"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1935734520353022435",
+    "created_at": "2025-06-20T15:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T16:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936080354148065437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "zhu6hua"
+        },
+        {
+          "end": 20,
+          "id": "1904873292366036992",
+          "start": 9,
+          "username": "Chiyuyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KCAcl5pjqt",
+          "end": 57,
+          "expanded_url": "https://x.com/bghtnya/status/1936080354148065437/photo/1",
+          "media_key": "3_1936080343188328448",
+          "start": 34,
+          "url": "https://t.co/KCAcl5pjqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936080354148065437",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936060732019560951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu6hua @Chiyuyu520 多玩原神可以有效提高智商 https://t.co/KCAcl5pjqt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_1936080343188328448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt5W0HhbUAASzDP.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936080343188328448"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1935734520353022435",
+        "created_at": "2025-06-20T15:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T16:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936080354148065437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "zhu6hua"
+            },
+            {
+              "end": 20,
+              "id": "1904873292366036992",
+              "start": 9,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCAcl5pjqt",
+              "end": 57,
+              "expanded_url": "https://x.com/bghtnya/status/1936080354148065437/photo/1",
+              "media_key": "3_1936080343188328448",
+              "start": 34,
+              "url": "https://t.co/KCAcl5pjqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936080354148065437",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936060732019560951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu6hua @Chiyuyu520 多玩原神可以有效提高智商 https://t.co/KCAcl5pjqt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894285195651813378",
+        "conversation_id": "1935734520353022435",
+        "created_at": "2025-06-20T13:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936060732019560951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936060732019560951",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935734520353022435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 跨畜能把手机放下就能避免99%的跟风紫砂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6489,
+          "following_count": 2005,
+          "like_count": 147906,
+          "listed_count": 14,
+          "media_count": 2764,
+          "tweet_count": 36804
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔萌萌类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "要坂下一切害人虫，全六花！",
+        "pinned_tweet_id": "1895423372273819659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642262855462912/SNlo-KZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 1063,
+          "like_count": 10065,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 6357
+        },
+        "username": "zhu6hua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 爱着 @Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "haruhi_LAP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 1051,
+          "like_count": 1697,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1873987456371937293",
+    "created_at": "2024-12-31T07:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T08:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873992131309953358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873992131309953358",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873987456371937293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 经典老图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1873987456371937293",
+        "created_at": "2024-12-31T07:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873992131309953358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873992131309953358",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873987456371937293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 经典老图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243945571796295681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "1873987456371937293",
+        "created_at": "2024-12-31T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873987456371937293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873987456371937293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "{\n\"type\": \"jpg\",\n\"dialogue\": [\n{\n\"narrator\": \"mom\",\n\"text\": \"隔壁家的叔叔都要跨年了还在\",\n\"append\": [\n\"JavaScript\",\n\"Vue\",\n\"Vite\",\n\"HTML\",\n\"pinia\",\n\"css\",\n\"Vitest\",\n\"React\"\n]\n},\n{\n\"narrator\": \"mom\",\n\"text\": \"你可千万不要变成这样\"\n}\n]\n}"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4049,
+          "following_count": 1774,
+          "like_count": 118233,
+          "listed_count": 13,
+          "media_count": 1870,
+          "tweet_count": 28366
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "BORN TO CREATE ｜Staff For https://t.co/ey95qomsFA｜MtX🏳️‍⚧️🍥｜PUBGM Pro Player｜HOK Player｜Financal｜Geography｜Language：CN/EN/JP｜✨❤️Wife：@baiyun_99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "baiyun_99"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1Go.ooo",
+                "end": 49,
+                "expanded_url": "http://1Go.ooo",
+                "start": 26,
+                "url": "https://t.co/ey95qomsFA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "陈塘庄",
+        "name": "铨🍥🔜PEN",
+        "pinned_tweet_id": "1841714384613052671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14931,
+          "following_count": 4294,
+          "like_count": 165267,
+          "listed_count": 65,
+          "media_count": 4112,
+          "tweet_count": 19858
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

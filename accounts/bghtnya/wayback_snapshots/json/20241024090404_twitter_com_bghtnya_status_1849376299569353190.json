@@ -1,0 +1,133 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1849376295022641152",
+        "3_1849376294724915200"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1849376299569353190",
+    "created_at": "2024-10-24T09:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-24T10:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1849376299569353190"
+    ],
+    "id": "1849376299569353190",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1792,
+      "like_count": 31,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849352296569970841",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩上了w https://t.co/7nAJOLceQj https://t.co/VBEO6wNvLD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1849376295022641152",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GapN8SDaQAA9UNC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1849376294724915200",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GapN8Q8bUAAso1n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1849376295022641152",
+            "3_1849376294724915200"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1849376299569353190",
+        "created_at": "2024-10-24T09:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-24T10:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849376299569353190"
+        ],
+        "id": "1849376299569353190",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1792,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849352296569970841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩上了w https://t.co/7nAJOLceQj https://t.co/VBEO6wNvLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3544,
+          "following_count": 1598,
+          "like_count": 107106,
+          "listed_count": 9,
+          "media_count": 1724,
+          "tweet_count": 25644
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

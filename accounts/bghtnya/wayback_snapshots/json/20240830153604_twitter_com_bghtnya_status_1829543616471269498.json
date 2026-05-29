@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1829225172437741739",
+    "created_at": "2024-08-30T15:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T16:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829543616471269498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517042285283667968",
+          "start": 0,
+          "username": "HosiRen1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829543616471269498",
+    "in_reply_to_user_id": "1517042285283667968",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829225172437741739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosiRen1999 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1829225172437741739",
+        "created_at": "2024-08-30T15:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T16:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829543616471269498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517042285283667968",
+              "start": 0,
+              "username": "HosiRen1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829543616471269498",
+        "in_reply_to_user_id": "1517042285283667968",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829225172437741739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosiRen1999 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829225169971490817"
+          ]
+        },
+        "author_id": "1517042285283667968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1829225172437741739",
+        "created_at": "2024-08-29T18:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T19:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829225172437741739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lttnaiott",
+              "end": 23,
+              "expanded_url": "https://twitter.com/HosiRen1999/status/1829225172437741739/photo/1",
+              "media_key": "3_1829225169971490817",
+              "start": 0,
+              "url": "https://t.co/7lTTNAIOTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829225172437741739",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7lTTNAIOTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 1496,
+          "like_count": 91553,
+          "listed_count": 10,
+          "tweet_count": 19965
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T07:27:32.000Z",
+        "description": "无证含糖/大龄天残MtF/HRT 2016.6.1/出生年月1999.9/猫系/抖M/不OD不割手手/一直愿意默默守护和等待 @Hyperglycemia26\n/IT爱好者/推特不常在线\nQQ2796455571，欢迎同类、小男娘和友跨来找我聊天~欢迎同类互fo/Expecto Patronum",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "Hyperglycemia26"
+              }
+            ]
+          }
+        },
+        "id": "1517042285283667968",
+        "name": "星野 星涟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1822518161654067651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517042776122093568/2atuNPDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 298,
+          "like_count": 531,
+          "listed_count": 0,
+          "tweet_count": 171
+        },
+        "username": "HosiRen1999",
+        "verified": false
+      }
+    ]
+  }
+}

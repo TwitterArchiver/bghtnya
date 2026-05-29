@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952379250738343937"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1952379255842599062",
+    "created_at": "2025-08-04T14:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952379255842599062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JHKlUizs3l",
+          "end": 44,
+          "expanded_url": "https://x.com/bghtnya/status/1952379255842599062/photo/1",
+          "media_key": "3_1952379250738343937",
+          "start": 21,
+          "url": "https://t.co/JHKlUizs3l"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1952379255842599062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "od 奶片\n剂量：1t～∞t\n药效：好吃 https://t.co/JHKlUizs3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1952379250738343937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxg-lZsaMAEkQon.jpg",
+        "width": 1081
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952379250738343937"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1952379255842599062",
+        "created_at": "2025-08-04T14:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952379255842599062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHKlUizs3l",
+              "end": 44,
+              "expanded_url": "https://x.com/bghtnya/status/1952379255842599062/photo/1",
+              "media_key": "3_1952379250738343937",
+              "start": 21,
+              "url": "https://t.co/JHKlUizs3l"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1952379255842599062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od 奶片\n剂量：1t～∞t\n药效：好吃 https://t.co/JHKlUizs3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7230,
+          "following_count": 2050,
+          "like_count": 155811,
+          "listed_count": 17,
+          "media_count": 2996,
+          "tweet_count": 38994
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

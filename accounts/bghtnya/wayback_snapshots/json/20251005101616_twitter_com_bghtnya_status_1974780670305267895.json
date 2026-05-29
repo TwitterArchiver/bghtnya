@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1974780246512828717",
+    "created_at": "2025-10-05T10:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T11:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974780670305267895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596823873894420480",
+          "start": 0,
+          "username": "hanzheng_street"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974780670305267895",
+    "in_reply_to_user_id": "1596823873894420480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974780246512828717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanzheng_street 我老是很好奇 你怎么好意思评价的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1974780246512828717",
+        "created_at": "2025-10-05T10:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974780670305267895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596823873894420480",
+              "start": 0,
+              "username": "hanzheng_street"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974780670305267895",
+        "in_reply_to_user_id": "1596823873894420480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974780246512828717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanzheng_street 我老是很好奇 你怎么好意思评价的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596823873894420480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1974780246512828717",
+        "created_at": "2025-10-05T10:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974780246512828717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/bghtnya/status/1974770479308435874",
+              "start": 75,
+              "url": "https://t.co/ZtTxJUFsKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974780246512828717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974770479308435874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不理解这个人为什么一定要往红线上踩，而且还是反复踩，似乎最基本的原则和底线就是要随意无视的一样。如果之后发生了什么事情，那也只是自讨苦吃、自食其果。 https://t.co/ZtTxJUFsKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7728,
+          "following_count": 2084,
+          "like_count": 161327,
+          "listed_count": 20,
+          "media_count": 3208,
+          "tweet_count": 40695
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T11:11:08.000Z",
+        "description": "君は私が明日何を更新するかずっと知れない。［🚫広告は絶対に禁止です！迷惑メッセージをしな！広告チャットの要請を送るな！］",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vdse.bdstatic.com//192d9a98d782d…",
+                "end": 23,
+                "expanded_url": "https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4",
+                "start": 0,
+                "url": "https://t.co/IC0IB1UPog"
+              }
+            ]
+          }
+        },
+        "id": "1596823873894420480",
+        "location": "中国武漢",
+        "name": "永遠に漢正街駅が好きだ【ゴミ広告要請禁止】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881113130505502720/bMozvMtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 205,
+          "like_count": 36245,
+          "listed_count": 4,
+          "media_count": 854,
+          "tweet_count": 8834
+        },
+        "url": "https://t.co/IC0IB1UPog",
+        "username": "hanzheng_street",
+        "verified": false
+      }
+    ]
+  }
+}

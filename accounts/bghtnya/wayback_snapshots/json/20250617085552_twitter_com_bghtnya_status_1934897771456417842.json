@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1934853463055224890",
+    "created_at": "2025-06-17T08:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T09:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934897771456417842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        },
+        {
+          "end": 20,
+          "id": "1587653801305153538",
+          "start": 8,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934897771456417842",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934893388815532069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk @XiaoHuiHuiH 🇨🇦进口身份证（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934893388815532069].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934893388815532069",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934893388815532069"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1934853463055224890",
+        "created_at": "2025-06-17T08:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T09:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934897771456417842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            },
+            {
+              "end": 20,
+              "id": "1587653801305153538",
+              "start": 8,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934897771456417842",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934893388815532069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk @XiaoHuiHuiH 🇨🇦进口身份证（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6473,
+          "following_count": 1999,
+          "like_count": 146748,
+          "listed_count": 14,
+          "media_count": 2737,
+          "tweet_count": 36560
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "🦊/plurality/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "kawa1_kitsune"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3U8dO"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1932904144186360228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927213078019481600/hoi_G8nk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 2984,
+          "like_count": 271398,
+          "listed_count": 14,
+          "media_count": 863,
+          "tweet_count": 12342
+        },
+        "url": "https://t.co/i3MKU3U8dO",
+        "username": "kjkluk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10662,
+          "following_count": 1173,
+          "like_count": 112819,
+          "listed_count": 21,
+          "media_count": 3842,
+          "tweet_count": 54231
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

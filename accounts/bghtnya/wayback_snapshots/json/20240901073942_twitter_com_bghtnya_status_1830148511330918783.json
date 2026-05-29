@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1830002333490823550",
+    "created_at": "2024-09-01T07:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T08:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830148511330918783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789184782825615360",
+          "start": 0,
+          "username": "nonsweetsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830148511330918783",
+    "in_reply_to_user_id": "1789184782825615360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830002333490823550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsweetsuger 人类之光了这下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1830002333490823550",
+        "created_at": "2024-09-01T07:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T08:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830148511330918783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830148511330918783",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830002333490823550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger 人类之光了这下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046131477",
+              "name": "Getty Images"
+            }
+          }
+        ],
+        "conversation_id": "1830002333490823550",
+        "created_at": "2024-08-31T21:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T22:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830002333490823550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1486579770183798786",
+              "start": 26,
+              "url": "https://t.co/oUOas4nKcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830002333490823550",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1420,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1486579770183798786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "142票赞成，零票反对足以证明法国这个国家的含金量 https://t.co/oUOas4nKcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 1501,
+          "like_count": 92242,
+          "listed_count": 10,
+          "tweet_count": 20123
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "非二元生理男/叫姐姐加好感（喂）/随时跑路准建筑师/设计 艺术 性（是dom）/泛性恋/开放式关系，有男友兼小狗/ cptsd疗愈中/比较喜欢照顾人/不要对我使诈我不是新手/会做一些自己喜欢的设计/擦边看心情（?/寻找朋友中",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 317,
+          "like_count": 15378,
+          "listed_count": 0,
+          "tweet_count": 5837
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

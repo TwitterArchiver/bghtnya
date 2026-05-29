@@ -1,0 +1,240 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1799767443600208198",
+    "created_at": "2024-06-09T14:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T15:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799816001166647696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 23,
+          "id": "1721033524155916288",
+          "start": 11,
+          "username": "wushoei_Lcy"
+        },
+        {
+          "end": 35,
+          "id": "909909858949922818",
+          "start": 24,
+          "username": "rnpgpsl101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799816001166647696",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799807413639647382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @wushoei_Lcy @rnpgpsl101 悲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1799807413639647382].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1799807413639647382",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1799807413639647382"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1799767443600208198",
+        "created_at": "2024-06-09T14:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T15:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799816001166647696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 23,
+              "id": "1721033524155916288",
+              "start": 11,
+              "username": "wushoei_Lcy"
+            },
+            {
+              "end": 35,
+              "id": "909909858949922818",
+              "start": 24,
+              "username": "rnpgpsl101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799816001166647696",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799807413639647382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @wushoei_Lcy @rnpgpsl101 悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1360,
+          "like_count": 70610,
+          "listed_count": 7,
+          "tweet_count": 14726
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/xyn/she/天残党/深柜/不键政，中立派/INT(F?)P/音游人/\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 910,
+          "like_count": 18999,
+          "listed_count": 7,
+          "tweet_count": 3713
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T05:15:57.000Z",
+        "description": "",
+        "id": "1721033524155916288",
+        "name": "无水柠檬不加糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788536967308967936/43dEe3F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 375,
+          "like_count": 5087,
+          "listed_count": 1,
+          "tweet_count": 309
+        },
+        "username": "wushoei_Lcy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "想贴贴！！！！！！\narchive: @imaginaryphx\n穷鬼企业家俱乐部：（承接改/修键盘鼠标，修车，售卖电子垃圾，等都在这里）\nhttps://t.co/qwbFIrQUrV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "imaginaryphx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+z34iq_GShuI4M…",
+                "end": 93,
+                "expanded_url": "https://t.me/+z34iq_GShuI4MjEx",
+                "start": 70,
+                "url": "https://t.co/qwbFIrQUrV"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Middlesex, NJ",
+        "name": "忙爆了的ootori（有没有人找我面积）",
+        "pinned_tweet_id": "1787492486090297430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760717597144764416/-WLJ9Lww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9332,
+          "following_count": 5105,
+          "like_count": 132816,
+          "listed_count": 23,
+          "tweet_count": 54996
+        },
+        "username": "rnpgpsl101",
+        "verified": false
+      }
+    ]
+  }
+}

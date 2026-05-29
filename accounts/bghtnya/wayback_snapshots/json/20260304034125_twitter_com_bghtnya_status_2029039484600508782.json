@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2029004622099300739",
+    "created_at": "2026-03-04T03:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T04:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029039484600508782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433833820810211332",
+          "start": 0,
+          "username": "Ettf_Cabage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029039484600508782",
+    "in_reply_to_user_id": "1433833820810211332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029004622099300739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ettf_Cabage 簸箕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2029004622099300739",
+        "created_at": "2026-03-04T03:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029039484600508782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029039484600508782",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029004622099300739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ettf_Cabage 簸箕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433833820810211332",
+        "conversation_id": "2029004622099300739",
+        "created_at": "2026-03-04T01:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029004622099300739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CrstKatze/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/CrstKatze/status/2028799385774211396",
+              "start": 14,
+              "url": "https://t.co/0ZX9QWKyMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029004622099300739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028799385774211396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没话说 这个真不记得怎么写 https://t.co/0ZX9QWKyMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9139,
+          "following_count": 2117,
+          "like_count": 175706,
+          "listed_count": 18,
+          "media_count": 3807,
+          "tweet_count": 46491
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 我是白菜！ 双性恋 男孩子！活动范围以泉州／厦门为主 现在是19岁想可爱的183cm 91kg性压抑肥猪 - Citroen C4 Coupe车主 - 坚定的伊蕾娜厨 r18转发bot（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "1996166985517031758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 1860,
+          "like_count": 55582,
+          "listed_count": 10,
+          "media_count": 348,
+          "tweet_count": 14681
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false
+      }
+    ]
+  }
+}

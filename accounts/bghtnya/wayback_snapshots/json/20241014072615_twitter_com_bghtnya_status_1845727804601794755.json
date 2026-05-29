@@ -1,0 +1,144 @@
+{
+  "data": {
+    "author_id": "1512976991976402949",
+    "conversation_id": "1845479130894315839",
+    "created_at": "2024-10-14T07:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-14T08:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845727804601794755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654314718713249793",
+          "start": 0,
+          "username": "sin952204814464"
+        }
+      ]
+    },
+    "id": "1845727804601794755",
+    "in_reply_to_user_id": "1654314718713249793",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 218,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1845632132737368157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sin952204814464 蓝牙雀食难说\nc口我看还是有机会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1512976991976402949",
+        "conversation_id": "1845479130894315839",
+        "created_at": "2024-10-14T07:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-14T08:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845727804601794755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654314718713249793",
+              "start": 0,
+              "username": "sin952204814464"
+            }
+          ]
+        },
+        "id": "1845727804601794755",
+        "in_reply_to_user_id": "1654314718713249793",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1845632132737368157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sin952204814464 蓝牙雀食难说\nc口我看还是有机会的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3534,
+          "following_count": 1595,
+          "like_count": 107157,
+          "listed_count": 9,
+          "tweet_count": 25545
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T02:39:08.000Z",
+        "description": "G+遗民。推上原号还被封了，返还无望发信官方也不说明具体原因，就这样还是如舔狗一样的又申请了一个（真心考虑ins了）",
+        "id": "1654314718713249793",
+        "location": "will.lain@me.com",
+        "name": "sin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654315519380705282/o4xo3abz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 447,
+          "like_count": 1388,
+          "listed_count": 4,
+          "tweet_count": 8544
+        },
+        "username": "sin952204814464",
+        "verified": false
+      }
+    ]
+  }
+}

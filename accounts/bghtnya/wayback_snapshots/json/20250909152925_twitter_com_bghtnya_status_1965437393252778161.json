@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1965317480727134578",
+    "created_at": "2025-09-09T15:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T16:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965437393252778161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        },
+        {
+          "end": 24,
+          "id": "53704819",
+          "start": 16,
+          "username": "EveY448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965437393252778161",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965319948789842322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo @EveY448 不支持原作者的观点 因为mafumafu可以被视为mtf 只是日本那边更流行的说伪娘 只是文化定义不同 不过性质十分相似"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1965317480727134578",
+        "created_at": "2025-09-09T15:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965437393252778161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 24,
+              "id": "53704819",
+              "start": 16,
+              "username": "EveY448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965437393252778161",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965319948789842322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo @EveY448 不支持原作者的观点 因为mafumafu可以被视为mtf 只是日本那边更流行的说伪娘 只是文化定义不同 不过性质十分相似"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1965317480727134578",
+        "created_at": "2025-09-09T07:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T08:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965319948789842322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "53704819",
+              "start": 0,
+              "username": "EveY448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965319948789842322",
+        "in_reply_to_user_id": "53704819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965317480727134578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EveY448 但是有很多跨都用他的图，让他被大众以为是和mtf 一伙的而遭到攻击，你不能只考虑自己的快乐，也要考虑别人的幸福啊。🍵😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7450,
+          "following_count": 2068,
+          "like_count": 157793,
+          "listed_count": 18,
+          "media_count": 3122,
+          "tweet_count": 39834
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "大家好呀，我会尽量包容所有人的，请多多指教哦~🥰",
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "pinned_tweet_id": "1965091194788344027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961819875669893120/WnmHRs2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 572,
+          "like_count": 252338,
+          "listed_count": 9,
+          "media_count": 186,
+          "tweet_count": 23218
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-04T16:33:18.000Z",
+        "description": "021｜大龄人夫｜断片20年重新苏醒｜目前深柜Femboy｜hrt中｜图片高P（别信）｜碎碎念大师 只说废话但都很真心｜身高174疯狂减肥ing目标115｜面具新玩",
+        "id": "53704819",
+        "name": "立下Evey🍥",
+        "pinned_tweet_id": "1955997755723141318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949458155261542400/p8AQOWCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1070,
+          "like_count": 9278,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 4004
+        },
+        "username": "EveY448",
+        "verified": true
+      }
+    ]
+  }
+}

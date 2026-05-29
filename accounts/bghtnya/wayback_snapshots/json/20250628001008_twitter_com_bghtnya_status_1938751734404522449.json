@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1938492620835328476",
+    "created_at": "2025-06-28T00:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T01:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938751734404522449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1789586690400800769",
+          "start": 0,
+          "username": "ameear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938751734404522449",
+    "in_reply_to_user_id": "1789586690400800769",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938563495282483508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameear8964 hhhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10401,
+        "height": 1280,
+        "media_key": "13_1938563410868027392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938563410868027392/img/xyAUn3dLvYrKPIaJ.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938563410868027392/vid/avc1/320x568/U2qLkZpA9XUVF4y4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938563410868027392/vid/avc1/480x852/MasKHoNb0zfLouNT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938563410868027392/vid/avc1/720x1280/s66eV-INgUyPgbCj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938563410868027392/pl/31fmebipBHjDHxJv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1938492620835328476",
+        "created_at": "2025-06-28T00:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T01:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938751734404522449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938751734404522449",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938563495282483508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear8964 hhhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938563410868027392"
+          ]
+        },
+        "author_id": "1789586690400800769",
+        "conversation_id": "1938492620835328476",
+        "created_at": "2025-06-27T11:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938563495282483508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOYrPb5PPW",
+              "end": 35,
+              "expanded_url": "https://x.com/ameear8964/status/1938563495282483508/video/1",
+              "media_key": "13_1938563410868027392",
+              "start": 12,
+              "url": "https://t.co/MOYrPb5PPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938563495282483508",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938492620835328476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 经典 https://t.co/MOYrPb5PPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7010,
+          "following_count": 2014,
+          "like_count": 150541,
+          "listed_count": 17,
+          "media_count": 2829,
+          "tweet_count": 37508
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "EARHART AMELIA M. 896489648USN BN CHRISTIAN, Wingmate : @inoueerii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "inoueerii"
+              }
+            ]
+          }
+        },
+        "id": "1789586690400800769",
+        "location": "미해군항공대 제8964항모항공단",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862830820064432129/g7Hpsfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3451,
+          "following_count": 1359,
+          "like_count": 32705,
+          "listed_count": 15,
+          "media_count": 759,
+          "tweet_count": 8756
+        },
+        "username": "ameear8964",
+        "verified": false
+      }
+    ]
+  }
+}

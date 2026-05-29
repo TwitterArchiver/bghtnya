@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005200028097466368"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2005126948528517498",
+    "created_at": "2025-12-28T08:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T09:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005200030085656888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 26,
+          "id": "1892197607109476352",
+          "start": 16,
+          "username": "lianshufa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iNWe18AcOr",
+          "end": 66,
+          "expanded_url": "https://x.com/bghtnya/status/2005200030085656888/photo/1",
+          "media_key": "3_2005200028097466368",
+          "start": 43,
+          "url": "https://t.co/iNWe18AcOr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005200030085656888",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005193550515101870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @lianshufa 去过了喵\nqkt就是在那边开的 https://t.co/iNWe18AcOr"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005193550515101870].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005193550515101870",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005193550515101870"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2005200028097466368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9PmzTJaUAAU8WX.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005200028097466368"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2005126948528517498",
+        "created_at": "2025-12-28T08:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005200030085656888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 26,
+              "id": "1892197607109476352",
+              "start": 16,
+              "username": "lianshufa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNWe18AcOr",
+              "end": 66,
+              "expanded_url": "https://x.com/bghtnya/status/2005200030085656888/photo/1",
+              "media_key": "3_2005200028097466368",
+              "start": 43,
+              "url": "https://t.co/iNWe18AcOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005200030085656888",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005193550515101870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @lianshufa 去过了喵\nqkt就是在那边开的 https://t.co/iNWe18AcOr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8408,
+          "following_count": 2088,
+          "like_count": 173539,
+          "listed_count": 19,
+          "media_count": 3659,
+          "tweet_count": 44666
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 Female PgdStu🎧🍟🍔🥤🚪1680JPY/C spl tri/EN/JP 😘🍩fobackAuto 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1856596418926129304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 3741,
+          "like_count": 23429,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 17466
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "生日2009.10.02｜MtF🏳️‍⚧️｜弹电吉他🎸｜个人主页:https://t.co/zZum0DqESa｜X:@lianshufa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "lianshufa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 56,
+                "expanded_url": "http://lsfself.top",
+                "start": 33,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "北京回龙观医院门诊2层13诊室",
+        "name": "lsf🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1975014921810395142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999728961908359168/C6Q6i2HT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3682,
+          "following_count": 1589,
+          "like_count": 2211,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/zZum0DqESa",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}

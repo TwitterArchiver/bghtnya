@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1932442835183448158",
+    "created_at": "2025-06-11T16:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T17:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932838565546971346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932838565546971346",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932442835183448158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 人大附中怎么这么fw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58769,
+        "height": 1920,
+        "media_key": "13_1932442646720737280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932442646720737280/img/CsIaEk4LlAJbPPtU.jpg",
+        "public_metrics": {
+          "view_count": 662366
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932442646720737280/vid/avc1/480x852/z9dv5NH7TIeZL5so.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932442646720737280/vid/avc1/720x1280/1XL508loeACacO7V.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932442646720737280/vid/avc1/1080x1920/kdWMbULelm-fkFxZ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932442646720737280/vid/avc1/320x568/YhkDlht4lev0IxG2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932442646720737280/pl/peDpklEEBmu_QUdI.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1932442835183448158",
+        "created_at": "2025-06-11T16:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T17:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932838565546971346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932838565546971346",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932442835183448158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 人大附中怎么这么fw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932442646720737280"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1932442835183448158",
+        "created_at": "2025-06-10T14:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932442835183448158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioRpmNdVEz",
+              "end": 33,
+              "expanded_url": "https://x.com/igeekbb/status/1932442835183448158/video/1",
+              "media_key": "13_1932442646720737280",
+              "start": 10,
+              "url": "https://t.co/ioRpmNdVEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932442835183448158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 421,
+          "impression_count": 1139591,
+          "like_count": 1450,
+          "quote_count": 27,
+          "reply_count": 316,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "同样是高考结束…… https://t.co/ioRpmNdVEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6413,
+          "following_count": 1979,
+          "like_count": 144312,
+          "listed_count": 14,
+          "media_count": 2676,
+          "tweet_count": 36117
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43744,
+          "following_count": 1,
+          "like_count": 3809,
+          "listed_count": 172,
+          "media_count": 4284,
+          "tweet_count": 6653
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

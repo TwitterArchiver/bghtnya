@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1990424521330004065",
+    "created_at": "2025-11-18T09:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990716050820776061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1185431906436804608",
+          "start": 0,
+          "username": "furyouindouairi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990716050820776061",
+    "in_reply_to_user_id": "1185431906436804608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990424521330004065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furyouindouairi 何链接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1990424521330004065",
+        "created_at": "2025-11-18T09:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990716050820776061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1185431906436804608",
+              "start": 0,
+              "username": "furyouindouairi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990716050820776061",
+        "in_reply_to_user_id": "1185431906436804608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990424521330004065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furyouindouairi 何链接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185431906436804608",
+        "conversation_id": "1990424521330004065",
+        "created_at": "2025-11-17T14:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990424521330004065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bghtnya/status/1990342582174654618",
+              "start": 14,
+              "url": "https://t.co/R46MwdGVX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990424521330004065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990342582174654618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这本有点幽默有点1970s https://t.co/R46MwdGVX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8212,
+          "following_count": 2122,
+          "like_count": 168982,
+          "listed_count": 20,
+          "media_count": 3444,
+          "tweet_count": 42696
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T05:46:30.000Z",
+        "description": "",
+        "id": "1185431906436804608",
+        "name": ".",
+        "pinned_tweet_id": "1955902961399554097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 913,
+          "like_count": 49334,
+          "listed_count": 3,
+          "media_count": 1085,
+          "tweet_count": 23552
+        },
+        "username": "furyouindouairi",
+        "verified": false
+      }
+    ]
+  }
+}

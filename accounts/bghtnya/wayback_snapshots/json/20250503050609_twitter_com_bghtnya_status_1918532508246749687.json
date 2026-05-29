@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1918157083876401541",
+    "created_at": "2025-05-03T05:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T06:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918532508246749687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550334980500307974",
+          "start": 0,
+          "username": "shandia49640379"
+        },
+        {
+          "end": 28,
+          "id": "1817573438334341120",
+          "start": 17,
+          "username": "teachaerli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918532508246749687",
+    "in_reply_to_user_id": "1550334980500307974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918160803557195797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shandia49640379 @teachaerli 还真是"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1918160803557195797].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1918160803557195797",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1918160803557195797"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1918157083876401541",
+        "created_at": "2025-05-03T05:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918532508246749687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550334980500307974",
+              "start": 0,
+              "username": "shandia49640379"
+            },
+            {
+              "end": 28,
+              "id": "1817573438334341120",
+              "start": 17,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918532508246749687",
+        "in_reply_to_user_id": "1550334980500307974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918160803557195797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shandia49640379 @teachaerli 还真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6223,
+          "following_count": 1926,
+          "like_count": 134546,
+          "listed_count": 13,
+          "media_count": 2466,
+          "tweet_count": 34160
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T04:20:53.000Z",
+        "description": "INFP-A/友跨/大叔/心灵手巧的胶佬/被女儿欺负/岁月没能治好我的中二病/性癖：包罗万象。/无胆lsp/\n\n     /想拿起银钥匙，去乌撒镇撸猫，去塞勒菲斯观赏落日下的缟玛瑙城堡/     \n\n手办原型师山巅，原创手办售卖中，欢迎定制，将你的幻想变成实体。#r18 #r18G #bl #手办",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 131,
+                "tag": "r18"
+              },
+              {
+                "end": 141,
+                "start": 136,
+                "tag": "r18G"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "bl"
+              },
+              {
+                "end": 149,
+                "start": 146,
+                "tag": "手办"
+              }
+            ]
+          }
+        },
+        "id": "1550334980500307974",
+        "name": "山巅",
+        "pinned_tweet_id": "1904891787891925070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627456224051748864/Dmyggbeq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 1480,
+          "like_count": 18317,
+          "listed_count": 11,
+          "media_count": 1230,
+          "tweet_count": 25406
+        },
+        "username": "shandia49640379",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T14:51:15.000Z",
+        "description": "墙外天才鉴定师，没病走两步！",
+        "id": "1817573438334341120",
+        "name": "我是你的李院长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817578026479370240/ENddSCbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 83,
+          "like_count": 44,
+          "listed_count": 10,
+          "media_count": 323,
+          "tweet_count": 352
+        },
+        "username": "teachaerli",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "1932151955788325205",
+    "created_at": "2025-06-09T19:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T20:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932151955788325205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753293214826848256",
+          "start": 3,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932151955788325205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932132365096345664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatanakots: 看起来SEGA很清楚自己的目标客户"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "1932151955788325205",
+        "created_at": "2025-06-09T19:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T20:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932151955788325205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753293214826848256",
+              "start": 3,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932151955788325205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932132365096345664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatanakots: 看起来SEGA很清楚自己的目标客户"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "1932132365096345664",
+        "created_at": "2025-06-09T17:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932132365096345664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sega/status/19…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sega/status/1931030865984843958",
+              "start": 18,
+              "url": "https://t.co/3Y3znu1QKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932132365096345664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931030865984843958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来SEGA很清楚自己的目标客户 https://t.co/3Y3znu1QKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6362,
+          "following_count": 1965,
+          "like_count": 143203,
+          "listed_count": 14,
+          "media_count": 2657,
+          "tweet_count": 35878
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im ❤️ @AcboxLiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "AcboxLiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 203,
+          "like_count": 21892,
+          "listed_count": 2,
+          "media_count": 1204,
+          "tweet_count": 7596
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

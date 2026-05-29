@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1919216811024724294",
+    "created_at": "2025-05-05T11:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T12:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919354226339451126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824379445563785217",
+          "start": 0,
+          "username": "Fish1170901"
+        },
+        {
+          "end": 29,
+          "id": "1477695390619254794",
+          "start": 13,
+          "username": "shishishidifufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919354226339451126",
+    "in_reply_to_user_id": "1824379445563785217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919264883306307808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fish1170901 @shishishidifufu 颅内"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919354226339451126].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919354226339451126",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919354226339451126"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824379445563785217",
+        "conversation_id": "1919216811024724294",
+        "created_at": "2025-05-05T05:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T06:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919264883306307808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1477695390619254794",
+              "start": 0,
+              "username": "shishishidifufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919264883306307808",
+        "in_reply_to_user_id": "1477695390619254794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919216811024724294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishishidifufu 我选了一吨黄金 请问在哪里收货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 1930,
+          "like_count": 135303,
+          "listed_count": 13,
+          "media_count": 2485,
+          "tweet_count": 34370
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T09:35:41.000Z",
+        "description": "直男 礼貌交友",
+        "id": "1824379445563785217",
+        "location": "西双版纳",
+        "name": "Fi sh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825593581933047810/ViAgDK1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 36,
+          "like_count": 7411,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 579
+        },
+        "username": "Fish1170901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T17:37:04.000Z",
+        "description": "我是史蒂夫 想和大家交朋友｜看包浆梗图 享百味人生｜language🇨🇳🇺🇸🇯🇵｜可以互fo❤️由于频繁目前不会全部回关，想互关麻烦私信，不论成分都会回关的٩(๑^o^๑)۶｜不鉴证🧐｜多多指教性格友好😘 若有冒犯请您指出🍀｜试试史蒂夫推荐的梯子？相当于给史蒂夫买瓶水噢谢谢啦(◍•ᴗ•◍)包好用的😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.shidifu.me",
+                "end": 23,
+                "expanded_url": "http://vpn.shidifu.me",
+                "start": 0,
+                "url": "https://t.co/ZfTKJVxQj8"
+              }
+            ]
+          }
+        },
+        "id": "1477695390619254794",
+        "location": "5元150g/月不限速机场 史蒂夫倾力推荐👇",
+        "name": "史蒂夫（不论成分互fo记得私信）",
+        "pinned_tweet_id": "1915438317363224787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910709431391920128/Dv1O0A-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3219,
+          "following_count": 668,
+          "like_count": 744,
+          "listed_count": 3,
+          "media_count": 809,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/ZfTKJVxQj8",
+        "username": "shishishidifufu",
+        "verified": false
+      }
+    ]
+  }
+}

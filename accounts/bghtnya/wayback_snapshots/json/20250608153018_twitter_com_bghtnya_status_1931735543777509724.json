@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1931625258940862877",
+    "created_at": "2025-06-08T15:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T16:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931735543777509724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931735543777509724",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931625258940862877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 左下是什么👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1931625073175388161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6CxRXbYAEAmyl.png",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1931625258940862877",
+        "created_at": "2025-06-08T15:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931735543777509724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931735543777509724",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931625258940862877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 左下是什么👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931625073175388161"
+          ]
+        },
+        "author_id": "1253165636210978817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1931625258940862877",
+        "created_at": "2025-06-08T08:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T09:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931625258940862877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFzUoEJcgm",
+              "end": 111,
+              "expanded_url": "https://x.com/Exusiai159/status/1931625258940862877/photo/1",
+              "media_key": "3_1931625073175388161",
+              "start": 88,
+              "url": "https://t.co/mFzUoEJcgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931625258940862877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 689,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考期间国产AI都不让上传题目 \nChatGPT和Gemini也都达到了免费上限 \n最后不得已去VSCode里面用Github Copilot搜题（白嫖了Education） https://t.co/mFzUoEJcgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6352,
+          "following_count": 1962,
+          "like_count": 142293,
+          "listed_count": 14,
+          "media_count": 2648,
+          "tweet_count": 35776
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows平板和Chromebook爱好者/编程一生黑/禁极端歧视仇恨言论/有大量政治内容的账号恕不回fo/避难所@Exusiai159_2/扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/exusiai1592",
+                "end": 23,
+                "expanded_url": "https://ngl.link/exusiai1592",
+                "start": 0,
+                "url": "https://t.co/ZoBj8xEVzX"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使（期末复习淡推）",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916516326706999296/Cqh4R0TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4293,
+          "following_count": 5348,
+          "like_count": 120699,
+          "listed_count": 9,
+          "media_count": 3423,
+          "tweet_count": 33461
+        },
+        "url": "https://t.co/ZoBj8xEVzX",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

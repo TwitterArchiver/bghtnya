@@ -1,0 +1,245 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1800806452862566736",
+    "created_at": "2024-06-13T09:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T10:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801183333700849824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801183333700849824",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800806452862566736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@WaiFu8964 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1800806452862566736",
+        "created_at": "2024-06-13T09:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T10:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801183333700849824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801183333700849824",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800806452862566736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@WaiFu8964 好诶"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800806324239728640"
+          ]
+        },
+        "author_id": "1419403960696385546",
+        "conversation_id": "1800806452862566736",
+        "created_at": "2024-06-12T08:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T09:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800806452862566736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Uybw1Hqlob",
+              "end": 31,
+              "expanded_url": "https://twitter.com/WaiFu8964/status/1800806452862566736/photo/1",
+              "media_key": "3_1800806324239728640",
+              "start": 8,
+              "url": "https://t.co/Uybw1Hqlob"
+            },
+            {
+              "display_url": "x.com/ONCBBLHH/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ONCBBLHH/status/1800442318006460746",
+              "start": 32,
+              "url": "https://t.co/IavqDLgCXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800806452862566736",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 40030,
+          "like_count": 256,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800442318006460746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "正是在下搞的事 https://t.co/Uybw1Hqlob https://t.co/IavqDLgCXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 1362,
+          "like_count": 70803,
+          "listed_count": 7,
+          "tweet_count": 14846
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "Mionostand"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 81,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 58,
+                "url": "https://t.co/G1WLyLh0Rj"
+              },
+              {
+                "display_url": "chakaifang.org",
+                "end": 123,
+                "expanded_url": "http://chakaifang.org",
+                "start": 100,
+                "url": "https://t.co/GpjdUCMYn8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 23,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 0,
+                "url": "https://t.co/G1WLyLh0Rj"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
+        "pinned_tweet_id": "1754504973918900509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 1672,
+          "like_count": 4656,
+          "listed_count": 14,
+          "tweet_count": 4024
+        },
+        "url": "https://t.co/G1WLyLh0Rj",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

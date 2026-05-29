@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1930510130740650256",
+    "created_at": "2025-06-05T11:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T12:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930585748497141812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930585748497141812",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930510130740650256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 花火酱跟同学发生口角"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1930510130740650256",
+        "created_at": "2025-06-05T11:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930585748497141812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930585748497141812",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930510130740650256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 花火酱跟同学发生口角"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769078117052854272",
+        "conversation_id": "1930510130740650256",
+        "created_at": "2025-06-05T06:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T07:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930510130740650256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dingansich8964…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/dingansich8964/status/1930509099118014807",
+              "start": 10,
+              "url": "https://t.co/nPWf1Dycep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930510130740650256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930509099118014807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想把他们打成一片 https://t.co/nPWf1Dycep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6326,
+          "following_count": 1959,
+          "like_count": 141341,
+          "listed_count": 14,
+          "media_count": 2624,
+          "tweet_count": 35625
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Muoujiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 55,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 32,
+                "url": "https://t.co/LtoB1mlWHz"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1874363360755831286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 3654,
+          "like_count": 86522,
+          "listed_count": 11,
+          "media_count": 4486,
+          "tweet_count": 73940
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1916028850699702343",
+    "created_at": "2025-04-26T19:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T20:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916215167463076234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866781686647885825",
+          "start": 0,
+          "username": "Sakura_mo_yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916215167463076234",
+    "in_reply_to_user_id": "1866781686647885825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916028850699702343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_mo_yu 水印去一下谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_1916028847176491008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpcaFb9bIAAyke0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1916028850699702343",
+        "created_at": "2025-04-26T19:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T20:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916215167463076234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866781686647885825",
+              "start": 0,
+              "username": "Sakura_mo_yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916215167463076234",
+        "in_reply_to_user_id": "1866781686647885825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916028850699702343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_mo_yu 水印去一下谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916028847176491008"
+          ]
+        },
+        "author_id": "1866781686647885825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139229372198469633",
+              "name": "Dogecoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1916028850699702343",
+        "created_at": "2025-04-26T07:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T08:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916028850699702343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/22RpBh1roj",
+              "end": 41,
+              "expanded_url": "https://x.com/Sakura_mo_yu/status/1916028850699702343/photo/1",
+              "media_key": "3_1916028847176491008",
+              "start": 18,
+              "url": "https://t.co/22RpBh1roj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916028850699702343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2047,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的日常而已，盗图必究(doge) https://t.co/22RpBh1roj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6184,
+          "following_count": 1919,
+          "like_count": 133373,
+          "listed_count": 13,
+          "media_count": 2445,
+          "tweet_count": 33949
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T09:47:08.000Z",
+        "description": "出厂日期2008.06.05｜半家长党，无证含糖🍬｜农村留守mtf🏳️‍⚧️休学4年💤 喜欢音乐和游戏等互联网产品✨ 带点抽象属性喜欢发癫🥺｜坐标固定➭莆田，⭐️保守不接线下，挚爱➭满满and鱼鱼❤️｜欢迎同类互fo喵～｜V🚪槛30💰(同类免)",
+        "id": "1866781686647885825",
+        "location": "艾伦格",
+        "name": "沫妤🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915919670978482177/fbA_tGaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 150,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 103
+        },
+        "username": "Sakura_mo_yu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953377924973051904"
+      ],
+      "media_source_tweet_id": [
+        "1953377927665504678"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1953394853905109383",
+    "created_at": "2025-08-07T09:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953394853905109383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lRDrnNrznw",
+          "end": 47,
+          "expanded_url": "https://x.com/ggdxfulan/status/1953377927665504678/photo/1",
+          "media_key": "3_1953377924973051904",
+          "start": 24,
+          "url": "https://t.co/lRDrnNrznw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953394853905109383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953377927665504678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 药娘聚会.jpg https://t.co/lRDrnNrznw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1953394853905109383].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1953394853905109383",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953394853905109383"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_1953377924973051904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvK35IbwAAPpsE.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953377924973051904"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "1953377927665504678",
+        "created_at": "2025-08-07T08:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953377927665504678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRDrnNrznw",
+              "end": 32,
+              "expanded_url": "https://x.com/ggdxfulan/status/1953377927665504678/photo/1",
+              "media_key": "3_1953377924973051904",
+              "start": 9,
+              "url": "https://t.co/lRDrnNrznw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953377927665504678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 392,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "药娘聚会.jpg https://t.co/lRDrnNrznw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7220,
+          "following_count": 2055,
+          "like_count": 156052,
+          "listed_count": 17,
+          "media_count": 3005,
+          "tweet_count": 39081
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "纯1、药娘攻、抖s、MtX、男同喜欢操男娘pyz，喜欢欺负人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐🍥",
+        "pinned_tweet_id": "1952546953524629563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9792,
+          "following_count": 443,
+          "like_count": 24861,
+          "listed_count": 20,
+          "media_count": 2792,
+          "tweet_count": 9494
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

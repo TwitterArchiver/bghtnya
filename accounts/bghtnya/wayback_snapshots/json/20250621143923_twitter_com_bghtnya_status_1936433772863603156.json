@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1936013002513564097",
+    "created_at": "2025-06-21T14:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936433772863603156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886969144031240192",
+          "start": 0,
+          "username": "SpoxCHN_MaoNing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936433772863603156",
+    "in_reply_to_user_id": "1886969144031240192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936013002513564097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpoxCHN_MaoNing 什么时候给我们免费坐😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936012999242006534",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4ZkLxbwAYyxSu.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1936013002513564097",
+        "created_at": "2025-06-21T14:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T15:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936433772863603156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886969144031240192",
+              "start": 0,
+              "username": "SpoxCHN_MaoNing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936433772863603156",
+        "in_reply_to_user_id": "1886969144031240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936013002513564097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpoxCHN_MaoNing 什么时候给我们免费坐😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936012999242006534"
+          ]
+        },
+        "author_id": "1886969144031240192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1936013002513564097",
+        "created_at": "2025-06-20T10:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936013002513564097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Speed Railway Network",
+              "probability": 0.5621,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qT3cKcp05q",
+              "end": 111,
+              "expanded_url": "https://x.com/SpoxCHN_MaoNing/status/1936013002513564097/photo/1",
+              "media_key": "3_1936012999242006534",
+              "start": 88,
+              "url": "https://t.co/qT3cKcp05q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936013002513564097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 298284,
+          "like_count": 2774,
+          "quote_count": 57,
+          "reply_count": 223,
+          "retweet_count": 423
+        },
+        "reply_settings": "everyone",
+        "text": "🚅China’s High-Speed Railway Network: 2012 vs. 2024\n\nPeople’s railway for the people! 🇨🇳 https://t.co/qT3cKcp05q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6491,
+          "following_count": 2004,
+          "like_count": 148292,
+          "listed_count": 14,
+          "media_count": 2770,
+          "tweet_count": 36872
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T02:45:17.000Z",
+        "description": "Spokesperson of Ministry of Foreign Affairs of China\nDG of Department of Press,\nCommunication and Public Diplomacy",
+        "id": "1886969144031240192",
+        "name": "Mao Ning 毛宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888800829660168193/uCHvf1z7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108235,
+          "following_count": 237,
+          "like_count": 0,
+          "listed_count": 355,
+          "media_count": 459,
+          "tweet_count": 485
+        },
+        "username": "SpoxCHN_MaoNing",
+        "verified": true
+      }
+    ]
+  }
+}

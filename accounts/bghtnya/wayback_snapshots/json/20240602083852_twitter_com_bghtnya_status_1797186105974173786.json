@@ -1,0 +1,787 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041743268",
+          "name": "Destiny"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Bungie",
+          "id": "989586996753448960",
+          "name": "Bungie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10041743268",
+          "name": "Destiny"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bungie",
+          "id": "989586996753448960",
+          "name": "Bungie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      }
+    ],
+    "conversation_id": "1797182088388440315",
+    "created_at": "2024-06-02T08:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T09:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797186105974173786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759598042704207872",
+          "start": 0,
+          "username": "Oyama_Tsuimei"
+        },
+        {
+          "end": 22,
+          "id": "26280712",
+          "start": 15,
+          "username": "Bungie"
+        },
+        {
+          "end": 38,
+          "id": "948444535",
+          "start": 23,
+          "username": "DestinyTheGame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797186105974173786",
+    "in_reply_to_user_id": "1759598042704207872",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797182088388440315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Tsuimei @Bungie @DestinyTheGame 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743268",
+              "name": "Destiny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Bungie",
+              "id": "989586996753448960",
+              "name": "Bungie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743268",
+              "name": "Destiny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bungie",
+              "id": "989586996753448960",
+              "name": "Bungie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "1797182088388440315",
+        "created_at": "2024-06-02T08:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T09:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797186105974173786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759598042704207872",
+              "start": 0,
+              "username": "Oyama_Tsuimei"
+            },
+            {
+              "end": 22,
+              "id": "26280712",
+              "start": 15,
+              "username": "Bungie"
+            },
+            {
+              "end": 38,
+              "id": "948444535",
+              "start": 23,
+              "username": "DestinyTheGame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797186105974173786",
+        "in_reply_to_user_id": "1759598042704207872",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797182088388440315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Tsuimei @Bungie @DestinyTheGame 🤔"
+      },
+      {
+        "attachments": {},
+        "author_id": "1759598042704207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743268",
+              "name": "Destiny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Bungie",
+              "id": "989586996753448960",
+              "name": "Bungie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743268",
+              "name": "Destiny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bungie",
+              "id": "989586996753448960",
+              "name": "Bungie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "1797182088388440315",
+        "created_at": "2024-06-02T08:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T09:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797182088388440315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "26280712",
+              "start": 30,
+              "username": "Bungie"
+            },
+            {
+              "end": 53,
+              "id": "948444535",
+              "start": 38,
+              "username": "DestinyTheGame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797182088388440315",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "司马棒鸡为什么一定要把这个b挽歌任务做的比你妈的裹脚布还长啊@Bungie @DestinyTheGame Why did u guys keep make the weapon missions so fucking long?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 1353,
+          "like_count": 69133,
+          "listed_count": 7,
+          "tweet_count": 14383
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "08年 | 阴暗社恐地雷系文科生 | 偶尔发癫od割手 | MtF | HRT2024.03.05 | 无证含糖 | 猫猫 | 最喜欢@Wushoei_Lcy 了 | 哥哥@foudingjingling | 波奇酱可爱捏@Bocchi8964 | fps和音游大苦手 | Gardian | 互fo喵🥰 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "Wushoei_Lcy"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "foudingjingling"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "Bocchi8964"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "location": "永恒，仄的宝藏窖藏",
+        "name": "🏳️‍⚧️緒山 墜明🍥梦想成为地理学霸🏳️‍⚧️",
+        "pinned_tweet_id": "1765013260133167280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792122576426401792/z6kvd4bF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 986,
+          "like_count": 967,
+          "listed_count": 2,
+          "tweet_count": 2352
+        },
+        "username": "Oyama_Tsuimei",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-24T17:34:20.000Z",
+        "description": "News, updates, and community love from the developers of @DestinyTheGame and @MarathonTheGame. For status updates about the game, follow @BungieHelp.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "DestinyTheGame"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "MarathonTheGame"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "BungieHelp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bungie.net",
+                "end": 23,
+                "expanded_url": "http://www.bungie.net",
+                "start": 0,
+                "url": "https://t.co/fYtzlRWDsZ"
+              }
+            ]
+          }
+        },
+        "id": "26280712",
+        "name": "Bungie",
+        "pinned_tweet_id": "1661488787371769857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661489750606491648/BW5plrkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862983,
+          "following_count": 350,
+          "like_count": 954,
+          "listed_count": 8463,
+          "tweet_count": 14095
+        },
+        "url": "https://t.co/fYtzlRWDsZ",
+        "username": "Bungie",
+        "verified": true
+      },
+      {
+        "created_at": "2012-11-14T20:24:48.000Z",
+        "description": "Destiny 2: The Final Shape, June 4, 2024. ESRB: TEEN. Created by @Bungie. \n\nSome content shown may require purchase. Dates/content subject to change.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "Bungie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "destinythegame.com",
+                "end": 23,
+                "expanded_url": "http://www.destinythegame.com/",
+                "start": 0,
+                "url": "https://t.co/8sRiyW8C3S"
+              }
+            ]
+          }
+        },
+        "id": "948444535",
+        "location": "Our Solar System",
+        "name": "Destiny 2",
+        "pinned_tweet_id": "1795470268090953849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772694079337537536/d78G8xIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844789,
+          "following_count": 61,
+          "like_count": 2252,
+          "listed_count": 6057,
+          "tweet_count": 7765
+        },
+        "url": "https://t.co/8sRiyW8C3S",
+        "username": "DestinyTheGame",
+        "verified": true
+      }
+    ]
+  }
+}

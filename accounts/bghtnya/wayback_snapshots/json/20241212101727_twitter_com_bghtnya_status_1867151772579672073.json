@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1867151772579672073",
+    "created_at": "2024-12-12T10:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T11:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867151772579672073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1466141467274010633",
+          "start": 3,
+          "username": "cyanvtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867151772579672073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866817734870266005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyanvtb: 突然发现，再过个三五年，计算机系的学术界都该被我们这批二次元了占领了。\n\n你的算法教授估计入宅番是魔法少女小圆，喜欢初音、点兔、hololive或者芙莉莲。会在上课的ppt里放二次元梗，甚至还有自己的oc，或者已经vtuber出道了。\n\n没有oc的话，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1867151772579672073",
+        "created_at": "2024-12-12T10:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T11:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867151772579672073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1466141467274010633",
+              "start": 3,
+              "username": "cyanvtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867151772579672073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866817734870266005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyanvtb: 突然发现，再过个三五年，计算机系的学术界都该被我们这批二次元了占领了。\n\n你的算法教授估计入宅番是魔法少女小圆，喜欢初音、点兔、hololive或者芙莉莲。会在上课的ppt里放二次元梗，甚至还有自己的oc，或者已经vtuber出道了。\n\n没有oc的话，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866817687227101184"
+          ]
+        },
+        "author_id": "1466141467274010633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1866817734870266005",
+        "created_at": "2024-12-11T12:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T13:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866817734870266005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6qfE1xMNu",
+              "end": 165,
+              "expanded_url": "https://x.com/cyanvtb/status/1866817734870266005/photo/1",
+              "media_key": "3_1866817687227101184",
+              "start": 142,
+              "url": "https://t.co/E6qfE1xMNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866817734870266005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 41443,
+          "like_count": 746,
+          "quote_count": 19,
+          "reply_count": 38,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现，再过个三五年，计算机系的学术界都该被我们这批二次元了占领了。\n\n你的算法教授估计入宅番是魔法少女小圆，喜欢初音、点兔、hololive或者芙莉莲。会在上课的ppt里放二次元梗，甚至还有自己的oc，或者已经vtuber出道了。\n\n没有oc的话，那说不定会偷偷地拍自己的女装👀 https://t.co/E6qfE1xMNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3663,
+          "following_count": 1643,
+          "like_count": 110754,
+          "listed_count": 11,
+          "media_count": 1770,
+          "tweet_count": 26621
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T20:25:55.000Z",
+        "description": "✧ 日常推，热爱自由和世界的百合编程少女\n✧ YouTube简中三大VTuber - 90k订阅冲刺中\n✧ 🇺🇸 10 yrs + 🇯🇵 6 mon 🫶 with @linaasahi\n✧ xGoogler ➡️ 偽畫師/VTuber @cyannyan6\n ʚ 答應你，永遠不畢業 ɞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "linaasahi"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "cyannyan6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyan.yt/magic",
+                "end": 23,
+                "expanded_url": "http://cyan.yt/magic",
+                "start": 0,
+                "url": "https://t.co/KZ2gCJbjrg"
+              }
+            ]
+          }
+        },
+        "id": "1466141467274010633",
+        "location": "距離你418m",
+        "name": "Cyan是小盐🧂✨ / 3D婚礼冲刺中！💍",
+        "pinned_tweet_id": "1863621535224774860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828870958406414336/1uExc45K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5755,
+          "following_count": 814,
+          "like_count": 10102,
+          "listed_count": 22,
+          "media_count": 499,
+          "tweet_count": 4666
+        },
+        "url": "https://t.co/KZ2gCJbjrg",
+        "username": "cyanvtb",
+        "verified": false
+      }
+    ]
+  }
+}

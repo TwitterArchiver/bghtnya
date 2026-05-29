@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1964184417246597517",
+    "created_at": "2025-09-07T02:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T03:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964517461505823125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460443622533320712",
+          "start": 0,
+          "username": "_lidonhtingone_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964517461505823125",
+    "in_reply_to_user_id": "1460443622533320712",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964503101332926550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_lidonhtingone_ 1919810"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1964503101332926550].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1964503101332926550",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1964503101332926550"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1964184417246597517",
+        "created_at": "2025-09-07T02:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T03:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964517461505823125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460443622533320712",
+              "start": 0,
+              "username": "_lidonhtingone_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964517461505823125",
+        "in_reply_to_user_id": "1460443622533320712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964503101332926550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_lidonhtingone_ 1919810"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7451,
+          "following_count": 2066,
+          "like_count": 157743,
+          "listed_count": 18,
+          "media_count": 3117,
+          "tweet_count": 39803
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T03:04:46.000Z",
+        "description": "114514",
+        "id": "1460443622533320712",
+        "location": "太原",
+        "name": "ldt🇨🇳",
+        "pinned_tweet_id": "1957480912356303245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678620505807507456/Re3gt1sv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 490,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 962,
+          "tweet_count": 15994
+        },
+        "username": "_lidonhtingone_",
+        "verified": false
+      }
+    ]
+  }
+}

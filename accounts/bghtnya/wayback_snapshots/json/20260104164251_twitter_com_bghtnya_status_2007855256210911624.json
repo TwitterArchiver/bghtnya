@@ -1,0 +1,831 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007822914511613952"
+      ],
+      "media_source_tweet_id": [
+        "2007823476468727918"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "2007855256210911624",
+    "created_at": "2026-01-04T16:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007855256210911624"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "伊地知虹夏"
+        },
+        {
+          "end": 46,
+          "start": 36,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1397847312504811523",
+          "start": 3,
+          "username": "Yuu2545"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LKexLmlBWf",
+          "end": 70,
+          "expanded_url": "https://x.com/Yuu2545/status/2007823476468727918/photo/1",
+          "media_key": "3_2007822914511613952",
+          "start": 47,
+          "url": "https://t.co/LKexLmlBWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007855256210911624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007823476468727918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuu2545: Happy New Year!\n#伊地知虹夏\n#ぼっち・ざ・ろっく https://t.co/LKexLmlBWf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2007822914511613952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G904TYdasAACQsP.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007822914511613952"
+          ],
+          "media_source_tweet_id": [
+            "2007823476468727918"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "2007855256210911624",
+        "created_at": "2026-01-04T16:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007855256210911624"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "伊地知虹夏"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1397847312504811523",
+              "start": 3,
+              "username": "Yuu2545"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKexLmlBWf",
+              "end": 70,
+              "expanded_url": "https://x.com/Yuu2545/status/2007823476468727918/photo/1",
+              "media_key": "3_2007822914511613952",
+              "start": 47,
+              "url": "https://t.co/LKexLmlBWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007855256210911624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007823476468727918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuu2545: Happy New Year!\n#伊地知虹夏\n#ぼっち・ざ・ろっく https://t.co/LKexLmlBWf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007822914511613952"
+          ]
+        },
+        "author_id": "1397847312504811523",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "2007823476468727918",
+        "created_at": "2026-01-04T14:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007823476468727918"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "知虹",
+              "probability": 0.5878,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "伊地知虹夏"
+            },
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKexLmlBWf",
+              "end": 57,
+              "expanded_url": "https://x.com/Yuu2545/status/2007823476468727918/photo/1",
+              "media_key": "3_2007822914511613952",
+              "start": 34,
+              "url": "https://t.co/LKexLmlBWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007823476468727918",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 8318,
+          "like_count": 1122,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "Happy New Year!\n#伊地知虹夏\n#ぼっち・ざ・ろっく https://t.co/LKexLmlBWf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8670,
+          "following_count": 2078,
+          "like_count": 174300,
+          "listed_count": 17,
+          "media_count": 3683,
+          "tweet_count": 44903
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-27T09:29:18.000Z",
+        "description": "学习绘画中，感谢关注！AI🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/66696003",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/66696003",
+                "start": 0,
+                "url": "https://t.co/hDaeczHcte"
+              }
+            ]
+          }
+        },
+        "id": "1397847312504811523",
+        "location": "china",
+        "name": "予Yuu",
+        "pinned_tweet_id": "1997659445841539460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994643955749908481/A8ElaoPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1334,
+          "like_count": 8992,
+          "listed_count": 10,
+          "media_count": 53,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/hDaeczHcte",
+        "username": "Yuu2545",
+        "verified": true
+      }
+    ]
+  }
+}

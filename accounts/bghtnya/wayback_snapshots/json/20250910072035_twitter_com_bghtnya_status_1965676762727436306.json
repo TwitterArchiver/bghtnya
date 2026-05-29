@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1965676762727436306",
+    "created_at": "2025-09-10T07:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T08:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965676762727436306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ServalCandle/s…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/ServalCandle/status/1965287500211253421",
+          "start": 154,
+          "url": "https://t.co/p7fHOYi3Di"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965676762727436306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965287500211253421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不支持该观点，两个理由：\n1.图片作者基于まふまふ的形象和歌曲，作为二创，最终解释权在mafu而不在图片作者\n2. mafu完全可以被视为mtf 只是日本那边更流行的说伪娘或ts 只是文化定义不同 不过性质十分相似：性别焦虑\n附：mtf还是太温良了，放别的群体已经开团了，就这件事还得隔壁药圈来发表重要讲话 https://t.co/p7fHOYi3Di"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2091,
+        "media_key": "3_1965287488274169857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YajtwaAAE-EdT.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1965676762727436306",
+        "created_at": "2025-09-10T07:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965676762727436306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/ServalCandle/status/1965287500211253421",
+              "start": 154,
+              "url": "https://t.co/p7fHOYi3Di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965676762727436306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965287500211253421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不支持该观点，两个理由：\n1.图片作者基于まふまふ的形象和歌曲，作为二创，最终解释权在mafu而不在图片作者\n2. mafu完全可以被视为mtf 只是日本那边更流行的说伪娘或ts 只是文化定义不同 不过性质十分相似：性别焦虑\n附：mtf还是太温良了，放别的群体已经开团了，就这件事还得隔壁药圈来发表重要讲话 https://t.co/p7fHOYi3Di"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965287488274169857"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "1965287500211253421",
+        "created_at": "2025-09-09T05:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965287500211253421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIjXBvzhvH",
+              "end": 133,
+              "expanded_url": "https://x.com/ServalCandle/status/1965287500211253421/photo/1",
+              "media_key": "3_1965287488274169857",
+              "start": 110,
+              "url": "https://t.co/PIjXBvzhvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965287500211253421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 75798,
+          "like_count": 601,
+          "quote_count": 25,
+          "reply_count": 52,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "刚看到原作者在小红书上发声明了\n\n并且官方定义了这幅画的含义\n并非跨性别相关_(:з」∠)_\n\nmtf所有的滥用和随意使用都是非法的（（\n算盗图\n\n没想到mtf群体居然施行了如此庞大的版权侵犯事件…太可怕了喵(⊙_⊙) https://t.co/PIjXBvzhvH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7438,
+          "following_count": 2071,
+          "like_count": 157780,
+          "listed_count": 18,
+          "media_count": 3127,
+          "tweet_count": 39894
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈◡ ヽ(`Д´)ﾉ ┻━┻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🏮聰明貓𝕮𝖆𝖓𝖉𝖑𝖊🌸🎏",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944028998826438657/emzjxQ4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32770,
+          "following_count": 344,
+          "like_count": 225730,
+          "listed_count": 100,
+          "media_count": 8138,
+          "tweet_count": 53997
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1916133270112375253",
+    "created_at": "2025-04-27T02:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T03:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916322073443520687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796959726967889920",
+          "start": 0,
+          "username": "hami0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916322073443520687",
+    "in_reply_to_user_id": "1796959726967889920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916133270112375253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hami0721 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1916133270112375253",
+        "created_at": "2025-04-27T02:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T03:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916322073443520687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796959726967889920",
+              "start": 0,
+              "username": "hami0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916322073443520687",
+        "in_reply_to_user_id": "1796959726967889920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916133270112375253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hami0721 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796959726967889920",
+        "conversation_id": "1916133270112375253",
+        "created_at": "2025-04-26T14:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916133270112375253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916133270112375253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2413,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "滥用普瑞巴林和右美沙芬的一个后果就是会导致短时间内甚至长期的记忆下降\npr是因为抑制了相关神经递质的释放，右美是因为拮抗nmda受体引发了奥尼尔氏病变\n医学上使用nmda拮抗剂（如S-氯胺酮）时通常会配伍bzd药物保护神经\n试试回想一下昨天吃了什么，你会发现回忆的速度比以前慢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6176,
+          "following_count": 1920,
+          "like_count": 133573,
+          "listed_count": 13,
+          "media_count": 2445,
+          "tweet_count": 33956
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:39:36.000Z",
+        "description": "前支黑/岁静ing/喜欢学习药理学知识/欢迎来找我聊天or咨询/👮😡👊\n不卖东西！不卖东西！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/F7BbOBdexI"
+              }
+            ]
+          }
+        },
+        "id": "1796959726967889920",
+        "location": "lab 5",
+        "name": "hachimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900753595794116608/aTeKYG2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 254,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/F7BbOBdexI",
+        "username": "hami0721",
+        "verified": false
+      }
+    ]
+  }
+}

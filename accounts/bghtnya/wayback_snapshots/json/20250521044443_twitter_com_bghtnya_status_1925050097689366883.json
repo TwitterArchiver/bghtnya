@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1924806661837119655",
+    "created_at": "2025-05-21T04:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T05:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925050097689366883"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "北京",
+          "probability": 0.3758,
+          "start": 9,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "zhu6hua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925050097689366883",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924806661837119655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu6hua 北京省"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1924806661837119655",
+        "created_at": "2025-05-21T04:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925050097689366883"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "北京",
+              "probability": 0.3758,
+              "start": 9,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "zhu6hua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925050097689366883",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924806661837119655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu6hua 北京省"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894285195651813378",
+        "conversation_id": "1924806661837119655",
+        "created_at": "2025-05-20T12:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924806661837119655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924806661837119655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1870,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "520谐音为什么是我爱你？哪个省的方言？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6315,
+          "following_count": 1954,
+          "like_count": 137896,
+          "listed_count": 14,
+          "media_count": 2546,
+          "tweet_count": 35020
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "我坂下的六花被打啦~",
+        "pinned_tweet_id": "1895423372273819659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895411742622031872/ktMsbjQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 947,
+          "like_count": 8343,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 5221
+        },
+        "username": "zhu6hua",
+        "verified": false
+      }
+    ]
+  }
+}

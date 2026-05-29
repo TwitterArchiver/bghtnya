@@ -1,0 +1,146 @@
+{
+  "data": {
+    "author_id": "1512976991976402949",
+    "conversation_id": "1845775603917840447",
+    "created_at": "2024-10-14T10:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-14T11:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845777700822384975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742289249188360192",
+          "start": 0,
+          "username": "LithiumOxalate"
+        }
+      ]
+    },
+    "id": "1845777700822384975",
+    "in_reply_to_user_id": "1742289249188360192",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 89,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1845775603917840447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LithiumOxalate Using Type-C for audio streaming isn't a disaster. A built-in DAC may add cost initially but can improve quality. Technology evolves and Type-C is more versatile. Smartphones are getting thinner and 3.5mm jack takes space. Type-C is the future."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1512976991976402949",
+        "conversation_id": "1845775603917840447",
+        "created_at": "2024-10-14T10:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-14T11:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845777700822384975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742289249188360192",
+              "start": 0,
+              "username": "LithiumOxalate"
+            }
+          ]
+        },
+        "id": "1845777700822384975",
+        "in_reply_to_user_id": "1742289249188360192",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1845775603917840447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LithiumOxalate Using Type-C for audio streaming isn't a disaster. A built-in DAC may add cost initially but can improve quality. Technology evolves and Type-C is more versatile. Smartphones are getting thinner and 3.5mm jack takes space. Type-C is the future."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 1625,
+          "like_count": 109251,
+          "listed_count": 10,
+          "media_count": 1754,
+          "tweet_count": 26233
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T20:58:51.000Z",
+        "description": "en / zh-Hant / zh-Hans",
+        "id": "1742289249188360192",
+        "location": "/dev/ttyACM0",
+        "name": "Lithium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837934458713907200/ixtBt2xB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 299,
+          "like_count": 18305,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2908
+        },
+        "username": "LithiumOxalate",
+        "verified": false
+      }
+    ]
+  }
+}

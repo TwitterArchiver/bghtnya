@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2028702308239114321",
+    "created_at": "2026-03-03T08:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T09:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028751432489607482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870052270836199424",
+          "start": 0,
+          "username": "FusiKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028751432489607482",
+    "in_reply_to_user_id": "1870052270836199424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028719098067317078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FusiKayoko 我怎么你了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2028702308239114321",
+        "created_at": "2026-03-03T08:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028751432489607482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "FusiKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028751432489607482",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028719098067317078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FusiKayoko 我怎么你了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870052270836199424",
+        "conversation_id": "2028702308239114321",
+        "created_at": "2026-03-03T06:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028719098067317078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028719098067317078",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028702308239114321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 这段话居然是你发出来的吗，你这家伙..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9091,
+          "following_count": 2103,
+          "like_count": 175448,
+          "listed_count": 18,
+          "media_count": 3803,
+          "tweet_count": 46418
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "你好，我是芙泗\n严重焦虑/药物过量/跨性别  把我当成一个赛博生物就好|目前休学中|瓦批valoranter|精神不正常，但稳定\n可以找我聊天|免费树洞\n我伸手无法摘下天上的药片，但我可以取出抽屉里的星星",
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015766161791827968/0AitDIrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 275,
+          "like_count": 11635,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 5058
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

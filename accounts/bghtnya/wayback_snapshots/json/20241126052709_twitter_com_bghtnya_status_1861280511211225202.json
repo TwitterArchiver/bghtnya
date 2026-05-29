@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1859724121447465096",
+    "created_at": "2024-11-26T05:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T06:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861280511211225202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1768252813363314688",
+          "start": 0,
+          "username": "LinKuoTianKong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861280511211225202",
+    "in_reply_to_user_id": "1768252813363314688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859724121447465096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinKuoTianKong 速速"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1859724121447465096",
+        "created_at": "2024-11-26T05:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T06:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861280511211225202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1768252813363314688",
+              "start": 0,
+              "username": "LinKuoTianKong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861280511211225202",
+        "in_reply_to_user_id": "1768252813363314688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859724121447465096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinKuoTianKong 速速"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768252813363314688",
+        "conversation_id": "1859724121447465096",
+        "created_at": "2024-11-21T22:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T23:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859724121447465096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hilu88776232/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hilu88776232/status/1859633703410172329",
+              "start": 10,
+              "url": "https://t.co/TiftB8AEj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859724121447465096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1255,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859633703410172329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，我有点想翻车了 https://t.co/TiftB8AEj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 1595,
+          "like_count": 106714,
+          "listed_count": 9,
+          "tweet_count": 25418
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T12:28:33.000Z",
+        "description": "自己也不知道什么时候会翻车变成小药娘，有点受虐倾向，有时候脑子不太灵光，脾气比较暴躁，经常被人挂，还总是遭人讨厌。所发的帖子经常贴脸开大，且可能会出现负能量内容，请谨慎关注。想被捆，想被关进笼子……嗯很好不知道写什么",
+        "id": "1768252813363314688",
+        "location": "广西省南宁市",
+        "name": "水中月-林阔天空",
+        "pinned_tweet_id": "1834389430117048679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853342112051503104/61LjScn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 175,
+          "like_count": 25870,
+          "listed_count": 1,
+          "tweet_count": 2707
+        },
+        "username": "LinKuoTianKong",
+        "verified": false
+      }
+    ]
+  }
+}

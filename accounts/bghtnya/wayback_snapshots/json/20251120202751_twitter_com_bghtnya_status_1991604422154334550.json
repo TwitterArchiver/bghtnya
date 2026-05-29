@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1990999900553908532",
+    "created_at": "2025-11-20T20:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T21:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991604422154334550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991604422154334550",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990999900553908532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko 这是为何"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1990999900553908532",
+        "created_at": "2025-11-20T20:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T21:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991604422154334550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991604422154334550",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990999900553908532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko 这是为何"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261560609214087168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1990999900553908532",
+        "created_at": "2025-11-19T04:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T05:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990999900553908532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/squidkid1111/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/squidkid1111/status/1873410125182193789",
+              "start": 15,
+              "url": "https://t.co/eSxu2czlfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990999900553908532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 944475,
+          "like_count": 2451,
+          "quote_count": 20,
+          "reply_count": 258,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873410125182193789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位coser被网暴自杀了😢 https://t.co/eSxu2czlfz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8211,
+          "following_count": 2121,
+          "like_count": 169185,
+          "listed_count": 20,
+          "media_count": 3454,
+          "tweet_count": 42826
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "",
+        "id": "1261560609214087168",
+        "name": "藤壺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980263519913189376/-ptYfCmT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 1250,
+          "like_count": 122850,
+          "listed_count": 58,
+          "media_count": 5701,
+          "tweet_count": 55657
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

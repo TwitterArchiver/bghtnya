@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1944767400026742889",
+    "created_at": "2025-07-20T07:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T08:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946833348321755249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 22,
+          "id": "1707081013455912960",
+          "start": 11,
+          "username": "Hanxue0509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946833348321755249",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946833097049489422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @Hanxue0509 也不是不能用"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946833097049489422].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946833097049489422",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946833097049489422"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1944767400026742889",
+        "created_at": "2025-07-20T07:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946833348321755249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 22,
+              "id": "1707081013455912960",
+              "start": 11,
+              "username": "Hanxue0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946833348321755249",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946833097049489422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @Hanxue0509 也不是不能用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7199,
+          "following_count": 2028,
+          "like_count": 152777,
+          "listed_count": 17,
+          "media_count": 2927,
+          "tweet_count": 38330
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 1082,
+          "like_count": 61741,
+          "listed_count": 3,
+          "media_count": 1752,
+          "tweet_count": 12250
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T17:13:39.000Z",
+        "description": "🍥/游走于霓虹灯下的，梦想成为猫女仆的高三流浪猫/无论如何，很荣幸认识你/即将移居香港🇭🇰/这个世界可能很冷，但是晗雪会给你烤又烫又香甜的黄油蔓越莓饼干吃",
+        "id": "1707081013455912960",
+        "location": "晗雪窝",
+        "name": "⌬🐱晗雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 491,
+          "like_count": 22668,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 1593
+        },
+        "username": "Hanxue0509",
+        "verified": false
+      }
+    ]
+  }
+}

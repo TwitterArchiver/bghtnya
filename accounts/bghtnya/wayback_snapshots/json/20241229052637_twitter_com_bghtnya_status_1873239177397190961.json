@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1872909304988352965",
+    "created_at": "2024-12-29T05:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T06:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873239177397190961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513698461962891266",
+          "start": 0,
+          "username": "EMO_redacted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873239177397190961",
+    "in_reply_to_user_id": "1513698461962891266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873081152246038812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EMO_redacted 是这样的！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1873081152246038812].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1873081152246038812",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1873081152246038812"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1872909304988352965",
+        "created_at": "2024-12-29T05:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873239177397190961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513698461962891266",
+              "start": 0,
+              "username": "EMO_redacted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873239177397190961",
+        "in_reply_to_user_id": "1513698461962891266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873081152246038812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EMO_redacted 是这样的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4035,
+          "following_count": 1767,
+          "like_count": 117105,
+          "listed_count": 13,
+          "media_count": 1850,
+          "tweet_count": 28135
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T02:00:36.000Z",
+        "description": "可愛娚孩子程序媛！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "1f616emo.xyz",
+                "end": 23,
+                "expanded_url": "https://1f616emo.xyz/",
+                "start": 0,
+                "url": "https://t.co/NgNgPkHrX9"
+              }
+            ]
+          }
+        },
+        "id": "1513698461962891266",
+        "location": "EMO醬服務器，始源北區",
+        "name": "［暫時隱藏］",
+        "pinned_tweet_id": "1765370499457245477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775335261968486400/t6R1x5Q9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1552,
+          "like_count": 33676,
+          "listed_count": 7,
+          "media_count": 955,
+          "tweet_count": 14615
+        },
+        "url": "https://t.co/NgNgPkHrX9",
+        "username": "EMO_redacted",
+        "verified": false
+      }
+    ]
+  }
+}

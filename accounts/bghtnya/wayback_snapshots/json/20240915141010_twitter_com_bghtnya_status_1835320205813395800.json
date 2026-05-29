@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1835222687414993352",
+    "created_at": "2024-09-15T14:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T15:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835320205813395800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1430361846179979269",
+          "start": 0,
+          "username": "RealHuajianguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835320205813395800",
+    "in_reply_to_user_id": "1430361846179979269",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835222687414993352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealHuajianguo 时代在召唤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1835222687414993352",
+        "created_at": "2024-09-15T14:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T15:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835320205813395800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1430361846179979269",
+              "start": 0,
+              "username": "RealHuajianguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835320205813395800",
+        "in_reply_to_user_id": "1430361846179979269",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835222687414993352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealHuajianguo 时代在召唤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835222675268255744"
+          ]
+        },
+        "author_id": "1430361846179979269",
+        "conversation_id": "1835222687414993352",
+        "created_at": "2024-09-15T07:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T08:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835222687414993352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/desugez0hs",
+              "end": 47,
+              "expanded_url": "https://twitter.com/RealHuajianguo/status/1835222687414993352/photo/1",
+              "media_key": "3_1835222675268255744",
+              "start": 24,
+              "url": "https://t.co/DesUGEz0hS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835222687414993352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2156,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音真是越来越open了，都能主页刷到xyn了 https://t.co/DesUGEz0hS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674,
+          "following_count": 1512,
+          "like_count": 95432,
+          "listed_count": 10,
+          "tweet_count": 20986
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T02:50:26.000Z",
+        "description": "诚招革命/学术伴侣\n🚪：114.514\n 常态性癫痫发作，偶尔正常，敬请谅解\n备用🎺: @beforMrBao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "beforMrBao"
+              }
+            ]
+          }
+        },
+        "id": "1430361846179979269",
+        "location": "IP归属地：🥜屯",
+        "name": "华建国同志🥜永远健康",
+        "pinned_tweet_id": "1815671525158387905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834642739251888128/mCK7MQYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 2710,
+          "like_count": 71412,
+          "listed_count": 11,
+          "tweet_count": 21730
+        },
+        "username": "RealHuajianguo",
+        "verified": false
+      }
+    ]
+  }
+}

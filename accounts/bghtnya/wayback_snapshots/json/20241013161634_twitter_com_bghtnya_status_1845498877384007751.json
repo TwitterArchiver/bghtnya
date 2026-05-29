@@ -1,0 +1,168 @@
+{
+  "data": {
+    "author_id": "1512976991976402949",
+    "conversation_id": "1845479130894315839",
+    "created_at": "2024-10-13T16:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-13T17:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845498877384007751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1656320730584457216",
+          "start": 0,
+          "username": "tttpul0615"
+        }
+      ]
+    },
+    "id": "1845498877384007751",
+    "in_reply_to_user_id": "1656320730584457216",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 806,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1845493468514451546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttpul0615 c口有线呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1512976991976402949",
+        "conversation_id": "1845479130894315839",
+        "created_at": "2024-10-13T16:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-13T17:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845498877384007751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1656320730584457216",
+              "start": 0,
+              "username": "tttpul0615"
+            }
+          ]
+        },
+        "id": "1845498877384007751",
+        "in_reply_to_user_id": "1656320730584457216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 806,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1845493468514451546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttpul0615 c口有线呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 1595,
+          "like_count": 107139,
+          "listed_count": 8,
+          "tweet_count": 25554
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T15:30:26.000Z",
+        "description": "#狗熊TV 创始人；舞萌哈气米，分享机厅小故事；maimaiDX2023 13+~15 All SSS 舞将；SDVX vf17.75 暴龙天；",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "狗熊TV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ytrs.bsky.social",
+                "end": 23,
+                "expanded_url": "http://ytrs.bsky.social",
+                "start": 0,
+                "url": "https://t.co/uHtkBngjXa"
+              }
+            ]
+          }
+        },
+        "id": "1656320730584457216",
+        "location": "我自己的号你他妈逼的管我发什么东西你算老几？",
+        "name": "@♪",
+        "pinned_tweet_id": "1849454564011077998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777965397452742656/8xwC361E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 837,
+          "like_count": 26676,
+          "listed_count": 1,
+          "tweet_count": 5970
+        },
+        "url": "https://t.co/uHtkBngjXa",
+        "username": "tttpul0615",
+        "verified": false
+      }
+    ]
+  }
+}

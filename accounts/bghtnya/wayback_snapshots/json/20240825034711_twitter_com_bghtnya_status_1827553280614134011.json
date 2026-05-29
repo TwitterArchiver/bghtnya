@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1827381117554717151",
+    "created_at": "2024-08-25T03:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T04:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827553280614134011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540660286784684032",
+          "start": 0,
+          "username": "mancity9haaland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827553280614134011",
+    "in_reply_to_user_id": "1540660286784684032",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827381117554717151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mancity9haaland 早该饭饭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1827381117554717151",
+        "created_at": "2024-08-25T03:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T04:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827553280614134011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540660286784684032",
+              "start": 0,
+              "username": "mancity9haaland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827553280614134011",
+        "in_reply_to_user_id": "1540660286784684032",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827381117554717151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mancity9haaland 早该饭饭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540660286784684032",
+        "conversation_id": "1827381117554717151",
+        "created_at": "2024-08-24T16:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T17:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827381117554717151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827381117554717151",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1888,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现四大名著的内核都是一个字——反\n\n西游记——造天庭的反\n\n水浒传——造大宋的反\n\n三国演义——造大汉的反\n\n红楼梦——造封建礼教的反"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 1490,
+          "like_count": 90231,
+          "listed_count": 10,
+          "tweet_count": 19567
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T11:36:59.000Z",
+        "description": "三叔，侄儿想你了",
+        "id": "1540660286784684032",
+        "name": "金韩松不是Kim Han Sol",
+        "pinned_tweet_id": "1777343536800882688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823768855124303875/AsienZvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3861,
+          "following_count": 929,
+          "like_count": 90847,
+          "listed_count": 23,
+          "tweet_count": 24504
+        },
+        "username": "mancity9haaland",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1942497961789083895",
+    "created_at": "2025-07-08T09:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T10:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942509751809753288"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "上海",
+          "probability": 0.8317,
+          "start": 16,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1791012392627040256",
+          "start": 0,
+          "username": "zhangxiaofu673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942509751809753288",
+    "in_reply_to_user_id": "1791012392627040256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942507371567427645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangxiaofu673 上海（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1379,
+        "media_key": "3_1942507360649633794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUsJxUaYAIJJ8o.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1942497961789083895",
+        "created_at": "2025-07-08T09:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T10:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942509751809753288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "上海",
+              "probability": 0.8317,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1791012392627040256",
+              "start": 0,
+              "username": "zhangxiaofu673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942509751809753288",
+        "in_reply_to_user_id": "1791012392627040256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942507371567427645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangxiaofu673 上海（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942507360649633794"
+          ]
+        },
+        "author_id": "1791012392627040256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942497961789083895",
+        "created_at": "2025-07-08T08:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942507371567427645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2VPidSV9z",
+              "end": 41,
+              "expanded_url": "https://x.com/zhangxiaofu673/status/1942507371567427645/photo/1",
+              "media_key": "3_1942507360649633794",
+              "start": 18,
+              "url": "https://t.co/V2VPidSV9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942507371567427645",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942497961789083895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 盲猜浙江附近（） https://t.co/V2VPidSV9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7087,
+          "following_count": 2015,
+          "like_count": 151340,
+          "listed_count": 17,
+          "media_count": 2868,
+          "tweet_count": 37984
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T07:46:53.000Z",
+        "description": "🍥🏳️‍⚧️/10",
+        "id": "1791012392627040256",
+        "location": "距离你0.0001米",
+        "name": "张小福",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942038960274096128/zZS-cF7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 221,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 331
+        },
+        "username": "zhangxiaofu673",
+        "verified": false
+      }
+    ]
+  }
+}

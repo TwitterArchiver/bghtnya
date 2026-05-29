@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1991801743114752467",
+    "created_at": "2025-11-23T19:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T20:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992673174123864157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1532606195214581760",
+          "start": 0,
+          "username": "xijinping1sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992673174123864157",
+    "in_reply_to_user_id": "1532606195214581760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992664874250633727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping1sb 配多少mg的dxm"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1992664874250633727].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1992664874250633727",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1992664874250633727"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1991801743114752467",
+        "created_at": "2025-11-23T19:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T20:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992673174123864157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1532606195214581760",
+              "start": 0,
+              "username": "xijinping1sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992673174123864157",
+        "in_reply_to_user_id": "1532606195214581760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992664874250633727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping1sb 配多少mg的dxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8224,
+          "following_count": 2109,
+          "like_count": 169576,
+          "listed_count": 20,
+          "media_count": 3472,
+          "tweet_count": 43002
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T06:12:55.000Z",
+        "description": "锁推防晶，误清致歉/不敢不岁静/二次元/N1已过，EJU准备中/🇺🇦🇮🇱/INFP-T/支持LGBTQ+🏳️‍⚧️🏳️‍🌈/崩三原神铁道玩家/包容所有政治立场/政治立场左下↙（或许是社民）,黑化形态是支黑/反绿/负能量注意/病/o💊/不登校中/误b致歉/精神状态不好/求同存异/以上排名不分先后",
+        "id": "1532606195214581760",
+        "location": "IP属地：疯狂宇宙",
+        "name": "香蕉皮🍌",
+        "pinned_tweet_id": "1951811473757663697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984368907248156682/qTCoI8Wv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 2654,
+          "like_count": 227167,
+          "listed_count": 14,
+          "media_count": 2354,
+          "tweet_count": 19535
+        },
+        "username": "xijinping1sb",
+        "verified": false
+      }
+    ]
+  }
+}

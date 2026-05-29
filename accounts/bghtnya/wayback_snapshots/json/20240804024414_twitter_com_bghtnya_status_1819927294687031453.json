@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1819601961139732617",
+    "created_at": "2024-08-04T02:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T03:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819927294687031453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "848570189243273219",
+          "start": 0,
+          "username": "cicada3301_kig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819927294687031453",
+    "in_reply_to_user_id": "848570189243273219",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819601961139732617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cicada3301_kig 恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1819601961139732617",
+        "created_at": "2024-08-04T02:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T03:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819927294687031453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "848570189243273219",
+              "start": 0,
+              "username": "cicada3301_kig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819927294687031453",
+        "in_reply_to_user_id": "848570189243273219",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819601961139732617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cicada3301_kig 恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1819443114316025856"
+          ],
+          "media_source_tweet_id": [
+            "1819443246478610618"
+          ]
+        },
+        "author_id": "848570189243273219",
+        "conversation_id": "1819601961139732617",
+        "created_at": "2024-08-03T05:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T06:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819601961139732617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JpaHZTzZkm",
+              "end": 33,
+              "expanded_url": "https://twitter.com/CharaspowerAI/status/1819443246478610618/video/1",
+              "media_key": "7_1819443114316025856",
+              "start": 10,
+              "url": "https://t.co/JpaHZTzZkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819601961139732617",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8707,
+          "impression_count": 9572676,
+          "like_count": 79706,
+          "quote_count": 2412,
+          "reply_count": 626,
+          "retweet_count": 7953
+        },
+        "reply_settings": "everyone",
+        "text": "AI映像怖すぎて草 https://t.co/JpaHZTzZkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 1455,
+          "like_count": 84472,
+          "listed_count": 10,
+          "tweet_count": 18253
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-02T16:17:53.000Z",
+        "description": "着ぐるみ生命体／トランスヒューマニスト／コピミズム／言語／謎エスニック料理／リキュール／主なるねこかわの御名において にゃーん",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/search?q=%E6%9…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/search?q=%E6%96%99%E7%90%86%20from%3Acicada3301_kig&src=typed_query&f=live",
+                "start": 0,
+                "url": "https://t.co/Kdcz4dEmdT"
+              }
+            ]
+          }
+        },
+        "id": "848570189243273219",
+        "location": "ガンジス川（なんでも流れる雑食垢）",
+        "name": "すきえんてぃあ@書け",
+        "pinned_tweet_id": "1242756444031602688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1242760194142035972/xZ0d1zzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38112,
+          "following_count": 700,
+          "like_count": 452996,
+          "listed_count": 580,
+          "tweet_count": 262634
+        },
+        "url": "https://t.co/Kdcz4dEmdT",
+        "username": "cicada3301_kig",
+        "verified": false
+      }
+    ]
+  }
+}

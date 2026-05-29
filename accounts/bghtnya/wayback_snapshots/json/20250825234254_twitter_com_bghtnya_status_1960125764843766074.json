@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1960027477310595164",
+    "created_at": "2025-08-25T23:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T00:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960125764843766074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960125764843766074",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960027477310595164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 贵客🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1960027471811837952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNqmddaAAA36f_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960027474315952128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNqmmybwAAZBGo.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1960027477310595164",
+        "created_at": "2025-08-25T23:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T00:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960125764843766074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960125764843766074",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960027477310595164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 贵客🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960027471811837952",
+            "3_1960027474315952128"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1960027477310595164",
+        "created_at": "2025-08-25T17:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960027477310595164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzbBp0GYH0",
+              "end": 60,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1960027477310595164/photo/1",
+              "media_key": "3_1960027471811837952",
+              "start": 37,
+              "url": "https://t.co/EzbBp0GYH0"
+            },
+            {
+              "display_url": "pic.x.com/EzbBp0GYH0",
+              "end": 60,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1960027477310595164/photo/1",
+              "media_key": "3_1960027474315952128",
+              "start": 37,
+              "url": "https://t.co/EzbBp0GYH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960027477310595164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上我家来了一位“贵客”，放心，我已经把它用“礼貌”的方式送走了🍵😋 https://t.co/EzbBp0GYH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7389,
+          "following_count": 2054,
+          "like_count": 156375,
+          "listed_count": 18,
+          "media_count": 3064,
+          "tweet_count": 39389
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "大家好呀，我会尽量包容所有人的，请多多指教哦~🥰",
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 530,
+          "like_count": 228807,
+          "listed_count": 10,
+          "media_count": 155,
+          "tweet_count": 21567
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

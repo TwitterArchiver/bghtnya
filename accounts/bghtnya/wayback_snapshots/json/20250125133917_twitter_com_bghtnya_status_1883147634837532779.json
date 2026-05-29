@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1883117825562378606",
+    "created_at": "2025-01-25T13:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T14:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883147634837532779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "407013453",
+          "start": 0,
+          "username": "WeiGarfield"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883147634837532779",
+    "in_reply_to_user_id": "407013453",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883144749110231054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeiGarfield 114.5141919810"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1883117825562378606",
+        "created_at": "2025-01-25T13:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T14:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883147634837532779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "407013453",
+              "start": 0,
+              "username": "WeiGarfield"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883147634837532779",
+        "in_reply_to_user_id": "407013453",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883144749110231054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeiGarfield 114.5141919810"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "407013453",
+        "conversation_id": "1883117825562378606",
+        "created_at": "2025-01-25T13:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T14:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883144749110231054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883144749110231054",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883117825562378606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 门槛多少，私信你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4343,
+          "following_count": 1826,
+          "like_count": 121938,
+          "listed_count": 12,
+          "media_count": 1995,
+          "tweet_count": 29753
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-07T14:21:44.000Z",
+        "description": "我是好人",
+        "id": "407013453",
+        "name": "老张",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 174,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 129
+        },
+        "username": "WeiGarfield",
+        "verified": false
+      }
+    ]
+  }
+}

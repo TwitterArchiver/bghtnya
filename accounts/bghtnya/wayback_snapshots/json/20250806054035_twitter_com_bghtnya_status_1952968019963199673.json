@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952964433539678209",
+        "3_1952964433560649731"
+      ],
+      "media_source_tweet_id": [
+        "1952964462178455696",
+        "1952964462178455696"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1952968019963199673",
+    "created_at": "2025-08-06T05:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T06:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952968019963199673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1298779516605612034",
+          "start": 3,
+          "username": "LosLyHex"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T6mhSuO15j",
+          "end": 46,
+          "expanded_url": "https://x.com/LosLyHex/status/1952964462178455696/photo/1",
+          "media_key": "3_1952964433539678209",
+          "start": 23,
+          "url": "https://t.co/T6mhSuO15j"
+        },
+        {
+          "display_url": "pic.x.com/T6mhSuO15j",
+          "end": 46,
+          "expanded_url": "https://x.com/LosLyHex/status/1952964462178455696/photo/1",
+          "media_key": "3_1952964433560649731",
+          "start": 23,
+          "url": "https://t.co/T6mhSuO15j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952968019963199673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952964462178455696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LosLyHex: 来上海玩捏，贴贴 https://t.co/T6mhSuO15j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952968019963199673].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952968019963199673",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952968019963199673"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1952964433539678209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxpSzhgawAE8Zq_.jpg",
+        "width": 1560
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1952964433560649731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxpSzhlawAMxkd-.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952964433539678209",
+            "3_1952964433560649731"
+          ]
+        },
+        "author_id": "1298779516605612034",
+        "conversation_id": "1952964462178455696",
+        "created_at": "2025-08-06T05:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952964462178455696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6mhSuO15j",
+              "end": 32,
+              "expanded_url": "https://x.com/LosLyHex/status/1952964462178455696/photo/1",
+              "media_key": "3_1952964433539678209",
+              "start": 9,
+              "url": "https://t.co/T6mhSuO15j"
+            },
+            {
+              "display_url": "pic.x.com/T6mhSuO15j",
+              "end": 32,
+              "expanded_url": "https://x.com/LosLyHex/status/1952964462178455696/photo/1",
+              "media_key": "3_1952964433560649731",
+              "start": 9,
+              "url": "https://t.co/T6mhSuO15j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952964462178455696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来上海玩捏，贴贴 https://t.co/T6mhSuO15j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7220,
+          "following_count": 2056,
+          "like_count": 156006,
+          "listed_count": 17,
+          "media_count": 3001,
+          "tweet_count": 39059
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-27T00:29:08.000Z",
+        "description": "04丨成都/重庆丨🍥丨地雷系丨舞萌丨爱好水母丨正在努力变可爱丨梦想是成为魔女丨希望大家都能开心起来丨欢迎来找我玩～✨",
+        "id": "1298779516605612034",
+        "location": "虚伪的心脏",
+        "name": "洛丝丝丝🍥",
+        "pinned_tweet_id": "1847618562191708167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559893629795110912/7ffx91VG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 359,
+          "like_count": 3611,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 906
+        },
+        "username": "LosLyHex",
+        "verified": false
+      }
+    ]
+  }
+}

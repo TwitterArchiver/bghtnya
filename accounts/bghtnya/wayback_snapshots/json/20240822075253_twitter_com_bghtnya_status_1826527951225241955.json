@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1826524634214445085",
+    "created_at": "2024-08-22T07:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T08:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826527951225241955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1609812661226844161",
+          "start": 0,
+          "username": "jianglin257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826527951225241955",
+    "in_reply_to_user_id": "1609812661226844161",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826524634214445085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianglin257 白丝好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1826524634214445085",
+        "created_at": "2024-08-22T07:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T08:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826527951225241955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1609812661226844161",
+              "start": 0,
+              "username": "jianglin257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826527951225241955",
+        "in_reply_to_user_id": "1609812661226844161",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826524634214445085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianglin257 白丝好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826524627872382976",
+            "3_1826524631794438144"
+          ]
+        },
+        "author_id": "1609812661226844161",
+        "conversation_id": "1826524634214445085",
+        "created_at": "2024-08-22T07:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T08:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826524634214445085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qrlb5xkfde",
+              "end": 36,
+              "expanded_url": "https://twitter.com/jianglin257/status/1826524634214445085/photo/1",
+              "media_key": "3_1826524627872382976",
+              "start": 13,
+              "url": "https://t.co/qRlB5xkfDE"
+            },
+            {
+              "display_url": "pic.x.com/qrlb5xkfde",
+              "end": 36,
+              "expanded_url": "https://twitter.com/jianglin257/status/1826524634214445085/photo/1",
+              "media_key": "3_1826524631794438144",
+              "start": 13,
+              "url": "https://t.co/qRlB5xkfDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826524634214445085",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然感觉 我好可爱～～～ https://t.co/qRlB5xkfDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 1486,
+          "like_count": 89832,
+          "listed_count": 10,
+          "tweet_count": 19459
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T07:23:52.000Z",
+        "description": "唔……来自江西萍乡的mtf一只～/\n断断续续吃糖五年啦……/长得贼丑/\n家暴党～/持证含糖阿巴阿巴！……重度抑郁+重度焦虑+精分……快死了？唔……经常失眠睡不着喵！/\n破蛋的日子是06/10/29～目前17岁啦/\n非常缺爱的一只xyn呜呜呜/同类互fo，🚪88发口令红包，同类免费",
+        "id": "1609812661226844161",
+        "location": "距离您0.9km",
+        "name": "霖秋梦🏳️‍⚧️",
+        "pinned_tweet_id": "1821900230025212212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820336587814612992/ZNgFLTQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 111,
+          "like_count": 400,
+          "listed_count": 4,
+          "tweet_count": 497
+        },
+        "username": "jianglin257",
+        "verified": false
+      }
+    ]
+  }
+}

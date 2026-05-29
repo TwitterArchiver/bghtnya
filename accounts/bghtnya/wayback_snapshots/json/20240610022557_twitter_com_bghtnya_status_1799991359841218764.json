@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1799973333259386906",
+    "created_at": "2024-06-10T02:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T03:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799991359841218764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729678224068911104",
+          "start": 0,
+          "username": "kafei684134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799991359841218764",
+    "in_reply_to_user_id": "1729678224068911104",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799973333259386906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafei684134 什么年代了还在用传统学生证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1799973333259386906",
+        "created_at": "2024-06-10T02:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T03:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799991359841218764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729678224068911104",
+              "start": 0,
+              "username": "kafei684134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799991359841218764",
+        "in_reply_to_user_id": "1729678224068911104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799973333259386906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafei684134 什么年代了还在用传统学生证"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799973316813553664"
+          ]
+        },
+        "author_id": "1729678224068911104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1799973333259386906",
+        "created_at": "2024-06-10T01:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T02:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799973333259386906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DNDJm3LP8Z",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kafei684134/status/1799973333259386906/photo/1",
+              "media_key": "3_1799973316813553664",
+              "start": 17,
+              "url": "https://t.co/DNDJm3LP8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799973333259386906",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于找回来了遗失一个学期的学生证 https://t.co/DNDJm3LP8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 1360,
+          "like_count": 70745,
+          "listed_count": 7,
+          "tweet_count": 14776
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T01:47:31.000Z",
+        "description": "☆社會貢獻 万歲！！☆/FGA初级绝赞备考中/在读书目《如何屠龙》，《第三次浪潮》\n/可爱的孩子@qiand33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "qiand33"
+              }
+            ]
+          }
+        },
+        "id": "1729678224068911104",
+        "location": "科普卢星区",
+        "name": "Kafei☕（冷却中）",
+        "pinned_tweet_id": "1799823007709565374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799823370441084928/w_gC-dLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 138,
+          "like_count": 4109,
+          "listed_count": 2,
+          "tweet_count": 2264
+        },
+        "username": "kafei684134",
+        "verified": false
+      }
+    ]
+  }
+}

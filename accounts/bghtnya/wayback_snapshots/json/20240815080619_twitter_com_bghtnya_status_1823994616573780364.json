@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1823699743002038411",
+    "created_at": "2024-08-15T08:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T09:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823994616573780364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2995565878",
+          "start": 0,
+          "username": "Ted__au"
+        },
+        {
+          "end": 23,
+          "id": "1552090312964640768",
+          "start": 9,
+          "username": "two_last_kiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823994616573780364",
+    "in_reply_to_user_id": "2995565878",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823702233982116130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted__au @two_last_kiss 原神也是神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1823699743002038411",
+        "created_at": "2024-08-15T08:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T09:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823994616573780364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2995565878",
+              "start": 0,
+              "username": "Ted__au"
+            },
+            {
+              "end": 23,
+              "id": "1552090312964640768",
+              "start": 9,
+              "username": "two_last_kiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823994616573780364",
+        "in_reply_to_user_id": "2995565878",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823702233982116130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted__au @two_last_kiss 原神也是神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2995565878",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1823699743002038411",
+        "created_at": "2024-08-14T12:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T13:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823702233982116130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552090312964640768",
+              "start": 0,
+              "username": "two_last_kiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823702233982116130",
+        "in_reply_to_user_id": "1552090312964640768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4656,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823699743002038411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@two_last_kiss 看樣子現在玩原神的也算神友了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 1467,
+          "like_count": 87892,
+          "listed_count": 10,
+          "tweet_count": 19012
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-24T09:24:59.000Z",
+        "description": "人不辱包包自辱，榮光香港/\n不反對獨立，個人應有討論獨立的自由/\n平等&自由，威權專政孝子不分左右，入住毛澤東希特勒大廈，請/\n多出沒于評論區，發推少，反正發推沒人看（悲）/\n持續純手工拉清單，認爲自己無辜得朋友請踴躍舉手/\n内有圖枝内容敬請留意，至於是不是認真的，您猜的都對/",
+        "id": "2995565878",
+        "location": "韭洲",
+        "name": "ted🌊 習近平巴拿馬離岸金錢焊機小管家🤑",
+        "pinned_tweet_id": "1601080312297304066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400895073466732544/s5bxBaqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 392,
+          "like_count": 34409,
+          "listed_count": 3,
+          "tweet_count": 3738
+        },
+        "username": "Ted__au",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T00:35:59.000Z",
+        "description": "東方/初音ミク/淫夢/クッキー☆/例のアレ/音MAD\n脑公：@dongxuelianhaha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "dongxuelianhaha"
+              }
+            ]
+          }
+        },
+        "id": "1552090312964640768",
+        "location": "London, England",
+        "name": "一切都是破石头门的选择",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796852166747131904/4G7RkWMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 1359,
+          "like_count": 48834,
+          "listed_count": 8,
+          "tweet_count": 7073
+        },
+        "username": "two_last_kiss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1798683875771855170",
+    "created_at": "2024-06-06T12:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T13:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798693269066666487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665019483474530311",
+          "start": 0,
+          "username": "yuwwqk1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798693269066666487",
+    "in_reply_to_user_id": "1665019483474530311",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798683875771855170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuwwqk1229 感觉不如村民"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1798683875771855170",
+        "created_at": "2024-06-06T12:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T13:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798693269066666487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665019483474530311",
+              "start": 0,
+              "username": "yuwwqk1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798693269066666487",
+        "in_reply_to_user_id": "1665019483474530311",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798683875771855170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuwwqk1229 感觉不如村民"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798683718741377024"
+          ]
+        },
+        "author_id": "1665019483474530311",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1798683875771855170",
+        "created_at": "2024-06-06T11:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T12:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798683875771855170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mF4Lk2phP5",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yuwwqk1229/status/1798683875771855170/photo/1",
+              "media_key": "3_1798683718741377024",
+              "start": 8,
+              "url": "https://t.co/mF4Lk2phP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798683875771855170",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好绿宝石😋 https://t.co/mF4Lk2phP5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 1353,
+          "like_count": 70105,
+          "listed_count": 7,
+          "tweet_count": 14576
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T15:36:06.000Z",
+        "description": "抽象⭐⭕🌊 // 可以叫咱星汐~ // kiger预备役 // 无线电呼号BD6IBL",
+        "id": "1665019483474530311",
+        "location": "回喵星的路上",
+        "name": "星原 汐🍥",
+        "pinned_tweet_id": "1785712766332121399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798294668712787968/6QAfbJIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 1049,
+          "like_count": 3820,
+          "listed_count": 3,
+          "tweet_count": 3282
+        },
+        "username": "yuwwqk1229",
+        "verified": false
+      }
+    ]
+  }
+}

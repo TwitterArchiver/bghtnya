@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2017997699988287965",
+    "created_at": "2026-02-02T06:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T07:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018214838909256139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 25,
+          "id": "1271652280438308864",
+          "start": 16,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018214838909256139",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018129316048212175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @Jaciezyt 笑死我了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2018129316048212175].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2018129316048212175",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2018129316048212175"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2017997699988287965",
+        "created_at": "2026-02-02T06:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018214838909256139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 25,
+              "id": "1271652280438308864",
+              "start": 16,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018214838909256139",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018129316048212175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @Jaciezyt 笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8767,
+          "following_count": 2063,
+          "like_count": 171950,
+          "listed_count": 17,
+          "media_count": 3700,
+          "tweet_count": 45011
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 Female PgdStu🎧🍟🍔🥤🚪1680JPY/C spl tri/EN/JP 😘🍩fobackAuto 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1854448337673699556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 4377,
+          "like_count": 26751,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 17796
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 即将过期JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Former Dev @levimc_org | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "levimc_org"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFiZW"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 ❄🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 848,
+          "like_count": 57005,
+          "listed_count": 13,
+          "media_count": 1183,
+          "tweet_count": 14005
+        },
+        "url": "https://t.co/v1k3icFiZW",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

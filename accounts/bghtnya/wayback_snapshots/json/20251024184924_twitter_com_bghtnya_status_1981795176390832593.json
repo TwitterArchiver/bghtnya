@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1981171270541820051",
+    "created_at": "2025-10-24T18:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T19:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981795176390832593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "198093147",
+          "start": 0,
+          "username": "DksbDIdjnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981795176390832593",
+    "in_reply_to_user_id": "198093147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981171270541820051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DksbDIdjnd 共和党红脖子maga是这傻阮样子的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981171244926935041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36IwCUWoAEKgYx.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1981171270541820051",
+        "created_at": "2025-10-24T18:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T19:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981795176390832593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "198093147",
+              "start": 0,
+              "username": "DksbDIdjnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981795176390832593",
+        "in_reply_to_user_id": "198093147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981171270541820051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DksbDIdjnd 共和党红脖子maga是这傻阮样子的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981171244926935041"
+          ]
+        },
+        "author_id": "198093147",
+        "conversation_id": "1981171270541820051",
+        "created_at": "2025-10-23T01:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T02:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981171270541820051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5t6xgpN1B5",
+              "end": 31,
+              "expanded_url": "https://x.com/DksbDIdjnd/status/1981171270541820051/photo/1",
+              "media_key": "3_1981171244926935041",
+              "start": 8,
+              "url": "https://t.co/5t6xgpN1B5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981171270541820051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 67384,
+          "like_count": 305,
+          "quote_count": 22,
+          "reply_count": 64,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "早請示晚彙報😆 https://t.co/5t6xgpN1B5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7973,
+          "following_count": 2097,
+          "like_count": 165115,
+          "listed_count": 19,
+          "media_count": 3312,
+          "tweet_count": 41565
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-03T10:01:56.000Z",
+        "description": "直立人的後代能不能再冷靜一些。",
+        "id": "198093147",
+        "location": "Stockholm, Saskatchewan",
+        "name": "野田毅归来🇯🇵看中华民族土崩瓦解⚔️关孙六出土之日已经到来🤡",
+        "pinned_tweet_id": "1400533433697267712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601821623945809920/XnmSNnKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 2205,
+          "like_count": 10864,
+          "listed_count": 6,
+          "media_count": 464,
+          "tweet_count": 9340
+        },
+        "username": "DksbDIdjnd",
+        "verified": false
+      }
+    ]
+  }
+}

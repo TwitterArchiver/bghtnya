@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2024145560039813307",
+    "created_at": "2026-02-19T03:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024323575956853111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1836602097644785664",
+          "start": 0,
+          "username": "callupgirls_cn"
+        },
+        {
+          "end": 24,
+          "id": "10228272",
+          "start": 16,
+          "username": "YouTube"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024323575956853111",
+    "in_reply_to_user_id": "1836602097644785664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024145560039813307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@callupgirls_cn @YouTube 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2024145560039813307",
+        "created_at": "2026-02-19T03:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024323575956853111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1836602097644785664",
+              "start": 0,
+              "username": "callupgirls_cn"
+            },
+            {
+              "end": 24,
+              "id": "10228272",
+              "start": 16,
+              "username": "YouTube"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024323575956853111",
+        "in_reply_to_user_id": "1836602097644785664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024145560039813307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@callupgirls_cn @YouTube 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836602097644785664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585783622123954176",
+              "name": "Coming of age"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2024145560039813307",
+        "created_at": "2026-02-18T15:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024145560039813307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 172,
+              "id": "10228272",
+              "start": 164,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "国产原创动画《呼唤少女》特别篇正式上线啦！改编自同名漫画，讲述少女们欢乐的校园轻日常番剧！系列周边与歌曲同步上架，更多惊喜可以搜索《呼唤少女》2月14日，与你一同共赴青春之约！ 动画制作：四次方动画 配音：叶曦CV金娜 、白小桃CV多多poi丶 、孙芝雅CV宴宁音乐制作：永夜蛰居_TokoyoP 主题曲...",
+              "display_url": "youtu.be/UKNp4LZpyGw?si…",
+              "end": 160,
+              "expanded_url": "https://youtu.be/UKNp4LZpyGw?si=sR3eT0megc1DAg5V",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2024145563491733504/EmbLjpcI?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024145563491733504/EmbLjpcI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "《呼唤少女》特别篇-想做的事到底是什么",
+              "unwound_url": "https://www.youtube.com/watch?si=sR3eT0megc1DAg5V&v=UKNp4LZpyGw&feature=youtu.be",
+              "url": "https://t.co/yXlkVzX7cT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024145560039813307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 24554,
+          "like_count": 271,
+          "quote_count": 9,
+          "reply_count": 19,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "国产原创动画《呼唤少女》特别篇正式上线啦！改编自同名漫画，讲述少女们的日常故事，系列周边与歌曲已经架！与你一同共赴青春之约\n动画制作：@四次方动画  配音：叶曦——金娜、白小桃——多多poi丶、孙芝雅——宴宁 音乐制作：永夜蛰居_TokoyoP 主题曲 演唱：hanser\nhttps://t.co/yXlkVzX7cT 来自 @YouTube"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2023057004500296149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8951,
+          "following_count": 2076,
+          "like_count": 173274,
+          "listed_count": 17,
+          "media_count": 3750,
+          "tweet_count": 45809
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-19T03:04:09.000Z",
+        "description": "*原创漫画*《呼唤少女》各大平台连载中 kk漫画、🐧动漫和阿b漫画均可免费观看 商务合作请私信 感谢各位的支持！ 同名动画正在火热制作中！",
+        "id": "1836602097644785664",
+        "name": "呼唤少女Call Up Girls",
+        "pinned_tweet_id": "1838131853703946361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836604701061844997/5uuYtIvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 28
+        },
+        "username": "callupgirls_cn",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "description": "like & subscribe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/recap",
+                "end": 23,
+                "expanded_url": "http://youtube.com/recap",
+                "start": 0,
+                "url": "https://t.co/URnyVVv35T"
+              }
+            ]
+          }
+        },
+        "id": "10228272",
+        "location": "San Bruno, CA",
+        "name": "YouTube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68086467,
+          "following_count": 1143,
+          "like_count": 6020,
+          "listed_count": 74415,
+          "media_count": 16081,
+          "tweet_count": 60698
+        },
+        "url": "https://t.co/URnyVVv35T",
+        "username": "YouTube",
+        "verified": true
+      }
+    ]
+  }
+}

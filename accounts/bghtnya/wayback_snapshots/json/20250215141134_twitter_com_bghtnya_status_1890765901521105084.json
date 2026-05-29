@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1890571910578110637",
+    "created_at": "2025-02-15T14:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T15:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890765901521105084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "y271727uy"
+        },
+        {
+          "end": 27,
+          "id": "1881926479770165249",
+          "start": 11,
+          "username": "22IeNFZZX434715"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 51,
+          "expanded_url": "https://x.com/bghtnya/status/1890278685946818837?t=GsYwsalEr2NhD1QvGfSX5Q&s=19",
+          "start": 28,
+          "url": "https://t.co/7e6BE9PFKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890765901521105084",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890278685946818837",
+        "type": "quoted"
+      },
+      {
+        "id": "1890727525900292344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y271727uy @22IeNFZZX434715 https://t.co/7e6BE9PFKy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1890571910578110637",
+        "created_at": "2025-02-15T14:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890765901521105084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "y271727uy"
+            },
+            {
+              "end": 27,
+              "id": "1881926479770165249",
+              "start": 11,
+              "username": "22IeNFZZX434715"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 51,
+              "expanded_url": "https://x.com/bghtnya/status/1890278685946818837?t=GsYwsalEr2NhD1QvGfSX5Q&s=19",
+              "start": 28,
+              "url": "https://t.co/7e6BE9PFKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890765901521105084",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890278685946818837",
+            "type": "quoted"
+          },
+          {
+            "id": "1890727525900292344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y271727uy @22IeNFZZX434715 https://t.co/7e6BE9PFKy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890278673359716352"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1890278685946818837",
+        "created_at": "2025-02-14T05:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T06:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890278685946818837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5LwAu3lgS",
+              "end": 23,
+              "expanded_url": "https://x.com/bghtnya/status/1890278685946818837/photo/1",
+              "media_key": "3_1890278673359716352",
+              "start": 0,
+              "url": "https://t.co/p5LwAu3lgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890278685946818837",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1084,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p5LwAu3lgS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685784710285266944",
+        "conversation_id": "1890571910578110637",
+        "created_at": "2025-02-15T11:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T12:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890727525900292344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1881926479770165249",
+              "start": 0,
+              "username": "22IeNFZZX434715"
+            },
+            {
+              "end": 25,
+              "id": "1512976991976402949",
+              "start": 17,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890727525900292344",
+        "in_reply_to_user_id": "1881926479770165249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890727438159679830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22IeNFZZX434715 @bghtnya 青岛😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5692,
+          "following_count": 1832,
+          "like_count": 124100,
+          "listed_count": 14,
+          "media_count": 2165,
+          "tweet_count": 30945
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "mtf，infp｜正式出柜前处理大量事务ing｜不建政(任何形式)｜最爱的闺蜜@fishw102030｜同日的姐妹@Alxiaz_， 妹妹 @mngz657877和@xiaoqin212413｜想变矮想变可爱渴望被爱｜想要一起玩Minecraft，一定来踹我!｜玩格雷的m｜群星战犯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "fishw102030"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "Alxiaz_"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "mngz657877"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "xiaoqin212413"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y271727uy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y271727uy",
+                "start": 0,
+                "url": "https://t.co/wkmYwlfDcX"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合",
+        "name": "🍓草莓棉花糖🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887882718681149440/EsWmp78S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 317,
+          "like_count": 639,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/wkmYwlfDcX",
+        "username": "y271727uy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T04:47:06.000Z",
+        "description": "碧蓝档案玩家💦男娘：中国🇨🇳china！\n优质群聊推荐😋👍\n小药娘💊\nQ：1️⃣4️⃣5️⃣7️⃣7️⃣0️⃣5️⃣2️⃣0️⃣5️⃣",
+        "id": "1881926479770165249",
+        "name": "🇨🇳海沧小蓝凉🇨🇳",
+        "pinned_tweet_id": "1882742279246655912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881926732443443200/gxgCtfFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 10,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 27
+        },
+        "username": "22IeNFZZX434715",
+        "verified": false
+      }
+    ]
+  }
+}

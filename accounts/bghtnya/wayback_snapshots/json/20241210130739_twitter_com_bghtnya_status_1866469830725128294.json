@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1866318279226380371",
+    "created_at": "2024-12-10T13:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T14:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866469830725128294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1532606195214581760",
+          "start": 0,
+          "username": "xijinping1sb"
+        },
+        {
+          "end": 26,
+          "id": "1600277431256256512",
+          "start": 14,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866469830725128294",
+    "in_reply_to_user_id": "1532606195214581760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866358148719870004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping1sb @Oriyukiiiii 显然这是社会的问题不是你的问题"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1866358148719870004].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1866358148719870004",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1866358148719870004"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1866318279226380371",
+        "created_at": "2024-12-10T13:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T14:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866469830725128294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1532606195214581760",
+              "start": 0,
+              "username": "xijinping1sb"
+            },
+            {
+              "end": 26,
+              "id": "1600277431256256512",
+              "start": 14,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866469830725128294",
+        "in_reply_to_user_id": "1532606195214581760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866358148719870004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping1sb @Oriyukiiiii 显然这是社会的问题不是你的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3656,
+          "following_count": 1636,
+          "like_count": 110187,
+          "listed_count": 11,
+          "media_count": 1766,
+          "tweet_count": 26438
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T06:12:55.000Z",
+        "description": "半岁静/二次元/中文/日本語N２勉強中/🇺🇦🇮🇱/INFP-T/支持LGBTQ+🏳️‍⚧️🏳️‍🌈/崩三原神铁道玩家/包容所有政治立场/政治立场左下↙（或许是社民），黑化形态是支黑/负能量注意/病み/o💊/键政注意/不登校中/误b致歉/精神状态不好/求同存异/以上排名不分先后",
+        "id": "1532606195214581760",
+        "location": "IP属地：疯狂宇宙",
+        "name": "香蕉皮🍌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747686466111827968/N_p0ZG5N_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5826,
+          "following_count": 2683,
+          "like_count": 217919,
+          "listed_count": 13,
+          "media_count": 2174,
+          "tweet_count": 17719
+        },
+        "username": "xijinping1sb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9995,
+          "following_count": 527,
+          "like_count": 3102,
+          "listed_count": 16,
+          "media_count": 1033,
+          "tweet_count": 3544
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

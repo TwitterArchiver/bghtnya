@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1822499124119502868",
+    "created_at": "2024-08-12T09:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822934749981393333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721522192175767552",
+          "start": 0,
+          "username": "Sa1ntM0n1ka"
+        },
+        {
+          "end": 26,
+          "id": "1271278454537744384",
+          "start": 13,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822934749981393333",
+    "in_reply_to_user_id": "1721522192175767552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822886761787543930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sa1ntM0n1ka @Rabbit_Pussy 但是伏特加是俄罗斯传统酒\n然后刚好普京又反lgbt\n所以无端联想"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1822886761787543930].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1822886761787543930",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1822886761787543930"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1822499124119502868",
+        "created_at": "2024-08-12T09:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822934749981393333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721522192175767552",
+              "start": 0,
+              "username": "Sa1ntM0n1ka"
+            },
+            {
+              "end": 26,
+              "id": "1271278454537744384",
+              "start": 13,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822934749981393333",
+        "in_reply_to_user_id": "1721522192175767552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822886761787543930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sa1ntM0n1ka @Rabbit_Pussy 但是伏特加是俄罗斯传统酒\n然后刚好普京又反lgbt\n所以无端联想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2329,
+          "following_count": 1456,
+          "like_count": 86373,
+          "listed_count": 10,
+          "tweet_count": 18613
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "沒有救贖沒有神 只有化學與魔法 /@nieniebuding",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "nieniebuding"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "永雏塔黑猫",
+        "pinned_tweet_id": "1804543524790284628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 1105,
+          "like_count": 38990,
+          "listed_count": 9,
+          "tweet_count": 3394
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "超大只兔子/182cm77.8kg/MTF/小号@ttt235711/老婆@I_Xinnnnn/2023.12.8和喵喵的旅途开始了~粉丝群号: 被炸了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ttt235711"
+              },
+              {
+                "end": 47,
+                "start": 37,
+                "username": "I_Xinnnnn"
+              }
+            ]
+          }
+        },
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛鱼🏳️‍⚧️",
+        "pinned_tweet_id": "1822797745054429433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759227928423149568/rCnv18r3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2937,
+          "following_count": 1430,
+          "like_count": 17379,
+          "listed_count": 8,
+          "tweet_count": 3590
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

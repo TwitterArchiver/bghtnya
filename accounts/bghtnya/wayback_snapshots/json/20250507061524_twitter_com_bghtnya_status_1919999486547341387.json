@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919638333556482048"
+      ],
+      "media_source_tweet_id": [
+        "1919638432885964974"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1919999486547341387",
+    "created_at": "2025-05-07T06:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T07:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919999486547341387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "702491170698457089",
+          "start": 3,
+          "username": "migun030"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ntq1iJ5UI5",
+          "end": 48,
+          "expanded_url": "https://x.com/migun030/status/1919638432885964974/photo/1",
+          "media_key": "3_1919638333556482048",
+          "start": 25,
+          "url": "https://t.co/Ntq1iJ5UI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919999486547341387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919638432885964974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @migun030: 在場各位有沒有真男人 https://t.co/Ntq1iJ5UI5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_1919638333556482048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqPs5MjbYAAcqkP.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919638333556482048"
+          ],
+          "media_source_tweet_id": [
+            "1919638432885964974"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1919999486547341387",
+        "created_at": "2025-05-07T06:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T07:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919999486547341387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "702491170698457089",
+              "start": 3,
+              "username": "migun030"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ntq1iJ5UI5",
+              "end": 48,
+              "expanded_url": "https://x.com/migun030/status/1919638432885964974/photo/1",
+              "media_key": "3_1919638333556482048",
+              "start": 25,
+              "url": "https://t.co/Ntq1iJ5UI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919999486547341387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919638432885964974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @migun030: 在場各位有沒有真男人 https://t.co/Ntq1iJ5UI5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919638333556482048"
+          ]
+        },
+        "author_id": "702491170698457089",
+        "conversation_id": "1919638432885964974",
+        "created_at": "2025-05-06T06:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T07:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919638432885964974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ntq1iJ5UI5",
+              "end": 34,
+              "expanded_url": "https://x.com/migun030/status/1919638432885964974/photo/1",
+              "media_key": "3_1919638333556482048",
+              "start": 11,
+              "url": "https://t.co/Ntq1iJ5UI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919638432885964974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 36153,
+          "like_count": 676,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "在場各位有沒有真男人 https://t.co/Ntq1iJ5UI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1913785389120389610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6243,
+          "following_count": 1934,
+          "like_count": 135719,
+          "listed_count": 13,
+          "media_count": 2493,
+          "tweet_count": 34498
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-24T13:52:01.000Z",
+        "description": "台灣的創作者\n\n台湾のYoutuber",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCHXLU…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCHXLU4JyS2uDL2dy9QG159g/featured",
+                "start": 0,
+                "url": "https://t.co/fEwfxCYlSn"
+              }
+            ]
+          }
+        },
+        "id": "702491170698457089",
+        "location": "台灣",
+        "name": "MIGUN米柑🫥歡迎合作邀約",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344289985281736705/19M7H4yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2965,
+          "following_count": 704,
+          "like_count": 3398,
+          "listed_count": 13,
+          "media_count": 431,
+          "tweet_count": 4112
+        },
+        "url": "https://t.co/fEwfxCYlSn",
+        "username": "migun030",
+        "verified": false
+      }
+    ]
+  }
+}

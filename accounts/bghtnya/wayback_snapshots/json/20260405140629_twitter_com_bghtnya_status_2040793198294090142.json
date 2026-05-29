@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2040791181580456320",
+    "created_at": "2026-04-05T14:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T15:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040793198294090142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        },
+        {
+          "end": 23,
+          "id": "1849043039496617984",
+          "start": 8,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040793198294090142",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040791181580456320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA @Rinko_zero8964"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N552AA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N552AA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N552AA"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2040791157790404608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJYvtTa8AAap8L.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2040791181580456320",
+        "created_at": "2026-04-05T14:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040793198294090142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            },
+            {
+              "end": 23,
+              "id": "1849043039496617984",
+              "start": 8,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040793198294090142",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040791181580456320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA @Rinko_zero8964"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040791157790404608"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2040791181580456320",
+        "created_at": "2026-04-05T13:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040791181580456320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fp2tEA0QYz",
+              "end": 50,
+              "expanded_url": "https://x.com/bghtnya/status/2040791181580456320/photo/1",
+              "media_key": "3_2040791157790404608",
+              "start": 27,
+              "url": "https://t.co/fp2tEA0QYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040791181580456320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天与Rinko成功攻破600号会晤N55珍贵图像 https://t.co/fp2tEA0QYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9026,
+          "following_count": 2111,
+          "like_count": 175071,
+          "listed_count": 18,
+          "media_count": 3821,
+          "tweet_count": 46681
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 631,
+          "like_count": 17084,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 8216
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

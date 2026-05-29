@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2004739223547687222",
+    "created_at": "2025-12-28T12:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005261343335809328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1536296611420246017",
+          "start": 0,
+          "username": "123olp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005261343335809328",
+    "in_reply_to_user_id": "1536296611420246017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004739223547687222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123olp 乱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2004739223547687222",
+        "created_at": "2025-12-28T12:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005261343335809328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1536296611420246017",
+              "start": 0,
+              "username": "123olp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005261343335809328",
+        "in_reply_to_user_id": "1536296611420246017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004739223547687222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123olp 乱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536296611420246017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357506193879486469",
+              "name": "Python"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2004739223547687222",
+        "created_at": "2025-12-27T02:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004739223547687222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yehhmisi/statu…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/yehhmisi/status/2004512282093535504",
+              "start": 184,
+              "url": "https://t.co/BlYWXatjRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004739223547687222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "计算机基础（网络 / OS / 数据结构与算法）\n↓\n一门后端语言与生态（Java / Go / Python / Node.js / C# 等）\n↓\n开发工具与工程化（IDE、包管理、日志、配置、调试）\n↓\nLinux 基础与命令行\n↓\nGit 与协作流程（分支、PR、代码评审）\n↓\nWeb 基础（HTTP/HTTPS、DNS、Cookie、缓存、CORS）\n↓\n框架与架构入门（MVC、依赖注入、中间件）\n↓\nAPI 设计（REST / GraphQL / gRPC，版本控制，OpenAPI/Swagger）\n↓\n数据库（关系型：MySQL/PostgreSQL；SQL、索引、事务、锁）\n↓\nORM 与数据库迁移（Migrations）\n↓\n缓存（Redis：缓存策略、淘汰、分布式锁）\n↓\n认证与鉴权（Session/JWT/OAuth2、RBAC/ABAC、权限模型）\n↓\n并发与异步（线程/协程、事件循环、队列、背压）\n↓\n消息队列与事件驱动（Kafka/RabbitMQ/RocketMQ；幂等、重试、顺序）\n↓\n分布式系统基础（CAP、一致性、服务发现、负载均衡）\n↓\n微服务与服务治理（熔断、限流、降级、重试、超时、链路追踪）\n↓\n可观测性（日志、指标、Tracing；告警）\n↓\n安全（输入校验、SQL 注入、XSS/CSRF、防重放、密钥管理）\n↓\n测试（单元/集成/契约测试；测试数据与隔离）\n↓\n性能与稳定性（Profiling、热点、连接池、N+1、容量规划）\n↓\n部署与运维基础（CI/CD、容器 Docker、K8s、滚动发布、回滚）\n↓\n云服务与基础设施（对象存储、CDN、RDS、消息、权限/IAM）\n↓\n故障处理与应急（定位、复盘、SLO/SLI、灰度与开关）\n↓\n代码规范与可维护性（分层、DDD/模块化、可复用组件、文档）\n\n恭喜你，现在你成为后端工程师了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 677,
+          "impression_count": 95009,
+          "like_count": 674,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004512282093535504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "计算机基础（网络 / OS / 数据结构与算法）\n↓\n一门后端语言与生态（Java / Go / Python / Node.js / C# 等）\n↓\n开发工具与工程化（IDE、包管理、日志、配置、调试）\n↓\nLinux 基础与命令行\n↓\nGit 与协作流程（分支、PR、代码评审）\n↓\nWeb 基础（HTTP/HTTPS、DNS、Cookie、缓存、CORS）\n↓ https://t.co/BlYWXatjRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8406,
+          "following_count": 2090,
+          "like_count": 173811,
+          "listed_count": 19,
+          "media_count": 3662,
+          "tweet_count": 44691
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T10:37:20.000Z",
+        "description": "交易猫 测算猫 预测猫 CEO gluecoding 🤖🤖🤖 \n我的vibecoding聚合信息源仓库，冲刺万星👇👇👇\nhttps://t.co/SSUtWTsybc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/tukuaiai",
+                "end": 83,
+                "expanded_url": "https://github.com/tukuaiai",
+                "start": 60,
+                "url": "https://t.co/SSUtWTsybc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/spreadsheets/d…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?usp=sharing",
+                "start": 0,
+                "url": "https://t.co/TUbOYi0zUe"
+              }
+            ]
+          }
+        },
+        "id": "1536296611420246017",
+        "location": "点击查看我的提示词空间",
+        "name": "123olp",
+        "pinned_tweet_id": "1978516542896693698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002791660171018243/yo1MQ05P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3328,
+          "following_count": 1646,
+          "like_count": 10534,
+          "listed_count": 38,
+          "media_count": 249,
+          "tweet_count": 2317
+        },
+        "url": "https://t.co/TUbOYi0zUe",
+        "username": "123olp",
+        "verified": true
+      }
+    ]
+  }
+}

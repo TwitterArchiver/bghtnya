@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2041350532275851672",
+    "created_at": "2026-04-07T04:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041365562232893630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041365562232893630",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041350532275851672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka ChatGPT秒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041350515192393728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRVemAacAA7SSP.jpg",
+        "width": 1060
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041350515192406016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRVemAaoAAjnwT.jpg",
+        "width": 1117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2041350532275851672",
+        "created_at": "2026-04-07T04:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041365562232893630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041365562232893630",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041350532275851672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka ChatGPT秒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041350515192393728",
+            "3_2041350515192406016"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "2041350532275851672",
+        "created_at": "2026-04-07T03:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041350532275851672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mwE7eR3ph",
+              "end": 45,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2041350532275851672/photo/1",
+              "media_key": "3_2041350515192393728",
+              "start": 22,
+              "url": "https://t.co/5mwE7eR3ph"
+            },
+            {
+              "display_url": "pic.x.com/5mwE7eR3ph",
+              "end": 45,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2041350532275851672/photo/1",
+              "media_key": "3_2041350515192406016",
+              "start": 22,
+              "url": "https://t.co/5mwE7eR3ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041350532275851672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 364,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真求你了\n当代大学生急需学会如何使用电脑 https://t.co/5mwE7eR3ph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9033,
+          "following_count": 2115,
+          "like_count": 175156,
+          "listed_count": 18,
+          "media_count": 3823,
+          "tweet_count": 46706
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」 | 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 122,
+                "start": 107,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 1294,
+          "like_count": 41032,
+          "listed_count": 7,
+          "media_count": 1588,
+          "tweet_count": 25161
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

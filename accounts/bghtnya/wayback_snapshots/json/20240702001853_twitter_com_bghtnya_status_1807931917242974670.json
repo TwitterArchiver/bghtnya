@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1807846903201386802",
+    "created_at": "2024-07-02T00:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T01:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807931917242974670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557253790088466432",
+          "start": 0,
+          "username": "misakiyugan"
+        },
+        {
+          "end": 24,
+          "id": "1526443326437658624",
+          "start": 13,
+          "username": "thanks9874"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807931917242974670",
+    "in_reply_to_user_id": "1557253790088466432",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807858943357866267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakiyugan @thanks9874 +1"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1807858943357866267].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1807858943357866267",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1807858943357866267"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1807846903201386802",
+        "created_at": "2024-07-02T00:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T01:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807931917242974670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557253790088466432",
+              "start": 0,
+              "username": "misakiyugan"
+            },
+            {
+              "end": 24,
+              "id": "1526443326437658624",
+              "start": 13,
+              "username": "thanks9874"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807931917242974670",
+        "in_reply_to_user_id": "1557253790088466432",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807858943357866267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakiyugan @thanks9874 +1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 1388,
+          "like_count": 74363,
+          "listed_count": 10,
+          "tweet_count": 15708
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T06:33:43.000Z",
+        "description": "三崎，可爱，单推 本是🐟\n日雌400一盒，白兔100一盒，梦想成为互联网小天使，我迟早要实现，至少在od圈我还能做一个月天使\n 三崎小号，只限信任的互关 @misakimizukibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "misakimizukibot"
+              }
+            ]
+          }
+        },
+        "id": "1557253790088466432",
+        "location": "银趴现场",
+        "name": "三崎（卖日雌版",
+        "pinned_tweet_id": "1795816951132143977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577330082313797633/jf3sQU7g_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6120,
+          "following_count": 1943,
+          "like_count": 126487,
+          "listed_count": 20,
+          "tweet_count": 16676
+        },
+        "username": "misakiyugan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T06:04:14.000Z",
+        "description": "🏳️‍⚧️mtf‖厨娘‖🍥1/29/2023‖我做错了很多事情...‖是小熊猫‖长沙或者到处跑‖家暴党‖双相，高功能bpd‖@miku_tofacegirl‖长不大的孩子‖永远中立，敬畏生命‖The long winter is coming to an end, and I love you all",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "miku_tofacegirl"
+              }
+            ]
+          }
+        },
+        "id": "1526443326437658624",
+        "location": "NGC 2237",
+        "name": "🐾实验改良型瓜瓜࿐",
+        "pinned_tweet_id": "1807846903201386802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786328982616678400/D_ZflZsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 365,
+          "like_count": 4204,
+          "listed_count": 5,
+          "tweet_count": 9838
+        },
+        "username": "thanks9874",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1907018432723476709",
+    "created_at": "2025-04-02T10:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T11:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907378572769251745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 22,
+          "id": "1754494415152766976",
+          "start": 11,
+          "username": "Xinyi_ADHD"
+        },
+        {
+          "end": 39,
+          "id": "1797727504540807168",
+          "start": 23,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907378572769251745",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907377400662679598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @Xinyi_ADHD @od_angelkaii_od 窝野"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907377400662679598].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907377400662679598",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907377400662679598"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1907018432723476709",
+        "created_at": "2025-04-02T10:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907378572769251745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 22,
+              "id": "1754494415152766976",
+              "start": 11,
+              "username": "Xinyi_ADHD"
+            },
+            {
+              "end": 39,
+              "id": "1797727504540807168",
+              "start": 23,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907378572769251745",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907377400662679598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @Xinyi_ADHD @od_angelkaii_od 窝野"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 1842,
+          "like_count": 126461,
+          "listed_count": 14,
+          "media_count": 2287,
+          "tweet_count": 32105
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 1104,
+          "like_count": 55453,
+          "listed_count": 3,
+          "media_count": 1349,
+          "tweet_count": 10698
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "一般通过mtf🏳️‍⚧️|也可以叫我心漪|168|68kg|温柔体贴|预备役小厨娘|泛性恋|adhd发病中|是小太阳|想要体验不同的人生|在我身上留下最多咬痕的人@mylzhichuanggao Nagi的好妹妹@Kagurazakahyoto @kiriyama_lemon帮忙转一下置顶谢谢喵🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "mylzhichuanggao"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "Kagurazakahyoto"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "kiriyama_lemon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "也是一种独特的人生体验嘛",
+        "name": "Nagi🦈🏳️‍⚧️",
+        "pinned_tweet_id": "1905721539200516593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906843104918769664/5Uc-gZdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1485,
+          "like_count": 5384,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "最好的od百科，最专业的od专家.全民od，人类崛起. 欢迎投稿报告我们，平时工作繁忙回复慢谢谢，自杀干预请找@HANLIANYI331 由于特殊性，我们不提供自杀干预相关行动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/ZzzwvEW8Sn"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose百科",
+        "pinned_tweet_id": "1904764660899078619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901666312570777600/blNmmpzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7003,
+          "following_count": 4759,
+          "like_count": 3670,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 4191
+        },
+        "url": "https://t.co/ZzzwvEW8Sn",
+        "username": "od_angelkaii_od",
+        "verified": true
+      }
+    ]
+  }
+}

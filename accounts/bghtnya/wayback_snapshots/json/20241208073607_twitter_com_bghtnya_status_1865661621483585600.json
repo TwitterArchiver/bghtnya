@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1865289581811372354",
+    "created_at": "2024-12-08T07:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T08:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865661621483585600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764991223792906240",
+          "start": 0,
+          "username": "ZW3333T"
+        },
+        {
+          "end": 19,
+          "id": "1426015810472972298",
+          "start": 9,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865661621483585600",
+    "in_reply_to_user_id": "1764991223792906240",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865401472823017870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZW3333T @CyronANNO 6"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1865401472823017870].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1865401472823017870",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1865401472823017870"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1865289581811372354",
+        "created_at": "2024-12-08T07:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T08:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865661621483585600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764991223792906240",
+              "start": 0,
+              "username": "ZW3333T"
+            },
+            {
+              "end": 19,
+              "id": "1426015810472972298",
+              "start": 9,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865661621483585600",
+        "in_reply_to_user_id": "1764991223792906240",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865401472823017870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZW3333T @CyronANNO 6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3636,
+          "following_count": 1622,
+          "like_count": 109258,
+          "listed_count": 10,
+          "media_count": 1754,
+          "tweet_count": 26235
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T12:28:14.000Z",
+        "description": "我说话笨笨的，打字也慢慢的",
+        "id": "1764991223792906240",
+        "location": "VA-11 HALL-A ",
+        "name": "wet.zZz😿📝",
+        "pinned_tweet_id": "1837145243860488666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864299916555853824/kzmMGJ_P_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 2123,
+          "like_count": 159110,
+          "listed_count": 10,
+          "media_count": 669,
+          "tweet_count": 16953
+        },
+        "username": "ZW3333T",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多　|   アズールレーン/アークナイツ/音ゲー/maimaiDX　|　Avatar: @Atdan86　|　 DM→follow back 　|　サブ垢▶cyron_anno | Politics絶対🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Atdan86"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "name": "឵ ANNO",
+        "pinned_tweet_id": "1865289581811372354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864592992868417536/5UBN0BFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 766,
+          "like_count": 111862,
+          "listed_count": 4,
+          "media_count": 2418,
+          "tweet_count": 11807
+        },
+        "username": "CyronANNO",
+        "verified": false
+      }
+    ]
+  }
+}

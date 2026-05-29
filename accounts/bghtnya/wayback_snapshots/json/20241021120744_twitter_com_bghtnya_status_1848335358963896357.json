@@ -1,0 +1,143 @@
+{
+  "data": {
+    "author_id": "1512976991976402949",
+    "conversation_id": "1847956923317924189",
+    "created_at": "2024-10-21T12:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T13:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848335358963896357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817198028018819072",
+          "start": 0,
+          "username": "lmy1268716"
+        }
+      ]
+    },
+    "id": "1848335358963896357",
+    "in_reply_to_user_id": "1817198028018819072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 20,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848325448784052571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmy1268716 py里的for用法和c艹很不一样\nc艹一句一个分号 说的好听是规范 难听就是麻烦\nu1s1不是脚本语言这块我写e也好几年了 转c艹就一个字 烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1512976991976402949",
+        "conversation_id": "1847956923317924189",
+        "created_at": "2024-10-21T12:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T13:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848335358963896357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817198028018819072",
+              "start": 0,
+              "username": "lmy1268716"
+            }
+          ]
+        },
+        "id": "1848335358963896357",
+        "in_reply_to_user_id": "1817198028018819072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848325448784052571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmy1268716 py里的for用法和c艹很不一样\nc艹一句一个分号 说的好听是规范 难听就是麻烦\nu1s1不是脚本语言这块我写e也好几年了 转c艹就一个字 烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3538,
+          "following_count": 1595,
+          "like_count": 107169,
+          "listed_count": 8,
+          "tweet_count": 25554
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T14:00:06.000Z",
+        "description": "喵",
+        "id": "1817198028018819072",
+        "name": "lmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851460296432553984/0iZrlSDH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 26,
+          "like_count": 111,
+          "listed_count": 0,
+          "tweet_count": 109
+        },
+        "username": "lmy1268716",
+        "verified": false
+      }
+    ]
+  }
+}

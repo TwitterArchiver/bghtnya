@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1830118601493528619",
+    "created_at": "2024-09-01T06:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T07:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830134783273492662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saoweve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830134783273492662",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830118601493528619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saoweve （）忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1830118601493528619",
+        "created_at": "2024-09-01T06:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T07:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830134783273492662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saoweve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830134783273492662",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830118601493528619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saoweve （）忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1830118601493528619",
+        "created_at": "2024-09-01T05:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T06:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830118601493528619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830118601493528619",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Zhi Wei 生前说话风格是什么样的？🥹我要学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 1501,
+          "like_count": 92154,
+          "listed_count": 10,
+          "tweet_count": 20088
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "写着玩玩，隐私什么的开摆了🙃",
+        "id": "1690570637499154432",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1770695304431784172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768296547719270400/EmINpwao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 133,
+          "like_count": 6072,
+          "listed_count": 12,
+          "tweet_count": 5193
+        },
+        "username": "saoweve",
+        "verified": false
+      }
+    ]
+  }
+}

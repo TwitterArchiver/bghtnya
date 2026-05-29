@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1830010217863790940",
+    "created_at": "2024-09-01T07:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T08:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830140371688702139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1546417958121263104",
+          "start": 0,
+          "username": "niuzihang1"
+        },
+        {
+          "end": 27,
+          "id": "1329838908289339393",
+          "start": 12,
+          "username": "Boynexdoor4Nex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830140371688702139",
+    "in_reply_to_user_id": "1546417958121263104",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830137340473590222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niuzihang1 @Boynexdoor4Nex cosplay怎么了 不是很正常？🤔\n实际上是觉得cos不正常的人才是真的不正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1830010217863790940",
+        "created_at": "2024-09-01T07:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T08:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830140371688702139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1546417958121263104",
+              "start": 0,
+              "username": "niuzihang1"
+            },
+            {
+              "end": 27,
+              "id": "1329838908289339393",
+              "start": 12,
+              "username": "Boynexdoor4Nex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830140371688702139",
+        "in_reply_to_user_id": "1546417958121263104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830137340473590222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niuzihang1 @Boynexdoor4Nex cosplay怎么了 不是很正常？🤔\n实际上是觉得cos不正常的人才是真的不正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546417958121263104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1830010217863790940",
+        "created_at": "2024-09-01T06:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T07:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830137340473590222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 24,
+              "id": "1329838908289339393",
+              "start": 9,
+              "username": "Boynexdoor4Nex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830137340473590222",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830132558215918047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @Boynexdoor4Nex 河南好怕你这种小东西歧视啊！上海毛都没长齐的小瘪三都敢装币了。一个臭虫说我要歧视大象，你马鼻哪来的自信？叔叔告诉你，你就是一个小沙币，主流社会眼里的另类，回家和你爹妈去玩动漫角色cosplay吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 1501,
+          "like_count": 92179,
+          "listed_count": 10,
+          "tweet_count": 20101
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T08:56:33.000Z",
+        "description": "没有特殊之处",
+        "id": "1546417958121263104",
+        "name": "牛子航",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548076157945643008/Obb7VMI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 181,
+          "like_count": 452,
+          "listed_count": 0,
+          "tweet_count": 329
+        },
+        "username": "niuzihang1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T17:28:06.000Z",
+        "description": "wow~",
+        "id": "1329838908289339393",
+        "name": "爆金币的小老头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329869418625548289/gNUQ0ZLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 257,
+          "like_count": 29,
+          "listed_count": 1,
+          "tweet_count": 137
+        },
+        "username": "Boynexdoor4Nex",
+        "verified": false
+      }
+    ]
+  }
+}

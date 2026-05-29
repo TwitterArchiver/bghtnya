@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1877994369506054519",
+    "created_at": "2025-01-11T11:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T12:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878041896016322759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878041896016322759",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878038859088367939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ はい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1877994369506054519",
+        "created_at": "2025-01-11T11:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T12:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878041896016322759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878041896016322759",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878038859088367939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ はい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769078117052854272",
+        "conversation_id": "1877994369506054519",
+        "created_at": "2025-01-11T11:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878038859088367939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878038859088367939",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877994369506054519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4063,
+          "following_count": 1788,
+          "like_count": 119579,
+          "listed_count": 11,
+          "media_count": 1891,
+          "tweet_count": 28835
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Muoujiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 55,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 32,
+                "url": "https://t.co/LtoB1mlWHz"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1874363360755831286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3812,
+          "following_count": 3141,
+          "like_count": 54930,
+          "listed_count": 0,
+          "media_count": 2231,
+          "tweet_count": 41856
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

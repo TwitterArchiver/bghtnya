@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1847878517561905651",
+    "created_at": "2024-12-15T06:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T07:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868188436135616598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "756779273155858432",
+          "start": 0,
+          "username": "ScarletKc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868188436135616598",
+    "in_reply_to_user_id": "756779273155858432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868056714513420739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletKc_ Grok发表重要讲话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1847878517561905651",
+        "created_at": "2024-12-15T06:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T07:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868188436135616598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868188436135616598",
+        "in_reply_to_user_id": "756779273155858432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868056714513420739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc_ Grok发表重要讲话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756779273155858432",
+        "conversation_id": "1847878517561905651",
+        "created_at": "2024-12-14T22:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T23:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868056714513420739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/grok/share/7…",
+              "end": 32,
+              "expanded_url": "https://x.com/i/grok/share/7BNzs9OlP7amhB70C4t6kF3vM",
+              "start": 9,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/grok/share/7BNzs9OlP7amhB70C4t6kF3vM",
+              "url": "https://t.co/KGvQamLrrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868056714513420739",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847878517561905651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya https://t.co/KGvQamLrrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 1667,
+          "like_count": 111787,
+          "listed_count": 13,
+          "media_count": 1789,
+          "tweet_count": 26950
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "关注了你",
+        "id": "756779273155858432",
+        "location": "🏳️‍⚧️",
+        "name": "詩音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841104893974888451/QW7yOudw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 535,
+          "like_count": 23164,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2422
+        },
+        "username": "ScarletKc_",
+        "verified": false
+      }
+    ]
+  }
+}

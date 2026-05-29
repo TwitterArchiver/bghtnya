@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1949112482418876482",
+    "created_at": "2025-07-27T06:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T07:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949349786412564942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949349786412564942",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949112482418876482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 哈人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84800,
+        "height": 1024,
+        "media_key": "13_1949112157091815424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949112157091815424/img/_H6BcvEX4wD7zHPf.jpg",
+        "public_metrics": {
+          "view_count": 38185
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157091815424/vid/avc1/320x568/nUvKnbJOcNWt67yX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157091815424/vid/avc1/480x852/idj_sb5vwe4Hgh4t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157091815424/vid/avc1/576x1024/8Bswsu3q6KtsKMOA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949112157091815424/pl/LAjBO2Yxpq_3Vtas.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 13766,
+        "height": 1920,
+        "media_key": "13_1949112157561561088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949112157561561088/img/ahNWhkxdcoF32qjk.jpg",
+        "public_metrics": {
+          "view_count": 7122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157561561088/vid/avc1/720x1280/WFnB7zo1E-uHPILG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157561561088/vid/avc1/480x852/UkCnmjqlAWT_GGNJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949112157561561088/pl/K48XV2X_DB0CDX2Q.m3u8?v=723"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157561561088/vid/avc1/320x568/17xXaKamquapKlnt.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157561561088/vid/avc1/1080x1920/eE_CehIUKQvztyvK.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 16346,
+        "height": 1920,
+        "media_key": "13_1949112157280567296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949112157280567296/img/ZMyKtRuvDft_Fmsq.jpg",
+        "public_metrics": {
+          "view_count": 5073
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157280567296/vid/avc1/320x568/b8jLi2ghkQW05Hgo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949112157280567296/pl/es5TShjCxAuWRKln.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157280567296/vid/avc1/1080x1920/_z3EFIMFgm2bR1j9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157280567296/vid/avc1/720x1280/RMLNvb60ZSr0xhpS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157280567296/vid/avc1/480x852/bNkCdEXiPeHAzhU-.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 39572,
+        "height": 1280,
+        "media_key": "13_1949112157867798528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949112157867798528/img/jfSMp_1qI4A2QKrQ.jpg",
+        "public_metrics": {
+          "view_count": 3967
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157867798528/vid/avc1/320x568/dgYHJxHJEwsmnsBm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157867798528/vid/avc1/480x852/EjBRck8FJNNvbklz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949112157867798528/vid/avc1/720x1280/39H2Tk6wrTGsPb5Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949112157867798528/pl/DzJZIZ3XHRPXLgNg.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1949112482418876482",
+        "created_at": "2025-07-27T06:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T07:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949349786412564942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949349786412564942",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949112482418876482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949112157091815424",
+            "13_1949112157561561088",
+            "13_1949112157280567296",
+            "13_1949112157867798528"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1949112482418876482",
+        "created_at": "2025-07-26T14:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949112482418876482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJrMpNcQCp",
+              "end": 42,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949112482418876482/video/1",
+              "media_key": "13_1949112157091815424",
+              "start": 19,
+              "url": "https://t.co/sJrMpNcQCp"
+            },
+            {
+              "display_url": "pic.x.com/sJrMpNcQCp",
+              "end": 42,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949112482418876482/video/1",
+              "media_key": "13_1949112157561561088",
+              "start": 19,
+              "url": "https://t.co/sJrMpNcQCp"
+            },
+            {
+              "display_url": "pic.x.com/sJrMpNcQCp",
+              "end": 42,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949112482418876482/video/1",
+              "media_key": "13_1949112157280567296",
+              "start": 19,
+              "url": "https://t.co/sJrMpNcQCp"
+            },
+            {
+              "display_url": "pic.x.com/sJrMpNcQCp",
+              "end": 42,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949112482418876482/video/1",
+              "media_key": "13_1949112157867798528",
+              "start": 19,
+              "url": "https://t.co/sJrMpNcQCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949112482418876482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 106008,
+          "like_count": 417,
+          "quote_count": 5,
+          "reply_count": 56,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "7月26日，北京多地区出现洪涝灾害。 https://t.co/sJrMpNcQCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7219,
+          "following_count": 2040,
+          "like_count": 154398,
+          "listed_count": 17,
+          "media_count": 2967,
+          "tweet_count": 38688
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044068,
+          "following_count": 980,
+          "like_count": 7721,
+          "listed_count": 8210,
+          "media_count": 32294,
+          "tweet_count": 38962
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

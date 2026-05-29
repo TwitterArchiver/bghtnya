@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2000602808283009211",
+    "created_at": "2025-12-18T13:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T14:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001648311871377812"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "美沙芬",
+          "probability": 0.4899,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521553831775158273",
+          "start": 0,
+          "username": "ww123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001648311871377812",
+    "in_reply_to_user_id": "1521553831775158273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001628962536194127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww123qwq 右美沙芬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2000602808283009211",
+        "created_at": "2025-12-18T13:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001648311871377812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "美沙芬",
+              "probability": 0.4899,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001648311871377812",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001628962536194127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 右美沙芬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "DMX",
+              "id": "890579311886979072",
+              "name": "DMX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "DMX",
+              "id": "890579311886979072",
+              "name": "DMX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "DMX",
+              "id": "890579311886979072",
+              "name": "DMX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2000602808283009211",
+        "created_at": "2025-12-18T12:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001628962536194127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001628962536194127",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000602808283009211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya dmx在怎么标"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8340,
+          "following_count": 2100,
+          "like_count": 172935,
+          "listed_count": 20,
+          "media_count": 3630,
+          "tweet_count": 44415
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/188/过门有福利/，也支持usdt。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2000481810934108586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 265,
+          "like_count": 40858,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 11842
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

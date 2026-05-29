@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2022931504306032897",
+    "created_at": "2026-02-15T07:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T08:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022931504306032897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022931504306032897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022647652270346533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 世界各地的新年祝福\n\n🇬🇧祝你新年快乐\n🇯🇵新年快乐\n🇫🇷祝你有个好年\n🇩🇪祝你新年快乐\n🇮🇹祝你有个好年\n🇰🇷新年万福\n\n🇨🇳恭喜发财\n🇹🇼恭喜發財\n🇭🇰恭喜發財\n🇲🇴恭喜發財"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2022931504306032897",
+        "created_at": "2026-02-15T07:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022931504306032897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022931504306032897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022647652270346533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 世界各地的新年祝福\n\n🇬🇧祝你新年快乐\n🇯🇵新年快乐\n🇫🇷祝你有个好年\n🇩🇪祝你新年快乐\n🇮🇹祝你有个好年\n🇰🇷新年万福\n\n🇨🇳恭喜发财\n🇹🇼恭喜發財\n🇭🇰恭喜發財\n🇲🇴恭喜發財"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2022647652270346533",
+        "created_at": "2026-02-14T12:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022647652270346533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022647652270346533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 29591,
+          "like_count": 423,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "世界各地的新年祝福\n\n🇬🇧祝你新年快乐\n🇯🇵新年快乐\n🇫🇷祝你有个好年\n🇩🇪祝你新年快乐\n🇮🇹祝你有个好年\n🇰🇷新年万福\n\n🇨🇳恭喜发财\n🇹🇼恭喜發財\n🇭🇰恭喜發財\n🇲🇴恭喜發財"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2022282216412414319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8915,
+          "following_count": 2075,
+          "like_count": 172605,
+          "listed_count": 18,
+          "media_count": 3730,
+          "tweet_count": 45550
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7495,
+          "following_count": 2231,
+          "like_count": 29929,
+          "listed_count": 24,
+          "media_count": 3168,
+          "tweet_count": 17971
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

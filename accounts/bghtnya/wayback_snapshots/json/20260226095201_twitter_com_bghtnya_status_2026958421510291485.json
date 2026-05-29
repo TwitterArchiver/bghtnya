@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2026640618575757572",
+    "created_at": "2026-02-26T09:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026958421510291485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        },
+        {
+          "end": 27,
+          "id": "2011805883937013766",
+          "start": 14,
+          "username": "N552AAN552AA"
+        },
+        {
+          "end": 38,
+          "id": "2019100298808291333",
+          "start": 28,
+          "username": "YuwenT233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026958421510291485",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026640618575757572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua @N552AAN552AA @YuwenT233"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N552AAN552AA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N552AAN552AA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N552AAN552AA"
+    },
+    {
+      "detail": "User has been suspended: [YuwenT233].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "YuwenT233",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "YuwenT233"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2026640618575757572",
+        "created_at": "2026-02-26T09:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026958421510291485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            },
+            {
+              "end": 27,
+              "id": "2011805883937013766",
+              "start": 14,
+              "username": "N552AAN552AA"
+            },
+            {
+              "end": 38,
+              "id": "2019100298808291333",
+              "start": 28,
+              "username": "YuwenT233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026958421510291485",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026640618575757572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua @N552AAN552AA @YuwenT233"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2026640618575757572",
+        "created_at": "2026-02-25T12:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026640618575757572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026640618575757572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 23959,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁有推特起号教程。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9043,
+          "following_count": 2082,
+          "like_count": 174419,
+          "listed_count": 18,
+          "media_count": 3781,
+          "tweet_count": 46154
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 221,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

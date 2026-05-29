@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1871930800981397504"
+      ],
+      "media_source_tweet_id": [
+        "1871930948679569465"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1872235652978495966",
+    "created_at": "2024-12-26T10:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T11:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872235652978495966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689269051090980864",
+          "start": 3,
+          "username": "KainHokuto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLGUOxuwgT",
+          "end": 45,
+          "expanded_url": "https://x.com/KainHokuto/status/1871930948679569465/video/1",
+          "media_key": "7_1871930800981397504",
+          "start": 22,
+          "url": "https://t.co/HLGUOxuwgT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872235652978495966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8831
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871930948679569465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @KainHokuto: 最悪すぎる https://t.co/HLGUOxuwgT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60255,
+        "height": 1280,
+        "media_key": "7_1871930800981397504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1871930800981397504/pu/img/l1Vy3fI6oDP2OSzW.jpg",
+        "public_metrics": {
+          "view_count": 1748931
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871930800981397504/pu/vid/avc1/320x568/gzl9W2rO2ThzYQXf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871930800981397504/pu/vid/avc1/480x852/3hwK7LufLj9hFP0q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1871930800981397504/pu/vid/avc1/720x1280/Eq7DI1Q83BqLPpU-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1871930800981397504/pu/pl/VRQoDv1JN11o8tly.m3u8?tag=12&v=9cb"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1871930800981397504"
+          ],
+          "media_source_tweet_id": [
+            "1871930948679569465"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1872235652978495966",
+        "created_at": "2024-12-26T10:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T11:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872235652978495966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689269051090980864",
+              "start": 3,
+              "username": "KainHokuto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLGUOxuwgT",
+              "end": 45,
+              "expanded_url": "https://x.com/KainHokuto/status/1871930948679569465/video/1",
+              "media_key": "7_1871930800981397504",
+              "start": 22,
+              "url": "https://t.co/HLGUOxuwgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872235652978495966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8831
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871930948679569465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @KainHokuto: 最悪すぎる https://t.co/HLGUOxuwgT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1871930800981397504"
+          ]
+        },
+        "author_id": "1689269051090980864",
+        "conversation_id": "1871930948679569465",
+        "created_at": "2024-12-25T14:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T15:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871930948679569465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLGUOxuwgT",
+              "end": 29,
+              "expanded_url": "https://x.com/KainHokuto/status/1871930948679569465/video/1",
+              "media_key": "7_1871930800981397504",
+              "start": 6,
+              "url": "https://t.co/HLGUOxuwgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871930948679569465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11690,
+          "impression_count": 5291239,
+          "like_count": 70479,
+          "quote_count": 1050,
+          "reply_count": 190,
+          "retweet_count": 8831
+        },
+        "reply_settings": "following",
+        "text": "最悪すぎる https://t.co/HLGUOxuwgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4031,
+          "following_count": 1757,
+          "like_count": 116174,
+          "listed_count": 13,
+          "media_count": 1835,
+          "tweet_count": 27908
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T13:35:33.000Z",
+        "description": "夢を忘れた古い地球人で淫ク☆厨ヒカマーで戦闘民族横浜市民の勇者王\nウマ娘 コンパス ブロスタ NIKKE ブルアカ 鳴潮 スタレ 原神 ポケポケ モンスト等やってます！\n絵 @GH65873\n鍵 @twinturbo_mania",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "GH65873"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "username": "twinturbo_mania"
+              }
+            ]
+          }
+        },
+        "id": "1689269051090980864",
+        "name": "一方通行-mania",
+        "pinned_tweet_id": "1828082208600678610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868291993132249088/nwDXNgc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 388,
+          "like_count": 93041,
+          "listed_count": 2,
+          "media_count": 10402,
+          "tweet_count": 46912
+        },
+        "username": "KainHokuto",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1965574439871078614",
+    "created_at": "2025-09-10T06:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T07:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965670454817161690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721003883579748352",
+          "start": 0,
+          "username": "tushanhonghong9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965670454817161690",
+    "in_reply_to_user_id": "1721003883579748352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965574439871078614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tushanhonghong9 最终解释权应该是mafumafu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1965574439871078614",
+        "created_at": "2025-09-10T06:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965670454817161690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721003883579748352",
+              "start": 0,
+              "username": "tushanhonghong9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965670454817161690",
+        "in_reply_to_user_id": "1721003883579748352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965574439871078614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tushanhonghong9 最终解释权应该是mafumafu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721003883579748352",
+        "conversation_id": "1965574439871078614",
+        "created_at": "2025-09-10T00:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T01:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965574439871078614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/servalcandle/status/1965287500211253421",
+              "start": 33,
+              "url": "https://t.co/2yzzu1HDvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965574439871078614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965287500211253421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作者已死，版权也该死，但在何种程度上进行自己的解释是需要反思的🫠 https://t.co/2yzzu1HDvi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7438,
+          "following_count": 2070,
+          "like_count": 157726,
+          "listed_count": 18,
+          "media_count": 3127,
+          "tweet_count": 39881
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？\n最苦相思，最远却是遗忘。\n-----------------------------------------------------------\n🍥250314",
+        "id": "1721003883579748352",
+        "location": "TuShan",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 394,
+          "like_count": 16002,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 771
+        },
+        "username": "tushanhonghong9",
+        "verified": false
+      }
+    ]
+  }
+}

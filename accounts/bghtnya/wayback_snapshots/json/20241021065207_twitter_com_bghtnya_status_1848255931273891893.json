@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1847970045466460503",
+    "created_at": "2024-10-21T06:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T07:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848255931273891893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1509822664998731780",
+          "start": 0,
+          "username": "fenji0213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848255931273891893",
+    "in_reply_to_user_id": "1509822664998731780",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848255419736801654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenji0213 指一定程度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1847970045466460503",
+        "created_at": "2024-10-21T06:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T07:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848255931273891893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1509822664998731780",
+              "start": 0,
+              "username": "fenji0213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848255931273891893",
+        "in_reply_to_user_id": "1509822664998731780",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848255419736801654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenji0213 指一定程度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509822664998731780",
+        "conversation_id": "1847970045466460503",
+        "created_at": "2024-10-21T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848255419736801654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848255419736801654",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848255268905210358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 普通（指？什么程度？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3194,
+          "following_count": 1542,
+          "like_count": 100794,
+          "listed_count": 9,
+          "tweet_count": 23296
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T09:19:21.000Z",
+        "description": "答案藏在时间里，但不是所有人都等的到。",
+        "id": "1509822664998731780",
+        "location": "江苏省苏州市",
+        "name": "来可糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822936261298130944/qFqTUxzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 172,
+          "like_count": 202,
+          "listed_count": 1,
+          "tweet_count": 1022
+        },
+        "username": "fenji0213",
+        "verified": false
+      }
+    ]
+  }
+}

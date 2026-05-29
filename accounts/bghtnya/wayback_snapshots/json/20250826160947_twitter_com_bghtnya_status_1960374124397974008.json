@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1959790577798787078",
+    "created_at": "2025-08-26T16:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T17:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960374124397974008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960374124397974008",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959790577798787078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 没那么多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_1959790570878201856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzKTJAta8AAKghx.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1959790577798787078",
+        "created_at": "2025-08-26T16:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960374124397974008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960374124397974008",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959790577798787078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 没那么多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959790570878201856"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1959790577798787078",
+        "created_at": "2025-08-25T01:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T02:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959790577798787078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaO9lD85ZV",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1959790577798787078/photo/1",
+              "media_key": "3_1959790570878201856",
+              "start": 0,
+              "url": "https://t.co/EaO9lD85ZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959790577798787078",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 80831,
+          "like_count": 1042,
+          "quote_count": 4,
+          "reply_count": 32,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EaO9lD85ZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7392,
+          "following_count": 2058,
+          "like_count": 156991,
+          "listed_count": 18,
+          "media_count": 3076,
+          "tweet_count": 39533
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92351,
+          "following_count": 985,
+          "like_count": 43868,
+          "listed_count": 214,
+          "media_count": 15040,
+          "tweet_count": 22279
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

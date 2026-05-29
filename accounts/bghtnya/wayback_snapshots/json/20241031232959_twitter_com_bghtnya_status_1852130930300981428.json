@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1851742013785297092",
+    "created_at": "2024-10-31T23:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T00:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852130930300981428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "254151116",
+          "start": 0,
+          "username": "baoshu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852130930300981428",
+    "in_reply_to_user_id": "254151116",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851742013785297092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baoshu88 kfc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1851742013785297092",
+        "created_at": "2024-10-31T23:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T00:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852130930300981428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "254151116",
+              "start": 0,
+              "username": "baoshu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852130930300981428",
+        "in_reply_to_user_id": "254151116",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851742013785297092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baoshu88 kfc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "254151116",
+        "conversation_id": "1851742013785297092",
+        "created_at": "2024-10-30T21:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T22:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851742013785297092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851742013785297092",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 813195,
+          "like_count": 860,
+          "quote_count": 32,
+          "reply_count": 859,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "我常常跟美国同事讲，中国是购物天堂，大部分东西都比美国便宜，特别是电子产品、服装和家庭用品，性价比很高。但是这周他们真的要去了，问我具体应该买什么，我竟然给不出几个建议..\n\n手机，中国确实领先，但是系统是封闭的，不含谷歌套件没有esim他们回国用不了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 1542,
+          "like_count": 102279,
+          "listed_count": 9,
+          "tweet_count": 23839
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-18T18:17:22.000Z",
+        "description": "华尔街煎饼摊负责人",
+        "id": "254151116",
+        "location": "Financial District, New York",
+        "name": "包叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758595257392861184/glA3sBF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61246,
+          "following_count": 209,
+          "like_count": 28,
+          "listed_count": 638,
+          "tweet_count": 779
+        },
+        "username": "baoshu88",
+        "verified": true
+      }
+    ]
+  }
+}

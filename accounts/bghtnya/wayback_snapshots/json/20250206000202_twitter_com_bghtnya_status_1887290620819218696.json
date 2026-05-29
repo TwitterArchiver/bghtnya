@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1887078931943350426",
+    "created_at": "2025-02-06T00:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T01:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887290620819218696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1838346027486572544",
+          "start": 0,
+          "username": "koobeebr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887290620819218696",
+    "in_reply_to_user_id": "1838346027486572544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887275417796812965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koobeebr 给你一拳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1887078931943350426",
+        "created_at": "2025-02-06T00:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T01:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887290620819218696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1838346027486572544",
+              "start": 0,
+              "username": "koobeebr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887290620819218696",
+        "in_reply_to_user_id": "1838346027486572544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887275417796812965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koobeebr 给你一拳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838346027486572544",
+        "conversation_id": "1887078931943350426",
+        "created_at": "2025-02-05T23:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T00:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887275417796812965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887275417796812965",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887078931943350426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 你们都是开玩笑，我是真有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5276,
+          "following_count": 1820,
+          "like_count": 123419,
+          "listed_count": 13,
+          "media_count": 2093,
+          "tweet_count": 30434
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T22:33:48.000Z",
+        "description": "人类，雄性，英俊，幽默，高大，威猛。 不搞黄色，我只看黄色。政治立场很坚定，不缺钱花，不需要收买我",
+        "id": "1838346027486572544",
+        "location": "NEWCASTLE",
+        "name": "vesage of D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841592417272623104/3f11swYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 163,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 157
+        },
+        "username": "koobeebr",
+        "verified": false
+      }
+    ]
+  }
+}

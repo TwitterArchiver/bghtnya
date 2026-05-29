@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1932328552101265579",
+    "created_at": "2025-06-10T13:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T14:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932423309737824646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1668917712851181568",
+          "start": 0,
+          "username": "Astdeitee"
+        },
+        {
+          "end": 27,
+          "id": "1865040323899998208",
+          "start": 11,
+          "username": "irohalanzeguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932423309737824646",
+    "in_reply_to_user_id": "1668917712851181568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932421335873159387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astdeitee @irohalanzeguang 不同意，有很大关联\n1，可以用反证法，假如一个国家专制为0，也就是政府完全没有实权，就不可能实现锁国，完全可以绕开政府封锁\n2，举几个例子，可以对比tg和wx，同样是聊天软件，wx功能不但少、烂，而且储存空间占十几二十个G；另外，可以对比谷歌和百度，同样是搜索引擎，后者全季吧是广告，seo还慢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1932328552101265579",
+        "created_at": "2025-06-10T13:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T14:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932423309737824646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1668917712851181568",
+              "start": 0,
+              "username": "Astdeitee"
+            },
+            {
+              "end": 27,
+              "id": "1865040323899998208",
+              "start": 11,
+              "username": "irohalanzeguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932423309737824646",
+        "in_reply_to_user_id": "1668917712851181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932421335873159387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astdeitee @irohalanzeguang 不同意，有很大关联\n1，可以用反证法，假如一个国家专制为0，也就是政府完全没有实权，就不可能实现锁国，完全可以绕开政府封锁\n2，举几个例子，可以对比tg和wx，同样是聊天软件，wx功能不但少、烂，而且储存空间占十几二十个G；另外，可以对比谷歌和百度，同样是搜索引擎，后者全季吧是广告，seo还慢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668917712851181568",
+        "conversation_id": "1932328552101265579",
+        "created_at": "2025-06-10T12:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932421335873159387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 25,
+              "id": "1865040323899998208",
+              "start": 9,
+              "username": "irohalanzeguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932421335873159387",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932419499439116690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @irohalanzeguang 1，专制和闭关锁国没关系\n2，闭关锁国和软件臃肿没关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6379,
+          "following_count": 1980,
+          "like_count": 144168,
+          "listed_count": 14,
+          "media_count": 2672,
+          "tweet_count": 36089
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "",
+        "id": "1668917712851181568",
+        "name": "Astdéitée",
+        "pinned_tweet_id": "1899678335237575021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 537,
+          "like_count": 39048,
+          "listed_count": 1,
+          "media_count": 816,
+          "tweet_count": 21094
+        },
+        "username": "Astdeitee",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T14:27:35.000Z",
+        "description": "🇰🇵\n🤚😭🤚\n小号@ruoyemu64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ruoyemu64"
+              }
+            ]
+          }
+        },
+        "id": "1865040323899998208",
+        "location": "天堂or地狱",
+        "name": "坂下星川蓝泽光",
+        "pinned_tweet_id": "1867194505067417803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885343937789124609/-zleKXqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 1157,
+          "like_count": 31300,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 3937
+        },
+        "username": "irohalanzeguang",
+        "verified": false
+      }
+    ]
+  }
+}

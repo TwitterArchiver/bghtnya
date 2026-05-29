@@ -1,0 +1,404 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1809959794838835376",
+    "created_at": "2024-07-08T01:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T02:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810121048807105008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495378934610857985",
+          "start": 0,
+          "username": "Fiammetta1453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810121048807105008",
+    "in_reply_to_user_id": "1495378934610857985",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809959794838835376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiammetta1453 我玩原神，叫华为来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1809959794838835376",
+        "created_at": "2024-07-08T01:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T02:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810121048807105008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495378934610857985",
+              "start": 0,
+              "username": "Fiammetta1453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810121048807105008",
+        "in_reply_to_user_id": "1495378934610857985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809959794838835376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiammetta1453 我玩原神，叫华为来"
+      },
+      {
+        "attachments": {},
+        "author_id": "1495378934610857985",
+        "conversation_id": "1809959794838835376",
+        "created_at": "2024-07-07T14:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T15:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809959794838835376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809959794838835376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9110,
+          "like_count": 270,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我出生了，叫产婆来\n​我饿了，叫母乳来\n​我上学了，叫作业来\n​我工作了，叫老板来\n​我结婚了，叫媒婆来\n​我嫖娼了，叫小姐来\n我得艾了，叫阻断药来\n我离婚了，叫法院来\n我很难受，叫医生来\n我死了，叫殡仪馆来\n我诈尸了，叫道士来\n我重生了，叫产婆来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 1401,
+          "like_count": 76288,
+          "listed_count": 8,
+          "tweet_count": 16177
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T12:45:05.000Z",
+        "description": "左翼民粹 社革战斗组🥰/女权主义/布尔什维克主义/仇富仇赵\n反革命伴侣@duxin6th 老公@realspadetaffy 达瓦里氏@Hongshiyue4ever\n我是哲学文盲农b土狗，请小资哥哥姐姐们多包容下。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "duxin6th"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "realspadetaffy"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "Hongshiyue4ever"
+              }
+            ]
+          }
+        },
+        "id": "1495378934610857985",
+        "name": "逃过纽伦堡审判の施佩尔酱🥰 8964天安门事件",
+        "pinned_tweet_id": "1803313397087473757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795007081470410752/uiuUSLux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5024,
+          "following_count": 1402,
+          "like_count": 44277,
+          "listed_count": 25,
+          "tweet_count": 14871
+        },
+        "username": "Fiammetta1453",
+        "verified": false
+      }
+    ]
+  }
+}

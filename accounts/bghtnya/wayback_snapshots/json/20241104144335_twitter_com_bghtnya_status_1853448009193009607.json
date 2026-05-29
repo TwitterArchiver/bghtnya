@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1853436832027140516",
+    "created_at": "2024-11-04T14:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T15:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853448009193009607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1794825887554387968",
+          "start": 0,
+          "username": "obensern55107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853448009193009607",
+    "in_reply_to_user_id": "1794825887554387968",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853436832027140516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obensern55107 吃掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1853436832027140516",
+        "created_at": "2024-11-04T14:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T15:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853448009193009607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1794825887554387968",
+              "start": 0,
+              "username": "obensern55107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853448009193009607",
+        "in_reply_to_user_id": "1794825887554387968",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853436832027140516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obensern55107 吃掉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853436828571127808"
+          ]
+        },
+        "author_id": "1794825887554387968",
+        "conversation_id": "1853436832027140516",
+        "created_at": "2024-11-04T13:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T14:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853436832027140516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eIxWojYYoC",
+              "end": 86,
+              "expanded_url": "https://x.com/obensern55107/status/1853436832027140516/photo/1",
+              "media_key": "3_1853436828571127808",
+              "start": 63,
+              "url": "https://t.co/eIxWojYYoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853436832027140516",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好像心情奇好的时候，或许是有些躁狂（？）\n自己会变成乐子人，会说平时不会说的怪话（确信）\n但是有点害怕说出不该说的被嫌弃…… https://t.co/eIxWojYYoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3358,
+          "following_count": 1542,
+          "like_count": 102927,
+          "listed_count": 9,
+          "tweet_count": 23998
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T20:21:30.000Z",
+        "description": "退推又悄悄溜回来了呐\n碎碎念生活游戏推，在各个评论随机出没（？），无情的点赞bot（虽然可能会被当成怪人就是了）\n喜各类音乐，以及小众独立游戏\n游戏荒ing\n也是跑团人，成分很杂，其实就是爱好广而不精（）",
+        "id": "1794825887554387968",
+        "name": "九重色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836400044448092160/D2b9L3AN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 479,
+          "like_count": 13826,
+          "listed_count": 0,
+          "tweet_count": 616
+        },
+        "username": "obensern55107",
+        "verified": false
+      }
+    ]
+  }
+}

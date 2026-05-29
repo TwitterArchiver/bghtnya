@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2055958408772440350",
+    "created_at": "2026-05-18T08:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056297585388978680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887331316175142912",
+          "start": 0,
+          "username": "Django0221"
+        },
+        {
+          "end": 20,
+          "id": "1989703377316712449",
+          "start": 12,
+          "username": "DnJiavc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056297585388978680",
+    "in_reply_to_user_id": "1887331316175142912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056295179674632485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Django0221 @DnJiavc 互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2055958408772440350",
+        "created_at": "2026-05-18T08:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056297585388978680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887331316175142912",
+              "start": 0,
+              "username": "Django0221"
+            },
+            {
+              "end": 20,
+              "id": "1989703377316712449",
+              "start": 12,
+              "username": "DnJiavc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056297585388978680",
+        "in_reply_to_user_id": "1887331316175142912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056295179674632485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Django0221 @DnJiavc 互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887331316175142912",
+        "conversation_id": "2055958408772440350",
+        "created_at": "2026-05-18T08:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056295179674632485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989703377316712449",
+              "start": 0,
+              "username": "DnJiavc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056295179674632485",
+        "in_reply_to_user_id": "1989703377316712449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055958408772440350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DnJiavc 已关  坐等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9610,
+          "following_count": 2331,
+          "like_count": 178443,
+          "listed_count": 21,
+          "media_count": 3919,
+          "tweet_count": 47980
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T02:44:10.000Z",
+        "description": "热心市民小姜\n\n梦到啥说啥",
+        "id": "1887331316175142912",
+        "name": "兴趣使然的撸毛狗🐬TermMax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026842315189530625/wjAZEuNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 745,
+          "like_count": 125,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 494
+        },
+        "username": "Django0221",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T14:34:28.000Z",
+        "description": "AIA（All in AI）投资组合主理人；前外企高级技术顾问；自驾达人（曾SUV环游全国）；目前正在Gap，公路旅行。",
+        "id": "1989703377316712449",
+        "name": "Dn.Jia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993892969167085568/i8pqu9n-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 331,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 660
+        },
+        "username": "DnJiavc",
+        "verified": true
+      }
+    ]
+  }
+}

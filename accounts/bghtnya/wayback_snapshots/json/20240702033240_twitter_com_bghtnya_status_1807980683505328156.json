@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1807980558687035806",
+    "created_at": "2024-07-02T03:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T04:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807980683505328156"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1807980683505328156",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807980558687035806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "应用列表里都找不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1807980558687035806",
+        "created_at": "2024-07-02T03:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T04:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807980683505328156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807980683505328156",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807980558687035806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应用列表里都找不到"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807980554325053443",
+            "3_1807980555142942722"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1807980558687035806",
+        "created_at": "2024-07-02T03:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T04:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807980558687035806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Zdmyq5GrAQ",
+              "end": 74,
+              "expanded_url": "https://twitter.com/bghtnya/status/1807980558687035806/photo/1",
+              "media_key": "3_1807980554325053443",
+              "start": 51,
+              "url": "https://t.co/Zdmyq5GrAQ"
+            },
+            {
+              "display_url": "pic.twitter.com/Zdmyq5GrAQ",
+              "end": 74,
+              "expanded_url": "https://twitter.com/bghtnya/status/1807980558687035806/photo/1",
+              "media_key": "3_1807980555142942722",
+              "start": 51,
+              "url": "https://t.co/Zdmyq5GrAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807980558687035806",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪的情况\n这个应用显示已卸载 但是安装提示是升级 还安装不了\n目前就是卸不掉也装不了\n第一次见🤔 https://t.co/Zdmyq5GrAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 1391,
+          "like_count": 74496,
+          "listed_count": 10,
+          "tweet_count": 15726
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1932066771982315763",
+    "created_at": "2025-06-10T04:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932288269426790534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825021494805581824",
+          "start": 0,
+          "username": "lumuyuanMadoka2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932288269426790534",
+    "in_reply_to_user_id": "1825021494805581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932066771982315763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumuyuanMadoka2 习近平下台"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1932066771982315763",
+        "created_at": "2025-06-10T04:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932288269426790534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932288269426790534",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932066771982315763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 习近平下台"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825021494805581824",
+        "conversation_id": "1932066771982315763",
+        "created_at": "2025-06-09T13:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932066771982315763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BrokeUtopia896…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/BrokeUtopia8964/status/1931665220776468736",
+              "start": 8,
+              "url": "https://t.co/eDAN0pGakK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932066771982315763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931665220776468736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "押韵上了可还行 https://t.co/eDAN0pGakK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6365,
+          "following_count": 1971,
+          "like_count": 143586,
+          "listed_count": 14,
+          "media_count": 2662,
+          "tweet_count": 35935
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "@lumuyuanMadoka 的转生号——————————————————————\n日常丨百合豚丨ACGN丨MC丨🏳️‍🌈友好丨日本語を学ぶ丨🇨🇳，中华民族，网左，本号键政🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "lumuyuanMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "鹿目圆○",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 277,
+          "like_count": 8049,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 2965
+        },
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      }
+    ]
+  }
+}

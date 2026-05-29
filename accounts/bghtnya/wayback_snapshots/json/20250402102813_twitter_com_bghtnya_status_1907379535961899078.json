@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1906988303452438597",
+    "created_at": "2025-04-02T10:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T11:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907379535961899078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "848689945",
+          "start": 0,
+          "username": "CatholicPeter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907379535961899078",
+    "in_reply_to_user_id": "848689945",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906988303452438597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatholicPeter 6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14733,
+        "height": 720,
+        "media_key": "7_1906988260574052352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906988260574052352/pu/img/ExXq0g5NJYAmlBix.jpg",
+        "public_metrics": {
+          "view_count": 143714
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906988260574052352/pu/vid/avc1/480x270/PbfNhm_fHgd1Ezl1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906988260574052352/pu/vid/avc1/640x360/LxZ7TtNcpSrkb222.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906988260574052352/pu/vid/avc1/1280x720/usxnsOCVWaZQA9yH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906988260574052352/pu/pl/CLsJXT2WkmaxA0_V.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1906988303452438597",
+        "created_at": "2025-04-02T10:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907379535961899078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "848689945",
+              "start": 0,
+              "username": "CatholicPeter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907379535961899078",
+        "in_reply_to_user_id": "848689945",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906988303452438597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatholicPeter 6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906988260574052352"
+          ]
+        },
+        "author_id": "848689945",
+        "conversation_id": "1906988303452438597",
+        "created_at": "2025-04-01T08:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T09:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906988303452438597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkISvQU1ku",
+              "end": 30,
+              "expanded_url": "https://x.com/CatholicPeter/status/1906988303452438597/video/1",
+              "media_key": "7_1906988260574052352",
+              "start": 7,
+              "url": "https://t.co/MkISvQU1ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906988303452438597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 373024,
+          "like_count": 1222,
+          "quote_count": 17,
+          "reply_count": 83,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "无人机太猛了 https://t.co/MkISvQU1ku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 1842,
+          "like_count": 126486,
+          "listed_count": 14,
+          "media_count": 2287,
+          "tweet_count": 32107
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-27T05:03:18.000Z",
+        "description": "没啥能耐，喜欢吃喝，贪财好色。",
+        "id": "848689945",
+        "location": "乡下",
+        "name": "胖子猫爸爸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882091923223289856/dtnu8E5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 2414,
+          "like_count": 3221,
+          "listed_count": 8,
+          "media_count": 1835,
+          "tweet_count": 9412
+        },
+        "username": "CatholicPeter",
+        "verified": false
+      }
+    ]
+  }
+}

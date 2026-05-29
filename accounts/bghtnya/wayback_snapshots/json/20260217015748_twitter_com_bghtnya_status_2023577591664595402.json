@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2023037848535052297",
+    "created_at": "2026-02-17T01:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T02:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023577591664595402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "764955412646891520",
+          "start": 0,
+          "username": "hibikana417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023577591664595402",
+    "in_reply_to_user_id": "764955412646891520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023037848535052297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hibikana417 这么在意这点电么"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16976,
+        "height": 1056,
+        "media_key": "13_2023037772530159616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023037772530159616/img/dXVwJPh0q0mMN790.jpg",
+        "public_metrics": {
+          "view_count": 6586983
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023037772530159616/vid/avc1/320x450/peHCEZ-gGzCsBkiT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023037772530159616/vid/avc1/480x674/9EDfosO8iGraGIg7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023037772530159616/vid/avc1/750x1056/Gr1xruf-HJPm-b5k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023037772530159616/pl/kR3HolR-xpgIGsQW.m3u8?v=cfc"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2023037848535052297",
+        "created_at": "2026-02-17T01:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023577591664595402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "764955412646891520",
+              "start": 0,
+              "username": "hibikana417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023577591664595402",
+        "in_reply_to_user_id": "764955412646891520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023037848535052297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hibikana417 这么在意这点电么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023037772530159616"
+          ]
+        },
+        "author_id": "764955412646891520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "2023037848535052297",
+        "created_at": "2026-02-15T14:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023037848535052297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msSyKjuZMe",
+              "end": 81,
+              "expanded_url": "https://x.com/hibikana417/status/2023037848535052297/video/1",
+              "media_key": "13_2023037772530159616",
+              "start": 58,
+              "url": "https://t.co/msSyKjuZMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023037848535052297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1180,
+          "impression_count": 8708764,
+          "like_count": 18418,
+          "quote_count": 492,
+          "reply_count": 1227,
+          "retweet_count": 3689
+        },
+        "reply_settings": "everyone",
+        "text": "中国人は盗人揃い💢\n\n携帯電話の充電を\n違法な手段で行うやり方を\n世界に配信💢\n\n無理だろ❓中国人に良心はないの❓ https://t.co/msSyKjuZMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2023057004500296149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8932,
+          "following_count": 2076,
+          "like_count": 172912,
+          "listed_count": 18,
+          "media_count": 3738,
+          "tweet_count": 45679
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-14T22:42:37.000Z",
+        "description": "倭の国は世界一。日本の生産業を守りたい｡日本は日本人だけの国。不動産収益 暗号資産投資歴18年。 不法移民受け入れ反対。祖先は流鏑馬一族・武田流   大東流合気。純日本人。",
+        "id": "764955412646891520",
+        "name": "侍",
+        "pinned_tweet_id": "1992890002175558068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014603282682150914/r2z3mzVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 834,
+          "like_count": 79186,
+          "listed_count": 18,
+          "media_count": 1942,
+          "tweet_count": 74967
+        },
+        "username": "hibikana417",
+        "verified": true
+      }
+    ]
+  }
+}

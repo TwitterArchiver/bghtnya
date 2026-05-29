@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1998062887026454895",
+    "created_at": "2025-12-09T10:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T11:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998334178803249512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        },
+        {
+          "end": 31,
+          "id": "1510775205064753153",
+          "start": 16,
+          "username": "ruihanmeimei01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998334178803249512",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998259694855757844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu @ruihanmeimei01 BBC是会拍照的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_1998259689080107008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7s-mZiaMAAfpLB.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1998062887026454895",
+        "created_at": "2025-12-09T10:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998334178803249512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 31,
+              "id": "1510775205064753153",
+              "start": 16,
+              "username": "ruihanmeimei01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998334178803249512",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998259694855757844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu @ruihanmeimei01 BBC是会拍照的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998259689080107008"
+          ]
+        },
+        "author_id": "1604181895721504771",
+        "conversation_id": "1998062887026454895",
+        "created_at": "2025-12-09T05:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998259694855757844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1510775205064753153",
+              "start": 0,
+              "username": "ruihanmeimei01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3vpS1p2n3",
+              "end": 39,
+              "expanded_url": "https://x.com/mengtunwudaimu/status/1998259694855757844/photo/1",
+              "media_key": "3_1998259689080107008",
+              "start": 16,
+              "url": "https://t.co/b3vpS1p2n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998259694855757844",
+        "in_reply_to_user_id": "1510775205064753153",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1074,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998062887026454895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruihanmeimei01 https://t.co/b3vpS1p2n3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8309,
+          "following_count": 2108,
+          "like_count": 172580,
+          "listed_count": 20,
+          "media_count": 3601,
+          "tweet_count": 44168
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "喵酱的真实账号\n政治立场：台独、支黑\n喜欢批判支人的奴性和劣根性\n评论区互fo或者私信",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813041031300194304/wjvBcT48_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12122,
+          "following_count": 2548,
+          "like_count": 25298,
+          "listed_count": 134,
+          "media_count": 2010,
+          "tweet_count": 12384
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-04T00:24:25.000Z",
+        "description": "反日反台独，爱我大中国！锐汉街头分享中国崛起故事、科技变化、历史真相。干他丫的侵略者，一起为祖国加油！欢迎互fo #爱国 #小粉红 #反日 #反台独",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 57,
+                "tag": "爱国"
+              },
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "小粉红"
+              },
+              {
+                "end": 69,
+                "start": 66,
+                "tag": "反日"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "反台独"
+              }
+            ]
+          }
+        },
+        "id": "1510775205064753153",
+        "name": "锐汉街评",
+        "pinned_tweet_id": "1998166701255307268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995327192532967424/DFZX9CP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158584,
+          "following_count": 8176,
+          "like_count": 14510,
+          "listed_count": 198,
+          "media_count": 3320,
+          "tweet_count": 18376
+        },
+        "username": "ruihanmeimei01",
+        "verified": true
+      }
+    ]
+  }
+}

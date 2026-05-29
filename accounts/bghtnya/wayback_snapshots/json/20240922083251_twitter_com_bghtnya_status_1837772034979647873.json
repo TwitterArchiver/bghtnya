@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1837772033016598528"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1837770544500166731",
+    "created_at": "2024-09-22T08:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T09:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837772034979647873"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1837772034979647873",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837771143715160403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2. 下列说法正确的是:"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 5760,
+        "end_datetime": "2024-09-26T08:32:51.000Z",
+        "id": "1837772033016598528",
+        "options": [
+          {
+            "label": "A 将红石块更换为钻石块,开闭拉杆S1后的效果不变",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "B 拉上拉杆S1 活塞依然不动",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "C L1与L3的激活关系始终相反",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "D 不论拉杆S1的状态，一段时间后L2始终激活",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1837772033016598528"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1837770544500166731",
+        "created_at": "2024-09-22T08:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T09:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837772034979647873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837772034979647873",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837771143715160403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2. 下列说法正确的是:"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1837771140812754948"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1837770544500166731",
+        "created_at": "2024-09-22T08:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T09:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837771143715160403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837771143715160403",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837770544500166731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1. 拉下拉杆S1后，激活红石灯的红石灯为："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 1531,
+          "like_count": 97362,
+          "listed_count": 10,
+          "tweet_count": 21474
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

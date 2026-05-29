@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1874104207252611517",
+    "created_at": "2025-01-01T12:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T13:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874428134403231904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874428134403231904",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874104207252611517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 年少有为"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1874104207252611517].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1874104207252611517",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1874104207252611517"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1874104207252611517",
+        "created_at": "2025-01-01T12:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T13:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874428134403231904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874428134403231904",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874104207252611517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 年少有为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4058,
+          "following_count": 1784,
+          "like_count": 118880,
+          "listed_count": 12,
+          "media_count": 1881,
+          "tweet_count": 28550
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 我是小动物！我是小动物！ 里账号@damatte0526 （主要是我的日常）买情趣用品找她➡️@Koko_mia_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "damatte0526"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Koko_mia_"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "location": "🚪99纯绿陪聊➕朋友圈（请不要骂我）",
+        "name": "小咪之家8964",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866768035429613569/DBur-Xuz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11598,
+          "following_count": 577,
+          "like_count": 3235,
+          "listed_count": 11,
+          "media_count": 66,
+          "tweet_count": 1230
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

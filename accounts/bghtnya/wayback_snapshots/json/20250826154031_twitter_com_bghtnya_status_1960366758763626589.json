@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1960349742552224079",
+    "created_at": "2025-08-26T15:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960366758763626589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        },
+        {
+          "end": 29,
+          "id": "1769078117052854272",
+          "start": 16,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960366758763626589",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960349742552224079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano hi\n@huahuojiang_"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960349742552224079].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960349742552224079",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960349742552224079"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1960349742552224079",
+        "created_at": "2025-08-26T15:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960366758763626589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            },
+            {
+              "end": 29,
+              "id": "1769078117052854272",
+              "start": 16,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960366758763626589",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960349742552224079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano hi\n@huahuojiang_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7392,
+          "following_count": 2056,
+          "like_count": 156887,
+          "listed_count": 18,
+          "media_count": 3076,
+          "tweet_count": 39515
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推@Yumo_1314 家猫@Fengran_Breanna | 换一个提问箱https://t.co/AZVtx8k4Ad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Fengran_Breanna"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano1",
+                "end": 108,
+                "expanded_url": "http://ngl.link/minaseayano1",
+                "start": 85,
+                "url": "https://t.co/AZVtx8k4Ad"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "前进一路六渡桥",
+        "name": "愛詩 綾乃🏳️‍⚧️",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954839122214113280/bsQcMYOI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 2046,
+          "like_count": 7939,
+          "listed_count": 6,
+          "media_count": 696,
+          "tweet_count": 7771
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1939327665745564090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6289,
+          "following_count": 3605,
+          "like_count": 88856,
+          "listed_count": 16,
+          "media_count": 4935,
+          "tweet_count": 77262
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

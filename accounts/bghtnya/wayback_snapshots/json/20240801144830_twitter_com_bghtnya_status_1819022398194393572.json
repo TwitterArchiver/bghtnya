@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "1819015964278579250",
+    "created_at": "2024-08-01T14:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T15:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819022398194393572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 24,
+          "id": "1478042617958912005",
+          "start": 11,
+          "username": "knowledgefxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819022398194393572",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819021673783603211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @knowledgefxg 有些网站不开放api\n如果有json格式返回那更好都省的解析了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "1819015964278579250",
+        "created_at": "2024-08-01T14:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T15:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819022398194393572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 24,
+              "id": "1478042617958912005",
+              "start": 11,
+              "username": "knowledgefxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819022398194393572",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819021673783603211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @knowledgefxg 有些网站不开放api\n如果有json格式返回那更好都省的解析了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709376564713127936",
+        "conversation_id": "1819015964278579250",
+        "created_at": "2024-08-01T14:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T15:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819021673783603211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 22,
+              "id": "1478042617958912005",
+              "start": 9,
+              "username": "knowledgefxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819021673783603211",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819020863297220985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @knowledgefxg （没接触过这个\n话说为什么要用网页，API不好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 1449,
+          "like_count": 82874,
+          "listed_count": 9,
+          "tweet_count": 17963
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/天残党/深柜/INT(F?)P/音游人//////////////\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 913,
+          "like_count": 24287,
+          "listed_count": 5,
+          "tweet_count": 4685
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T16:39:09.000Z",
+        "description": "热爱知识，没事分享点有趣硬核的东西,包含英语学习，AI编程，科技软件，资源网站等等。来都来了，点点关注😘。 本人一直在用的高速稳定机场推荐：https://t.co/naPr2Oreoj 可解锁奈飞等流媒体",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ss.cn88.net/#/register?cod…",
+                "end": 93,
+                "expanded_url": "https://ss.cn88.net/#/register?code=D6joFq0e",
+                "start": 70,
+                "url": "https://t.co/naPr2Oreoj"
+              }
+            ]
+          }
+        },
+        "id": "1478042617958912005",
+        "name": "知识分享官",
+        "pinned_tweet_id": "1808720849504981294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122149,
+          "following_count": 1095,
+          "like_count": 17172,
+          "listed_count": 749,
+          "tweet_count": 4930
+        },
+        "username": "knowledgefxg",
+        "verified": true
+      }
+    ]
+  }
+}

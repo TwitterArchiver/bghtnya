@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1937847718933848553",
+    "created_at": "2025-06-25T12:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T13:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937852335155564790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835753359015624704",
+          "start": 0,
+          "username": "aoi_mti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937852335155564790",
+    "in_reply_to_user_id": "1835753359015624704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937847718933848553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi_mti 我去 我都没有感觉到杭州东了 什么就过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1937847718933848553",
+        "created_at": "2025-06-25T12:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937852335155564790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835753359015624704",
+              "start": 0,
+              "username": "aoi_mti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937852335155564790",
+        "in_reply_to_user_id": "1835753359015624704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937847718933848553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi_mti 我去 我都没有感觉到杭州东了 什么就过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835753359015624704",
+        "conversation_id": "1937847718933848553",
+        "created_at": "2025-06-25T12:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937847718933848553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/bghtnya/status/1937752344105828428",
+              "start": 17,
+              "url": "https://t.co/JhgM9nbHje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937847718933848553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937752344105828428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "速报：我们亲爱的冰棍老师坐过站了 https://t.co/JhgM9nbHje"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6921,
+          "following_count": 2011,
+          "like_count": 150047,
+          "listed_count": 15,
+          "media_count": 2801,
+          "tweet_count": 37365
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "Weibo: @三澄葵 / 微信公众号 aoinoheya / 臭打maimai 的 / AuDHD diagnosed / 英语教师 / alter ego @aoimti02 / https://t.co/WLQhXMNMNv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "aoimti02"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/j8aX2rt2",
+                "end": 115,
+                "expanded_url": "https://discord.gg/j8aX2rt2",
+                "start": 92,
+                "url": "https://t.co/WLQhXMNMNv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/gjzPrisrKk"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "WNZ HGH ZJ & SH CHN",
+        "name": "Aoi M - T.I.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929219142609154048/Opc5NMtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1270,
+          "like_count": 35629,
+          "listed_count": 5,
+          "media_count": 1812,
+          "tweet_count": 7252
+        },
+        "url": "https://t.co/gjzPrisrKk",
+        "username": "aoi_mti",
+        "verified": true
+      }
+    ]
+  }
+}

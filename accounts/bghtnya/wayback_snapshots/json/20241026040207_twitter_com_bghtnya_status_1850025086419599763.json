@@ -1,0 +1,154 @@
+{
+  "data": {
+    "author_id": "1512976991976402949",
+    "conversation_id": "1849460791214506011",
+    "created_at": "2024-10-26T04:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T05:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850025086419599763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1632947441631907842",
+          "start": 0,
+          "username": "takanas56121817"
+        }
+      ]
+    },
+    "id": "1850025086419599763",
+    "in_reply_to_user_id": "1632947441631907842",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 212,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849671424224657482",
+        "type": "quoted"
+      },
+      {
+        "id": "1849652293001441769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takanas56121817 https://t.co/8npJOVRsRX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1512976991976402949",
+        "conversation_id": "1849460791214506011",
+        "created_at": "2024-10-26T04:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T05:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850025086419599763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1632947441631907842",
+              "start": 0,
+              "username": "takanas56121817"
+            }
+          ]
+        },
+        "id": "1850025086419599763",
+        "in_reply_to_user_id": "1632947441631907842",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849671424224657482",
+            "type": "quoted"
+          },
+          {
+            "id": "1849652293001441769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takanas56121817 https://t.co/8npJOVRsRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3547,
+          "following_count": 1598,
+          "like_count": 107109,
+          "listed_count": 9,
+          "media_count": 1724,
+          "tweet_count": 25644
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T03:33:18.000Z",
+        "description": "成分：客服小鱼已老实/轻建政/爱看黄/社民萌萌人🌹/共产党反对派/米卫兵\n\n我发言尽量温和，只要不嘴臭，我很乐意和各种意识形态的人交流。支持所有人指正和反驳我的言论错误。",
+        "id": "1632947441631907842",
+        "name": "8964🌹takanashiあおい",
+        "pinned_tweet_id": "1855966363216396499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808336831207165954/Fz_b7hRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 1237,
+          "like_count": 25982,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 9179
+        },
+        "username": "takanas56121817",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1831337968432554486",
+    "created_at": "2024-09-04T14:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T15:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831343088524038573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1618324076992548865",
+          "start": 0,
+          "username": "Rosmontis233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831343088524038573",
+    "in_reply_to_user_id": "1618324076992548865",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831337968432554486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rosmontis233 摸摸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1831337968432554486].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1831337968432554486",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1831337968432554486"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1831337968432554486",
+        "created_at": "2024-09-04T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831343088524038573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1618324076992548865",
+              "start": 0,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831343088524038573",
+        "in_reply_to_user_id": "1618324076992548865",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831337968432554486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rosmontis233 摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 1504,
+          "like_count": 92934,
+          "listed_count": 10,
+          "tweet_count": 20269
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大一｜🍥｜PGP：3CFE FAB3 CAC1 CC73 5D67 DF41 BFFB 7708 8E66 43DC｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 84,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 61,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "1682926645836148736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774469833595441152/f17Mh5DY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 450,
+          "like_count": 6541,
+          "listed_count": 6,
+          "tweet_count": 5372
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": false
+      }
+    ]
+  }
+}

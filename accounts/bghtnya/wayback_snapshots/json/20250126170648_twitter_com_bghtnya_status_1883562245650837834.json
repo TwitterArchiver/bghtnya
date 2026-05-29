@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1883562244564488192"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1883562245650837834",
+    "created_at": "2025-01-26T17:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T18:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883562245650837834"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883562245650837834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泥门穿裙子一般习惯把拉链放在左侧还是右侧"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2025-02-02T17:06:48.000Z",
+        "id": "1883562244564488192",
+        "options": [
+          {
+            "label": "左侧",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "右侧",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "都可以",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "看结果",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1883562244564488192"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1883562245650837834",
+        "created_at": "2025-01-26T17:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T18:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883562245650837834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883562245650837834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥门穿裙子一般习惯把拉链放在左侧还是右侧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4385,
+          "following_count": 1826,
+          "like_count": 122129,
+          "listed_count": 12,
+          "media_count": 2001,
+          "tweet_count": 29825
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

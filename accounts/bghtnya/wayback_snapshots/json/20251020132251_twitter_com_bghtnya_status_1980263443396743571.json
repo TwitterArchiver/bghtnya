@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980157068792283136"
+      ],
+      "media_source_tweet_id": [
+        "1980157181275332957"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1980263443396743571",
+    "created_at": "2025-10-20T13:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T14:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980263443396743571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426015810472972298",
+          "start": 3,
+          "username": "srkmanno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/chv5M150sK",
+          "end": 44,
+          "expanded_url": "https://x.com/srkmanno/status/1980157181275332957/photo/1",
+          "media_key": "3_1980157068792283136",
+          "start": 21,
+          "url": "https://t.co/chv5M150sK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980263443396743571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980157181275332957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @srkmanno: 哇\n猫娘派对 https://t.co/chv5M150sK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1980157068792283136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ruXNzXwAA-fyq.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980157068792283136"
+          ],
+          "media_source_tweet_id": [
+            "1980157181275332957"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1980263443396743571",
+        "created_at": "2025-10-20T13:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980263443396743571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426015810472972298",
+              "start": 3,
+              "username": "srkmanno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/chv5M150sK",
+              "end": 44,
+              "expanded_url": "https://x.com/srkmanno/status/1980157181275332957/photo/1",
+              "media_key": "3_1980157068792283136",
+              "start": 21,
+              "url": "https://t.co/chv5M150sK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980263443396743571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980157181275332957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @srkmanno: 哇\n猫娘派对 https://t.co/chv5M150sK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980157068792283136"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "conversation_id": "1980157181275332957",
+        "created_at": "2025-10-20T06:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980157181275332957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/chv5M150sK",
+              "end": 30,
+              "expanded_url": "https://x.com/srkmanno/status/1980157181275332957/photo/1",
+              "media_key": "3_1980157068792283136",
+              "start": 7,
+              "url": "https://t.co/chv5M150sK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980157181275332957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2803,
+          "like_count": 153,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "哇\n猫娘派对 https://t.co/chv5M150sK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7952,
+          "following_count": 2092,
+          "like_count": 164109,
+          "listed_count": 20,
+          "media_count": 3297,
+          "tweet_count": 41356
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "ᴍᴀʏ ɪ ᴇɴᴊᴏʏ ᴍʏ ʟɪғᴇ ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴇ ᴍʏ ᴀʀᴛ,ʀᴇsᴘᴇᴄᴛᴇᴅ ʙʏ ᴀʟʟ ᴍᴀɴ ᴀɴᴅ ɪɴ ᴀʟʟ ᴛɪᴍᴇs | 雑多 | 撮影 | ﾅﾁｮ､fbk推し | アークナイツ(大陸情報あり)/音ゲー/maimaiDX | DM⇒FB 🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+miPhtPfBEaQ0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+miPhtPfBEaQ0ZmU1",
+                "start": 0,
+                "url": "https://t.co/4lOlgS0NO9"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "name": "白上アノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972872237675061249/WWc3hZO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 862,
+          "like_count": 154325,
+          "listed_count": 3,
+          "media_count": 3994,
+          "tweet_count": 17033
+        },
+        "url": "https://t.co/4lOlgS0NO9",
+        "username": "srkmanno",
+        "verified": false
+      }
+    ]
+  }
+}

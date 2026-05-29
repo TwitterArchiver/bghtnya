@@ -1,0 +1,336 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1807439435220271294",
+    "created_at": "2024-07-02T04:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T05:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807990346108096783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1478042617958912005",
+          "start": 0,
+          "username": "knowledgefxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807990346108096783",
+    "in_reply_to_user_id": "1478042617958912005",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807678498569355580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knowledgefxg 问问canva是什么工具"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1807439435220271294",
+        "created_at": "2024-07-02T04:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T05:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807990346108096783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1478042617958912005",
+              "start": 0,
+              "username": "knowledgefxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807990346108096783",
+        "in_reply_to_user_id": "1478042617958912005",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807678498569355580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knowledgefxg 问问canva是什么工具"
+      },
+      {
+        "attachments": {},
+        "author_id": "1478042617958912005",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1807439435220271294",
+        "created_at": "2024-07-01T07:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T08:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807678498569355580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807678498569355580",
+        "in_reply_to_user_id": "1478042617958912005",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 19385,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807439435220271294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也算是我的一个生活状态：\nvs code敲代码玩，notion管理笔记整理素材，YouTube搜资料学知识，canva制作内容发布到X，ChatGPT全程辅助。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 1392,
+          "like_count": 74531,
+          "listed_count": 10,
+          "tweet_count": 15735
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T16:39:09.000Z",
+        "description": "热爱知识，没事分享点有趣硬核的东西,包含英语学习，AI编程，科技软件，资源网站等等。来都来了，点点关注😘。 本人一直在用的高速稳定机场推荐：https://t.co/naPr2Oreoj 可解锁奈飞等流媒体",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ss.cn88.net/#/register?cod…",
+                "end": 93,
+                "expanded_url": "https://ss.cn88.net/#/register?code=D6joFq0e",
+                "start": 70,
+                "url": "https://t.co/naPr2Oreoj"
+              }
+            ]
+          }
+        },
+        "id": "1478042617958912005",
+        "name": "知识分享官",
+        "pinned_tweet_id": "1771883289860530400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105187,
+          "following_count": 1019,
+          "like_count": 14396,
+          "listed_count": 658,
+          "tweet_count": 4615
+        },
+        "username": "knowledgefxg",
+        "verified": true
+      }
+    ]
+  }
+}

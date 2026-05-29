@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1865289581811372354",
+    "created_at": "2024-12-07T10:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T11:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865341807833596413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 24,
+          "id": "1426015810472972298",
+          "start": 14,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865341807833596413",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865335419434389842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria @CyronANNO 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1865289581811372354",
+        "created_at": "2024-12-07T10:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T11:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865341807833596413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 24,
+              "id": "1426015810472972298",
+              "start": 14,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865341807833596413",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865335419434389842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @CyronANNO 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1865289581811372354",
+        "created_at": "2024-12-07T09:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T10:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865335419434389842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865335419434389842",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865289581811372354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyronANNO 习近平下台"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 1625,
+          "like_count": 109092,
+          "listed_count": 10,
+          "media_count": 1752,
+          "tweet_count": 26204
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "维多利亚线🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1864399797135749229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859930806539390976/GY-HEnGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 540,
+          "like_count": 7520,
+          "listed_count": 2,
+          "media_count": 977,
+          "tweet_count": 7546
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多　|   アズールレーン/アークナイツ/音ゲー/maimaiDX　|　Avatar: @Atdan86　|　 DM→follow back 　|　Politics絶対🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "Atdan86"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "name": "឵ ANNO",
+        "pinned_tweet_id": "1865289581811372354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864592992868417536/5UBN0BFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 767,
+          "like_count": 111739,
+          "listed_count": 4,
+          "media_count": 2414,
+          "tweet_count": 11783
+        },
+        "username": "CyronANNO",
+        "verified": false
+      }
+    ]
+  }
+}

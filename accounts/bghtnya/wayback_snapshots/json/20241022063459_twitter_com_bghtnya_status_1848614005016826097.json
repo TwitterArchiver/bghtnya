@@ -1,0 +1,170 @@
+{
+  "data": {
+    "author_id": "1512976991976402949",
+    "conversation_id": "1848321175908430271",
+    "created_at": "2024-10-22T06:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-22T07:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848614005016826097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796349415650664448",
+          "start": 0,
+          "username": "KawaiiCheshire_"
+        }
+      ]
+    },
+    "id": "1848614005016826097",
+    "in_reply_to_user_id": "1796349415650664448",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 135,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848321175908430271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiCheshire_ 大东亚共荣圈（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1512976991976402949",
+        "conversation_id": "1848321175908430271",
+        "created_at": "2024-10-22T06:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T07:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848614005016826097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796349415650664448",
+              "start": 0,
+              "username": "KawaiiCheshire_"
+            }
+          ]
+        },
+        "id": "1848614005016826097",
+        "in_reply_to_user_id": "1796349415650664448",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848321175908430271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiCheshire_ 大东亚共荣圈（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3547,
+          "following_count": 1598,
+          "like_count": 107111,
+          "listed_count": 9,
+          "media_count": 1724,
+          "tweet_count": 25646
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "友跨/#fo我之前请不要锁推/不会单取（除非为了查成分而回fo），最多双取/主人kc😽@saksamalah3rd/逃生舱：@LovelyCheshire_/\n头像是本人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 3,
+                "tag": "fo我之前请不要锁推"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "saksamalah3rd"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "LovelyCheshire_"
+              }
+            ]
+          }
+        },
+        "id": "1796349415650664448",
+        "location": "柴郡趴在你的身上",
+        "name": "迷人的小猫🐱❤️🕷️",
+        "pinned_tweet_id": "1860958109939958103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859569354620403715/R8GmYpcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 274,
+          "like_count": 7189,
+          "listed_count": 5,
+          "media_count": 748,
+          "tweet_count": 3986
+        },
+        "username": "KawaiiCheshire_",
+        "verified": false
+      }
+    ]
+  }
+}

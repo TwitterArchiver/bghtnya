@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1977928516235858425",
+    "created_at": "2025-10-14T07:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T08:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978002761494224900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2405324646",
+          "start": 0,
+          "username": "alexavad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978002761494224900",
+    "in_reply_to_user_id": "2405324646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977997126379639117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexavad 因为这太好笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1977928516235858425",
+        "created_at": "2025-10-14T07:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T08:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978002761494224900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2405324646",
+              "start": 0,
+              "username": "alexavad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978002761494224900",
+        "in_reply_to_user_id": "2405324646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977997126379639117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexavad 因为这太好笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "1977928516235858425",
+        "created_at": "2025-10-14T07:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T08:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977997126379639117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977997126379639117",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977928516235858425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 为啥要把墙外的东西往墙内转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7938,
+          "following_count": 2087,
+          "like_count": 163264,
+          "listed_count": 20,
+          "media_count": 3264,
+          "tweet_count": 41089
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "A人脑波寻找安放处",
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977765298385362944/9NEz8rxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 117,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 287
+        },
+        "username": "alexavad",
+        "verified": false
+      }
+    ]
+  }
+}

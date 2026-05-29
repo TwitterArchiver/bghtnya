@@ -1,0 +1,146 @@
+{
+  "data": {
+    "author_id": "1512976991976402949",
+    "conversation_id": "1845479130894315839",
+    "created_at": "2024-10-14T10:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-14T11:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845776432913596834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1002925327239135232",
+          "start": 0,
+          "username": "4698huka8964"
+        }
+      ]
+    },
+    "id": "1845776432913596834",
+    "in_reply_to_user_id": "1002925327239135232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 40,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1845775591523701003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4698huka8964 当然有关系，你的手机/平板只有type c接口，而乌蒙的耳机线只有圆孔。你出门只会用手机或平板而不是电脑扫码（逆天除外），为了用有线耳机接入手机和平板需要type c的口，但为了接入舞萌地插，又需要圆孔，这导致你需要同时带两根线，难道不是很麻烦吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1512976991976402949",
+        "conversation_id": "1845479130894315839",
+        "created_at": "2024-10-14T10:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-14T11:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845776432913596834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1002925327239135232",
+              "start": 0,
+              "username": "4698huka8964"
+            }
+          ]
+        },
+        "id": "1845776432913596834",
+        "in_reply_to_user_id": "1002925327239135232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1845775591523701003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4698huka8964 当然有关系，你的手机/平板只有type c接口，而乌蒙的耳机线只有圆孔。你出门只会用手机或平板而不是电脑扫码（逆天除外），为了用有线耳机接入手机和平板需要type c的口，但为了接入舞萌地插，又需要圆孔，这导致你需要同时带两根线，难道不是很麻烦吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3544,
+          "following_count": 1598,
+          "like_count": 107106,
+          "listed_count": 9,
+          "media_count": 1724,
+          "tweet_count": 25644
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T14:50:06.000Z",
+        "description": "人终究会被其年少不可得之物困扰一生",
+        "id": "1002925327239135232",
+        "name": "h8u9k6a4",
+        "pinned_tweet_id": "1861453436761616846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794407498029678592/hEv__V3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 1535,
+          "like_count": 26624,
+          "listed_count": 5,
+          "media_count": 707,
+          "tweet_count": 13068
+        },
+        "username": "4698huka8964",
+        "verified": false
+      }
+    ]
+  }
+}

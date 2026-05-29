@@ -1,0 +1,286 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1801557371082149958",
+    "created_at": "2024-06-14T15:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T16:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801631501928251728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 26,
+          "id": "1733491347431321600",
+          "start": 11,
+          "username": "AlphaOrionis09"
+        },
+        {
+          "end": 35,
+          "id": "1598376912379731968",
+          "start": 27,
+          "username": "H_QAQ_H"
+        },
+        {
+          "end": 48,
+          "id": "1263368268103860227",
+          "start": 36,
+          "username": "kano_258025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801631501928251728",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801631367924748615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @AlphaOrionis09 @H_QAQ_H @kano_258025 凭运气过海关嘛（？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1801631367924748615].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1801631367924748615",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1801631367924748615"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1801557371082149958",
+        "created_at": "2024-06-14T15:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T16:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801631501928251728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 26,
+              "id": "1733491347431321600",
+              "start": 11,
+              "username": "AlphaOrionis09"
+            },
+            {
+              "end": 35,
+              "id": "1598376912379731968",
+              "start": 27,
+              "username": "H_QAQ_H"
+            },
+            {
+              "end": 48,
+              "id": "1263368268103860227",
+              "start": 36,
+              "username": "kano_258025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801631501928251728",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801631367924748615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @AlphaOrionis09 @H_QAQ_H @kano_258025 凭运气过海关嘛（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 1363,
+          "like_count": 70847,
+          "listed_count": 7,
+          "tweet_count": 14869
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/xyn/she/天残党/深柜/不键政，中立派/INT(F?)P/音游人/\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 907,
+          "like_count": 19172,
+          "listed_count": 7,
+          "tweet_count": 3765
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T14:18:47.000Z",
+        "description": "灯火あかり、幽霊です。/↖️另一个OC。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nekoaka.com",
+                "end": 23,
+                "expanded_url": "https://nekoaka.com",
+                "start": 0,
+                "url": "https://t.co/iPu7KgHHZy"
+              }
+            ]
+          }
+        },
+        "id": "1733491347431321600",
+        "location": "无线电波",
+        "name": "Akarį🌙",
+        "pinned_tweet_id": "1797291153320243576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780270676550807552/vg2F9wUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 711,
+          "like_count": 14300,
+          "listed_count": 2,
+          "tweet_count": 6179
+        },
+        "url": "https://t.co/iPu7KgHHZy",
+        "username": "AlphaOrionis09",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T18:02:21.000Z",
+        "description": "慢活",
+        "id": "1598376912379731968",
+        "name": "夜夢",
+        "pinned_tweet_id": "1781194487257329859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736566439195394048/sdw_PN2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 175,
+          "like_count": 36113,
+          "listed_count": 1,
+          "tweet_count": 2018
+        },
+        "username": "H_QAQ_H",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T07:20:32.000Z",
+        "description": "https://t.co/bpMCRADmvR\n大陆人，是含糖六百多天的🏳️‍⚧️transles，是私斋，也是严重的精神病，双相情感障碍还需随诊待定？\n我推鹿乃@kano_2525（我不准有人不知道鹿乃😡😡），明日方舟澄闪 缪尔赛斯 水月，少女终末旅行，虹ヶ咲学園，星团Liella（五人liella）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "kano_2525"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/kokodayo114514",
+                "end": 23,
+                "expanded_url": "https://t.me/kokodayo114514",
+                "start": 0,
+                "url": "https://t.co/bpMCRADmvR"
+              }
+            ]
+          }
+        },
+        "id": "1263368268103860227",
+        "location": "民国114年5月14号",
+        "name": "白轩酱（想贴贴版🥺🥺）",
+        "pinned_tweet_id": "1797910369735971322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793234756362199040/0MkQyZq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 2371,
+          "like_count": 68284,
+          "listed_count": 7,
+          "tweet_count": 5556
+        },
+        "username": "kano_258025",
+        "verified": false
+      }
+    ]
+  }
+}

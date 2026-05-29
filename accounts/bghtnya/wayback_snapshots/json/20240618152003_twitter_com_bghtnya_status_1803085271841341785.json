@@ -1,0 +1,382 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1803032543484321941"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1803085271841341785",
+    "created_at": "2024-06-18T15:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T16:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803085271841341785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1102791182092972034",
+          "start": 3,
+          "username": "Colon_BR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/kfC0AwVOa9",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Colon_BR/status/1803032543484321941/photo/1",
+          "media_key": "3_1803031049821433856",
+          "start": 32,
+          "url": "https://t.co/kfC0AwVOa9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803085271841341785",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803032543484321941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Colon_BR: 抹茶ねこちゃんスク水ver.も…🍵 https://t.co/kfC0AwVOa9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1803032543484321941"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1803085271841341785",
+        "created_at": "2024-06-18T15:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T16:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803085271841341785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1102791182092972034",
+              "start": 3,
+              "username": "Colon_BR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kfC0AwVOa9",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Colon_BR/status/1803032543484321941/photo/1",
+              "media_key": "3_1803031049821433856",
+              "start": 32,
+              "url": "https://t.co/kfC0AwVOa9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803085271841341785",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803032543484321941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Colon_BR: 抹茶ねこちゃんスク水ver.も…🍵 https://t.co/kfC0AwVOa9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803031049821433856"
+          ]
+        },
+        "author_id": "1102791182092972034",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1803032543484321941",
+        "created_at": "2024-06-18T11:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T12:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803032543484321941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kfC0AwVOa9",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Colon_BR/status/1803032543484321941/photo/1",
+              "media_key": "3_1803031049821433856",
+              "start": 18,
+              "url": "https://t.co/kfC0AwVOa9"
+            },
+            {
+              "display_url": "x.com/Colon_BR/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Colon_BR/status/1802652179783885235",
+              "start": 42,
+              "url": "https://t.co/sYSbaGOKlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803032543484321941",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 11037,
+          "like_count": 504,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802652179783885235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抹茶ねこちゃんスク水ver.も…🍵 https://t.co/kfC0AwVOa9 https://t.co/sYSbaGOKlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 1362,
+          "like_count": 71663,
+          "listed_count": 7,
+          "tweet_count": 15048
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-05T04:41:21.000Z",
+        "description": "けもみみをよく描きます。 □Skeb→https://t.co/fD7d6sl0oz □BOOTH→ https://t.co/KwyLhcOGKt ☕️#ころんびぁーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "ころんびぁーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Colon_BR",
+                "end": 42,
+                "expanded_url": "https://skeb.jp/@Colon_BR",
+                "start": 19,
+                "url": "https://t.co/fD7d6sl0oz"
+              },
+              {
+                "display_url": "colomocolon.booth.pm",
+                "end": 74,
+                "expanded_url": "https://colomocolon.booth.pm",
+                "start": 51,
+                "url": "https://t.co/KwyLhcOGKt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/55411005",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/55411005",
+                "start": 0,
+                "url": "https://t.co/L20GflO22c"
+              }
+            ]
+          }
+        },
+        "id": "1102791182092972034",
+        "location": "※作品の無断転載およびAI学習等への使用を禁じます",
+        "name": "ころんびぁ☕️",
+        "pinned_tweet_id": "1801570278486544839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774786243886489600/FHdcbK8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19825,
+          "following_count": 943,
+          "like_count": 50000,
+          "listed_count": 248,
+          "tweet_count": 19074
+        },
+        "url": "https://t.co/L20GflO22c",
+        "username": "Colon_BR",
+        "verified": false
+      }
+    ]
+  }
+}

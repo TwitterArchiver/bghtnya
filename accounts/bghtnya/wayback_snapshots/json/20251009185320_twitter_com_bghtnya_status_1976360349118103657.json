@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1976210469905219938",
+    "created_at": "2025-10-09T18:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T19:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976360349118103657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976360349118103657",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976210469905219938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 程序员表示有被冒犯到"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28333,
+        "height": 854,
+        "media_key": "13_1976210390821523456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976210390821523456/img/QG0XJ5ZvbEYKD3RY.jpg",
+        "public_metrics": {
+          "view_count": 14364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976210390821523456/vid/avc1/320x568/6h1ozk6CMAmzhQGa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976210390821523456/vid/avc1/480x854/0bnE05NAihQcByIb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976210390821523456/pl/K7-7YaPursMt35kJ.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1976210469905219938",
+        "created_at": "2025-10-09T18:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T19:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976360349118103657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976360349118103657",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976210469905219938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 程序员表示有被冒犯到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976210390821523456"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1976210469905219938",
+        "created_at": "2025-10-09T08:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976210469905219938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itCYypl1Kv",
+              "end": 49,
+              "expanded_url": "https://x.com/FurinaDF/status/1976210469905219938/video/1",
+              "media_key": "13_1976210390821523456",
+              "start": 26,
+              "url": "https://t.co/itCYypl1Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976210469905219938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 29351,
+          "like_count": 231,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "海外华人，小粉红浓度最高的，就是程序员和留学生群体 https://t.co/itCYypl1Kv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/35371135…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/63BEDCHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7928,
+          "following_count": 2084,
+          "like_count": 162019,
+          "listed_count": 20,
+          "media_count": 3239,
+          "tweet_count": 40881
+        },
+        "url": "https://t.co/63BEDCHLlz",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "偷井盖专家，河南驻马店实验小学四年级在读@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55240,
+          "following_count": 2333,
+          "like_count": 29038,
+          "listed_count": 153,
+          "media_count": 7071,
+          "tweet_count": 11559
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

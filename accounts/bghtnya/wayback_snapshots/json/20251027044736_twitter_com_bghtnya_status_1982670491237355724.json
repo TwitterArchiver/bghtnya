@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1982606447268725135",
+    "created_at": "2025-10-27T04:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T05:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982670491237355724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1607388730914140160",
+          "start": 0,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982670491237355724",
+    "in_reply_to_user_id": "1607388730914140160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982669114243235963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popcat1234566 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1982606447268725135",
+        "created_at": "2025-10-27T04:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982670491237355724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607388730914140160",
+              "start": 0,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982670491237355724",
+        "in_reply_to_user_id": "1607388730914140160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982669114243235963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popcat1234566 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607388730914140160",
+        "conversation_id": "1982606447268725135",
+        "created_at": "2025-10-27T04:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982669114243235963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982669114243235963",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982606447268725135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 123跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7973,
+          "following_count": 2096,
+          "like_count": 165188,
+          "listed_count": 19,
+          "media_count": 3328,
+          "tweet_count": 41687
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n另有神秘菜单 私信解锁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "1960642947600228419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812786235565314048/g2vuCrcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 653,
+          "like_count": 36224,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

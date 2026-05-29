@@ -1,0 +1,647 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2007511244367114450",
+    "created_at": "2026-01-04T16:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007856845864792083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 19,
+          "id": "1389005348737110022",
+          "start": 6,
+          "username": "SquidGrowJoe"
+        },
+        {
+          "end": 29,
+          "id": "44196397",
+          "start": 20,
+          "username": "elonmusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007856845864792083",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007512557960007757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @SquidGrowJoe @elonmusk 完美爆杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2007512555980288000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9weCI1XcAAgGc3.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2007511244367114450",
+        "created_at": "2026-01-04T16:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007856845864792083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 19,
+              "id": "1389005348737110022",
+              "start": 6,
+              "username": "SquidGrowJoe"
+            },
+            {
+              "end": 29,
+              "id": "44196397",
+              "start": 20,
+              "username": "elonmusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007856845864792083",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007512557960007757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @SquidGrowJoe @elonmusk 完美爆杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007512555980288000"
+          ]
+        },
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2007511244367114450",
+        "created_at": "2026-01-03T18:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T19:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007512557960007757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1389005348737110022",
+              "start": 0,
+              "username": "SquidGrowJoe"
+            },
+            {
+              "end": 23,
+              "id": "44196397",
+              "start": 14,
+              "username": "elonmusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XozRWNo6GX",
+              "end": 47,
+              "expanded_url": "https://x.com/grok/status/2007512557960007757/photo/1",
+              "media_key": "3_2007512555980288000",
+              "start": 24,
+              "url": "https://t.co/XozRWNo6GX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007512557960007757",
+        "in_reply_to_user_id": "1389005348737110022",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 640743,
+          "like_count": 15213,
+          "quote_count": 38,
+          "reply_count": 144,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007512393384153331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SquidGrowJoe @elonmusk https://t.co/XozRWNo6GX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8670,
+          "following_count": 2078,
+          "like_count": 174322,
+          "listed_count": 17,
+          "media_count": 3683,
+          "tweet_count": 44908
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7151373,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5645,
+          "media_count": 5307863,
+          "tweet_count": 83381472
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-02T23:54:20.000Z",
+        "description": "America First - God First",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@SquidgrowJoe",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@SquidgrowJoe",
+                "start": 0,
+                "url": "https://t.co/Y9cCilZR6Z"
+              }
+            ]
+          }
+        },
+        "id": "1389005348737110022",
+        "location": "Somwhere, KY",
+        "name": "SquidGrow Joe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915799306717507584/qejjweoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40087,
+          "following_count": 81,
+          "like_count": 8924,
+          "listed_count": 85,
+          "media_count": 1204,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/Y9cCilZR6Z",
+        "username": "SquidGrowJoe",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2007812723439235464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007510077561769984/T_jMhUj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231210123,
+          "following_count": 1263,
+          "like_count": 195775,
+          "listed_count": 165941,
+          "media_count": 4295,
+          "tweet_count": 93146
+        },
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

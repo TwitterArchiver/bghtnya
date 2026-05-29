@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1949782902402850851",
+    "created_at": "2025-07-29T01:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T02:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950005465079042050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835753359015624704",
+          "start": 0,
+          "username": "aoi_mti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950005465079042050",
+    "in_reply_to_user_id": "1835753359015624704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950005100660883661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi_mti 之前绑定了gitHUB账号 之后不知道莫名其妙什么情况 突然卸载不掉 有我手机的设备所有者权限\n解绑也不行\n之后是搞root的时候解boot loader的时候恢复出厂设置了 然后这个软件没了 \n之后我才发现github二步验证登录不上去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1949782902402850851",
+        "created_at": "2025-07-29T01:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T02:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950005465079042050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835753359015624704",
+              "start": 0,
+              "username": "aoi_mti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950005465079042050",
+        "in_reply_to_user_id": "1835753359015624704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950005100660883661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi_mti 之前绑定了gitHUB账号 之后不知道莫名其妙什么情况 突然卸载不掉 有我手机的设备所有者权限\n解绑也不行\n之后是搞root的时候解boot loader的时候恢复出厂设置了 然后这个软件没了 \n之后我才发现github二步验证登录不上去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835753359015624704",
+        "conversation_id": "1949782902402850851",
+        "created_at": "2025-07-29T01:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T02:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950005100660883661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950005100660883661",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950005004091236554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 欸，我记得他好像有 Passkey 的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7220,
+          "following_count": 2044,
+          "like_count": 154944,
+          "listed_count": 17,
+          "media_count": 2975,
+          "tweet_count": 38798
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "急则乱慌则疲 / 微信公众号 aoinoheya / maimai / 严重 ASD 中度 ADHD 诊断 @PKU1898 / 高校英語教師 / hoyoverse & Lowiro / 非二元 / ZH EN JP KR / ❤️ 星見雅 / 🍼 @Kirara_Miku @ariadoneit9927",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 54,
+                "username": "PKU1898"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "Kirara_Miku"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "ariadoneit9927"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msmaoi.link",
+                "end": 23,
+                "expanded_url": "https://msmaoi.link",
+                "start": 0,
+                "url": "https://t.co/gjzPrisrKk"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "Shangcheng HZH & SHA",
+        "name": "Aoi M - T.I.",
+        "pinned_tweet_id": "1949460140652200183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946231727535345666/OvthJXOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 1559,
+          "like_count": 41581,
+          "listed_count": 5,
+          "media_count": 2162,
+          "tweet_count": 8888
+        },
+        "url": "https://t.co/gjzPrisrKk",
+        "username": "aoi_mti",
+        "verified": true
+      }
+    ]
+  }
+}

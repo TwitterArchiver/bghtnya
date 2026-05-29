@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1998190575439491572",
+    "created_at": "2025-12-09T04:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T05:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998241890576335199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        },
+        {
+          "end": 30,
+          "id": "1429829081684537345",
+          "start": 16,
+          "username": "Rabbubble550W"
+        },
+        {
+          "end": 44,
+          "id": "1158382980076716032",
+          "start": 31,
+          "username": "kokodayo5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998241890576335199",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998190575439491572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 @Rabbubble550W @kokodayo5150 窝野药中奖喵"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Rabbubble550W].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Rabbubble550W",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Rabbubble550W"
+    },
+    {
+      "detail": "User has been suspended: [kokodayo5150].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kokodayo5150",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kokodayo5150"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998190566102945792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7r_u6YaUAA26QQ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1998190566098739200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7r_u6XaIAAzIaa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1998190566102990848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7r_u6YbAAAXzFf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998190566342004736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7r_u7RaEAA5Yhb.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1998190575439491572",
+        "created_at": "2025-12-09T04:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998241890576335199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 30,
+              "id": "1429829081684537345",
+              "start": 16,
+              "username": "Rabbubble550W"
+            },
+            {
+              "end": 44,
+              "id": "1158382980076716032",
+              "start": 31,
+              "username": "kokodayo5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998241890576335199",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998190575439491572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 @Rabbubble550W @kokodayo5150 窝野药中奖喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998190566102945792",
+            "3_1998190566098739200",
+            "3_1998190566102990848",
+            "3_1998190566342004736"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1998190575439491572",
+        "created_at": "2025-12-09T00:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998190575439491572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1429829081684537345",
+              "start": 30,
+              "username": "Rabbubble550W"
+            },
+            {
+              "end": 58,
+              "id": "1158382980076716032",
+              "start": 45,
+              "username": "kokodayo5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtT02b5kOY",
+              "end": 128,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1998190575439491572/photo/1",
+              "media_key": "3_1998190566102945792",
+              "start": 105,
+              "url": "https://t.co/gtT02b5kOY"
+            },
+            {
+              "display_url": "pic.x.com/gtT02b5kOY",
+              "end": 128,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1998190575439491572/photo/1",
+              "media_key": "3_1998190566098739200",
+              "start": 105,
+              "url": "https://t.co/gtT02b5kOY"
+            },
+            {
+              "display_url": "pic.x.com/gtT02b5kOY",
+              "end": 128,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1998190575439491572/photo/1",
+              "media_key": "3_1998190566102990848",
+              "start": 105,
+              "url": "https://t.co/gtT02b5kOY"
+            },
+            {
+              "display_url": "pic.x.com/gtT02b5kOY",
+              "end": 128,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1998190575439491572/photo/1",
+              "media_key": "3_1998190566342004736",
+              "start": 105,
+              "url": "https://t.co/gtT02b5kOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998190575439491572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 44,
+                "id": "1429829081684537345",
+                "start": 30,
+                "username": "rabbubble550w"
+              },
+              {
+                "end": 58,
+                "id": "1158382980076716032",
+                "start": 45,
+                "username": "kokodayo5150"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "threads.com/@kokodayo8054?…",
+                "end": 360,
+                "expanded_url": "https://www.threads.com/@kokodayo8054?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 337,
+                "url": "https://t.co/J5z9CgEwK4"
+              },
+              {
+                "display_url": "instagram.com/kokodayo8054?i…",
+                "end": 387,
+                "expanded_url": "https://www.instagram.com/kokodayo8054?igsh",
+                "start": 364,
+                "url": "https://t.co/yDsvLURBd3"
+              },
+              {
+                "display_url": "facebook.com/share/163Dyvj4…",
+                "end": 415,
+                "expanded_url": "https://www.facebook.com/share/163Dyvj44q/?mibextid",
+                "start": 392,
+                "url": "https://t.co/n06fL7p4gA"
+              },
+              {
+                "display_url": "xhslink.com/m/3gSLj6xarGV",
+                "end": 443,
+                "expanded_url": "https://xhslink.com/m/3gSLj6xarGV",
+                "start": 420,
+                "url": "https://t.co/5ygmk9DZnf"
+              },
+              {
+                "display_url": "bsky.app/profile/did:pl…",
+                "end": 472,
+                "expanded_url": "https://bsky.app/profile/did:plc:zoleqwgdr7h26bumcvmjxflb",
+                "start": 449,
+                "url": "https://t.co/kyWfPEx2yD"
+              }
+            ]
+          },
+          "text": "新置顶🔝\n名稱:早露泡泡兔\n暱稱:早子姐，早露，泡泡兔\n前世@rabbubble550w，@kokodayo5150 找回推油中\nKig志向: 出自己最喜歡的角色，與更多娃娃貼貼\nKig角色:湊阿庫婭\n興趣: 明日方舟博士Dr.早露泡泡兔#9722，碧蓝航线舰长台服中途岛傻fufu的北极熊204218740，原神旅行者クマ酱841461705，崩铁开拓者是クマ酱呀801570280，绝区零绳匠早露泡泡兔1301108581，打打音游像是phigros，欢迎来加好友\n注意事項:似乎沒有特別要注意的，想幹奇怪的事情都可以，总之就是成分复杂，欢迎贴贴qwq\n常驻香港🇭🇰，喜欢面基qwq\n很爱分享日常生活，QQ空间转发狂魔，出去的话会发很多景色的图\nSNS:\nthread：https://t.co/J5z9CgEwK4\nIG:https://t.co/yDsvLURBd3\nFB: https://t.co/n06fL7p4gA\nxhs：https://t.co/5ygmk9DZnf\nbsky：https://t.co/kyWfPEx2yD"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 600,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶🔝\n名稱:早露泡泡兔\n暱稱:早子姐，早露，泡泡兔\n前世@rabbubble550w，@kokodayo5150 找回推油中\nKig志向: 出自己最喜歡的角色，與更多娃娃貼貼\nKig角色:湊阿庫婭\n興趣: https://t.co/gtT02b5kOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8320,
+          "following_count": 2109,
+          "like_count": 172398,
+          "listed_count": 20,
+          "media_count": 3598,
+          "tweet_count": 44126
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1998190575439491572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10049,
+          "following_count": 8184,
+          "like_count": 28239,
+          "listed_count": 23,
+          "media_count": 6867,
+          "tweet_count": 43009
+        },
+        "username": "DDzhanshou5150",
+        "verified": true
+      }
+    ]
+  }
+}

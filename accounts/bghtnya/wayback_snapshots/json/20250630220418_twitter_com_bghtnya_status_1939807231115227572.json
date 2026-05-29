@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1939515955052417429",
+    "created_at": "2025-06-30T22:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T23:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939807231115227572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768252813363314688",
+          "start": 0,
+          "username": "LinKuoTian8964K"
+        },
+        {
+          "end": 29,
+          "id": "1617138994227339265",
+          "start": 17,
+          "username": "cathy213924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939807231115227572",
+    "in_reply_to_user_id": "1768252813363314688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939719186156269959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinKuoTian8964K @cathy213924 chatgpt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1939515955052417429",
+        "created_at": "2025-06-30T22:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T23:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939807231115227572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768252813363314688",
+              "start": 0,
+              "username": "LinKuoTian8964K"
+            },
+            {
+              "end": 29,
+              "id": "1617138994227339265",
+              "start": 17,
+              "username": "cathy213924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939807231115227572",
+        "in_reply_to_user_id": "1768252813363314688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939719186156269959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinKuoTian8964K @cathy213924 chatgpt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768252813363314688",
+        "conversation_id": "1939515955052417429",
+        "created_at": "2025-06-30T16:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T17:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939719186156269959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617138994227339265",
+              "start": 0,
+              "username": "cathy213924"
+            },
+            {
+              "end": 21,
+              "id": "1512976991976402949",
+              "start": 13,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939719186156269959",
+        "in_reply_to_user_id": "1617138994227339265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939515955052417429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cathy213924 @bghtnya 这种图片是用什么AI生成的呀awaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7052,
+          "following_count": 2018,
+          "like_count": 150799,
+          "listed_count": 17,
+          "media_count": 2841,
+          "tweet_count": 37639
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T12:28:33.000Z",
+        "description": "不友跨了。自己也不知道什么时候翻，有点受虐倾向，有时候脑子不太灵光，脾气比较暴躁，经常被人挂，还总遭人讨厌。所发的帖子经常贴脸开大，发言很逆天，且可能出现负能量内容，请谨慎关注。想被捆，想被关进笼子……嗯很好不知道写什么",
+        "id": "1768252813363314688",
+        "location": "广西省桂林市李老师故居开坦克举白纸报答恩情",
+        "name": "水中月-林阔天空",
+        "pinned_tweet_id": "1912524604129825042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853342112051503104/61LjScn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 190,
+          "like_count": 39217,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 4177
+        },
+        "username": "LinKuoTian8964K",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | transF | asexual🖤🩶🤍💜 | transfeminist | social liberalism | hate imperialism & totalitarianism | HRT 2023.12.11 | Free Palestine 🇵🇸",
+        "id": "1617138994227339265",
+        "location": "Republic of Transland🏳️‍⚧️",
+        "name": "Cathy🏳️‍🌈🏳️‍⚧️🇹🇼🇺🇦🇵🇸",
+        "pinned_tweet_id": "1927290401569771532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729445425055248384/2sTIZPo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 1072,
+          "like_count": 7903,
+          "listed_count": 8,
+          "media_count": 833,
+          "tweet_count": 4527
+        },
+        "username": "cathy213924",
+        "verified": false
+      }
+    ]
+  }
+}

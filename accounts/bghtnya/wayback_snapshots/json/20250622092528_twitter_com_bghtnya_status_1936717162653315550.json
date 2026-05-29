@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1936461805364396465",
+    "created_at": "2025-06-22T09:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T10:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936717162653315550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1182158764419403776",
+          "start": 0,
+          "username": "SilenceGvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936717162653315550",
+    "in_reply_to_user_id": "1182158764419403776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936461805364396465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SilenceGvq 密道"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42608,
+        "height": 1920,
+        "media_key": "13_1936461558181179393",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936461558181179393/img/iSoBAPGo14e21qMS.jpg",
+        "public_metrics": {
+          "view_count": 94003
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936461558181179393/vid/avc1/320x568/6UQ3K-93EJgvwQhJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936461558181179393/vid/avc1/480x852/OoT2PN-y8e-2n4Jj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936461558181179393/vid/avc1/720x1280/pxFyQEFj58QaN0EN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936461558181179393/pl/dNazXh7BZFZPI5Q2.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1936461805364396465",
+        "created_at": "2025-06-22T09:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936717162653315550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1182158764419403776",
+              "start": 0,
+              "username": "SilenceGvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936717162653315550",
+        "in_reply_to_user_id": "1182158764419403776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936461805364396465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilenceGvq 密道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936461558181179393"
+          ]
+        },
+        "author_id": "1182158764419403776",
+        "conversation_id": "1936461805364396465",
+        "created_at": "2025-06-21T16:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T17:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936461805364396465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIApBsfYZu",
+              "end": 74,
+              "expanded_url": "https://x.com/SilenceGvq/status/1936461805364396465/video/1",
+              "media_key": "13_1936461558181179393",
+              "start": 51,
+              "url": "https://t.co/cIApBsfYZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936461805364396465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 140122,
+          "like_count": 251,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "女生曬自己回家的必經之路，看著像桃花源記，走著像聊齋志異......“\n你敢當我們村的上門女婿嗎？” https://t.co/cIApBsfYZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6493,
+          "following_count": 2006,
+          "like_count": 148859,
+          "listed_count": 14,
+          "media_count": 2779,
+          "tweet_count": 36990
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T05:00:30.000Z",
+        "description": "TO     ERR    IS     HUMAN\nTO     FORGIVE      DIVINE",
+        "id": "1182158764419403776",
+        "name": "Silent Bird",
+        "pinned_tweet_id": "1766130988709744839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838472412981268481/IOjA7oTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115432,
+          "following_count": 554,
+          "like_count": 157351,
+          "listed_count": 389,
+          "media_count": 8515,
+          "tweet_count": 25136
+        },
+        "username": "SilenceGvq",
+        "verified": false
+      }
+    ]
+  }
+}

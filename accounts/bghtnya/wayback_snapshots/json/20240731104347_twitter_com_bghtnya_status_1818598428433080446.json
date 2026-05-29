@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1818314430364655755",
+    "created_at": "2024-07-31T10:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T11:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818598428433080446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "912623216899715072",
+          "start": 0,
+          "username": "808Penny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818598428433080446",
+    "in_reply_to_user_id": "912623216899715072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818314430364655755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@808Penny 提供原神60级截图\n不然不能入学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1818314430364655755",
+        "created_at": "2024-07-31T10:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T11:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818598428433080446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "912623216899715072",
+              "start": 0,
+              "username": "808Penny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818598428433080446",
+        "in_reply_to_user_id": "912623216899715072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818314430364655755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@808Penny 提供原神60级截图\n不然不能入学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818314426954469376"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "1818314430364655755",
+        "created_at": "2024-07-30T15:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T16:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818314430364655755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/G1ayf5uKe8",
+              "end": 44,
+              "expanded_url": "https://twitter.com/808Penny/status/1818314430364655755/photo/1",
+              "media_key": "3_1818314426954469376",
+              "start": 21,
+              "url": "https://t.co/G1ayf5uKe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818314430364655755",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 185922,
+          "like_count": 962,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "不是义务教育吗？怎么动不动不让小孩上学？ https://t.co/G1ayf5uKe8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 1437,
+          "like_count": 81953,
+          "listed_count": 9,
+          "tweet_count": 17748
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "古稀之年老奶奶  反婚反育  全球知名的国际双一流躺平学专家 专业 #正能量推主（部级）\n\n谢绝体制内寄生蛆虫们看本人推文（包括行政、事业以及国有企业等公职人员及其离岸亲属蛆）  谢绝各类离岸爱国蛆\n\n曾经的浙江苗族人\n\n已拉黑9600多万条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家 ，非著名点赞狂魔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "正能量推主"
+              }
+            ]
+          }
+        },
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "领导干部",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528597540819841024/vMyTbSY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89739,
+          "following_count": 724,
+          "like_count": 205518,
+          "listed_count": 303,
+          "tweet_count": 35411
+        },
+        "username": "808Penny",
+        "verified": false
+      }
+    ]
+  }
+}

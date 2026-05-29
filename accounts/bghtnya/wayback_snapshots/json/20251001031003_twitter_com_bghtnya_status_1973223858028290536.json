@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1972873981482135881",
+    "created_at": "2025-10-01T03:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T04:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973223858028290536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783739407981228032",
+          "start": 0,
+          "username": "MasahiroV2"
+        },
+        {
+          "end": 20,
+          "id": "1618557658163970049",
+          "start": 12,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973223858028290536",
+    "in_reply_to_user_id": "1783739407981228032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973000755650130282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasahiroV2 @qqqqqf5 华为鸿蒙浏览器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1972873981482135881",
+        "created_at": "2025-10-01T03:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973223858028290536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783739407981228032",
+              "start": 0,
+              "username": "MasahiroV2"
+            },
+            {
+              "end": 20,
+              "id": "1618557658163970049",
+              "start": 12,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973223858028290536",
+        "in_reply_to_user_id": "1783739407981228032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973000755650130282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasahiroV2 @qqqqqf5 华为鸿蒙浏览器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783739407981228032",
+        "conversation_id": "1972873981482135881",
+        "created_at": "2025-09-30T12:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T13:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973000755650130282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973000755650130282",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1449,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972873981482135881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 第五个是啥软件，我咋没见过（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7606,
+          "following_count": 2085,
+          "like_count": 161138,
+          "listed_count": 19,
+          "media_count": 3189,
+          "tweet_count": 40615
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T06:06:38.000Z",
+        "description": "本账号不再经常讨论跨性别议题，愿主福安之。",
+        "id": "1783739407981228032",
+        "name": "神乐阪正太🏰ماساهيرو🕋",
+        "pinned_tweet_id": "1965996856862998692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962222541097066497/XgD48r1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 409,
+          "like_count": 23516,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 6484
+        },
+        "username": "MasahiroV2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "Null         \n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1973106690578063618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 1842,
+          "like_count": 5946,
+          "listed_count": 7,
+          "media_count": 538,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

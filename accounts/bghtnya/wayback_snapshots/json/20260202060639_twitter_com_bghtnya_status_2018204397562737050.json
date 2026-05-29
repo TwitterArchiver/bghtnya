@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2016396556375924985",
+    "created_at": "2026-02-02T06:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T07:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018204397562737050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 28,
+          "id": "1780369819310981120",
+          "start": 16,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018204397562737050",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018171961927770584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @520illusion 他喵的 所以我就踹一脚给我判这么久"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2018171961927770584].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2018171961927770584",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2018171961927770584"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2016396556375924985",
+        "created_at": "2026-02-02T06:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018204397562737050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 28,
+              "id": "1780369819310981120",
+              "start": 16,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018204397562737050",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018171961927770584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @520illusion 他喵的 所以我就踹一脚给我判这么久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8767,
+          "following_count": 2063,
+          "like_count": 171909,
+          "listed_count": 17,
+          "media_count": 3701,
+          "tweet_count": 45001
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 Female PgdStu🎧🍟🍔🥤🚪1680JPY/C spl tri/EN/JP 😘🍩fobackAuto 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1854448337673699556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 4377,
+          "like_count": 26751,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 17796
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "长存不灭的过去 逐渐消失的未来",
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市鄞州中学高三9班",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "1996066203366797362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004245780102615040/pktU--jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 117,
+          "like_count": 5957,
+          "listed_count": 5,
+          "media_count": 465,
+          "tweet_count": 3997
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

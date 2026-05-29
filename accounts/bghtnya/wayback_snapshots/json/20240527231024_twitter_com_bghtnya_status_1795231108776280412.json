@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1794990337145897026",
+    "created_at": "2024-05-27T23:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T00:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795231108776280412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605171476881371136",
+          "start": 0,
+          "username": "haku_dabai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795231108776280412",
+    "in_reply_to_user_id": "1605171476881371136",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794990337145897026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haku_dabai 我们医务室感冒药什么的都没有 有人感冒发烧就开这个😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1794990337145897026",
+        "created_at": "2024-05-27T23:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T00:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795231108776280412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605171476881371136",
+              "start": 0,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795231108776280412",
+        "in_reply_to_user_id": "1605171476881371136",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794990337145897026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haku_dabai 我们医务室感冒药什么的都没有 有人感冒发烧就开这个😇"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794990334491115520"
+          ]
+        },
+        "author_id": "1605171476881371136",
+        "conversation_id": "1794990337145897026",
+        "created_at": "2024-05-27T07:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T08:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794990337145897026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RXZMH9ttVB",
+              "end": 41,
+              "expanded_url": "https://twitter.com/haku_dabai/status/1794990337145897026/photo/1",
+              "media_key": "3_1794990334491115520",
+              "start": 18,
+              "url": "https://t.co/RXZMH9ttVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794990337145897026",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们永远也不会知道这是什么药💔 https://t.co/RXZMH9ttVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 1352,
+          "like_count": 68050,
+          "listed_count": 7,
+          "tweet_count": 14105
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "你好，我是大白。来自四川，高三人，退役化竞生，日语学习中。理想主义者，泛性恋，欢迎来和我贴贴！\nこんにちは、はくです。私は四川省出身で、高校3年生(17)です。日本語を勉強ています、どうぞよろしく！ww\n\nENFP | ボカロ | Minecraft | 化学 | 互fo大欢迎 | 免费抱抱提供处 | 不安定",
+        "id": "1605171476881371136",
+        "location": "中国-四川省",
+        "name": "大白-はく🔜6.7-6.8",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733860663284600833/evho9Yk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 612,
+          "like_count": 15085,
+          "listed_count": 4,
+          "tweet_count": 6093
+        },
+        "username": "haku_dabai",
+        "verified": false
+      }
+    ]
+  }
+}

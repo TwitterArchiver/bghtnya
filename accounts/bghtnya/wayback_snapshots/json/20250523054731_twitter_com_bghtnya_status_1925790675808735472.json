@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1924869383463305419",
+    "created_at": "2025-05-23T05:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T06:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925790675808735472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1662627793375739904",
+          "start": 0,
+          "username": "zjwezdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925790675808735472",
+    "in_reply_to_user_id": "1662627793375739904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925706057583677717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjwezdh 挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1924869383463305419",
+        "created_at": "2025-05-23T05:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T06:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925790675808735472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1662627793375739904",
+              "start": 0,
+              "username": "zjwezdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925790675808735472",
+        "in_reply_to_user_id": "1662627793375739904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925706057583677717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjwezdh 挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662627793375739904",
+        "conversation_id": "1924869383463305419",
+        "created_at": "2025-05-23T00:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T01:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925706057583677717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925706057583677717",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924869396100792336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 也不是为了赚钱，看别人自己螚搭建一个梯子自己控制它，能看冬梯子相关开源社区最近如何应对GFW，看看那些平时做软件破解的人能发布破解版软件，我想我自己也去搞搞x64dbg这些，可以把winRAR当成破解练习点第一步。看到Windows部分响应慢，追求响应速度，我想像epcdiy和边亮一样能找出响应慢问题之所在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6318,
+          "following_count": 1956,
+          "like_count": 138440,
+          "listed_count": 14,
+          "media_count": 2565,
+          "tweet_count": 35170
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T01:12:29.000Z",
+        "description": "真诚 善良 温柔\n可能正在从反贼转为支黑（？） 讨厌独裁，讨厌中共 学习键政理论中\nstand with Notepad++",
+        "id": "1662627793375739904",
+        "location": "亚洲自由电台（RFA）办公室",
+        "name": "laimudada（筹备六四纪念）🏳️‍🌈",
+        "pinned_tweet_id": "1922643027857637769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665972900439154688/banO5oCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 242,
+          "like_count": 6462,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1930
+        },
+        "username": "zjwezdh",
+        "verified": false
+      }
+    ]
+  }
+}

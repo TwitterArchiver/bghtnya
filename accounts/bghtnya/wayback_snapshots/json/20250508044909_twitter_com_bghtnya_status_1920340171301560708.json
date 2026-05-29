@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1920140989794295936",
+    "created_at": "2025-05-08T04:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T05:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920340171301560708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "831495289441628160",
+          "start": 0,
+          "username": "changwei1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920340171301560708",
+    "in_reply_to_user_id": "831495289441628160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920140989794295936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changwei1006 ？窝被开除中国籍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1920140989794295936",
+        "created_at": "2025-05-08T04:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T05:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920340171301560708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920340171301560708",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920140989794295936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 ？窝被开除中国籍了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "831495289441628160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1920140989794295936",
+        "created_at": "2025-05-07T15:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920140989794295936"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "00180402799fed03"
+        },
+        "id": "1920140989794295936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 21668,
+          "like_count": 275,
+          "quote_count": 8,
+          "reply_count": 47,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "网上都说中国人喜欢集体主义\n\n但是根据我的观察,反倒是台湾,欧美人都喜欢在自己的Instagram和Facebook发自己和班级营队社团的合照\n\n而我很少看到有中国人会在朋友圈发这类合照\n\n即使是trump等欧美政客,他们的社交媒体头图一直以来也都是放他们的幕僚和支持者的合照来彰显他们的集体主义与团队凝聚力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1913785389120389610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6253,
+          "following_count": 1938,
+          "like_count": 135868,
+          "listed_count": 13,
+          "media_count": 2496,
+          "tweet_count": 34530
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "Computer Science&Electronic Engineering💻/CrossDresser🌈/ WSPC/NTUST ECE/PingCAP FrontEnd https://t.co/lHrG2ZN1A4\n\nQQ/WeChat:867597730 Weibo FB 知乎 Instagram同名\n\n无性恋&纯爱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/cw1997",
+                "end": 111,
+                "expanded_url": "http://github.com/cw1997",
+                "start": 88,
+                "url": "https://t.co/lHrG2ZN1A4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "http://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/NH0oiOZsBc"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17975,
+          "following_count": 4445,
+          "like_count": 112201,
+          "listed_count": 130,
+          "media_count": 5327,
+          "tweet_count": 17061
+        },
+        "url": "https://t.co/NH0oiOZsBc",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

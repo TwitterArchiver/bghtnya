@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955590627049222144",
+        "3_1955590627154141184"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1955590630807380320",
+    "created_at": "2025-08-13T11:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955590630807380320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "1071094209749417984",
+          "start": 13,
+          "username": "BeiyanNa3AlF6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0A5wPtCwzO",
+          "end": 92,
+          "expanded_url": "https://x.com/bghtnya/status/1955590630807380320/photo/1",
+          "media_key": "3_1955590627049222144",
+          "start": 69,
+          "url": "https://t.co/0A5wPtCwzO"
+        },
+        {
+          "display_url": "pic.x.com/0A5wPtCwzO",
+          "end": 92,
+          "expanded_url": "https://x.com/bghtnya/status/1955590630807380320/photo/1",
+          "media_key": "3_1955590627154141184",
+          "start": 69,
+          "url": "https://t.co/0A5wPtCwzO"
+        },
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/bghtnya/status/1955446863676772800",
+          "start": 93,
+          "url": "https://t.co/tJlARXJ2b8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955590630807380320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955446863676772800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发来贺电：\n感谢北雁大佬（@BeiyanNa3AlF6 )\n需要从tricky store里面，右上角设置有效密钥，就可以成功过检测了! https://t.co/0A5wPtCwzO https://t.co/tJlARXJ2b8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955590627049222144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOnUGtaMAAtoUS.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955590627154141184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOnUHGbIAAwSnl.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955446856785465348",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMkjkvaEAQHgDN.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955446856798048258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMkjkyaEAIQuDA.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955446857406328832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMkjnDbsAAXdNZ.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955446858307997697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMkjqaaEAE7w9P.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955590627049222144",
+            "3_1955590627154141184"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1955590630807380320",
+        "created_at": "2025-08-13T11:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955590630807380320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1071094209749417984",
+              "start": 13,
+              "username": "BeiyanNa3AlF6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0A5wPtCwzO",
+              "end": 92,
+              "expanded_url": "https://x.com/bghtnya/status/1955590630807380320/photo/1",
+              "media_key": "3_1955590627049222144",
+              "start": 69,
+              "url": "https://t.co/0A5wPtCwzO"
+            },
+            {
+              "display_url": "pic.x.com/0A5wPtCwzO",
+              "end": 92,
+              "expanded_url": "https://x.com/bghtnya/status/1955590630807380320/photo/1",
+              "media_key": "3_1955590627154141184",
+              "start": 69,
+              "url": "https://t.co/0A5wPtCwzO"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/bghtnya/status/1955446863676772800",
+              "start": 93,
+              "url": "https://t.co/tJlARXJ2b8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955590630807380320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955446863676772800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发来贺电：\n感谢北雁大佬（@BeiyanNa3AlF6 )\n需要从tricky store里面，右上角设置有效密钥，就可以成功过检测了! https://t.co/0A5wPtCwzO https://t.co/tJlARXJ2b8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955446856785465348",
+            "3_1955446856798048258",
+            "3_1955446857406328832",
+            "3_1955446858307997697"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1955446863676772800",
+        "created_at": "2025-08-13T01:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T02:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955446863676772800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wc2TfzTMkX",
+              "end": 214,
+              "expanded_url": "https://x.com/bghtnya/status/1955446863676772800/photo/1",
+              "media_key": "3_1955446856785465348",
+              "start": 191,
+              "url": "https://t.co/Wc2TfzTMkX"
+            },
+            {
+              "display_url": "pic.x.com/Wc2TfzTMkX",
+              "end": 214,
+              "expanded_url": "https://x.com/bghtnya/status/1955446863676772800/photo/1",
+              "media_key": "3_1955446856798048258",
+              "start": 191,
+              "url": "https://t.co/Wc2TfzTMkX"
+            },
+            {
+              "display_url": "pic.x.com/Wc2TfzTMkX",
+              "end": 214,
+              "expanded_url": "https://x.com/bghtnya/status/1955446863676772800/photo/1",
+              "media_key": "3_1955446857406328832",
+              "start": 191,
+              "url": "https://t.co/Wc2TfzTMkX"
+            },
+            {
+              "display_url": "pic.x.com/Wc2TfzTMkX",
+              "end": 214,
+              "expanded_url": "https://x.com/bghtnya/status/1955446863676772800/photo/1",
+              "media_key": "3_1955446858307997697",
+              "start": 191,
+              "url": "https://t.co/Wc2TfzTMkX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1955446863676772800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1124,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求助贴QAQ：\n阿尔法面具 排除列表（图1）\n+PlayIntegrityFix（图3）\n+一大堆隐藏模块和工具\n+shamiko白名单模式\n\nmomo可以全过无异常（图4）\n(p_q）国家身份认证可以过银行app也都可以过）\nplay商店也显示环境安全（图补）\n\n但是chatgpt无法登录！验证失败？（图1）\nPlaylntegrity verification failed https://t.co/Wc2TfzTMkX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7242,
+          "following_count": 2056,
+          "like_count": 155888,
+          "listed_count": 17,
+          "media_count": 3026,
+          "tweet_count": 39197
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T17:28:54.000Z",
+        "description": "MtX-MtF振荡器，member of @MtFwiki 。我吃糖手术但我是好友跨顺男，木饭桶/INTP/Ingress/HAM/@NixOS_org memeber/中文 Vocaloid/索尼大法好。爱的人 @yifusuyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "NixOS_org"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "yifusuyi"
+              }
+            ]
+          }
+        },
+        "id": "1071094209749417984",
+        "location": "Rhineland-Palatinate, Germany",
+        "name": "北雁 Na₃AlF₆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620498439485403137/zPt4c0Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 1389,
+          "like_count": 111855,
+          "listed_count": 11,
+          "media_count": 274,
+          "tweet_count": 6095
+        },
+        "username": "BeiyanNa3AlF6",
+        "verified": false
+      }
+    ]
+  }
+}

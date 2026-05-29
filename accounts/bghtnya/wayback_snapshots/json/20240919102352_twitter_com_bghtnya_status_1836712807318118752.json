@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1836653878143746247",
+    "created_at": "2024-09-19T10:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T11:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836712807318118752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1184813985968705536",
+          "start": 0,
+          "username": "ian201910"
+        },
+        {
+          "end": 22,
+          "id": "1757616332240224256",
+          "start": 11,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836712807318118752",
+    "in_reply_to_user_id": "1184813985968705536",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836704057207246853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ian201910 @B_cat38324 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1836653878143746247",
+        "created_at": "2024-09-19T10:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T11:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836712807318118752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1184813985968705536",
+              "start": 0,
+              "username": "ian201910"
+            },
+            {
+              "end": 22,
+              "id": "1757616332240224256",
+              "start": 11,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836712807318118752",
+        "in_reply_to_user_id": "1184813985968705536",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836704057207246853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ian201910 @B_cat38324 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1184813985968705536",
+        "conversation_id": "1836653878143746247",
+        "created_at": "2024-09-19T09:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T10:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836704057207246853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836704057207246853",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836653878143746247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 最近流行三折叠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 1528,
+          "like_count": 96343,
+          "listed_count": 10,
+          "tweet_count": 21242
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-17T12:50:55.000Z",
+        "description": "",
+        "id": "1184813985968705536",
+        "location": "Singapore",
+        "name": "runtu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829900351027494917/FFcW5dfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 214,
+          "like_count": 1288,
+          "listed_count": 3,
+          "tweet_count": 3068
+        },
+        "username": "ian201910",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "反白貓",
+        "pinned_tweet_id": "1829181633674784770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10256,
+          "following_count": 163,
+          "like_count": 196,
+          "listed_count": 38,
+          "tweet_count": 7830
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

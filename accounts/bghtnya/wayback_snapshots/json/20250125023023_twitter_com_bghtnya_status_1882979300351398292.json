@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882979297184653312",
+        "3_1882979297948004352"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1882793167512293422",
+    "created_at": "2025-01-25T02:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T03:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882979300351398292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaShota"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PGrlKNAeQ0",
+          "end": 36,
+          "expanded_url": "https://x.com/bghtnya/status/1882979300351398292/photo/1",
+          "media_key": "3_1882979297184653312",
+          "start": 13,
+          "url": "https://t.co/PGrlKNAeQ0"
+        },
+        {
+          "display_url": "pic.x.com/PGrlKNAeQ0",
+          "end": 36,
+          "expanded_url": "https://x.com/bghtnya/status/1882979300351398292/photo/1",
+          "media_key": "3_1882979297948004352",
+          "start": 13,
+          "url": "https://t.co/PGrlKNAeQ0"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "7ee61f505fdfdf5c"
+    },
+    "id": "1882979300351398292",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882793167512293422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaShota https://t.co/PGrlKNAeQ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1882979297184653312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiGvscAbIAAUUiA.jpg",
+        "width": 300
+      },
+      {
+        "height": 678,
+        "media_key": "3_1882979297948004352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiGvse2a8AAAzXr.jpg",
+        "width": 703
+      }
+    ],
+    "places": [
+      {
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Shinjuku-ku, Tokyo",
+        "geo": {
+          "bbox": [
+            139.673228,
+            35.673404,
+            139.745133,
+            35.72991
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "7ee61f505fdfdf5c",
+        "name": "Shinjuku-ku",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882979297184653312",
+            "3_1882979297948004352"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1882793167512293422",
+        "created_at": "2025-01-25T02:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882979300351398292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaShota"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGrlKNAeQ0",
+              "end": 36,
+              "expanded_url": "https://x.com/bghtnya/status/1882979300351398292/photo/1",
+              "media_key": "3_1882979297184653312",
+              "start": 13,
+              "url": "https://t.co/PGrlKNAeQ0"
+            },
+            {
+              "display_url": "pic.x.com/PGrlKNAeQ0",
+              "end": 36,
+              "expanded_url": "https://x.com/bghtnya/status/1882979300351398292/photo/1",
+              "media_key": "3_1882979297948004352",
+              "start": 13,
+              "url": "https://t.co/PGrlKNAeQ0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7ee61f505fdfdf5c"
+        },
+        "id": "1882979300351398292",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882793167512293422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaShota https://t.co/PGrlKNAeQ0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882793164068835328",
+            "3_1882793165956222976"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "1882793167512293422",
+        "created_at": "2025-01-24T14:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T15:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882793167512293422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYbllZGI07",
+              "end": 70,
+              "expanded_url": "https://x.com/KawawaShota/status/1882793167512293422/photo/1",
+              "media_key": "3_1882793164068835328",
+              "start": 47,
+              "url": "https://t.co/IYbllZGI07"
+            },
+            {
+              "display_url": "pic.x.com/IYbllZGI07",
+              "end": 70,
+              "expanded_url": "https://x.com/KawawaShota/status/1882793167512293422/photo/1",
+              "media_key": "3_1882793165956222976",
+              "start": 47,
+              "url": "https://t.co/IYbllZGI07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882793167512293422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 20156,
+          "like_count": 468,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到⏰因为对方没说全“台湾省”就哈气掀桌狠锤自家打工人展现自己高尚的“政治敏感度”就想笑 https://t.co/IYbllZGI07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4322,
+          "following_count": 1826,
+          "like_count": 121832,
+          "listed_count": 12,
+          "media_count": 1988,
+          "tweet_count": 29725
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜&Minecraft船大工&Flight enthusiast👨‍✈️&僵毁老司机\n日本語⭕、English⭕、蜀语⭕\n爱支TV全国模范汉奸候选人\n对线推文不留＞5h\n拉面仙人🍜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "17roco.qq.com",
+                "end": 23,
+                "expanded_url": "https://17roco.qq.com/",
+                "start": 0,
+                "url": "https://t.co/kN90VkOrf9"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": "卡洛西亚大陆",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1818618506080141480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789605085322072065/MLtOe3d__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12157,
+          "following_count": 1966,
+          "like_count": 43868,
+          "listed_count": 60,
+          "media_count": 941,
+          "tweet_count": 5873
+        },
+        "url": "https://t.co/kN90VkOrf9",
+        "username": "KawawaShota",
+        "verified": true
+      }
+    ]
+  }
+}

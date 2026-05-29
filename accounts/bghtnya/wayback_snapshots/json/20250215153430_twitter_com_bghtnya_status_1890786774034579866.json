@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1890731764441924000",
+    "created_at": "2025-02-15T15:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T16:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890786774034579866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683440309768708096",
+          "start": 0,
+          "username": "3596675596com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890786774034579866",
+    "in_reply_to_user_id": "1683440309768708096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890731764441924000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3596675596com 哪吒2是坨史，狗吃了喜欢，人吃了会嫌恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1890731764441924000",
+        "created_at": "2025-02-15T15:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T16:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890786774034579866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683440309768708096",
+              "start": 0,
+              "username": "3596675596com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890786774034579866",
+        "in_reply_to_user_id": "1683440309768708096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890731764441924000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3596675596com 哪吒2是坨史，狗吃了喜欢，人吃了会嫌恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890731109396398080"
+          ]
+        },
+        "author_id": "1683440309768708096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1890731764441924000",
+        "created_at": "2025-02-15T11:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T12:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890731764441924000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYDfysG2pD",
+              "end": 147,
+              "expanded_url": "https://x.com/3596675596com/status/1890731764441924000/photo/1",
+              "media_key": "3_1890731109396398080",
+              "start": 124,
+              "url": "https://t.co/xYDfysG2pD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890731764441924000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哪吒2是一块巧克力\n\n正常人吃了没事\n\n但是呢殖畜、拍烂片的友商吃了会出事🤪\n\n殖畜、拍烂片的友商特别喜欢cosplay家长，打着为孩子考虑的幌子，举报优秀的国产电影。战狼、长津湖、流浪地球、731等国产电影都被友商和殖畜打着家长的幌子举报过。\n\n731是我目前知道的，唯一一部被殖畜、拍烂片友商、台湾1450、拿usaid狗粮的网军联手举报，导致无法在2024年7月31日上映的纪录片\n\n在游戏领域也同理，殖畜、做不出好游戏的友商特别喜欢cosplay家长，打着为孩子考虑的幌子，以中国优秀游戏三观不正，危害未成年人成长为由举报。黑悟空就是很好的例子。\n\n每当中国在文化领域诞生优秀的，有影响力的作品时，就会有某些势力cosplay家长搞事"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5669,
+          "like_count": 124,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哪吒2是一块巧克力\n\n正常人吃了没事\n\n但是呢殖畜、拍烂片的友商吃了会出事🤪\n\n殖畜、拍烂片的友商特别喜欢cosplay家长，打着为孩子考虑的幌子，举报优秀的国产电影。战狼、长津湖、流浪地球、731等国产电影都被友商和殖畜打着家长的幌子举报过。… https://t.co/xYDfysG2pD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5688,
+          "following_count": 1832,
+          "like_count": 124192,
+          "listed_count": 14,
+          "media_count": 2174,
+          "tweet_count": 31043
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:34:02.000Z",
+        "description": "十分期待，使用伯纳德·劳·蒙哥马利头像与ID的对手出现",
+        "id": "1683440309768708096",
+        "location": "广东",
+        "name": "沙漠之狐 埃尔温·隆美尔",
+        "pinned_tweet_id": "1859643786835657004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809519964937940996/ZJFFVFAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12705,
+          "following_count": 1060,
+          "like_count": 16066,
+          "listed_count": 114,
+          "media_count": 2474,
+          "tweet_count": 32775
+        },
+        "username": "3596675596com",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1949760742657532070",
+    "created_at": "2025-07-29T01:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T02:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950003373077328271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950003373077328271",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949760742657532070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 监控室（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1949760731341357056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7xDgybgAA4Yg4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1949760742657532070",
+        "created_at": "2025-07-29T01:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T02:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950003373077328271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950003373077328271",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949760742657532070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 监控室（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949760731341357056"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1949760742657532070",
+        "created_at": "2025-07-28T09:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949760742657532070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yihW6ygonP",
+              "end": 147,
+              "expanded_url": "https://x.com/StarNekOvO/status/1949760742657532070/photo/1",
+              "media_key": "3_1949760731341357056",
+              "start": 124,
+              "url": "https://t.co/yihW6ygonP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949760742657532070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1920,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看看大家的桌面是什么样的🥺\n\n就是说🥺\n孩子有5台电脑，2台 Windows 游戏本，2台 MacBook，1台 Linux 笔记本🥺\n（戳手）🥹\n\n不知道怎么布局了，目前能想到L型电脑桌+6块机械臂支架屏幕+笔记本收纳坞\n\n大概类似于下图这样 https://t.co/yihW6ygonP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7220,
+          "following_count": 2044,
+          "like_count": 154924,
+          "listed_count": 17,
+          "media_count": 2975,
+          "tweet_count": 38795
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "⭐️🌕Queer? 安全(心理学)/算法，可以在新加坡/杭州/吉隆坡偶遇 ，暑假 0721 术略略略，然后可能去🇵🇹🇳🇱🇫🇮，INFJ 双相重抑躁焦bpdADHD，吃🧱才能动呀。 Star ＞ whoami⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ㅤ⠀／dev／null",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBJjI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "Star Neko🪼",
+        "pinned_tweet_id": "1942150775481999754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940439657252036608/lXR_GMMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3763,
+          "following_count": 1590,
+          "like_count": 21949,
+          "listed_count": 12,
+          "media_count": 952,
+          "tweet_count": 7884
+        },
+        "url": "https://t.co/nVL53sBJjI",
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

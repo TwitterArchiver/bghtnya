@@ -1,0 +1,226 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794388735993212928"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1794316520711168172",
+    "created_at": "2024-05-25T15:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T16:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794388739336405256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/086FJdIRMb",
+          "end": 41,
+          "expanded_url": "https://twitter.com/bghtnya/status/1794388739336405256/photo/1",
+          "media_key": "3_1794388735993212928",
+          "start": 18,
+          "url": "https://t.co/086FJdIRMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794388739336405256",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794388291766362354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ 12能S（） https://t.co/086FJdIRMb"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1794388291766362354].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1794388291766362354",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1794388291766362354"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 449,
+        "media_key": "3_1794388735993212928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GObzDF3WcAApTP9.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794388735993212928"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1794316520711168172",
+        "created_at": "2024-05-25T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794388739336405256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/086FJdIRMb",
+              "end": 41,
+              "expanded_url": "https://twitter.com/bghtnya/status/1794388739336405256/photo/1",
+              "media_key": "3_1794388735993212928",
+              "start": 18,
+              "url": "https://t.co/086FJdIRMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794388739336405256",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794388291766362354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ 12能S（） https://t.co/086FJdIRMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 1350,
+          "like_count": 66837,
+          "listed_count": 7,
+          "tweet_count": 13869
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/xyn/she/天残党/深柜/不键政，中立派/INT(F?)P/音游人/\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 913,
+          "like_count": 17745,
+          "listed_count": 8,
+          "tweet_count": 3401
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

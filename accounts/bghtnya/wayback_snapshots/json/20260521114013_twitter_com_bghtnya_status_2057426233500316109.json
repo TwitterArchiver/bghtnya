@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057426224826429441"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2057395138054463889",
+    "created_at": "2026-05-21T11:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057426233500316109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/36t3UBXj1a",
+          "end": 33,
+          "expanded_url": "https://x.com/bghtnya/status/2057426233500316109/photo/1",
+          "media_key": "3_2057426224826429441",
+          "start": 10,
+          "url": "https://t.co/36t3UBXj1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057426233500316109",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057395138054463889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 https://t.co/36t3UBXj1a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2057426224826429441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1yQDJaMAE3tkS.jpg",
+        "width": 942
+      },
+      {
+        "duration_ms": 20294,
+        "height": 640,
+        "media_key": "7_2057395118983073792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057395118983073792/pu/img/t3J8clsoI4gME-JI.jpg",
+        "public_metrics": {
+          "view_count": 2221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057395118983073792/pu/vid/avc1/320x568/quxhfy2afT8qUyKc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057395118983073792/pu/vid/avc1/360x640/CEtR4x4dCaH2w6JN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057395118983073792/pu/pl/DXkrARblIijXlfJc.m3u8?v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057426224826429441"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2057395138054463889",
+        "created_at": "2026-05-21T11:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057426233500316109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/36t3UBXj1a",
+              "end": 33,
+              "expanded_url": "https://x.com/bghtnya/status/2057426233500316109/photo/1",
+              "media_key": "3_2057426224826429441",
+              "start": 10,
+              "url": "https://t.co/36t3UBXj1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057426233500316109",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057395138054463889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 https://t.co/36t3UBXj1a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057395118983073792"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2057395138054463889",
+        "created_at": "2026-05-21T09:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057395138054463889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaSK814Wfl",
+              "end": 27,
+              "expanded_url": "https://x.com/anblk984/status/2057395138054463889/video/1",
+              "media_key": "7_2057395118983073792",
+              "start": 4,
+              "url": "https://t.co/TaSK814Wfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057395138054463889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7803,
+          "like_count": 96,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "可爱捏 https://t.co/TaSK814Wfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9947,
+          "following_count": 2358,
+          "like_count": 179404,
+          "listed_count": 21,
+          "media_count": 3973,
+          "tweet_count": 48338
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/劳保爱鸟楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14020,
+          "following_count": 997,
+          "like_count": 117509,
+          "listed_count": 69,
+          "media_count": 2801,
+          "tweet_count": 28606
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

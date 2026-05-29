@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1880261841504682052",
+    "created_at": "2025-01-18T17:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T18:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880674959565197599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "shenlebanyueyin"
+        },
+        {
+          "end": 29,
+          "id": "1599546260402638848",
+          "start": 17,
+          "username": "chika_ichii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880674959565197599",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880642970472665512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenlebanyueyin @chika_ichii 好好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1880642970472665512].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880642970472665512",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1880642970472665512"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1880261841504682052",
+        "created_at": "2025-01-18T17:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880674959565197599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "shenlebanyueyin"
+            },
+            {
+              "end": 29,
+              "id": "1599546260402638848",
+              "start": 17,
+              "username": "chika_ichii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880674959565197599",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880642970472665512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenlebanyueyin @chika_ichii 好好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4212,
+          "following_count": 1811,
+          "like_count": 120618,
+          "listed_count": 11,
+          "media_count": 1930,
+          "tweet_count": 29238
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "每天都睡不醒💤/永远18岁/🚪80/泛性恋/女同圣手/maimai/phigros/pjsk/糖糖4年/大证hrt进行中/术排队中/冰棍也许不烫 卖原味",
+        "id": "1720356797758763008",
+        "location": "火星",
+        "name": "冰棍孬烫喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🎃🤤",
+        "pinned_tweet_id": "1857050525256089666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860910085364711424/rzjRfSpl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 1778,
+          "like_count": 14594,
+          "listed_count": 2,
+          "media_count": 678,
+          "tweet_count": 10473
+        },
+        "username": "shenlebanyueyin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T23:28:52.000Z",
+        "description": "あまねく奇跡の始発点/チカ/千夏：@seika_ww/メンヘラの子/医師/日本語N2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "seika_ww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chikaii",
+                "end": 23,
+                "expanded_url": "http://lit.link/chikaii",
+                "start": 0,
+                "url": "https://t.co/6I4EThYGLx"
+              }
+            ]
+          }
+        },
+        "id": "1599546260402638848",
+        "location": "東京都千代田区神田須田町1丁目12-3アルカディアビル",
+        "name": "ちかいち",
+        "pinned_tweet_id": "1878613884468379893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713906913589764096/h3IZfzmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 156,
+          "like_count": 308,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/6I4EThYGLx",
+        "username": "chika_ichii",
+        "verified": false
+      }
+    ]
+  }
+}

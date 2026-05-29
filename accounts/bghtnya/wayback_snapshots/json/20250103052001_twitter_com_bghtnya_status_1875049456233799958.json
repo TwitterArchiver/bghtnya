@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1874805996784374217",
+    "created_at": "2025-01-03T05:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T06:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875049456233799958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875049456233799958",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874805996784374217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 原神党为什么用跨旗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1874805996784374217",
+        "created_at": "2025-01-03T05:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T06:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875049456233799958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875049456233799958",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874805996784374217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 原神党为什么用跨旗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874805951041298433"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1874805996784374217",
+        "created_at": "2025-01-02T13:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T14:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874805996784374217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVpLcZfD58",
+              "end": 168,
+              "expanded_url": "https://x.com/FurinaDF/status/1874805996784374217/photo/1",
+              "media_key": "3_1874805951041298433",
+              "start": 145,
+              "url": "https://t.co/cVpLcZfD58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874805996784374217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 34664,
+          "like_count": 346,
+          "quote_count": 5,
+          "reply_count": 75,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "“习近平下台！共产党下台！”\n但是，然后呢？\n如果这片土地上的政治文明依然落后，如果人们热衷于“二极管”式非黑即白的思维模式和领袖崇拜，“因吹捧而欣喜，因批评而愤怒，因误会而悲伤”，只喊口号不思考，那么在未来即使我们集思广益，建立了一整套符合国情的先进的民主体制，恐怕也会有被倾覆的风险。 https://t.co/cVpLcZfD58"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4076,
+          "following_count": 1795,
+          "like_count": 119576,
+          "listed_count": 12,
+          "media_count": 1889,
+          "tweet_count": 28777
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "a member of Chinese Genshin Party(CGP) who committed to advancing human political civilization and exploring AI's role in governance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "中国原神党",
+        "name": "𝐅𝐮𝐫𝐢𝐧𝐚 𝐝𝐞 𝐅𝐨𝐧𝐭𝐚𝐢𝐧𝐞💙",
+        "pinned_tweet_id": "1874805996784374217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870862200082235393/gfYowbA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11482,
+          "following_count": 1495,
+          "like_count": 15953,
+          "listed_count": 40,
+          "media_count": 2907,
+          "tweet_count": 5841
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

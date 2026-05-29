@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976998745276608512"
+      ],
+      "media_source_tweet_id": [
+        "1976998783096701046"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1977119323429974167",
+    "created_at": "2025-10-11T21:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T22:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977119323429974167"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 12,
+          "tag": "推特小剧场"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1482030767358496768",
+          "start": 3,
+          "username": "tcdwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BFl5D88BFa",
+          "end": 42,
+          "expanded_url": "https://x.com/tcdwww/status/1976998783096701046/photo/1",
+          "media_key": "3_1976998745276608512",
+          "start": 19,
+          "url": "https://t.co/BFl5D88BFa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977119323429974167",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976998783096701046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tcdwww: #推特小剧场 https://t.co/BFl5D88BFa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_1976998745276608512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-14l2a8AAHaON.jpg",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976998745276608512"
+          ],
+          "media_source_tweet_id": [
+            "1976998783096701046"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1977119323429974167",
+        "created_at": "2025-10-11T21:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T22:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977119323429974167"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "推特小剧场"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1482030767358496768",
+              "start": 3,
+              "username": "tcdwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFl5D88BFa",
+              "end": 42,
+              "expanded_url": "https://x.com/tcdwww/status/1976998783096701046/photo/1",
+              "media_key": "3_1976998745276608512",
+              "start": 19,
+              "url": "https://t.co/BFl5D88BFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977119323429974167",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976998783096701046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tcdwww: #推特小剧场 https://t.co/BFl5D88BFa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976998745276608512"
+          ]
+        },
+        "author_id": "1482030767358496768",
+        "conversation_id": "1976998783096701046",
+        "created_at": "2025-10-11T13:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976998783096701046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "推特小剧场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFl5D88BFa",
+              "end": 30,
+              "expanded_url": "https://x.com/tcdwww/status/1976998783096701046/photo/1",
+              "media_key": "3_1976998745276608512",
+              "start": 7,
+              "url": "https://t.co/BFl5D88BFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976998783096701046",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11373,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#推特小剧场 https://t.co/BFl5D88BFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/35371135…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/63BEDCHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7936,
+          "following_count": 2088,
+          "like_count": 162885,
+          "listed_count": 20,
+          "media_count": 3255,
+          "tweet_count": 41000
+        },
+        "url": "https://t.co/63BEDCHLlz",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/tcdw",
+                "end": 23,
+                "expanded_url": "https://bento.me/tcdw",
+                "start": 0,
+                "url": "https://t.co/X2P4LSS9fM"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing, China",
+        "name": "陶瓷大碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963286816666292224/JM4zrt6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 358,
+          "like_count": 51772,
+          "listed_count": 7,
+          "media_count": 509,
+          "tweet_count": 6709
+        },
+        "url": "https://t.co/X2P4LSS9fM",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

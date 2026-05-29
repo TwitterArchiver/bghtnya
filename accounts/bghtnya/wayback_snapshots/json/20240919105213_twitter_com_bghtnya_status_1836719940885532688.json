@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1836671975596650720",
+    "created_at": "2024-09-19T10:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T11:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836719940885532688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836719940885532688",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836671975596650720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1836671975596650720",
+        "created_at": "2024-09-19T10:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T11:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836719940885532688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836719940885532688",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836671975596650720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1836671975596650720",
+        "created_at": "2024-09-19T07:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T08:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836671975596650720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836671975596650720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3427,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又把我的互关列表看了一遍\n\n可爱的互关们~(⁠ ⁠/⁠^⁠ω⁠^⁠)⁠/⁠♪⁠♪\n\n我到现在依然能够大概认出我最早的两千多个粉丝~\n\n再往后的就比较陌生了(⁠ㆁ⁠ω⁠ㆁ⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 1528,
+          "like_count": 96388,
+          "listed_count": 10,
+          "tweet_count": 21252
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "叶底黄鹂一两声，日长飞絮轻。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821428357503873024/yksf06KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7980,
+          "following_count": 2270,
+          "like_count": 11641,
+          "listed_count": 30,
+          "tweet_count": 11727
+        },
+        "username": "JiZhenYouZi",
+        "verified": true
+      }
+    ]
+  }
+}

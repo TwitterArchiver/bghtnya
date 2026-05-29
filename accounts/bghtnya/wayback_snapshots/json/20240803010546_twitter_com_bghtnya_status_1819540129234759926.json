@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1819420773372907820",
+    "created_at": "2024-08-03T01:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T02:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819540129234759926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588558150126354432",
+          "start": 0,
+          "username": "H4rU_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819540129234759926",
+    "in_reply_to_user_id": "1588558150126354432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819420773372907820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H4rU_xi 和我签订契约\n成为魔法少女叭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1819420773372907820",
+        "created_at": "2024-08-03T01:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T02:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819540129234759926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588558150126354432",
+              "start": 0,
+              "username": "H4rU_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819540129234759926",
+        "in_reply_to_user_id": "1588558150126354432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819420773372907820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H4rU_xi 和我签订契约\n成为魔法少女叭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588558150126354432",
+        "conversation_id": "1819420773372907820",
+        "created_at": "2024-08-02T17:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T18:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819420773372907820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819420773372907820",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有成神的方法啊\n成神就可以拯救所有人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 1447,
+          "like_count": 83590,
+          "listed_count": 10,
+          "tweet_count": 18070
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T15:46:02.000Z",
+        "description": "“我将永远存在，在那个可以观测到的闪耀的地方”",
+        "id": "1588558150126354432",
+        "location": "        ",
+        "name": "飞行低云☁️",
+        "pinned_tweet_id": "1817448423404318831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800158932176179200/uhPZ9ZJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 410,
+          "like_count": 2080,
+          "listed_count": 4,
+          "tweet_count": 9612
+        },
+        "username": "H4rU_xi",
+        "verified": false
+      }
+    ]
+  }
+}

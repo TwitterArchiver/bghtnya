@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1937362202530554266",
+    "created_at": "2025-06-24T04:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T05:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937362202530554266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        },
+        {
+          "end": 23,
+          "id": "1751240173650935808",
+          "start": 13,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937362202530554266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937362150663856213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: @Liver_MST 但是我去重庆吃重庆小面 我觉得还不如上海的重庆小面好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1937362202530554266",
+        "created_at": "2025-06-24T04:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937362202530554266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            },
+            {
+              "end": 23,
+              "id": "1751240173650935808",
+              "start": 13,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937362202530554266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937362150663856213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: @Liver_MST 但是我去重庆吃重庆小面 我觉得还不如上海的重庆小面好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1937358004749504581",
+        "created_at": "2025-06-24T04:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937362150663856213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751240173650935808",
+              "start": 0,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937362150663856213",
+        "in_reply_to_user_id": "1751240173650935808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937359164688269383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liver_MST 但是我去重庆吃重庆小面 我觉得还不如上海的重庆小面好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6508,
+          "following_count": 2008,
+          "like_count": 149658,
+          "listed_count": 14,
+          "media_count": 2792,
+          "tweet_count": 37263
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "音游玩家/舞萌重度依赖/生日2006.7.1/生理男/简体中文🇨🇳繁體中文🇹🇼English🇬🇧🇺🇸/愿意与所有友好的人交朋友！",
+        "id": "1751240173650935808",
+        "location": "广州市",
+        "name": "エンドマークに絶望と涙を添えて",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908819340339867648/J7x-Pov2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 44,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 76
+        },
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

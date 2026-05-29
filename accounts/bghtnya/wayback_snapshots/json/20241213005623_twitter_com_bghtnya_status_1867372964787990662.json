@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1867139297779786219",
+    "created_at": "2024-12-13T00:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T01:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867372964787990662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850747541257916416",
+          "start": 0,
+          "username": "baizeyinyu"
+        },
+        {
+          "end": 23,
+          "id": "1740248854975696896",
+          "start": 12,
+          "username": "Illusory_P"
+        },
+        {
+          "end": 36,
+          "id": "1850493612699852801",
+          "start": 24,
+          "username": "SHIGURE_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867372964787990662",
+    "in_reply_to_user_id": "1850747541257916416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867371405450559550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizeyinyu @Illusory_P @SHIGURE_QAQ 诶怎么突然就消失了qwq"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [SHIGURE_QAQ].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "SHIGURE_QAQ",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "SHIGURE_QAQ"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1867139297779786219",
+        "created_at": "2024-12-13T00:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T01:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867372964787990662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850747541257916416",
+              "start": 0,
+              "username": "baizeyinyu"
+            },
+            {
+              "end": 23,
+              "id": "1740248854975696896",
+              "start": 12,
+              "username": "Illusory_P"
+            },
+            {
+              "end": 36,
+              "id": "1850493612699852801",
+              "start": 24,
+              "username": "SHIGURE_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867372964787990662",
+        "in_reply_to_user_id": "1850747541257916416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867371405450559550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizeyinyu @Illusory_P @SHIGURE_QAQ 诶怎么突然就消失了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850747541257916416",
+        "conversation_id": "1867139297779786219",
+        "created_at": "2024-12-13T00:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T01:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867371405450559550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 20,
+              "id": "1740248854975696896",
+              "start": 9,
+              "username": "Illusory_P"
+            },
+            {
+              "end": 33,
+              "id": "1850493612699852801",
+              "start": 21,
+              "username": "SHIGURE_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867371405450559550",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867370817728000456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @Illusory_P @SHIGURE_QAQ 不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3672,
+          "following_count": 1652,
+          "like_count": 111211,
+          "listed_count": 11,
+          "media_count": 1781,
+          "tweet_count": 26747
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T03:53:08.000Z",
+        "description": "🇨🇳From PRC/2005.11./大学专科生/ISFP/友跨顺男（Not a Trans）/中文/Eng ok/日本語が分かりません",
+        "id": "1850747541257916416",
+        "location": "Trinity, Kivotos",
+        "name": "Unorthodox✝️Angel",
+        "pinned_tweet_id": "1859182225813885374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861946551121408000/Xd6ir21h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 215,
+          "like_count": 2344,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2144
+        },
+        "username": "baizeyinyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T05:50:42.000Z",
+        "description": "15YMtF/HRT.2023/生日4.17/持证含糖/微天赋…?/女高生活中/反向深柜中/身高165/武汉随机刷新/来和我贴贴!/",
+        "id": "1740248854975696896",
+        "location": "夢之彼方",
+        "name": "月すき🏳️‍⚧🍥",
+        "pinned_tweet_id": "1843131767924101630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864444746849988609/beEB29QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 315,
+          "like_count": 14290,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 1861
+        },
+        "username": "Illusory_P",
+        "verified": false
+      }
+    ]
+  }
+}

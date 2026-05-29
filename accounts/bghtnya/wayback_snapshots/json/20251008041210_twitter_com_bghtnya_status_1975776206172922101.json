@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1975481410053095819",
+    "created_at": "2025-10-08T04:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T05:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975776206172922101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1575885641375965184",
+          "start": 0,
+          "username": "hb2583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975776206172922101",
+    "in_reply_to_user_id": "1575885641375965184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975771533932134740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hb2583 一般"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1975481410053095819",
+        "created_at": "2025-10-08T04:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975776206172922101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1575885641375965184",
+              "start": 0,
+              "username": "hb2583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975776206172922101",
+        "in_reply_to_user_id": "1575885641375965184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975771533932134740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hb2583 一般"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575885641375965184",
+        "conversation_id": "1975481410053095819",
+        "created_at": "2025-10-08T03:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975771533932134740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975771533932134740",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975481410053095819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 拍照如何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/35371135…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/63BEDCHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7868,
+          "following_count": 2081,
+          "like_count": 161632,
+          "listed_count": 20,
+          "media_count": 3231,
+          "tweet_count": 40809
+        },
+        "url": "https://t.co/63BEDCHLlz",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T16:29:59.000Z",
+        "description": "福州46岁中年人，本地的可约饭，人民币玩家。",
+        "id": "1575885641375965184",
+        "name": "infoc（福建福州）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910920674077491200/1mu6y9GR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 371,
+          "like_count": 1046,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 6111
+        },
+        "username": "hb2583",
+        "verified": false
+      }
+    ]
+  }
+}

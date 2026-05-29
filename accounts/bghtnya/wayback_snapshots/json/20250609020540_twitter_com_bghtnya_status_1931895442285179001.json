@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1931725983784350173",
+    "created_at": "2025-06-09T02:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T03:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931895442285179001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685650787245101057",
+          "start": 0,
+          "username": "VLTHellolin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931895442285179001",
+    "in_reply_to_user_id": "1685650787245101057",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931725983784350173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VLTHellolin copilot ChatGPT deepseek 豆包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_1931725980831473665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7ei3raYAE85dm.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1931725983784350173",
+        "created_at": "2025-06-09T02:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T03:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931895442285179001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685650787245101057",
+              "start": 0,
+              "username": "VLTHellolin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931895442285179001",
+        "in_reply_to_user_id": "1685650787245101057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931725983784350173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VLTHellolin copilot ChatGPT deepseek 豆包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931725980831473665"
+          ]
+        },
+        "author_id": "1685650787245101057",
+        "conversation_id": "1931725983784350173",
+        "created_at": "2025-06-08T14:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T15:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931725983784350173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tC2JlkoEF4",
+              "end": 67,
+              "expanded_url": "https://x.com/VLTHellolin/status/1931725983784350173/photo/1",
+              "media_key": "3_1931725980831473665",
+              "start": 44,
+              "url": "https://t.co/tC2JlkoEF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931725983784350173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1005,
+          "like_count": 20,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道大家的首选 AI 助理\n在生活、写作、代码方面之类的......以及用他们的理由 https://t.co/tC2JlkoEF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6357,
+          "following_count": 1963,
+          "like_count": 142592,
+          "listed_count": 14,
+          "media_count": 2651,
+          "tweet_count": 35811
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T13:57:25.000Z",
+        "description": "Front-end Developer, Competitive Programmer, Student of 14, ACG Enthusiast. He/Him",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hellolin.top",
+                "end": 23,
+                "expanded_url": "https://hellolin.top",
+                "start": 0,
+                "url": "https://t.co/yGNS8renlA"
+              }
+            ]
+          }
+        },
+        "id": "1685650787245101057",
+        "location": "Shandong, China",
+        "name": "hellolin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753683653849440256/h6Qa5b-o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1245,
+          "like_count": 21545,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/yGNS8renlA",
+        "username": "VLTHellolin",
+        "verified": false
+      }
+    ]
+  }
+}

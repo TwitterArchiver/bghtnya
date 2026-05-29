@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1984002839107240157",
+    "created_at": "2025-10-31T04:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T05:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984121912101151052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617138994227339265",
+          "start": 0,
+          "username": "cathy213924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984121912101151052",
+    "in_reply_to_user_id": "1617138994227339265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984040132086001970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cathy213924 githubpage，可以问ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1984002839107240157",
+        "created_at": "2025-10-31T04:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984121912101151052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617138994227339265",
+              "start": 0,
+              "username": "cathy213924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984121912101151052",
+        "in_reply_to_user_id": "1617138994227339265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984040132086001970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cathy213924 githubpage，可以问ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617138994227339265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1984002839107240157",
+        "created_at": "2025-10-30T23:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T00:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984040132086001970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.",
+              "display_url": "github.io",
+              "end": 46,
+              "expanded_url": "http://github.io",
+              "start": 23,
+              "status": 200,
+              "title": "GitHub Pages",
+              "unwound_url": "https://pages.github.com/",
+              "url": "https://t.co/jrDgvEPVb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984040132086001970",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984002839107240157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 不会用GitHub \n另外，https://t.co/jrDgvEPVb6下面的二级域名怎么搞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1983125347576230255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004616573583360/w5fqBBBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8008,
+          "following_count": 2097,
+          "like_count": 165440,
+          "listed_count": 20,
+          "media_count": 3354,
+          "tweet_count": 41821
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | transF | asexual🖤🩶🤍💜 | transfeminist | social liberalism | hate imperialism & totalitarianism | HRT 2023.12.11 | Free Palestine 🇵🇸",
+        "id": "1617138994227339265",
+        "location": "Republic of Transland🏳️‍⚧️",
+        "name": "Cathy🏳️‍🌈🏳️‍⚧️🇹🇼🇺🇦🇵🇸",
+        "pinned_tweet_id": "1927290401569771532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970083317937532928/E0CJrY8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 1159,
+          "like_count": 8541,
+          "listed_count": 10,
+          "media_count": 912,
+          "tweet_count": 5711
+        },
+        "username": "cathy213924",
+        "verified": false
+      }
+    ]
+  }
+}

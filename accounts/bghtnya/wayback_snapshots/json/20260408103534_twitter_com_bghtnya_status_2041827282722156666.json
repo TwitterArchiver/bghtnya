@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2041772794774720875",
+    "created_at": "2026-04-08T10:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T11:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041827282722156666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 26,
+          "id": "1709376564713127936",
+          "start": 16,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 35,
+          "id": "1893167873209856000",
+          "start": 27,
+          "username": "mxyzcdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041827282722156666",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041824500363489296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @guanjiao_ @mxyzcdb 因为窝不是为了冲塔只是正常使用而已一直没改（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041824500363489296].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041824500363489296",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041824500363489296"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2041772794774720875",
+        "created_at": "2026-04-08T10:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041827282722156666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 26,
+              "id": "1709376564713127936",
+              "start": 16,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 35,
+              "id": "1893167873209856000",
+              "start": 27,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041827282722156666",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041824500363489296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @guanjiao_ @mxyzcdb 因为窝不是为了冲塔只是正常使用而已一直没改（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9020,
+          "following_count": 2119,
+          "like_count": 175214,
+          "listed_count": 18,
+          "media_count": 3824,
+          "tweet_count": 46746
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 F Stu🎧🍟🍔🥤🚪1680JPY/EN/JP 😘🍩 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています🍬",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1838814967161852327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 4220,
+          "like_count": 34319,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 20188
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "/生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了/我情愿躺在虚无主义的深渊里，什么也不做，静静地看着一切，等待终结的降临。",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006928708179996672/pdnTrQ4E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 1051,
+          "like_count": 75341,
+          "listed_count": 2,
+          "media_count": 2155,
+          "tweet_count": 14310
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 302,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1249
+        },
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

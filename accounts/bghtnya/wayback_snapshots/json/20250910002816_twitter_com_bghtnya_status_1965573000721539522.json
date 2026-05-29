@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965371216048652288"
+      ],
+      "media_source_tweet_id": [
+        "1965371228728033663"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1965573000721539522",
+    "created_at": "2025-09-10T00:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T01:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965573000721539522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "TOKYO8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8VL6aiLzmQ",
+          "end": 45,
+          "expanded_url": "https://x.com/TOKYO8964/status/1965371228728033663/photo/1",
+          "media_key": "3_1965371216048652288",
+          "start": 22,
+          "url": "https://t.co/8VL6aiLzmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965573000721539522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965371228728033663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKYO8964: 忧郁東京少女 https://t.co/8VL6aiLzmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965371216048652288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZmtUBbgAAx0kq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965371216048652288"
+          ],
+          "media_source_tweet_id": [
+            "1965371228728033663"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1965573000721539522",
+        "created_at": "2025-09-10T00:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T01:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965573000721539522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "TOKYO8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VL6aiLzmQ",
+              "end": 45,
+              "expanded_url": "https://x.com/TOKYO8964/status/1965371228728033663/photo/1",
+              "media_key": "3_1965371216048652288",
+              "start": 22,
+              "url": "https://t.co/8VL6aiLzmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965573000721539522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965371228728033663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKYO8964: 忧郁東京少女 https://t.co/8VL6aiLzmQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965371216048652288"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1965371228728033663",
+        "created_at": "2025-09-09T11:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965371228728033663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VL6aiLzmQ",
+              "end": 30,
+              "expanded_url": "https://x.com/TOKYO8964/status/1965371228728033663/photo/1",
+              "media_key": "3_1965371216048652288",
+              "start": 7,
+              "url": "https://t.co/8VL6aiLzmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965371228728033663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4712,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "忧郁東京少女 https://t.co/8VL6aiLzmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7443,
+          "following_count": 2070,
+          "like_count": 157606,
+          "listed_count": 18,
+          "media_count": 3125,
+          "tweet_count": 39853
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵坐标東京｜🏳️‍⚧️07男娘｜🌊自由民主｜🏳️‍🌈友跨友同｜🍯包蜜｜🍀雏草姬｜舞萌痴｜轻度键政｜纯搞抽象乐子人 日本語勉强中 喜欢看番玩galgame和打各种音游二游 欢迎友好交流 极端魔怔人会b 时不时更新奇异搞笑幽默抽象TV和女装照 取向女男的勿扰@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象イェーガー🇯🇵🏳️‍⚧️",
+        "pinned_tweet_id": "1964948325301670082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960310976596889600/7GPALHar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7471,
+          "following_count": 671,
+          "like_count": 801,
+          "listed_count": 31,
+          "media_count": 480,
+          "tweet_count": 851
+        },
+        "username": "TOKYO8964",
+        "verified": true
+      }
+    ]
+  }
+}

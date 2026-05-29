@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923963510762926080"
+      ],
+      "media_source_tweet_id": [
+        "1923963513707561042"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2021773636261318918",
+    "created_at": "2026-02-12T02:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T03:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021773636261318918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677383468660191232",
+          "start": 3,
+          "username": "mtfmtx138248"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PqjT004LRG",
+          "end": 52,
+          "expanded_url": "https://x.com/mtfmtx138248/status/1923963513707561042/photo/1",
+          "media_key": "3_1923963510762926080",
+          "start": 29,
+          "url": "https://t.co/PqjT004LRG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021773636261318918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923963513707561042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtfmtx138248: 所以跨妹们不要服弱役 https://t.co/PqjT004LRG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021773636261318918].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021773636261318918",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021773636261318918"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1923963510762926080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrNKnpPWcAAXPt_.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923963510762926080"
+          ]
+        },
+        "author_id": "1677383468660191232",
+        "conversation_id": "1923963513707561042",
+        "created_at": "2025-05-18T04:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T05:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923963513707561042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqjT004LRG",
+              "end": 34,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1923963513707561042/photo/1",
+              "media_key": "3_1923963510762926080",
+              "start": 11,
+              "url": "https://t.co/PqjT004LRG"
+            },
+            {
+              "display_url": "x.com/Zh40Le1ZOOB/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Zh40Le1ZOOB/status/1923940183365517459",
+              "start": 35,
+              "url": "https://t.co/peWdExfd6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923963513707561042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7534,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923940183365517459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以跨妹们不要服弱役 https://t.co/PqjT004LRG https://t.co/peWdExfd6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2020370645071327297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8894,
+          "following_count": 2072,
+          "like_count": 172159,
+          "listed_count": 18,
+          "media_count": 3719,
+          "tweet_count": 45352
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-07T18:26:31.000Z",
+        "description": "我有易性症",
+        "id": "1677383468660191232",
+        "name": "神楽坂美緒",
+        "pinned_tweet_id": "1957726693109690513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763562734128607232/FH7wy4u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 412,
+          "like_count": 133652,
+          "listed_count": 7,
+          "media_count": 153,
+          "tweet_count": 1476
+        },
+        "username": "mtfmtx138248",
+        "verified": false
+      }
+    ]
+  }
+}

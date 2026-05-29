@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1936955011554222508",
+    "created_at": "2025-06-23T03:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T04:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936985527477301300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689275528572760064",
+          "start": 0,
+          "username": "5mRtist"
+        },
+        {
+          "end": 24,
+          "id": "1771563104192831488",
+          "start": 9,
+          "username": "AlanKiller8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 48,
+          "expanded_url": "https://x.com/bghtnya/status/1936985434078470551?t=-t8HFiT23SnxlUHVOEL7zQ&s=19",
+          "start": 25,
+          "url": "https://t.co/HAt0YPxYoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936985527477301300",
+    "in_reply_to_user_id": "1689275528572760064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936985434078470551",
+        "type": "quoted"
+      },
+      {
+        "id": "1936974878210715834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5mRtist @AlanKiller8964 https://t.co/HAt0YPxYoH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1936955011554222508",
+        "created_at": "2025-06-23T03:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T04:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936985527477301300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689275528572760064",
+              "start": 0,
+              "username": "5mRtist"
+            },
+            {
+              "end": 24,
+              "id": "1771563104192831488",
+              "start": 9,
+              "username": "AlanKiller8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 48,
+              "expanded_url": "https://x.com/bghtnya/status/1936985434078470551?t=-t8HFiT23SnxlUHVOEL7zQ&s=19",
+              "start": 25,
+              "url": "https://t.co/HAt0YPxYoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936985527477301300",
+        "in_reply_to_user_id": "1689275528572760064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936985434078470551",
+            "type": "quoted"
+          },
+          {
+            "id": "1936974878210715834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5mRtist @AlanKiller8964 https://t.co/HAt0YPxYoH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1936441054557020300",
+        "created_at": "2025-06-23T03:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T04:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936985434078470551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652316409878446080",
+              "start": 0,
+              "username": "jdsmdh"
+            },
+            {
+              "end": 21,
+              "id": "1852044211434196994",
+              "start": 8,
+              "username": "TuGong105106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936985434078470551",
+        "in_reply_to_user_id": "1652316409878446080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936713686598770806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdsmdh @TuGong105106 我是晶哥，介于你在推特上频繁发送“习近平你妈什么时候死啊？” ，我们初步认定你违反了《国家安全法》，作为美国间谍并涉及犯颠覆国家政权罪，请你在24小时之内穿上白丝水手服前往最近派出所自首，否则我将派出武装直升机围攻你家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689275528572760064",
+        "conversation_id": "1936955011554222508",
+        "created_at": "2025-06-23T02:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T03:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936974878210715834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1771563104192831488",
+              "start": 0,
+              "username": "AlanKiller8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936974878210715834",
+        "in_reply_to_user_id": "1771563104192831488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936955011554222508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlanKiller8964 你的贴文已涉及侮辱我们伟大领袖，涉嫌犯罪，我向你提出严正交涉和警告，限你24小时之内删除贴文，否则我会举报并向你发出律师函，相关部门会上门将你逮捕，移交司法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6498,
+          "following_count": 2006,
+          "like_count": 149155,
+          "listed_count": 14,
+          "media_count": 2780,
+          "tweet_count": 37041
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "赛博妓女，爱国爱党 🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "5mr.top",
+                "end": 23,
+                "expanded_url": "http://www.5mr.top",
+                "start": 0,
+                "url": "https://t.co/gOK4bNBI2K"
+              }
+            ]
+          }
+        },
+        "id": "1689275528572760064",
+        "location": "距你4.51km",
+        "name": "5mR",
+        "pinned_tweet_id": "1870638198768169190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4930,
+          "following_count": 1608,
+          "like_count": 33744,
+          "listed_count": 12,
+          "media_count": 226,
+          "tweet_count": 6784
+        },
+        "url": "https://t.co/gOK4bNBI2K",
+        "username": "5mRtist",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T15:42:25.000Z",
+        "description": "🇹🇼 華獨民國派，堅定反共，有點大中華情節（有這一情節≠全面贊同中華文化），XP是furry。另外，掛三個電子寵物@ykm520666 @TW2027liberate @BackSet36431 逃生舱：@Kuchisake8964 （PS：按贊不代表贊同推文中提及的觀點，有時按贊＝已讀）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "ykm520666"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TW2027liberate"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "BackSet36431"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "Kuchisake8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alankiller89641",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alankiller89641",
+                "start": 0,
+                "url": "https://t.co/5W9tbFssi1"
+              }
+            ]
+          }
+        },
+        "id": "1771563104192831488",
+        "location": "中華民國台灣",
+        "name": "Alan·Killer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933163018831179776/kGnzc0rW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 1373,
+          "like_count": 106850,
+          "listed_count": 8,
+          "media_count": 1381,
+          "tweet_count": 13365
+        },
+        "url": "https://t.co/5W9tbFssi1",
+        "username": "AlanKiller8964",
+        "verified": false
+      }
+    ]
+  }
+}

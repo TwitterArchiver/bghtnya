@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1925946805780427049",
+    "created_at": "2025-05-23T16:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T17:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925950542355841535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        },
+        {
+          "end": 25,
+          "id": "1589809419822329857",
+          "start": 16,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925950542355841535",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925947885612380398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo @jianlvup 🍵😋🍵🍵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1925946805780427049",
+        "created_at": "2025-05-23T16:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T17:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925950542355841535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 25,
+              "id": "1589809419822329857",
+              "start": 16,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925950542355841535",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925947885612380398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo @jianlvup 🍵😋🍵🍵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1925946805780427049",
+        "created_at": "2025-05-23T16:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T17:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925947885612380398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925947885612380398",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925946805780427049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 加盟店🍵😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6321,
+          "following_count": 1956,
+          "like_count": 138596,
+          "listed_count": 14,
+          "media_count": 2568,
+          "tweet_count": 35211
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "学过国学、美术、c/c++、古建筑的小学五年级辍学废物，也是一名诗人，同时还是一位心学家，热爱中国文化，逍遥自在，无为无不为。喜欢交朋友，欢迎大家找我玩。😋\n挚友@Konekoutena",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Konekoutena"
+              }
+            ]
+          }
+        },
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "pinned_tweet_id": "1913025345101725722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 336,
+          "like_count": 95855,
+          "listed_count": 7,
+          "media_count": 76,
+          "tweet_count": 12902
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 二次元热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Jianlv117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E6%90%9E%E7%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91-mvp",
+                "start": 0,
+                "url": "https://t.co/391J9kVPFC"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（回复1和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律·繁律（互fo私信）",
+        "pinned_tweet_id": "1925709153126810107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 557,
+          "like_count": 8142,
+          "listed_count": 8,
+          "media_count": 388,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/391J9kVPFC",
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

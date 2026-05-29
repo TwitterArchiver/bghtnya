@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1939838135862796510",
+    "created_at": "2025-07-01T05:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T06:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939919540760322083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939919540760322083",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939862006959677598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 雀食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1939838135862796510",
+        "created_at": "2025-07-01T05:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939919540760322083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939919540760322083",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939862006959677598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 雀食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1939838135862796510",
+        "created_at": "2025-07-01T01:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T02:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939862006959677598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939862006959677598",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939838135862796510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 禁毒的目的不是为了保护人民健康而是阻止人民不当牛马就能爽，任何国家都是如是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7047,
+          "following_count": 2018,
+          "like_count": 150961,
+          "listed_count": 17,
+          "media_count": 2845,
+          "tweet_count": 37684
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 一米九超大只\n左下的，混乱善良的，激跨的\n友左上，右下酌情，右上去似（粉红算右上）\n感性条拉满的理想主义者ENFP\n性征焦虑爆炸中\n不手术就会死所以大概什么时候就死了吧",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762825261480022016/UcauebSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1503,
+          "like_count": 84496,
+          "listed_count": 8,
+          "media_count": 124,
+          "tweet_count": 9667
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

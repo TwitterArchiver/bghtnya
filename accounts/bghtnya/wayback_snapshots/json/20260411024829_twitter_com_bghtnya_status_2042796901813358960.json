@@ -1,0 +1,601 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "2042796901813358960",
+    "created_at": "2026-04-11T02:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042796901813358960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794442413181652992",
+          "start": 3,
+          "username": "GyaruGlow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042796901813358960",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1062
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042385014218719487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GyaruGlow: 🚨 Breaking censorship news\n\nGoogle removed Doki Doki Literature Club from the Play Store over “sensitive themes.”\n\nSerenity…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2042385008686743557",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgCWClbQAUtMkG.jpg",
+        "width": 720
+      },
+      {
+        "height": 800,
+        "media_key": "3_2042385008568967168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgCWCJWIAA93aW.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2042385008967503872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgCWDoXUAAQp4W.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2042796901813358960",
+        "created_at": "2026-04-11T02:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042796901813358960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794442413181652992",
+              "start": 3,
+              "username": "GyaruGlow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042796901813358960",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1062
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042385014218719487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GyaruGlow: 🚨 Breaking censorship news\n\nGoogle removed Doki Doki Literature Club from the Play Store over “sensitive themes.”\n\nSerenity…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042385008686743557",
+            "3_2042385008568967168",
+            "3_2042385008967503872"
+          ]
+        },
+        "author_id": "1794442413181652992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2042385014218719487",
+        "created_at": "2026-04-09T23:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042385014218719487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AMR1fLJ9Xx",
+              "end": 223,
+              "expanded_url": "https://x.com/GyaruGlow/status/2042385014218719487/photo/1",
+              "media_key": "3_2042385008686743557",
+              "start": 200,
+              "url": "https://t.co/AMR1fLJ9Xx"
+            },
+            {
+              "display_url": "pic.x.com/AMR1fLJ9Xx",
+              "end": 223,
+              "expanded_url": "https://x.com/GyaruGlow/status/2042385014218719487/photo/1",
+              "media_key": "3_2042385008568967168",
+              "start": 200,
+              "url": "https://t.co/AMR1fLJ9Xx"
+            },
+            {
+              "display_url": "pic.x.com/AMR1fLJ9Xx",
+              "end": 223,
+              "expanded_url": "https://x.com/GyaruGlow/status/2042385014218719487/photo/1",
+              "media_key": "3_2042385008967503872",
+              "start": 200,
+              "url": "https://t.co/AMR1fLJ9Xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042385014218719487",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 426,
+          "impression_count": 144078,
+          "like_count": 5400,
+          "quote_count": 52,
+          "reply_count": 74,
+          "retweet_count": 1062
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 Breaking censorship news\n\nGoogle removed Doki Doki Literature Club from the Play Store over “sensitive themes.”\n\nSerenity Forge’s made a response\n\nThis is NOT okay, the game should not be censored. https://t.co/AMR1fLJ9Xx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8990,
+          "following_count": 2122,
+          "like_count": 175667,
+          "listed_count": 19,
+          "media_count": 3834,
+          "tweet_count": 46885
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-25T18:56:44.000Z",
+        "description": "I shitpost anime memes and I’m against censorship 😆 Backup: @synvyco",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "synvyco"
+              }
+            ]
+          }
+        },
+        "id": "1794442413181652992",
+        "name": "Marini",
+        "pinned_tweet_id": "2018805649178796423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861447081509949441/-mAhCyBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40916,
+          "following_count": 257,
+          "like_count": 34133,
+          "listed_count": 70,
+          "media_count": 4051,
+          "tweet_count": 5454
+        },
+        "username": "GyaruGlow",
+        "verified": true
+      }
+    ]
+  }
+}

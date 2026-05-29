@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1982135383052726548",
+    "created_at": "2025-10-26T01:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T02:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982262115126980656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980495609372241924",
+          "start": 0,
+          "username": "_Ra1ny_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982262115126980656",
+    "in_reply_to_user_id": "1980495609372241924",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982258530800255450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Ra1ny_O 不能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1982135383052726548",
+        "created_at": "2025-10-26T01:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982262115126980656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980495609372241924",
+              "start": 0,
+              "username": "_Ra1ny_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982262115126980656",
+        "in_reply_to_user_id": "1980495609372241924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982258530800255450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Ra1ny_O 不能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980495609372241924",
+        "conversation_id": "1982135383052726548",
+        "created_at": "2025-10-26T01:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982258530800255450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982258530800255450",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982135383052726548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 啥也不是能进吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7972,
+          "following_count": 2098,
+          "like_count": 165344,
+          "listed_count": 19,
+          "media_count": 3320,
+          "tweet_count": 41618
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T04:45:35.000Z",
+        "description": "當世事再無完美 可遠在歲月如歌中找妳.",
+        "id": "1980495609372241924",
+        "location": "狗窝",
+        "name": "Rainy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982057164270170112/Ei0ovvk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 74
+        },
+        "username": "_Ra1ny_O",
+        "verified": false
+      }
+    ]
+  }
+}

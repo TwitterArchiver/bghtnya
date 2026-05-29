@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2028079960490168486",
+    "created_at": "2026-03-01T16:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028145335558897971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        },
+        {
+          "end": 22,
+          "id": "2027031128738275328",
+          "start": 11,
+          "username": "NomtfYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028145335558897971",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028079960490168486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi @NomtfYuwen 你的颅内幻想水平还是太高了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028079565239967744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvno5bYAAA1mg.jpg",
+        "width": 581
+      },
+      {
+        "duration_ms": 8064,
+        "height": 480,
+        "media_key": "7_2028079569400745984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028079569400745984/pu/img/Ht8BkvQ1E7zD42bl.jpg",
+        "public_metrics": {
+          "view_count": 264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028079569400745984/pu/vid/avc1/604x270/NAC8uQLBofdlJQLf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028079569400745984/pu/vid/avc1/804x360/YSUoQpeWBTXzmFXp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028079569400745984/pu/vid/avc1/1074x480/uKMErdLrKTXV7Fdm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028079569400745984/pu/pl/JKS8macKMXCd_PoQ.m3u8"
+          }
+        ],
+        "width": 1074
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2028079570377990144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvn8CbYAAoWXQ.jpg",
+        "width": 884
+      },
+      {
+        "height": 1940,
+        "media_key": "3_2028079573246885888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvoGubQAAV_d0.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2028079960490168486",
+        "created_at": "2026-03-01T16:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028145335558897971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 22,
+              "id": "2027031128738275328",
+              "start": 11,
+              "username": "NomtfYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028145335558897971",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028079960490168486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi @NomtfYuwen 你的颅内幻想水平还是太高了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028079565239967744",
+            "7_2028079569400745984",
+            "3_2028079570377990144",
+            "3_2028079573246885888"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028079960490168486",
+        "created_at": "2026-03-01T12:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:07:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028079612417519638",
+          "2028079960490168486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2027031128738275328",
+              "start": 30,
+              "username": "NomtfYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofXJq4qfI1",
+              "end": 149,
+              "expanded_url": "https://x.com/y0zarashi/status/2028079960490168486/video/1",
+              "media_key": "3_2028079565239967744",
+              "start": 126,
+              "url": "https://t.co/ofXJq4qfI1"
+            },
+            {
+              "display_url": "pic.x.com/ofXJq4qfI1",
+              "end": 149,
+              "expanded_url": "https://x.com/y0zarashi/status/2028079960490168486/video/1",
+              "media_key": "7_2028079569400745984",
+              "start": 126,
+              "url": "https://t.co/ofXJq4qfI1"
+            },
+            {
+              "display_url": "pic.x.com/ofXJq4qfI1",
+              "end": 149,
+              "expanded_url": "https://x.com/y0zarashi/status/2028079960490168486/video/1",
+              "media_key": "3_2028079570377990144",
+              "start": 126,
+              "url": "https://t.co/ofXJq4qfI1"
+            },
+            {
+              "display_url": "pic.x.com/ofXJq4qfI1",
+              "end": 149,
+              "expanded_url": "https://x.com/y0zarashi/status/2028079960490168486/video/1",
+              "media_key": "3_2028079573246885888",
+              "start": 126,
+              "url": "https://t.co/ofXJq4qfI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028079960490168486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 41,
+                "id": "2027031128738275328",
+                "start": 30,
+                "username": "NomtfYuwen"
+              }
+            ]
+          },
+          "text": "悲报：二零二六年山东澳洲人妖圈风云男同1王子---王烟洛  @NomtfYuwen \n去世了\n\n在2026年3月1日16：32分 由于亲妈要带他剃头，触及了防御性人格，我们的管理员王烟洛@唐毓文瞬间服用了 5400mg普瑞 1500mg安非他酮  。\n\n在高剂量普瑞巴林诱发的癫痫中，王烟洛体内的鲜血伴随着高剂量的安非他酮所产生的大量信誉导致原本就受损的海绵体内血压飙升，男性阴茎膨胀冲破了两颗缺失睾丸伤口处。\n原本只是两条神经的出血，但在凭借着阴囊体内高密度鲜血的高压指引，以及因为癫痫发作人体不自觉的将阴茎不断甩出。\n王烟洛体内的鲜血，就像散弹枪发射时火药处，像火焰爆炸般的血从两颗原本睾丸所在地的，如同射精般的喷出。\n只不过射的是敬业的反方向，而且不是一条是两条。\n\n再加上王烟洛此时正在处于呼吸抑制状态并没有任何对身体的控制权\n\n其实这也因为普瑞巴林的主要药效是治疗神经疼的主作用在作祟\n\n不过很遗憾在2026年3月1日王烟洛，在北京时间晚上7:13，因大量失血过多而死亡\n\n虽然这死法实在是奇异搞笑但还是死者为大。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1049,
+          "like_count": 25,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "悲报：二零二六年山东澳洲人妖圈风云男同1王子---王烟洛  @NomtfYuwen \n去世了\n\n在2026年3月1日16：32分 由于亲妈要带他剃头，触及了防御性人格，我们的管理员王烟洛@唐毓文瞬间服用了 5400mg普瑞 1500mg安非他酮  。 https://t.co/ofXJq4qfI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9075,
+          "following_count": 2096,
+          "like_count": 175061,
+          "listed_count": 18,
+          "media_count": 3793,
+          "tweet_count": 46321
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "olivia rodrigo",
+        "name": "CallumL1（老婆孩子我的命）",
+        "pinned_tweet_id": "2026884100011995161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026825430725177344/_x7vFJo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 191,
+          "like_count": 75,
+          "listed_count": 5,
+          "media_count": 418,
+          "tweet_count": 1353
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-26T14:42:39.000Z",
+        "description": "MTF🏳️‍⚧️｜HRT2025.6.30😋｜已净身😈｜反跨🤓｜对象@shaoxiancao1314🥵｜ENFP｜持证含糖🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          }
+        },
+        "id": "2027031128738275328",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2027953187580481672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027054709568409600/F6JypHaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 22,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 94
+        },
+        "username": "NomtfYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

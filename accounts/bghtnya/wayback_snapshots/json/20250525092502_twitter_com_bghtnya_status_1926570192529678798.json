@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925926291636719617"
+      ],
+      "media_source_tweet_id": [
+        "1925926305075208334"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1926570192529678798",
+    "created_at": "2025-05-25T09:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T10:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926570192529678798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1658734539387318272",
+          "start": 3,
+          "username": "shusquirrel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nz8v7wnaOP",
+          "end": 40,
+          "expanded_url": "https://x.com/shusquirrel/status/1925926305075208334/photo/1",
+          "media_key": "3_1925926291636719617",
+          "start": 17,
+          "url": "https://t.co/nz8v7wnaOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926570192529678798",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925926305075208334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shusquirrel: https://t.co/nz8v7wnaOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1925926291636719617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpDwhyXkAEi4Ms.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925926291636719617"
+          ],
+          "media_source_tweet_id": [
+            "1925926305075208334"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1926570192529678798",
+        "created_at": "2025-05-25T09:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926570192529678798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1658734539387318272",
+              "start": 3,
+              "username": "shusquirrel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nz8v7wnaOP",
+              "end": 40,
+              "expanded_url": "https://x.com/shusquirrel/status/1925926305075208334/photo/1",
+              "media_key": "3_1925926291636719617",
+              "start": 17,
+              "url": "https://t.co/nz8v7wnaOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926570192529678798",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925926305075208334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shusquirrel: https://t.co/nz8v7wnaOP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925926291636719617"
+          ]
+        },
+        "author_id": "1658734539387318272",
+        "conversation_id": "1925926305075208334",
+        "created_at": "2025-05-23T14:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T15:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925926305075208334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nz8v7wnaOP",
+              "end": 23,
+              "expanded_url": "https://x.com/shusquirrel/status/1925926305075208334/photo/1",
+              "media_key": "3_1925926291636719617",
+              "start": 0,
+              "url": "https://t.co/nz8v7wnaOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925926305075208334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 824,
+          "impression_count": 480745,
+          "like_count": 4574,
+          "quote_count": 36,
+          "reply_count": 55,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nz8v7wnaOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6326,
+          "following_count": 1954,
+          "like_count": 138649,
+          "listed_count": 14,
+          "media_count": 2572,
+          "tweet_count": 35232
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T07:22:15.000Z",
+        "description": "音游人，玩粥玩的",
+        "id": "1658734539387318272",
+        "location": "距离你0.25Km",
+        "name": "一罐松鼠 🐿️",
+        "pinned_tweet_id": "1825927910018191397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716727184168284160/GFUfG5Ll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 490,
+          "like_count": 14933,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 4788
+        },
+        "username": "shusquirrel",
+        "verified": false
+      }
+    ]
+  }
+}

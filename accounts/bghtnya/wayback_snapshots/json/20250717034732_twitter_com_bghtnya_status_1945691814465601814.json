@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945691810241646593"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1945010862856503437",
+    "created_at": "2025-07-17T03:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T04:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945691814465601814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689066564166057984",
+          "start": 0,
+          "username": "sakura_LSD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/00ml53Rei3",
+          "end": 35,
+          "expanded_url": "https://x.com/bghtnya/status/1945691814465601814/photo/1",
+          "media_key": "3_1945691810241646593",
+          "start": 12,
+          "url": "https://t.co/00ml53Rei3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945691814465601814",
+    "in_reply_to_user_id": "1689066564166057984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945586359109910740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura_LSD https://t.co/00ml53Rei3"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945586359109910740].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945586359109910740",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945586359109910740"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945691810241646593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwB8ZIfXEAEKpt2.jpg",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945691810241646593"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1945010862856503437",
+        "created_at": "2025-07-17T03:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T04:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945691814465601814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689066564166057984",
+              "start": 0,
+              "username": "sakura_LSD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/00ml53Rei3",
+              "end": 35,
+              "expanded_url": "https://x.com/bghtnya/status/1945691814465601814/photo/1",
+              "media_key": "3_1945691810241646593",
+              "start": 12,
+              "url": "https://t.co/00ml53Rei3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945691814465601814",
+        "in_reply_to_user_id": "1689066564166057984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945586359109910740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura_LSD https://t.co/00ml53Rei3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7176,
+          "following_count": 2025,
+          "like_count": 152023,
+          "listed_count": 17,
+          "media_count": 2908,
+          "tweet_count": 38192
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T00:10:50.000Z",
+        "description": "来不及为你写挽歌,回望身后是墓志铭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "supermemo.guru/wiki/SuperMemo…",
+                "end": 23,
+                "expanded_url": "https://supermemo.guru/wiki/SuperMemo_Guru",
+                "start": 0,
+                "url": "https://t.co/Q0Z2r7EhI6"
+              }
+            ]
+          }
+        },
+        "id": "1689066564166057984",
+        "location": "天国的边缘,地狱的中心",
+        "name": "九条泷樱岛✨",
+        "pinned_tweet_id": "1885777574888145016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886109489818210304/pt-76EN1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 1234,
+          "like_count": 1754,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 12923
+        },
+        "url": "https://t.co/Q0Z2r7EhI6",
+        "username": "sakura_LSD",
+        "verified": false
+      }
+    ]
+  }
+}

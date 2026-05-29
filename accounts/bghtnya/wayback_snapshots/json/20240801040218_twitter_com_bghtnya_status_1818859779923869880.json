@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1818742145769259230",
+    "created_at": "2024-08-01T04:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T05:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818859779923869880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1444290288722325506",
+          "start": 0,
+          "username": "SandwichMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818859779923869880",
+    "in_reply_to_user_id": "1444290288722325506",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818742145769259230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SandwichMao 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1818742145769259230",
+        "created_at": "2024-08-01T04:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T05:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818859779923869880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1444290288722325506",
+              "start": 0,
+              "username": "SandwichMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818859779923869880",
+        "in_reply_to_user_id": "1444290288722325506",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818742145769259230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SandwichMao 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444290288722325506",
+        "conversation_id": "1818742145769259230",
+        "created_at": "2024-07-31T20:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T21:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818742145769259230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818742145769259230",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我以前脸熟的人都不在我时间线里面了，药娘又换了一批人..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1445,
+          "like_count": 82429,
+          "listed_count": 9,
+          "tweet_count": 17866
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T13:17:19.000Z",
+        "description": "Born in 04|此生只爱一人😘@ttxy1213|性别是符号 不应被任意仲裁|站在高楼的边缘，不用退缩，你可以在我面前站得更近^^ 我只想拥抱你，阻止你跳下。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "ttxy1213"
+              }
+            ]
+          }
+        },
+        "id": "1444290288722325506",
+        "location": "Soochow",
+        "name": "三明治猫|🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1793534295442874520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739120217140408320/TJPRomQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 348,
+          "like_count": 1466,
+          "listed_count": 6,
+          "tweet_count": 773
+        },
+        "username": "SandwichMao",
+        "verified": false
+      }
+    ]
+  }
+}

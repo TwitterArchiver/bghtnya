@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1931728674325442729",
+    "created_at": "2025-06-08T15:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T16:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931729859677683817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1251856729358266369",
+          "start": 0,
+          "username": "jigokuojosama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931729859677683817",
+    "in_reply_to_user_id": "1251856729358266369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931729504457871617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jigokuojosama 是这样 还有强基"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1931728674325442729",
+        "created_at": "2025-06-08T15:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931729859677683817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1251856729358266369",
+              "start": 0,
+              "username": "jigokuojosama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931729859677683817",
+        "in_reply_to_user_id": "1251856729358266369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931729504457871617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigokuojosama 是这样 还有强基"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251856729358266369",
+        "conversation_id": "1931728674325442729",
+        "created_at": "2025-06-08T15:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931729504457871617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931729504457871617",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931728674325442729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 校测是给预招的人吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6351,
+          "following_count": 1961,
+          "like_count": 142226,
+          "listed_count": 14,
+          "media_count": 2644,
+          "tweet_count": 35758
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T12:55:03.000Z",
+        "description": "不潔/拝金/神待ち少女/ゲームガール/芸術が好き/自分の心を追求するすべての人を愛して",
+        "id": "1251856729358266369",
+        "location": "黄泉の国",
+        "name": "黄泉姫🌸⛩️",
+        "pinned_tweet_id": "1897292775378579464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798185038552670208/ekyUMXMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 1630,
+          "like_count": 46287,
+          "listed_count": 4,
+          "media_count": 495,
+          "tweet_count": 26793
+        },
+        "username": "jigokuojosama",
+        "verified": false
+      }
+    ]
+  }
+}

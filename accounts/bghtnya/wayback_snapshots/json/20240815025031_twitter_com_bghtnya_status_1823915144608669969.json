@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1823588021641601126",
+    "created_at": "2024-08-15T02:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T03:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823915144608669969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1481647136072953856",
+          "start": 0,
+          "username": "AgustaF4Claudio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823915144608669969",
+    "in_reply_to_user_id": "1481647136072953856",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823762402657059218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgustaF4Claudio 哇哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1823588021641601126",
+        "created_at": "2024-08-15T02:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T03:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823915144608669969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1481647136072953856",
+              "start": 0,
+              "username": "AgustaF4Claudio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823915144608669969",
+        "in_reply_to_user_id": "1481647136072953856",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823762402657059218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgustaF4Claudio 哇哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823762396772786176"
+          ]
+        },
+        "author_id": "1481647136072953856",
+        "conversation_id": "1823588021641601126",
+        "created_at": "2024-08-14T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823762402657059218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ljc05vhfh",
+              "end": 41,
+              "expanded_url": "https://twitter.com/AgustaF4Claudio/status/1823762402657059218/photo/1",
+              "media_key": "3_1823762396772786176",
+              "start": 18,
+              "url": "https://t.co/3lJC05vHFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823762402657059218",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 134,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823588021641601126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 每时每刻都在发情 https://t.co/3lJC05vHFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 1467,
+          "like_count": 87740,
+          "listed_count": 10,
+          "tweet_count": 18973
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T15:19:47.000Z",
+        "description": "🚪1314",
+        "id": "1481647136072953856",
+        "location": "合肥",
+        "name": "祭祭奶芙~",
+        "pinned_tweet_id": "1709470220086387084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782757808779509760/vOTs4ElD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 668,
+          "like_count": 1841,
+          "listed_count": 6,
+          "tweet_count": 89
+        },
+        "username": "AgustaF4Claudio",
+        "verified": false
+      }
+    ]
+  }
+}

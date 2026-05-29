@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1840652200647029144",
+    "created_at": "2024-09-30T09:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T10:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840687692021207402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1665719381643628545",
+          "start": 0,
+          "username": "XINXIN641573501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840687692021207402",
+    "in_reply_to_user_id": "1665719381643628545",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840652200647029144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XINXIN641573501 3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1840652200647029144",
+        "created_at": "2024-09-30T09:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T10:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840687692021207402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1665719381643628545",
+              "start": 0,
+              "username": "XINXIN641573501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840687692021207402",
+        "in_reply_to_user_id": "1665719381643628545",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840652200647029144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XINXIN641573501 3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840651866885259264"
+          ]
+        },
+        "author_id": "1665719381643628545",
+        "conversation_id": "1840652200647029144",
+        "created_at": "2024-09-30T07:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T08:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840652200647029144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzk887d0g2",
+              "end": 42,
+              "expanded_url": "https://twitter.com/XINXIN641573501/status/1840652200647029144/photo/1",
+              "media_key": "3_1840651866885259264",
+              "start": 19,
+              "url": "https://t.co/xzK887D0G2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840652200647029144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3706,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "检查有没有潜伏在弱智群里的高智商人才 https://t.co/xzK887D0G2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 1537,
+          "like_count": 98526,
+          "listed_count": 10,
+          "tweet_count": 21953
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T13:57:24.000Z",
+        "description": "我们来互关吧！\n诚信互关，当天回关。\n此前关注我的已经全部回关，合作愉快",
+        "id": "1665719381643628545",
+        "name": "Gavi~~~",
+        "pinned_tweet_id": "1839812292269224199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825372463452377088/brq1kFWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 927,
+          "like_count": 364,
+          "listed_count": 1,
+          "tweet_count": 173
+        },
+        "username": "XINXIN641573501",
+        "verified": false
+      }
+    ]
+  }
+}

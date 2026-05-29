@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1873859967058665837",
+    "created_at": "2024-12-31T07:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T08:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873992524051931561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 23,
+          "id": "1734356062336434176",
+          "start": 13,
+          "username": "ypx666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873992524051931561",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873859967058665837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love @ypx666666 啊？"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ypx666666].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ypx666666",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ypx666666"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1873859967058665837",
+        "created_at": "2024-12-31T07:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873992524051931561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 23,
+              "id": "1734356062336434176",
+              "start": 13,
+              "username": "ypx666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873992524051931561",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873859967058665837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @ypx666666 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873859964244287490"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "1873859967058665837",
+        "created_at": "2024-12-30T22:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T23:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873859967058665837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情況通報"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1734356062336434176",
+              "start": 13,
+              "username": "ypx666666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Il9fbKrc8D",
+              "end": 72,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/1873859967058665837/photo/1",
+              "media_key": "3_1873859964244287490",
+              "start": 49,
+              "url": "https://t.co/Il9fbKrc8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873859967058665837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 937,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推友情況通報\n伊飘雪🍥（@ypx666666）帐号被冻结/Account suspended. https://t.co/Il9fbKrc8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4049,
+          "following_count": 1774,
+          "like_count": 118243,
+          "listed_count": 13,
+          "media_count": 1870,
+          "tweet_count": 28370
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺♥️/🏳️‍⚧️Non-Cis/🌏G11N/lang=zh;en/Cuter is better!/Mood swings, but you all make me less lonely!/⚠️Following≠Agreeing⚠️/Private:@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 140,
+                "username": "mkc_Cute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfxyn.news",
+                "end": 23,
+                "expanded_url": "https://mtfxyn.news",
+                "start": 0,
+                "url": "https://t.co/0auRNqezHn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "阿棄𝕄𝕖𝕠𝕨 #NewYear🎆",
+        "pinned_tweet_id": "1871929681479627262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873206582827474944/VhRtuCb0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 798,
+          "like_count": 100204,
+          "listed_count": 3,
+          "media_count": 692,
+          "tweet_count": 3608
+        },
+        "url": "https://t.co/0auRNqezHn",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

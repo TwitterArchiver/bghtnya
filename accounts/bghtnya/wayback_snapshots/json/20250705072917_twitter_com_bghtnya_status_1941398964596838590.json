@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1941398964596838590",
+    "created_at": "2025-07-05T07:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T08:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941398964596838590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941398964596838590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941184526874705941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: ？我不是高中生吗现在怎么准大一了😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1941398964596838590",
+        "created_at": "2025-07-05T07:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T08:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941398964596838590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941398964596838590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941184526874705941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: ？我不是高中生吗现在怎么准大一了😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1941184526874705941",
+        "created_at": "2025-07-04T17:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T18:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941184526874705941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Andy1782010/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Andy1782010/status/1941154831651278948",
+              "start": 18,
+              "url": "https://t.co/RCee8Tr1qS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941184526874705941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941154831651278948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？我不是高中生吗现在怎么准大一了😨 https://t.co/RCee8Tr1qS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7070,
+          "following_count": 2020,
+          "like_count": 152047,
+          "listed_count": 17,
+          "media_count": 2853,
+          "tweet_count": 37821
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 223,
+          "like_count": 3822,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1382
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

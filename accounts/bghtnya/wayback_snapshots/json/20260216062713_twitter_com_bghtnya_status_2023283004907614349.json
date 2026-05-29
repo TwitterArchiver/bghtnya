@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2022943113673871494",
+    "created_at": "2026-02-16T06:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023283004907614349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867596733884379136",
+          "start": 0,
+          "username": "VmikufansV"
+        },
+        {
+          "end": 27,
+          "id": "1260553941714186241",
+          "start": 12,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023283004907614349",
+    "in_reply_to_user_id": "1867596733884379136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023072895724028128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VmikufansV @whyyoutouzhele 向二次元，开战！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2023072882075828224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNmEUrbAAAiaxA.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2179,
+        "media_key": "3_2023072892590952450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNmE72bEAIR6rK.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023072892607721472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNmE76a8AAu8Mv.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2022943113673871494",
+        "created_at": "2026-02-16T06:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023283004907614349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867596733884379136",
+              "start": 0,
+              "username": "VmikufansV"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023283004907614349",
+        "in_reply_to_user_id": "1867596733884379136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023072895724028128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VmikufansV @whyyoutouzhele 向二次元，开战！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023072882075828224",
+            "3_2023072892590952450",
+            "3_2023072892607721472"
+          ]
+        },
+        "author_id": "1867596733884379136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "2022943113673871494",
+        "created_at": "2026-02-15T16:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023072895724028128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKX50W1Lwn",
+              "end": 124,
+              "expanded_url": "https://x.com/VmikufansV/status/2023072895724028128/photo/1",
+              "media_key": "3_2023072882075828224",
+              "start": 101,
+              "url": "https://t.co/IKX50W1Lwn"
+            },
+            {
+              "display_url": "pic.x.com/IKX50W1Lwn",
+              "end": 124,
+              "expanded_url": "https://x.com/VmikufansV/status/2023072895724028128/photo/1",
+              "media_key": "3_2023072892590952450",
+              "start": 101,
+              "url": "https://t.co/IKX50W1Lwn"
+            },
+            {
+              "display_url": "pic.x.com/IKX50W1Lwn",
+              "end": 124,
+              "expanded_url": "https://x.com/VmikufansV/status/2023072895724028128/photo/1",
+              "media_key": "3_2023072892607721472",
+              "start": 101,
+              "url": "https://t.co/IKX50W1Lwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023072895724028128",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1123,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022943113673871494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 现在辱华具有传递性了，自从《我的英雄学院》被扣上辱华的帽子以后，与其聯動的Chiikawa、猫猫虫和最近的《名侦探柯南》等也都被通通扣上帽子了，纷纷叫喊着所谓的“切割” https://t.co/IKX50W1Lwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2023057004500296149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8926,
+          "following_count": 2074,
+          "like_count": 172753,
+          "listed_count": 18,
+          "media_count": 3733,
+          "tweet_count": 45608
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@gngjijin592881|\n🍥09/02/2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "gngjijin592881"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5RYah"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 241,
+          "like_count": 253,
+          "listed_count": 5,
+          "media_count": 781,
+          "tweet_count": 3972
+        },
+        "url": "https://t.co/Y4FXp5RYah",
+        "username": "VmikufansV",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192262,
+          "following_count": 1017,
+          "like_count": 8978,
+          "listed_count": 8561,
+          "media_count": 41631,
+          "tweet_count": 48636
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2006613062070186288",
+    "created_at": "2026-01-01T09:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T10:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006661194468438431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859486191281897477",
+          "start": 0,
+          "username": "liveDeath750122"
+        },
+        {
+          "end": 31,
+          "id": "1999795510341935105",
+          "start": 17,
+          "username": "jamesniko0302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006661194468438431",
+    "in_reply_to_user_id": "1859486191281897477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006647242841797038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liveDeath750122 @jamesniko0302 一堆pr"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2006647242841797038].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2006647242841797038",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2006647242841797038"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2006613062070186288",
+        "created_at": "2026-01-01T09:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006661194468438431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859486191281897477",
+              "start": 0,
+              "username": "liveDeath750122"
+            },
+            {
+              "end": 31,
+              "id": "1999795510341935105",
+              "start": 17,
+              "username": "jamesniko0302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006661194468438431",
+        "in_reply_to_user_id": "1859486191281897477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006647242841797038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liveDeath750122 @jamesniko0302 一堆pr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8644,
+          "following_count": 2088,
+          "like_count": 174084,
+          "listed_count": 18,
+          "media_count": 3673,
+          "tweet_count": 44774
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "15岁 \n友跨顺男未婚不透",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tardis.fandom.com/wiki/Doctor_Wh…",
+                "end": 23,
+                "expanded_url": "https://tardis.fandom.com/wiki/Doctor_Who_Wiki",
+                "start": 0,
+                "url": "https://t.co/FIakK2pD87"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "Unified Intelligence Taskforce",
+        "name": "livefodeath/众善慈善",
+        "pinned_tweet_id": "1944000381773918624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983907777740451840/gzQ21mdY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 468,
+          "like_count": 20979,
+          "listed_count": 2,
+          "media_count": 772,
+          "tweet_count": 7191
+        },
+        "url": "https://t.co/FIakK2pD87",
+        "username": "liveDeath750122",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T10:56:29.000Z",
+        "description": "08/MTX（f?/ENTP-T/分离障碍（精分？/双相/ADHD/ASD/BPD/断续含糖/小证：2025-11-14/坐标上海/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（私信过门之后加QQ234559943 同类免费）/便宜糖商推荐QQ：3518541175/请大家记住我现在的样子谢谢！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/xb0u8Vpp8T"
+              }
+            ]
+          }
+        },
+        "id": "1999795510341935105",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（四代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004170988389650432/4OWBPHXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 74,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/xb0u8Vpp8T",
+        "username": "jamesniko0302",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1916056364176314780",
+    "created_at": "2025-04-26T14:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T15:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916135251036017012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916135251036017012",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916056364176314780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA 你在干甚么））"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916056356135866368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpczGq0bkAAgG3V.jpg",
+        "width": 1536
+      },
+      {
+        "height": 940,
+        "media_key": "3_1916056356140027907",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpczGq1bEAMycce.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1916056364176314780",
+        "created_at": "2025-04-26T14:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916135251036017012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916135251036017012",
+        "in_reply_to_user_id": "1817584080437014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916056364176314780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA 你在干甚么））"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916056356135866368",
+            "3_1916056356140027907"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916056364176314780",
+        "created_at": "2025-04-26T09:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916056364176314780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOPFuK9sqE",
+              "end": 29,
+              "expanded_url": "https://x.com/N552AA/status/1916056364176314780/photo/1",
+              "media_key": "3_1916056356135866368",
+              "start": 6,
+              "url": "https://t.co/GOPFuK9sqE"
+            },
+            {
+              "display_url": "pic.x.com/GOPFuK9sqE",
+              "end": 29,
+              "expanded_url": "https://x.com/N552AA/status/1916056364176314780/photo/1",
+              "media_key": "3_1916056356140027907",
+              "start": 6,
+              "url": "https://t.co/GOPFuK9sqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916056364176314780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 21881,
+          "like_count": 199,
+          "quote_count": 8,
+          "reply_count": 59,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "真的晚安啦 https://t.co/GOPFuK9sqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6182,
+          "following_count": 1916,
+          "like_count": 133303,
+          "listed_count": 13,
+          "media_count": 2443,
+          "tweet_count": 33925
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08老登/MTX（f?/ENTP-T/家长吓坏党/ADHD/双相/HRT：2024/8/25/坐标上海/有小证/QQ:234559943/抱抱最最可爱的姐姐: @yizhikapaiqaq\n猫猫： @AGeSang2008\n妈妈：@bolichara0\n主人：@yumekaayumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "bolichara0"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "yumekaayumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1874706282789433484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915574638316576776/ewBZ6pcZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 898,
+          "like_count": 3097,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

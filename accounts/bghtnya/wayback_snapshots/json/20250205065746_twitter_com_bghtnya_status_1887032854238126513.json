@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1887032854238126513",
+    "created_at": "2025-02-05T06:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T07:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887032854238126513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Girl_in_HuaXi/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Girl_in_HuaXi/status/1865621472695456152",
+          "start": 35,
+          "url": "https://t.co/hmIRswiT93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887032854238126513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865621472695456152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你对党和国家这么忠诚 为什么要违法上外网 小心我把你告到警察局去（） https://t.co/hmIRswiT93"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1887032854238126513",
+        "created_at": "2025-02-05T06:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887032854238126513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Girl_in_HuaXi/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Girl_in_HuaXi/status/1865621472695456152",
+              "start": 35,
+              "url": "https://t.co/hmIRswiT93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887032854238126513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865621472695456152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你对党和国家这么忠诚 为什么要违法上外网 小心我把你告到警察局去（） https://t.co/hmIRswiT93"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865621463094767616"
+          ]
+        },
+        "author_id": "1822130523059490816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1865621472695456152",
+        "created_at": "2024-12-08T04:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T05:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865621472695456152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKQP6ddLGv",
+              "end": 166,
+              "expanded_url": "https://x.com/Girl_in_HuaXi/status/1865621472695456152/photo/1",
+              "media_key": "3_1865621463094767616",
+              "start": 143,
+              "url": "https://t.co/hKQP6ddLGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865621472695456152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 223651,
+          "like_count": 529,
+          "quote_count": 11,
+          "reply_count": 136,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "我为何坚定地支持共产党，拥护习近平？（九）\n图片是中国高校教育救助体系，我享受过国家励志奖学金、国家助学金、国家助学贷款、勤工助学，校内的优秀大学生奖学金，以及各类社会奖助学金，平均每年领的奖助学金1.3万左右，学校吃饭便宜，放假回家车票半价，家里基本不用操心，还能省出点给父母买东西 https://t.co/hKQP6ddLGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5263,
+          "following_count": 1820,
+          "like_count": 123304,
+          "listed_count": 14,
+          "media_count": 2086,
+          "tweet_count": 30383
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T04:39:22.000Z",
+        "description": "爱生活、爱分享的女孩～",
+        "id": "1822130523059490816",
+        "location": "Hong Kong",
+        "name": "姜是姜子牙的姜",
+        "pinned_tweet_id": "1849756018974261522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825469312129273856/VCJMMvTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5097,
+          "following_count": 4785,
+          "like_count": 23984,
+          "listed_count": 20,
+          "media_count": 871,
+          "tweet_count": 6301
+        },
+        "username": "Girl_in_HuaXi",
+        "verified": false
+      }
+    ]
+  }
+}

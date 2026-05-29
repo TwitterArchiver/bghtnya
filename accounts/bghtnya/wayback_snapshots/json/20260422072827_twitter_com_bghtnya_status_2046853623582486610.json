@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2046255905331892677",
+    "created_at": "2026-04-22T07:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046853623582486610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 26,
+          "id": "2042606909086404616",
+          "start": 16,
+          "username": "CacoooOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046853623582486610",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046489426008981921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @CacoooOvO 抓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046489426008981921].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046489426008981921",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046489426008981921"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2046255905331892677",
+        "created_at": "2026-04-22T07:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046853623582486610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 26,
+              "id": "2042606909086404616",
+              "start": 16,
+              "username": "CacoooOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046853623582486610",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046489426008981921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @CacoooOvO 抓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9000,
+          "following_count": 2140,
+          "like_count": 177330,
+          "listed_count": 19,
+          "media_count": 3853,
+          "tweet_count": 47219
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 F Stu🎧🍟🍔🥤🚪1680JPY/EN/JP 😘🍩 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています🍬",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1838814967161852327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 4197,
+          "like_count": 34736,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 20530
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:14:51.000Z",
+        "description": "Caco/呓语 已成年\n温良婊，fo我都会回 无🚪欢迎来找我玩\n餐券三年/伪烟草品鉴砖家\n喜欢玩各种音游（邦多利为主）和明日方舟（澄闪厨",
+        "id": "2042606909086404616",
+        "location": "Your heart",
+        "name": "Camellia",
+        "pinned_tweet_id": "2046439284023152963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042609084139212801/zXgrc0gB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 316,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 84
+        },
+        "username": "CacoooOvO",
+        "verified": false
+      }
+    ]
+  }
+}

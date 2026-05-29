@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1918902366423625974",
+    "created_at": "2025-05-05T06:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T07:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919273618392891415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778248194423701504",
+          "start": 0,
+          "username": "CaiChengsh50832"
+        },
+        {
+          "end": 29,
+          "id": "1644567522031853570",
+          "start": 17,
+          "username": "Kirara_Miku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919273618392891415",
+    "in_reply_to_user_id": "1778248194423701504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919211429015499055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaiChengsh50832 @Kirara_Miku 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1919211420291665921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqJonktbkAEpXir.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1918902366423625974",
+        "created_at": "2025-05-05T06:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919273618392891415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778248194423701504",
+              "start": 0,
+              "username": "CaiChengsh50832"
+            },
+            {
+              "end": 29,
+              "id": "1644567522031853570",
+              "start": 17,
+              "username": "Kirara_Miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919273618392891415",
+        "in_reply_to_user_id": "1778248194423701504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919211429015499055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaiChengsh50832 @Kirara_Miku 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919211420291665921"
+          ]
+        },
+        "author_id": "1778248194423701504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918902366423625974",
+        "created_at": "2025-05-05T02:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T03:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919211429015499055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644567522031853570",
+              "start": 0,
+              "username": "Kirara_Miku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/80oCwU3psi",
+              "end": 41,
+              "expanded_url": "https://x.com/CaiChengsh50832/status/1919211429015499055/photo/1",
+              "media_key": "3_1919211420291665921",
+              "start": 18,
+              "url": "https://t.co/80oCwU3psi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919211429015499055",
+        "in_reply_to_user_id": "1644567522031853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918902366423625974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Miku 哎，资本 https://t.co/80oCwU3psi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6236,
+          "following_count": 1932,
+          "like_count": 135207,
+          "listed_count": 13,
+          "media_count": 2483,
+          "tweet_count": 34323
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T02:26:50.000Z",
+        "description": "",
+        "id": "1778248194423701504",
+        "name": "kinsou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781323381033635840/KdD-BGz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 350,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 177
+        },
+        "username": "CaiChengsh50832",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T05:07:14.000Z",
+        "description": "起飞吧，和大家一起。| osu 5 digit player | 偽中國語努力中✨ |\n男，音游，galgame | 互fo随缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "http://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/n91ct8aC9h"
+              }
+            ]
+          }
+        },
+        "id": "1644567522031853570",
+        "location": "雲母の星",
+        "name": "雲母ミク",
+        "pinned_tweet_id": "1906720128693113327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784620826220007424/r2J4Sxz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 1293,
+          "like_count": 74237,
+          "listed_count": 7,
+          "media_count": 1120,
+          "tweet_count": 11809
+        },
+        "url": "https://t.co/n91ct8aC9h",
+        "username": "Kirara_Miku",
+        "verified": false
+      }
+    ]
+  }
+}

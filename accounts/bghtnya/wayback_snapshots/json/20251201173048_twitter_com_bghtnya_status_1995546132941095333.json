@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1990630680125190196",
+    "created_at": "2025-12-01T17:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T18:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995546132941095333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "380749300",
+          "start": 0,
+          "username": "Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995546132941095333",
+    "in_reply_to_user_id": "380749300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990630680125190196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apple 户橙风"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1990630680125190196",
+        "created_at": "2025-12-01T17:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T18:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995546132941095333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "380749300",
+              "start": 0,
+              "username": "Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995546132941095333",
+        "in_reply_to_user_id": "380749300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990630680125190196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apple 户橙风"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "380749300",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "S&P 500",
+              "id": "864154902926196737",
+              "name": "S&P 500"
+            }
+          }
+        ],
+        "conversation_id": "1990630680125190196",
+        "created_at": "2025-11-18T03:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T04:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990630680125190196"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Apple Store",
+              "probability": 0.5115,
+              "start": 0,
+              "type": "Product"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990630680125190196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 24814794,
+          "like_count": 516,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "Apple Storeでギフトを選ぼう。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8317,
+          "following_count": 2120,
+          "like_count": 171296,
+          "listed_count": 20,
+          "media_count": 3547,
+          "tweet_count": 43647
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "pinned_tweet_id": "1965478073152995503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9947351,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15087,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

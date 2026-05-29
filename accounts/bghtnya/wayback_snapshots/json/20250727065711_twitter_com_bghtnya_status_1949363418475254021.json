@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1949243262524706942",
+    "created_at": "2025-07-27T06:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T07:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949363418475254021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949363418475254021",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949243262524706942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 刀战房"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60566,
+        "height": 1280,
+        "media_key": "13_1949242729336049664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949242729336049664/img/aGrrUAQ1XditgJdS.jpg",
+        "public_metrics": {
+          "view_count": 78481
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949242729336049664/vid/avc1/320x710/lC7nincjEZ3PauGl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949242729336049664/vid/avc1/480x1066/6PFC3nbGaD8osiK7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949242729336049664/vid/avc1/576x1280/ohNVOsEvsu_6lFb-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949242729336049664/pl/K5KQJc1X8E-d60ED.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 38730,
+        "height": 960,
+        "media_key": "13_1949242823724666880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949242823724666880/img/qBCD7np6BTOB-LLS.jpg",
+        "public_metrics": {
+          "view_count": 22070
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949242823724666880/vid/avc1/320x564/8p2AJ04HKM94UD34.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949242823724666880/vid/avc1/480x846/8Gn8TbG_zCWbcQRW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949242823724666880/vid/avc1/544x960/8a13_AiFXHePEUp3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949242823724666880/pl/tXUDd2aF35RzIe3t.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 45566,
+        "height": 1280,
+        "media_key": "13_1949243030025723904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949243030025723904/img/m0CwO1n6RSstH4Gn.jpg",
+        "public_metrics": {
+          "view_count": 23800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949243030025723904/vid/avc1/320x568/ofukQp5suaI4HvvZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949243030025723904/vid/avc1/480x852/ScgEgP02cdnGE1dU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949243030025723904/vid/avc1/720x1280/_eFACY22sW7I8b-c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949243030025723904/pl/F3MIdGhzLcKH8WnK.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 115566,
+        "height": 848,
+        "media_key": "13_1949243035331538944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949243035331538944/img/Se5BglHmO-YIFah5.jpg",
+        "public_metrics": {
+          "view_count": 18792
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949243035331538944/vid/avc1/320x564/NVf-eo0_Q28Z2POF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949243035331538944/vid/avc1/480x848/c4ZeZX5mRfXZIZ-e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949243035331538944/pl/iEySloOOZ5nIx8A8.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1949243262524706942",
+        "created_at": "2025-07-27T06:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T07:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949363418475254021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949363418475254021",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949243262524706942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 刀战房"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949242729336049664",
+            "13_1949242823724666880",
+            "13_1949243030025723904",
+            "13_1949243035331538944"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949243262524706942",
+        "created_at": "2025-07-26T22:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T23:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949243262524706942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WfejX0QbVF",
+              "end": 47,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949243262524706942/video/1",
+              "media_key": "13_1949242729336049664",
+              "start": 24,
+              "url": "https://t.co/WfejX0QbVF"
+            },
+            {
+              "display_url": "pic.x.com/WfejX0QbVF",
+              "end": 47,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949243262524706942/video/1",
+              "media_key": "13_1949242823724666880",
+              "start": 24,
+              "url": "https://t.co/WfejX0QbVF"
+            },
+            {
+              "display_url": "pic.x.com/WfejX0QbVF",
+              "end": 47,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949243262524706942/video/1",
+              "media_key": "13_1949243030025723904",
+              "start": 24,
+              "url": "https://t.co/WfejX0QbVF"
+            },
+            {
+              "display_url": "pic.x.com/WfejX0QbVF",
+              "end": 47,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949243262524706942/video/1",
+              "media_key": "13_1949243035331538944",
+              "start": 24,
+              "url": "https://t.co/WfejX0QbVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949243262524706942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 183522,
+          "like_count": 1243,
+          "quote_count": 23,
+          "reply_count": 159,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "【慎入】7月27日，全国多地发生持刀捅人事件。 https://t.co/WfejX0QbVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7219,
+          "following_count": 2041,
+          "like_count": 154524,
+          "listed_count": 17,
+          "media_count": 2968,
+          "tweet_count": 38714
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044122,
+          "following_count": 980,
+          "like_count": 7721,
+          "listed_count": 8210,
+          "media_count": 32298,
+          "tweet_count": 38965
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

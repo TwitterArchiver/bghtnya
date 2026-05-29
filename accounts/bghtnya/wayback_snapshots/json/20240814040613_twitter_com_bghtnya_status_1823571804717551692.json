@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1823030739103010836",
+    "created_at": "2024-08-14T04:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T05:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823571804717551692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1678063593127043072",
+          "start": 0,
+          "username": "cui686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823571804717551692",
+    "in_reply_to_user_id": "1678063593127043072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823030739103010836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cui686 支持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1823030739103010836",
+        "created_at": "2024-08-14T04:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T05:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823571804717551692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1678063593127043072",
+              "start": 0,
+              "username": "cui686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823571804717551692",
+        "in_reply_to_user_id": "1678063593127043072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823030739103010836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cui686 支持！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823030736649400320"
+          ]
+        },
+        "author_id": "1678063593127043072",
+        "conversation_id": "1823030739103010836",
+        "created_at": "2024-08-12T16:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T17:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823030739103010836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1kfwo0ivo",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cui686/status/1823030739103010836/photo/1",
+              "media_key": "3_1823030736649400320",
+              "start": 5,
+              "url": "https://t.co/m1KFwO0Ivo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823030739103010836",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/m1KFwO0Ivo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 1464,
+          "like_count": 87236,
+          "listed_count": 10,
+          "tweet_count": 18873
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T15:29:09.000Z",
+        "description": "安那其道家主義 🤠☝\n\n“太上，不知有之；\n其次，親而譽之；\n其次，畏之；\n其次，侮之。\n信不足焉，有不信焉。\n悠兮，其貴言。\n功成事遂，百姓皆謂我自然。”",
+        "id": "1678063593127043072",
+        "location": "Kowloon City District",
+        "name": "Tao-Anarchism☯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823030719268167680/i9XM7osP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 43,
+          "like_count": 238,
+          "listed_count": 0,
+          "tweet_count": 49
+        },
+        "username": "cui686",
+        "verified": false
+      }
+    ]
+  }
+}

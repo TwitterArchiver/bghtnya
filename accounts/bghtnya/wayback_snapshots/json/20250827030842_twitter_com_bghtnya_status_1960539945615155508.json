@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1960300982895518153",
+    "created_at": "2025-08-27T03:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T04:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960539945615155508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460443622533320712",
+          "start": 0,
+          "username": "_lidonhtingone_"
+        },
+        {
+          "end": 27,
+          "id": "1748833765475155968",
+          "start": 17,
+          "username": "miaowu075"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960539945615155508",
+    "in_reply_to_user_id": "1460443622533320712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960526823781228792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_lidonhtingone_ @miaowu075 没加 感觉头像不对劲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960526823781228792].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960526823781228792",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960526823781228792"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1960300982895518153",
+        "created_at": "2025-08-27T03:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T04:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960539945615155508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460443622533320712",
+              "start": 0,
+              "username": "_lidonhtingone_"
+            },
+            {
+              "end": 27,
+              "id": "1748833765475155968",
+              "start": 17,
+              "username": "miaowu075"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960539945615155508",
+        "in_reply_to_user_id": "1460443622533320712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960526823781228792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_lidonhtingone_ @miaowu075 没加 感觉头像不对劲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7392,
+          "following_count": 2058,
+          "like_count": 157344,
+          "listed_count": 18,
+          "media_count": 3076,
+          "tweet_count": 39586
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T03:04:46.000Z",
+        "description": "114514",
+        "id": "1460443622533320712",
+        "location": "太原",
+        "name": "ldt🇨🇳",
+        "pinned_tweet_id": "1957480912356303245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678620505807507456/Re3gt1sv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 470,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 916,
+          "tweet_count": 15382
+        },
+        "username": "_lidonhtingone_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T22:24:07.000Z",
+        "description": "infp｜mtx｜猫猫｜和我打游戏!｜吃货｜永远最爱的可爱女朋友：云雀酱@Hibari233 妹妹：@MtF_Hoshinoyuu  好朋友:@ringochichidim @JOJOEvangelist @Autodupenothing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Hibari233"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "MtF_Hoshinoyuu"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "JOJOEvangelist"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "Autodupenothing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaowu075",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaowu075",
+                "start": 0,
+                "url": "https://t.co/sWNcmHuboi"
+              }
+            ]
+          }
+        },
+        "id": "1748833765475155968",
+        "location": "你身边",
+        "name": "Miaowu",
+        "pinned_tweet_id": "1916906409998094842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925571439262146567/Xx8y4RNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 330,
+          "like_count": 8515,
+          "listed_count": 6,
+          "media_count": 537,
+          "tweet_count": 7854
+        },
+        "url": "https://t.co/sWNcmHuboi",
+        "username": "miaowu075",
+        "verified": false
+      }
+    ]
+  }
+}

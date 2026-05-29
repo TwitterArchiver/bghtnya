@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2023426238501797910",
+    "created_at": "2026-02-16T15:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T16:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023426238501797910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247054463329656832",
+          "start": 3,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023426238501797910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023378134398357699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quasarne: 祝各位改革派、保守派、技术官僚派、改开派、习派、江派、上海帮、太子党、团派、红二代、蓝营、绿营、小草、青鸟、民国派、统派、独派、中间选民、皇汉、目田、左派、新左派、社会民主派、民族主义、国家主义者、右派、走资派、大恶霸、修正主义、春节快乐🎉，希望20…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023426238501797910",
+        "created_at": "2026-02-16T15:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023426238501797910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247054463329656832",
+              "start": 3,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023426238501797910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023378134398357699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quasarne: 祝各位改革派、保守派、技术官僚派、改开派、习派、江派、上海帮、太子党、团派、红二代、蓝营、绿营、小草、青鸟、民国派、统派、独派、中间选民、皇汉、目田、左派、新左派、社会民主派、民族主义、国家主义者、右派、走资派、大恶霸、修正主义、春节快乐🎉，希望20…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023378134398357699",
+        "created_at": "2026-02-16T12:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:42:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023377351967715689",
+          "2023378134398357699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023378134398357699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "祝各位改革派、保守派、技术官僚派、改开派、习派、江派、上海帮、太子党、团派、红二代、蓝营、绿营、小草、青鸟、民国派、统派、独派、中间选民、皇汉、目田、左派、新左派、社会民主派、民族主义、国家主义者、右派、走资派、大恶霸、修正主义、春节快乐🎉，希望2026年各位在更激烈的争吵中大放异彩 发光发热！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4778,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "祝各位改革派、保守派、技术官僚派、改开派、习派、江派、上海帮、太子党、团派、红二代、蓝营、绿营、小草、青鸟、民国派、统派、独派、中间选民、皇汉、目田、左派、新左派、社会民主派、民族主义、国家主义者、右派、走资派、大恶霸、修正主义、春节快乐🎉，希望2026年各位在更激烈的争吵中大放异彩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2023057004500296149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8925,
+          "following_count": 2076,
+          "like_count": 172866,
+          "listed_count": 18,
+          "media_count": 3738,
+          "tweet_count": 45662
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "Knowledge is кии to the universe 社恐｜🌹Chaos Left 自由•平等•民主｜👾愛數碼/科幻/策略/音游 NS｜🏳️‍🌈bisexual｜ 🌐漢語 吴、普/English OK/日本語 勉強中｜🌌PER ASPERA AD ASTRA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qnacc",
+                "end": 23,
+                "expanded_url": "http://t.me/qnacc",
+                "start": 0,
+                "url": "https://t.co/fofrUB1su9"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない🇺🇳",
+        "pinned_tweet_id": "1987440923995988466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 813,
+          "like_count": 68624,
+          "listed_count": 5,
+          "media_count": 774,
+          "tweet_count": 10960
+        },
+        "url": "https://t.co/fofrUB1su9",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

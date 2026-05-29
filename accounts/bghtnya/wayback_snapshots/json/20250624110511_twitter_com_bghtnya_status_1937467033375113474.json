@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1937160404456907180",
+    "created_at": "2025-06-24T11:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T12:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937467033375113474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        },
+        {
+          "end": 23,
+          "id": "1586779015574327296",
+          "start": 8,
+          "username": "Cya_Ninnensuki"
+        },
+        {
+          "end": 34,
+          "id": "1479696561302999042",
+          "start": 24,
+          "username": "quitee123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937467033375113474",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937448255870341565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk @Cya_Ninnensuki @quitee123 我不到啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1937448255870341565].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1937448255870341565",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1937448255870341565"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1937160404456907180",
+        "created_at": "2025-06-24T11:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937467033375113474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            },
+            {
+              "end": 23,
+              "id": "1586779015574327296",
+              "start": 8,
+              "username": "Cya_Ninnensuki"
+            },
+            {
+              "end": 34,
+              "id": "1479696561302999042",
+              "start": 24,
+              "username": "quitee123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937467033375113474",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937448255870341565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk @Cya_Ninnensuki @quitee123 我不到啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6591,
+          "following_count": 2008,
+          "like_count": 149814,
+          "listed_count": 14,
+          "media_count": 2794,
+          "tweet_count": 37281
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "🦊/plurality/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "kawa1_kitsune"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3U8dO"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1932904144186360228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927213078019481600/hoi_G8nk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 3023,
+          "like_count": 276373,
+          "listed_count": 15,
+          "media_count": 883,
+          "tweet_count": 12653
+        },
+        "url": "https://t.co/i3MKU3U8dO",
+        "username": "kjkluk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "169㎝ 52.5㎏・OCD・ADHD可能・喜欢JK制服/lolita/地雷系・一直是果然多\n常态化的Nagi",
+        "id": "1586779015574327296",
+        "name": "鹿野外的茶酱",
+        "pinned_tweet_id": "1863476547421962526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927056193832296449/I7YahQsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 367,
+          "like_count": 14622,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 12437
+        },
+        "username": "Cya_Ninnensuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina tg：@hajvmi SRS记录：https://t.co/jVttn2XGM7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "username": "hajvmi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 120,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 97,
+                "url": "https://t.co/jVttn2XGM7"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903862743012380672/H6rYb4Zo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9200,
+          "following_count": 2771,
+          "like_count": 28653,
+          "listed_count": 23,
+          "media_count": 654,
+          "tweet_count": 13035
+        },
+        "username": "quitee123",
+        "verified": false
+      }
+    ]
+  }
+}

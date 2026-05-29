@@ -1,0 +1,199 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1796852293800988776",
+    "created_at": "2024-06-01T15:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T16:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796920298987806938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1456869803663130626",
+          "start": 0,
+          "username": "QuarkLine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796920298987806938",
+    "in_reply_to_user_id": "1456869803663130626",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796852293800988776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuarkLine 写代码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1796852293800988776",
+        "created_at": "2024-06-01T15:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T16:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796920298987806938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1456869803663130626",
+              "start": 0,
+              "username": "QuarkLine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796920298987806938",
+        "in_reply_to_user_id": "1456869803663130626",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796852293800988776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuarkLine 写代码"
+      },
+      {
+        "attachments": {},
+        "author_id": "1456869803663130626",
+        "conversation_id": "1796852293800988776",
+        "created_at": "2024-06-01T10:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T11:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796852293800988776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796852293800988776",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3457,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对于已满16周岁xyn来说，怎样的工作最为合适？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 1354,
+          "like_count": 68842,
+          "listed_count": 7,
+          "tweet_count": 14316
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:23:42.000Z",
+        "description": "“吃吧，喝吧，开心点，因为我们都会死。”\n「信仰：@1leassis」\n「笨蛋科特：@Kietter387803」\n「妹妹：@Acenanami」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "1leassis"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Acenanami"
+              }
+            ]
+          }
+        },
+        "id": "1456869803663130626",
+        "location": "中原",
+        "name": "一般路过秦洛",
+        "pinned_tweet_id": "1796560335337660828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796145127456641024/3A6Uc5f-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 812,
+          "like_count": 25768,
+          "listed_count": 3,
+          "tweet_count": 6968
+        },
+        "username": "QuarkLine",
+        "verified": false
+      }
+    ]
+  }
+}

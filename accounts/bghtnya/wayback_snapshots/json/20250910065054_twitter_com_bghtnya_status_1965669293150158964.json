@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1965660377473335592",
+    "created_at": "2025-09-10T06:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T07:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965669293150158964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965669293150158964",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965660377473335592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq 那很有营养了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1965660377473335592",
+        "created_at": "2025-09-10T06:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965669293150158964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965669293150158964",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965660377473335592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 那很有营养了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685784710285266944",
+        "conversation_id": "1965660377473335592",
+        "created_at": "2025-09-10T06:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965660377473335592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raidraptormira…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/raidraptormirai/status/1965637263691497854",
+              "start": 9,
+              "url": "https://t.co/4D4xm7MllL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965660377473335592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965637263691497854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人没事吧...😨 https://t.co/4D4xm7MllL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7438,
+          "following_count": 2069,
+          "like_count": 157710,
+          "listed_count": 18,
+          "media_count": 3127,
+          "tweet_count": 39877
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "mtf，infp｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜处理破事｜不建政｜Minecraft｜格雷科寄｜p社战犯｜杂鱼😈@Alxiaz_ @Black_Millet   @dancingsnow0517",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "Alxiaz_"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Black_Millet"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "dancingsnow0517"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1965611185681613123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3129,
+          "following_count": 438,
+          "like_count": 8031,
+          "listed_count": 6,
+          "media_count": 1196,
+          "tweet_count": 7055
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

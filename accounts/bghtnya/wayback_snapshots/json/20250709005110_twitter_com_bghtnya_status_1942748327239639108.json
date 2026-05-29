@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1942560063320908060",
+    "created_at": "2025-07-09T00:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T01:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942748327239639108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1898737003614896128",
+          "start": 0,
+          "username": "tangyihan271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942748327239639108",
+    "in_reply_to_user_id": "1898737003614896128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942598014457307401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangyihan271 充电宝（确信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1942560063320908060",
+        "created_at": "2025-07-09T00:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T01:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942748327239639108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1898737003614896128",
+              "start": 0,
+              "username": "tangyihan271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942748327239639108",
+        "in_reply_to_user_id": "1898737003614896128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942598014457307401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangyihan271 充电宝（确信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898737003614896128",
+        "conversation_id": "1942560063320908060",
+        "created_at": "2025-07-08T14:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942598014457307401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942598014457307401",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942560063320908060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 这到底是啥啊，我在我同学家里也看见了这个，问问他这是啥，他不告诉我🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7083,
+          "following_count": 2014,
+          "like_count": 151405,
+          "listed_count": 17,
+          "media_count": 2869,
+          "tweet_count": 38004
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T14:06:05.000Z",
+        "description": "一个钓鱼佬，不是粉红反贼，只是一个陈述客观事实的爱国初中生🇨🇳，武汉人，ENFP，支持巴勒斯坦🇵🇸，友跨🏳️‍⚧️友同🏳️‍🌈，铁道迷，最喜欢煎饼果子，\n热爱钓鱼，政历地物，江学（too simple）；尊重不同的政治立场与其他任何事物（极端支黑绿蛙除外），欢迎各位扩列交友☺️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinacaa.org.cn",
+                "end": 23,
+                "expanded_url": "http://www.chinacaa.org.cn/",
+                "start": 0,
+                "url": "https://t.co/zs8FMno1l0"
+              }
+            ]
+          }
+        },
+        "id": "1898737003614896128",
+        "location": "钓鱼钓位",
+        "name": "不知道叫啥🇨🇳",
+        "pinned_tweet_id": "1942609477511024706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941672332885385216/uoVHOeaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 218,
+          "like_count": 750,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/zs8FMno1l0",
+        "username": "tangyihan271",
+        "verified": false
+      }
+    ]
+  }
+}

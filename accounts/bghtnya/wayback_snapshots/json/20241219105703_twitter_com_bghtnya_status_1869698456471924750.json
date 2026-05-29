@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1869351790757699584"
+      ],
+      "media_source_tweet_id": [
+        "1869359405638242643"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1346150703182401537",
+          "name": "Bubble tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1346150703182401537",
+          "name": "Bubble tea"
+        }
+      }
+    ],
+    "conversation_id": "1869698456471924750",
+    "created_at": "2024-12-19T10:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T11:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869698456471924750"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "カプー"
+        },
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "capoo"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "咖波"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1519869093586751488",
+          "start": 3,
+          "username": "bugcat_capoo_tw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6L9eVECD0p",
+          "end": 84,
+          "expanded_url": "https://x.com/bugcat_capoo_tw/status/1869359405638242643/video/1",
+          "media_key": "13_1869351790757699584",
+          "start": 61,
+          "url": "https://t.co/6L9eVECD0p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869698456471924750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 453
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869359405638242643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bugcat_capoo_tw: Bubble tea rain\n珍珠奶茶雨\n\n #カプー #capoo #咖波 https://t.co/6L9eVECD0p"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21208,
+        "height": 1920,
+        "media_key": "13_1869351790757699584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1869351790757699584/img/XO2K1DLw4EGbiP_m.jpg",
+        "public_metrics": {
+          "view_count": 17485
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1869351790757699584/vid/avc1/720x1280/Hz5YHB6V2KFqKXc7.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1869351790757699584/vid/avc1/480x852/2A35EGK_06HgJKQI.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1869351790757699584/vid/avc1/1080x1920/G2HUo8BMSpt1lMrF.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1869351790757699584/vid/avc1/320x568/UBog9qs8gB9xO69h.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1869351790757699584/pl/HOYpoK7gvwaZ9v5g.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1869351790757699584"
+          ],
+          "media_source_tweet_id": [
+            "1869359405638242643"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346150703182401537",
+              "name": "Bubble tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1346150703182401537",
+              "name": "Bubble tea"
+            }
+          }
+        ],
+        "conversation_id": "1869698456471924750",
+        "created_at": "2024-12-19T10:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T11:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869698456471924750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "カプー"
+            },
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "capoo"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "咖波"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1519869093586751488",
+              "start": 3,
+              "username": "bugcat_capoo_tw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6L9eVECD0p",
+              "end": 84,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1869359405638242643/video/1",
+              "media_key": "13_1869351790757699584",
+              "start": 61,
+              "url": "https://t.co/6L9eVECD0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869698456471924750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 453
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869359405638242643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bugcat_capoo_tw: Bubble tea rain\n珍珠奶茶雨\n\n #カプー #capoo #咖波 https://t.co/6L9eVECD0p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1869351790757699584"
+          ]
+        },
+        "author_id": "1519869093586751488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346150703182401537",
+              "name": "Bubble tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1346150703182401537",
+              "name": "Bubble tea"
+            }
+          }
+        ],
+        "conversation_id": "1869359405638242643",
+        "created_at": "2024-12-18T12:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:59:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869351897611853849",
+          "1869359405638242643"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "カプー"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "capoo"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "咖波"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6L9eVECD0p",
+              "end": 63,
+              "expanded_url": "https://x.com/bugcat_capoo_tw/status/1869359405638242643/video/1",
+              "media_key": "13_1869351790757699584",
+              "start": 40,
+              "url": "https://t.co/6L9eVECD0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869359405638242643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 49286,
+          "like_count": 2979,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "Bubble tea rain\n珍珠奶茶雨\n\n #カプー #capoo #咖波 https://t.co/6L9eVECD0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3963,
+          "following_count": 1711,
+          "like_count": 113386,
+          "listed_count": 14,
+          "media_count": 1808,
+          "tweet_count": 27353
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. 貓貓蟲咖波官方帳號，作者亞拉，來自台灣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWPA9k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105602,
+          "following_count": 66,
+          "like_count": 55,
+          "listed_count": 211,
+          "media_count": 227,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/XuFbWWPA9k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

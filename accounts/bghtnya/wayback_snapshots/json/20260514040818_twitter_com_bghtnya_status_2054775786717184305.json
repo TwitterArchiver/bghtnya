@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2054759618220589358",
+    "created_at": "2026-05-14T04:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054775786717184305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 44,
+          "expanded_url": "https://x.com/bghtnya/status/1988904074679320729?s=20",
+          "start": 21,
+          "url": "https://t.co/VlUhgscgaZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054775786717184305",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988904074679320729",
+        "type": "quoted"
+      },
+      {
+        "id": "2054759618220589358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 随便拿个处方图就行了\nhttps://t.co/VlUhgscgaZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_1988904072540483584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oBt2AacAAmknq.jpg",
+        "width": 911
+      },
+      {
+        "height": 587,
+        "media_key": "3_2054759611849461760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIP4-vsbUAANd0x.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2054759618220589358",
+        "created_at": "2026-05-14T04:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054775786717184305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 44,
+              "expanded_url": "https://x.com/bghtnya/status/1988904074679320729?s=20",
+              "start": 21,
+              "url": "https://t.co/VlUhgscgaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054775786717184305",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988904074679320729",
+            "type": "quoted"
+          },
+          {
+            "id": "2054759618220589358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 随便拿个处方图就行了\nhttps://t.co/VlUhgscgaZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988904072540483584"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1988904074679320729",
+        "created_at": "2025-11-13T09:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988904074679320729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WFfLleagpj",
+              "end": 34,
+              "expanded_url": "https://x.com/bghtnya/status/1988904074679320729/photo/1",
+              "media_key": "3_1988904072540483584",
+              "start": 11,
+              "url": "https://t.co/WFfLleagpj"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/bghtnya/status/1988903231150272878",
+              "start": 35,
+              "url": "https://t.co/1OzoY1mbEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988904074679320729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 21835,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988903231150272878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "进一步开源戊酸雌二醇 https://t.co/WFfLleagpj https://t.co/1OzoY1mbEi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054759611849461760"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2054759618220589358",
+        "created_at": "2026-05-14T03:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054759618220589358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rzoVFGSCC",
+              "end": 40,
+              "expanded_url": "https://x.com/senzhiwu/status/2054759618220589358/photo/1",
+              "media_key": "3_2054759611849461760",
+              "start": 17,
+              "url": "https://t.co/6rzoVFGSCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054759618220589358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试过了喵，拿病例网上开不了补呜呜 https://t.co/6rzoVFGSCC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9216,
+          "following_count": 2197,
+          "like_count": 177864,
+          "listed_count": 20,
+          "media_count": 3888,
+          "tweet_count": 47615
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物吧（或许❓）生产日期2008（半个年龄党吗😨）mtx🏳️‍⚧️小证含糖（我要大证喵😭）ENTP-T（不知道测了有啥用😇）hrt 3.29（未免太短了吧😡）🇲🇾留学生/常驻南京 先尝试活着吧，太缺爱了…",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053664671811670421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353915830882304/u21sPFyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 250,
+          "like_count": 1683,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 1697
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

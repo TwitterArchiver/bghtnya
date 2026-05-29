@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1911570847598563523",
+    "created_at": "2025-04-14T01:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T02:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911590825366012290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911590825366012290",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911570847598563523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki 还有广告"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1817,
+        "media_key": "3_1911570666001735680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GodDZI4XIAANFmk.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1911570847598563523",
+        "created_at": "2025-04-14T01:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T02:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911590825366012290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911590825366012290",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911570847598563523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 还有广告"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911570666001735680"
+          ]
+        },
+        "author_id": "1804587925805596672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1911570847598563523",
+        "created_at": "2025-04-14T00:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T01:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911570847598563523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaLsBqdRR6",
+              "end": 58,
+              "expanded_url": "https://x.com/OverSpeed_Wiki/status/1911570847598563523/photo/1",
+              "media_key": "3_1911570666001735680",
+              "start": 35,
+              "url": "https://t.co/HaLsBqdRR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911570847598563523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 496,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "某前辈最新指示：\n别用ChatGPT，用Gemini 2.5 pro https://t.co/HaLsBqdRR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 1880,
+          "like_count": 128979,
+          "listed_count": 14,
+          "media_count": 2361,
+          "tweet_count": 32913
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1903403105963872404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 514,
+          "like_count": 9039,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

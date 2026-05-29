@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2046887449239134423",
+    "created_at": "2026-04-23T07:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047215236751790478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2017878602164088832",
+          "start": 0,
+          "username": "xyu1182202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047215236751790478",
+    "in_reply_to_user_id": "2017878602164088832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046887449239134423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyu1182202 晶哥再乱抓人那就全国晶哥和习近平共享一个🐴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2046887449239134423",
+        "created_at": "2026-04-23T07:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047215236751790478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017878602164088832",
+              "start": 0,
+              "username": "xyu1182202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047215236751790478",
+        "in_reply_to_user_id": "2017878602164088832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046887449239134423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyu1182202 晶哥再乱抓人那就全国晶哥和习近平共享一个🐴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017878602164088832",
+        "conversation_id": "2046887449239134423",
+        "created_at": "2026-04-22T09:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046887449239134423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xyu1182202/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/xyu1182202/status/2046223244907409655",
+              "start": 84,
+              "url": "https://t.co/J2tKvcnUSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046887449239134423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 852,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046223244907409655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晶哥你好我会删除以前的所有涉政内容并保证不再发布类似内容🇨🇳🇨🇳🇨🇳\n弘扬正气并传播正能量🇨🇳🇨🇳🇨🇳\n确保发言符合中国大陆法律🇨🇳🇨🇳🇨🇳\n🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥🍥 https://t.co/J2tKvcnUSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8999,
+          "following_count": 2142,
+          "like_count": 177413,
+          "listed_count": 19,
+          "media_count": 3858,
+          "tweet_count": 47268
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-01T08:32:11.000Z",
+        "description": "谢谢你关注我喵～\n所有关注都会回喵～\n\n宝宝@xiey57828\n另一个曦月@xiyu1167103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "xiey57828"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "xiyu1167103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyue48027",
+                "end": 23,
+                "expanded_url": "http://ngl.link/xiyue48027",
+                "start": 0,
+                "url": "https://t.co/uLGrCxGoiH"
+              }
+            ]
+          }
+        },
+        "id": "2017878602164088832",
+        "location": "家",
+        "name": "曦月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046971761930170599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042254050557820928/D4EAX9tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 802,
+          "like_count": 3262,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3976
+        },
+        "url": "https://t.co/uLGrCxGoiH",
+        "username": "xyu1182202",
+        "verified": false
+      }
+    ]
+  }
+}

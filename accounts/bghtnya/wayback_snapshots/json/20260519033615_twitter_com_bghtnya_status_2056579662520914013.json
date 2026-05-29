@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056579607269433344",
+        "3_2056579619013435392"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056574011849794025",
+    "created_at": "2026-05-19T03:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056579662520914013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054877291633909760",
+          "start": 0,
+          "username": "TransYuwen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FWvEEuIqD9",
+          "end": 76,
+          "expanded_url": "https://x.com/bghtnya/status/2056579662520914013/photo/1",
+          "media_key": "3_2056579607269433344",
+          "start": 53,
+          "url": "https://t.co/FWvEEuIqD9"
+        },
+        {
+          "display_url": "pic.x.com/FWvEEuIqD9",
+          "end": 76,
+          "expanded_url": "https://x.com/bghtnya/status/2056579662520914013/photo/1",
+          "media_key": "3_2056579619013435392",
+          "start": 53,
+          "url": "https://t.co/FWvEEuIqD9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056579662520914013",
+    "in_reply_to_user_id": "2054877291633909760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056574670430953732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransYuwen 把图1的角色替换为图2，保留图1的画风和衣物不变，把腿上那段文字去掉，人加上猫耳 https://t.co/FWvEEuIqD9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2056579607269433344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpwQa-bYAAyhj5.png",
+        "width": 622
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2056579619013435392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpwRGuaoAAvv9x.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056579607269433344",
+            "3_2056579619013435392"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056574011849794025",
+        "created_at": "2026-05-19T03:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056579662520914013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054877291633909760",
+              "start": 0,
+              "username": "TransYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWvEEuIqD9",
+              "end": 76,
+              "expanded_url": "https://x.com/bghtnya/status/2056579662520914013/photo/1",
+              "media_key": "3_2056579607269433344",
+              "start": 53,
+              "url": "https://t.co/FWvEEuIqD9"
+            },
+            {
+              "display_url": "pic.x.com/FWvEEuIqD9",
+              "end": 76,
+              "expanded_url": "https://x.com/bghtnya/status/2056579662520914013/photo/1",
+              "media_key": "3_2056579619013435392",
+              "start": 53,
+              "url": "https://t.co/FWvEEuIqD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056579662520914013",
+        "in_reply_to_user_id": "2054877291633909760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056574670430953732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransYuwen 把图1的角色替换为图2，保留图1的画风和衣物不变，把腿上那段文字去掉，人加上猫耳 https://t.co/FWvEEuIqD9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054877291633909760",
+        "conversation_id": "2056574011849794025",
+        "created_at": "2026-05-19T03:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056574670430953732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056574670430953732",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056574011849794025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 我急需提示词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9862,
+          "following_count": 2340,
+          "like_count": 178648,
+          "listed_count": 21,
+          "media_count": 3930,
+          "tweet_count": 48038
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍|",
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2056237151311032522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 32,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 461
+        },
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

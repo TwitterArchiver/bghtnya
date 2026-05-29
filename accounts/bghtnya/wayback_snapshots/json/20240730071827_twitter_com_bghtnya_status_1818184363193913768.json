@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1818184337319514112"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1818181762746646960",
+    "created_at": "2024-07-30T07:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T08:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818184363193913768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/hsbaYwFEbk",
+          "end": 34,
+          "expanded_url": "https://twitter.com/bghtnya/status/1818184363193913768/photo/1",
+          "media_key": "16_1818184337319514112",
+          "start": 11,
+          "url": "https://t.co/hsbaYwFEbk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818184363193913768",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818181762746646960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ https://t.co/hsbaYwFEbk"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1818181762746646960].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1818181762746646960",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1818181762746646960"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 212,
+        "media_key": "16_1818184337319514112",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GTt9BYob0AAcg_e.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GTt9BYob0AAcg_e.mp4"
+          }
+        ],
+        "width": 212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1818184337319514112"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1818181762746646960",
+        "created_at": "2024-07-30T07:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T08:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818184363193913768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hsbaYwFEbk",
+              "end": 34,
+              "expanded_url": "https://twitter.com/bghtnya/status/1818184363193913768/photo/1",
+              "media_key": "16_1818184337319514112",
+              "start": 11,
+              "url": "https://t.co/hsbaYwFEbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818184363193913768",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818181762746646960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ https://t.co/hsbaYwFEbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 1431,
+          "like_count": 81656,
+          "listed_count": 9,
+          "tweet_count": 17667
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/天残党/深柜/INT(F?)P/音游人//////////////\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 909,
+          "like_count": 24019,
+          "listed_count": 5,
+          "tweet_count": 4627
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

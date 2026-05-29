@@ -1,0 +1,298 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1816149203724427264"
+      ],
+      "media_source_tweet_id": [
+        "1816149456259277167"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1816306597561524446",
+    "created_at": "2024-07-25T02:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T03:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816306597561524446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "0157_wxd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Yi0DNPdXuz",
+          "end": 37,
+          "expanded_url": "https://twitter.com/0157_wxd/status/1816149456259277167/photo/1",
+          "media_key": "16_1816149203724427264",
+          "start": 14,
+          "url": "https://t.co/Yi0DNPdXuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816306597561524446",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816149456259277167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0157_wxd: https://t.co/Yi0DNPdXuz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "16_1816149203724427264",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GTRCFBMaYAAA-yc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GTRCFBMaYAAA-yc.mp4"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1816149203724427264"
+          ],
+          "media_source_tweet_id": [
+            "1816149456259277167"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816306597561524446",
+        "created_at": "2024-07-25T02:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T03:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816306597561524446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602663153623388161",
+              "start": 3,
+              "username": "0157_wxd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Yi0DNPdXuz",
+              "end": 37,
+              "expanded_url": "https://twitter.com/0157_wxd/status/1816149456259277167/photo/1",
+              "media_key": "16_1816149203724427264",
+              "start": 14,
+              "url": "https://t.co/Yi0DNPdXuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816306597561524446",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816149456259277167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0157_wxd: https://t.co/Yi0DNPdXuz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1816149203724427264"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816149456259277167",
+        "created_at": "2024-07-24T16:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T17:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816149456259277167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Yi0DNPdXuz",
+              "end": 23,
+              "expanded_url": "https://twitter.com/0157_wxd/status/1816149456259277167/photo/1",
+              "media_key": "16_1816149203724427264",
+              "start": 0,
+              "url": "https://t.co/Yi0DNPdXuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816149456259277167",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 450,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Yi0DNPdXuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 1429,
+          "like_count": 80531,
+          "listed_count": 7,
+          "tweet_count": 17170
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "狠狠攒钱整adx\n\n另外👮别来盯我了，这没你想看的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mastodon.world/@xdw_2887",
+                "end": 23,
+                "expanded_url": "https://mastodon.world/@xdw_2887",
+                "start": 0,
+                "url": "https://t.co/cmUTtRtmx0"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811247042356039680/OqfyZSSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 3900,
+          "like_count": 42012,
+          "listed_count": 8,
+          "tweet_count": 6402
+        },
+        "url": "https://t.co/cmUTtRtmx0",
+        "username": "0157_wxd",
+        "verified": false
+      }
+    ]
+  }
+}

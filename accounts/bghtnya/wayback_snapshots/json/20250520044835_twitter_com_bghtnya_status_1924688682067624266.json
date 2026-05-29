@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1924516254540537930",
+    "created_at": "2025-05-20T04:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T05:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924688682067624266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1715912099468279808",
+          "start": 0,
+          "username": "368_a4"
+        },
+        {
+          "end": 23,
+          "id": "1515322454536716289",
+          "start": 8,
+          "username": "siling221_8964"
+        },
+        {
+          "end": 40,
+          "id": "1077881816088858627",
+          "start": 24,
+          "username": "dzTJ6lwqk8KAcq2"
+        },
+        {
+          "end": 50,
+          "id": "1825091642841513984",
+          "start": 41,
+          "username": "jiuwei86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924688682067624266",
+    "in_reply_to_user_id": "1715912099468279808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924617847659184163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@368_a4 @siling221_8964 @dzTJ6lwqk8KAcq2 @jiuwei86 同问 上海人也不知道"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924688682067624266].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924688682067624266",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924688682067624266"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1924617847659184163].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924617847659184163",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924617847659184163"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1913785389120389610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6314,
+          "following_count": 1949,
+          "like_count": 137385,
+          "listed_count": 14,
+          "media_count": 2530,
+          "tweet_count": 34871
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T02:05:22.000Z",
+        "description": "",
+        "id": "1715912099468279808",
+        "name": "没用的东西",
+        "pinned_tweet_id": "1795249388580929898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924373922398576640/-L524CP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 88,
+          "like_count": 3670,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 322
+        },
+        "username": "368_a4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T13:33:28.000Z",
+        "description": "转生号：@siling227 并非极端 单纯讨厌某些群体 本人很友善 喜欢好看男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "siling227"
+              }
+            ]
+          }
+        },
+        "id": "1515322454536716289",
+        "name": "卡拉彼丘高手",
+        "pinned_tweet_id": "1816501065707401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924604670347247616/zNHpllor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 682,
+          "like_count": 10347,
+          "listed_count": 1,
+          "media_count": 738,
+          "tweet_count": 6901
+        },
+        "username": "siling221_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T11:00:25.000Z",
+        "description": "来推特就是为了看大家吵架😆",
+        "id": "1077881816088858627",
+        "location": "你心里",
+        "name": "吴京坐在比亚迪上开5G用华为打原神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854094117770584064/Yewknq7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 465,
+          "like_count": 5655,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 426
+        },
+        "username": "dzTJ6lwqk8KAcq2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T08:46:44.000Z",
+        "description": "想要我讲几个笑话给你听吗？",
+        "id": "1825091642841513984",
+        "location": "无处不在",
+        "name": "jiuwei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862300175990947840/IcXNcfiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 301,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 275
+        },
+        "username": "jiuwei86",
+        "verified": false
+      }
+    ]
+  }
+}

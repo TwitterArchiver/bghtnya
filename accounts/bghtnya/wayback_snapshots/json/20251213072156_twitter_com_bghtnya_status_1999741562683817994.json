@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1999422443044442157",
+    "created_at": "2025-12-13T07:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T08:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999741562683817994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        },
+        {
+          "end": 27,
+          "id": "1700948552078467072",
+          "start": 14,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999741562683817994",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999422443044442157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu @Overdose_DBD 好似喵"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Overdose_DBD].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Overdose_DBD",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Overdose_DBD"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999422427823222784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79gGs5aMAAkMZU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1999422443044442157",
+        "created_at": "2025-12-13T07:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T08:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999741562683817994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 27,
+              "id": "1700948552078467072",
+              "start": 14,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999741562683817994",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999422443044442157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu @Overdose_DBD 好似喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999422427823222784"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Composer",
+              "id": "1156968167354142720",
+              "name": "Musical composition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Composer",
+              "id": "1156968167354142720",
+              "name": "Musical composition"
+            }
+          }
+        ],
+        "conversation_id": "1999422443044442157",
+        "created_at": "2025-12-12T10:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999422443044442157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1700948552078467072",
+              "start": 32,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zk4WmqEnb1",
+              "end": 69,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/1999422443044442157/photo/1",
+              "media_key": "3_1999422427823222784",
+              "start": 46,
+              "url": "https://t.co/Zk4WmqEnb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999422443044442157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4689,
+          "like_count": 44,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "永远怀念 作曲家，odw创始人之一，反解离先锋，超级后后后藤先生@Overdose_DBD https://t.co/Zk4WmqEnb1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8300,
+          "following_count": 2100,
+          "like_count": 172677,
+          "listed_count": 20,
+          "media_count": 3616,
+          "tweet_count": 44291
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 357,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 170
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

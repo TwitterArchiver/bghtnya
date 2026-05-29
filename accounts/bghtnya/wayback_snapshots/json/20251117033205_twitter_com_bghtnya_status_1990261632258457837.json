@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1990037172947480748",
+    "created_at": "2025-11-17T03:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T04:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990261632258457837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 24,
+          "id": "1586762784393437184",
+          "start": 11,
+          "username": "DraTohru_XLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990261632258457837",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990070990651507163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @DraTohru_XLN xm广东"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1990070990651507163].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1990070990651507163",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1990070990651507163"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1990037172947480748",
+        "created_at": "2025-11-17T03:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990261632258457837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 24,
+              "id": "1586762784393437184",
+              "start": 11,
+              "username": "DraTohru_XLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990261632258457837",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990070990651507163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @DraTohru_XLN xm广东"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8181,
+          "following_count": 2122,
+          "like_count": 168072,
+          "listed_count": 20,
+          "media_count": 3430,
+          "tweet_count": 42550
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "/生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了/我情愿躺在虚无主义的深渊里，什么也不做，静静地看着一切，等待终结的降临。",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 1065,
+          "like_count": 69758,
+          "listed_count": 3,
+          "media_count": 1994,
+          "tweet_count": 13409
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国的20y.o.废物技术宅。二次元/电子电路/化学/MIDI/软件/数码产品/摄影/无人机大手子。属性:🏳️‍🌈LGBTQ+友好/トール可愛い🐉/《青空のラプソディ》🎵/大連好き🏝️/Yamaha XG-MIDI🎹/DJI✈️Mavic Air & Air 2S/Fart Fetish🍑💨🥵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dratoh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dratohru-xln.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3IfckWWTKL"
+              }
+            ]
+          }
+        },
+        "id": "1586762784393437184",
+        "location": "SXGBIN21.TBL",
+        "name": "小龙娘トール⚡️🧪🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 548,
+          "like_count": 45059,
+          "listed_count": 4,
+          "media_count": 1151,
+          "tweet_count": 13949
+        },
+        "url": "https://t.co/3IfckWWTKL",
+        "username": "DraTohru_XLN",
+        "verified": false
+      }
+    ]
+  }
+}

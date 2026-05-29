@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1826533025938870654",
+    "created_at": "2024-08-22T10:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T11:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826565832492900681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705500138431782912",
+          "start": 0,
+          "username": "0mooninside0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826565832492900681",
+    "in_reply_to_user_id": "1705500138431782912",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826565514791092676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0mooninside0 （）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1826565514791092676].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1826565514791092676",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1826565514791092676"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1826533025938870654",
+        "created_at": "2024-08-22T10:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T11:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826565832492900681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705500138431782912",
+              "start": 0,
+              "username": "0mooninside0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826565832492900681",
+        "in_reply_to_user_id": "1705500138431782912",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826565514791092676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0mooninside0 （）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 1484,
+          "like_count": 89847,
+          "listed_count": 10,
+          "tweet_count": 19472
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:31:54.000Z",
+        "description": "烹汝为燔，焚汝为烬",
+        "id": "1705500138431782912",
+        "location": "-",
+        "name": "零",
+        "pinned_tweet_id": "1824659923835244689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808002714829574148/tFB4tCqF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 3155,
+          "like_count": 38653,
+          "listed_count": 2,
+          "tweet_count": 12774
+        },
+        "username": "0mooninside0",
+        "verified": false
+      }
+    ]
+  }
+}

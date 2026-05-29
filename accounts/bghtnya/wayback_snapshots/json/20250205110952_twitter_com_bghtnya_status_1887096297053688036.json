@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1887078931943350426",
+    "created_at": "2025-02-05T11:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T12:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887096297053688036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712408820574793728",
+          "start": 0,
+          "username": "Amadeus22590723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887096297053688036",
+    "in_reply_to_user_id": "1712408820574793728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887089435495596213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amadeus22590723 盼蜡归"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1887078931943350426",
+        "created_at": "2025-02-05T11:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T12:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887096297053688036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712408820574793728",
+              "start": 0,
+              "username": "Amadeus22590723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887096297053688036",
+        "in_reply_to_user_id": "1712408820574793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887089435495596213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amadeus22590723 盼蜡归"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712408820574793728",
+        "conversation_id": "1887078931943350426",
+        "created_at": "2025-02-05T10:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T11:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887089435495596213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887089435495596213",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887078931943350426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 想共产富蛆了捏妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5269,
+          "following_count": 1820,
+          "like_count": 123381,
+          "listed_count": 14,
+          "media_count": 2090,
+          "tweet_count": 30418
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T10:04:57.000Z",
+        "description": "要么给我发野爹证要么和我战斗\n人不应该局限于标签",
+        "id": "1712408820574793728",
+        "name": "Amadeus",
+        "pinned_tweet_id": "1883983627740164501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853991253920403456/EiRZnmIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 98,
+          "like_count": 4919,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1524
+        },
+        "username": "Amadeus22590723",
+        "verified": false
+      }
+    ]
+  }
+}

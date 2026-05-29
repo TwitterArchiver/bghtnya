@@ -1,0 +1,820 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about US Foreign Policy",
+          "id": "847876936378441729",
+          "name": "United States Foreign Policy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2008163536686424207",
+    "created_at": "2026-01-06T08:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T09:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008456516832207186"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "Trump",
+          "probability": 0.934,
+          "start": 53,
+          "type": "Person"
+        },
+        {
+          "end": 90,
+          "normalized_text": "Xijinping",
+          "probability": 0.4751,
+          "start": 82,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1743349746805215232",
+          "start": 0,
+          "username": "Shah_child"
+        },
+        {
+          "end": 22,
+          "id": "1571393170864500736",
+          "start": 12,
+          "username": "OopsGuess"
+        },
+        {
+          "end": 32,
+          "id": "1433718704278327298",
+          "start": 23,
+          "username": "HotSotin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008456516832207186",
+    "in_reply_to_user_id": "1743349746805215232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008334673710112793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shah_child @OopsGuess @HotSotin Piece of shit. Your Trump has no difference with Xijinping."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2008163536686424207",
+        "created_at": "2026-01-06T08:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008456516832207186"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "Trump",
+              "probability": 0.934,
+              "start": 53,
+              "type": "Person"
+            },
+            {
+              "end": 90,
+              "normalized_text": "Xijinping",
+              "probability": 0.4751,
+              "start": 82,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743349746805215232",
+              "start": 0,
+              "username": "Shah_child"
+            },
+            {
+              "end": 22,
+              "id": "1571393170864500736",
+              "start": 12,
+              "username": "OopsGuess"
+            },
+            {
+              "end": 32,
+              "id": "1433718704278327298",
+              "start": 23,
+              "username": "HotSotin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008456516832207186",
+        "in_reply_to_user_id": "1743349746805215232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008334673710112793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shah_child @OopsGuess @HotSotin Piece of shit. Your Trump has no difference with Xijinping."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743349746805215232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2008163536686424207",
+        "created_at": "2026-01-06T00:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T01:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008334673710112793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Trump",
+              "probability": 0.8104,
+              "start": 38,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1571393170864500736",
+              "start": 0,
+              "username": "OopsGuess"
+            },
+            {
+              "end": 20,
+              "id": "1433718704278327298",
+              "start": 11,
+              "username": "HotSotin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008334673710112793",
+        "in_reply_to_user_id": "1571393170864500736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008320602709299559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OopsGuess @HotSotin ShutUp bitch, Mr Trump is my favorite god 🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8679,
+          "following_count": 2080,
+          "like_count": 174407,
+          "listed_count": 17,
+          "media_count": 3687,
+          "tweet_count": 44944
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-05T19:12:46.000Z",
+        "description": "فرزند آریایی ایران 💚🦁❤️\nزاده خاندان بزرگ پهلوی 👑\nپسر کوچک ساواک 🪖",
+        "id": "1743349746805215232",
+        "location": "New York, USA",
+        "name": "جاوید شاه",
+        "pinned_tweet_id": "2008284054215340406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006074691123855360/Dnaagvq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 919,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1448
+        },
+        "username": "Shah_child",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T06:58:36.000Z",
+        "description": "Resisting oblivion by recording how people remain human in a world collapsing into noise.\n\nClarity is rebellion. Memory is the weapon.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/oopsgu…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/oopsguess.bsky.social",
+                "start": 0,
+                "url": "https://t.co/1D5TnEuxeG"
+              }
+            ]
+          }
+        },
+        "id": "1571393170864500736",
+        "name": "𝘊𝘰𝘳𝘳𝘪𝘯𝘦",
+        "pinned_tweet_id": "1573400835777855494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858809960278507520/1yDo-ZKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43183,
+          "following_count": 276,
+          "like_count": 72088,
+          "listed_count": 218,
+          "media_count": 39051,
+          "tweet_count": 83816
+        },
+        "url": "https://t.co/1D5TnEuxeG",
+        "username": "OopsGuess",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      },
+      {
+        "created_at": "2021-09-03T09:09:23.000Z",
+        "description": "From rural Finland. Standing with Ukraine until the end. Opposing authoritarian regimes and their bootlickers worldwide. NeoCon. #NAFO 🦅",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "NAFO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/hotsotin",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/hotsotin",
+                "start": 0,
+                "url": "https://t.co/heEhsQpmmd"
+              }
+            ]
+          }
+        },
+        "id": "1433718704278327298",
+        "location": "Pelkosenniemi, Finland ",
+        "name": "HotSotin 🇫🇮🇺🇦🇪🇺△ NAFO",
+        "pinned_tweet_id": "1750270186911924303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644385438461722631/mUDtvd0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20359,
+          "following_count": 6180,
+          "like_count": 62947,
+          "listed_count": 67,
+          "media_count": 4326,
+          "tweet_count": 13532
+        },
+        "url": "https://t.co/heEhsQpmmd",
+        "username": "HotSotin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001340478932029443"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2001340489635963176",
+    "created_at": "2025-12-17T17:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T18:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001340489635963176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EADWvht42z",
+          "end": 32,
+          "expanded_url": "https://x.com/bghtnya/status/2001340489635963176/photo/1",
+          "media_key": "3_2001340478932029443",
+          "start": 9,
+          "url": "https://t.co/EADWvht42z"
+        },
+        {
+          "display_url": "x.com/zhaoyiran00/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/zhaoyiran00/status/2001339643250520257",
+          "start": 33,
+          "url": "https://t.co/Glyxcroqna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001340489635963176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001339643250520257",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冰棍被绑起来了喵 https://t.co/EADWvht42z https://t.co/Glyxcroqna"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001340489635963176].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001340489635963176",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001340489635963176"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001340478932029443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Ywj-FakAMyV25.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2001339620458647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YvyABaUAACGlR.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001339620458647552"
+          ]
+        },
+        "author_id": "1871619013337620480",
+        "conversation_id": "2001339643250520257",
+        "created_at": "2025-12-17T17:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T18:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001339643250520257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d22opZoi3u",
+              "end": 39,
+              "expanded_url": "https://x.com/zhaoyiran00/status/2001339643250520257/photo/1",
+              "media_key": "3_2001339620458647552",
+              "start": 16,
+              "url": "https://t.co/d22opZoi3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001339643250520257",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@bghtnya 绑住冰棍了喵 https://t.co/d22opZoi3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8332,
+          "following_count": 2100,
+          "like_count": 172896,
+          "listed_count": 20,
+          "media_count": 3626,
+          "tweet_count": 44401
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T18:08:50.000Z",
+        "description": "会有人看吗?",
+        "id": "1871619013337620480",
+        "name": "赵怡然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871673461741170688/-rtbfbPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "zhaoyiran00",
+        "verified": false
+      }
+    ]
+  }
+}

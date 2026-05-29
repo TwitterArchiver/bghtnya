@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1996019633820930312",
+    "created_at": "2025-12-03T11:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996186838793633912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 26,
+          "id": "1508447967987961857",
+          "start": 16,
+          "username": "Reshia233"
+        },
+        {
+          "end": 37,
+          "id": "1758454063535198208",
+          "start": 27,
+          "username": "huanli233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996186838793633912",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996180587946868821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @Reshia233 @huanli233 做什么梦呢（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996180587946868821].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996180587946868821",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996180587946868821"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1996019633820930312",
+        "created_at": "2025-12-03T11:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996186838793633912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 26,
+              "id": "1508447967987961857",
+              "start": 16,
+              "username": "Reshia233"
+            },
+            {
+              "end": 37,
+              "id": "1758454063535198208",
+              "start": 27,
+              "username": "huanli233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996186838793633912",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996180587946868821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @Reshia233 @huanli233 做什么梦呢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8306,
+          "following_count": 2120,
+          "like_count": 171666,
+          "listed_count": 20,
+          "media_count": 3562,
+          "tweet_count": 43801
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "A cat in169/57kg🐱 05 Female CollegeStu🎧🍟Hunger（¿）🍔sleepy🥤No timetable🚪1680JPY/Chinese spl tri/EN/JP 😘Eating Enjoy🍩fobackAuto/StarWarsFans/Enjoy かるた",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndCarrotHot🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1856596418926129304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 3731,
+          "like_count": 22530,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 17171
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:17:00.000Z",
+        "description": "(*σ´∀`)σ三代目|MtX|HRT2025.6.14-10.15（小证但断糖中）|天赋极残完全不PASS家长反对党|还有咱其实是双|INFP-T|大変に気分がいい~｜咱会互fo的\n（｡ò ∀ ó｡）｜叫我令诗亚/令纱也可以...(Deepseek起的名)或者——瑞希洛尼雅(？)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/risena1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/risena1",
+                "start": 0,
+                "url": "https://t.co/vYZFE5pUAK"
+              }
+            ]
+          }
+        },
+        "id": "1508447967987961857",
+        "location": "12.5mg",
+        "name": "令纱◇𝑹𝒆𝒔𝒉𝒊𝒂~",
+        "pinned_tweet_id": "1991829888618418643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987526545473449985/iD6nU7wr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 221,
+          "like_count": 2631,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/vYZFE5pUAK",
+        "username": "Reshia233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T11:31:42.000Z",
+        "description": "虚无主义者 无证含糖 ASD alt @imhuanli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "imhuanli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/huanli233",
+                "end": 23,
+                "expanded_url": "https://github.com/huanli233",
+                "start": 0,
+                "url": "https://t.co/ci67Havjra"
+              }
+            ]
+          }
+        },
+        "id": "1758454063535198208",
+        "location": "LOVE U",
+        "name": "huanli233🤤🍥",
+        "pinned_tweet_id": "1940320822478213331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985502269228662785/w-q-OkEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 801,
+          "like_count": 3497,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/ci67Havjra",
+        "username": "huanli233",
+        "verified": false
+      }
+    ]
+  }
+}

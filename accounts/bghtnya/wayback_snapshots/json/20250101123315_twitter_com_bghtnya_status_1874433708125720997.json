@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1874116441248849923"
+      ],
+      "media_source_tweet_id": [
+        "1874116536207872297"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "1874433708125720997",
+    "created_at": "2025-01-01T12:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T13:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874433708125720997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3302959206",
+          "start": 3,
+          "username": "chamaji33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NTwhsHdpe4",
+          "end": 65,
+          "expanded_url": "https://x.com/chamaji33/status/1874116536207872297/photo/1",
+          "media_key": "16_1874116441248849923",
+          "start": 42,
+          "url": "https://t.co/NTwhsHdpe4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874433708125720997",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 536
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874116536207872297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chamaji33: 年越しそばと一緒に\nあけましておめでとうございます！ https://t.co/NTwhsHdpe4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "16_1874116441248849923",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GgIy-UxbYAMcnpc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GgIy-UxbYAMcnpc.mp4"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1874116441248849923"
+          ],
+          "media_source_tweet_id": [
+            "1874116536207872297"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "1874433708125720997",
+        "created_at": "2025-01-01T12:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T13:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874433708125720997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3302959206",
+              "start": 3,
+              "username": "chamaji33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTwhsHdpe4",
+              "end": 65,
+              "expanded_url": "https://x.com/chamaji33/status/1874116536207872297/photo/1",
+              "media_key": "16_1874116441248849923",
+              "start": 42,
+              "url": "https://t.co/NTwhsHdpe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874433708125720997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 536
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874116536207872297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chamaji33: 年越しそばと一緒に\nあけましておめでとうございます！ https://t.co/NTwhsHdpe4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1874116441248849923"
+          ]
+        },
+        "author_id": "3302959206",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "1874116536207872297",
+        "created_at": "2024-12-31T15:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T16:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874116536207872297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NTwhsHdpe4",
+              "end": 50,
+              "expanded_url": "https://x.com/chamaji33/status/1874116536207872297/photo/1",
+              "media_key": "16_1874116441248849923",
+              "start": 27,
+              "url": "https://t.co/NTwhsHdpe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874116536207872297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 40902,
+          "like_count": 3166,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 536
+        },
+        "reply_settings": "everyone",
+        "text": "年越しそばと一緒に\nあけましておめでとうございます！ https://t.co/NTwhsHdpe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4058,
+          "following_count": 1785,
+          "like_count": 118972,
+          "listed_count": 12,
+          "media_count": 1882,
+          "tweet_count": 28564
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-01T04:25:53.000Z",
+        "description": "主に 東方project / Vtuver系 /ポケモン/ その他二次創作イラストを投稿しています。怪談話も好き。\n◆一次創作ｱｶ：@omemeren \n◆お題箱：https://t.co/vyWvPeABsx\n◆pixiv：https://t.co/aFjHOZDe46",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "omemeren"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/chamaji33",
+                "end": 105,
+                "expanded_url": "https://odaibako.net/u/chamaji33",
+                "start": 82,
+                "url": "https://t.co/vyWvPeABsx"
+              },
+              {
+                "display_url": "pixiv.net/users/3704024",
+                "end": 136,
+                "expanded_url": "http://pixiv.net/users/3704024",
+                "start": 113,
+                "url": "https://t.co/aFjHOZDe46"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chamaji.com",
+                "end": 23,
+                "expanded_url": "https://chamaji.com/",
+                "start": 0,
+                "url": "https://t.co/9hT6FNg30V"
+              }
+            ]
+          }
+        },
+        "id": "3302959206",
+        "location": "連絡先: info@chamaji.com",
+        "name": "ちゃまじ/二次創作ｱｶ",
+        "pinned_tweet_id": "1828528870552985863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555490162607804416/J1cMDpza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13043,
+          "following_count": 934,
+          "like_count": 11381,
+          "listed_count": 142,
+          "media_count": 1085,
+          "tweet_count": 7503
+        },
+        "url": "https://t.co/9hT6FNg30V",
+        "username": "chamaji33",
+        "verified": false
+      }
+    ]
+  }
+}

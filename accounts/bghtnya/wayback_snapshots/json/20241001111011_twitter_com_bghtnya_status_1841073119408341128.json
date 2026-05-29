@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1840995142632657104",
+    "created_at": "2024-10-01T11:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T12:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841073119408341128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1292489560312569857",
+          "start": 0,
+          "username": "NmsleseBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841073119408341128",
+    "in_reply_to_user_id": "1292489560312569857",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840995142632657104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NmsleseBot 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1840995142632657104",
+        "created_at": "2024-10-01T11:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T12:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841073119408341128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1292489560312569857",
+              "start": 0,
+              "username": "NmsleseBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841073119408341128",
+        "in_reply_to_user_id": "1292489560312569857",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840995142632657104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NmsleseBot 6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840995140401577990"
+          ]
+        },
+        "author_id": "1292489560312569857",
+        "conversation_id": "1840995142632657104",
+        "created_at": "2024-10-01T06:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T07:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840995142632657104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MO0Gr4O4Q",
+              "end": 49,
+              "expanded_url": "https://x.com/NmsleseBot/status/1840995142632657104/photo/1",
+              "media_key": "3_1840995140401577990",
+              "start": 26,
+              "url": "https://t.co/9MO0Gr4O4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840995142632657104",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 33376,
+          "like_count": 479,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "2024年第三季度兔友迷惑行为排行榜\n\nTop10 https://t.co/9MO0Gr4O4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2934,
+          "following_count": 1540,
+          "like_count": 99052,
+          "listed_count": 10,
+          "tweet_count": 22184
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T15:55:06.000Z",
+        "description": "💙",
+        "id": "1292489560312569857",
+        "location": "Nmslese City",
+        "name": "兔友迷惑行为Bot",
+        "pinned_tweet_id": "1840995142632657104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807444023583588352/OVE2HnVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148449,
+          "following_count": 198,
+          "like_count": 496,
+          "listed_count": 370,
+          "tweet_count": 3319
+        },
+        "username": "NmsleseBot",
+        "verified": true
+      }
+    ]
+  }
+}

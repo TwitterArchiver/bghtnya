@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890790086759141376"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1890787380744888495",
+    "created_at": "2025-02-15T15:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T16:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890790088860107126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707081013455912960",
+          "start": 0,
+          "username": "Hanxue0509"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7DQeSTAXRW",
+          "end": 35,
+          "expanded_url": "https://x.com/bghtnya/status/1890790088860107126/photo/1",
+          "media_key": "3_1890790086759141376",
+          "start": 12,
+          "url": "https://t.co/7DQeSTAXRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890790088860107126",
+    "in_reply_to_user_id": "1707081013455912960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890787380744888495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanxue0509 https://t.co/7DQeSTAXRW"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1890787380744888495].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1890787380744888495",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1890787380744888495"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_1890790086759141376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj1vkOob0AAyLnf.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890790086759141376"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1890787380744888495",
+        "created_at": "2025-02-15T15:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T16:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890790088860107126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707081013455912960",
+              "start": 0,
+              "username": "Hanxue0509"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DQeSTAXRW",
+              "end": 35,
+              "expanded_url": "https://x.com/bghtnya/status/1890790088860107126/photo/1",
+              "media_key": "3_1890790086759141376",
+              "start": 12,
+              "url": "https://t.co/7DQeSTAXRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890790088860107126",
+        "in_reply_to_user_id": "1707081013455912960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890787380744888495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanxue0509 https://t.co/7DQeSTAXRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5689,
+          "following_count": 1832,
+          "like_count": 124220,
+          "listed_count": 14,
+          "media_count": 2175,
+          "tweet_count": 31054
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T17:13:39.000Z",
+        "description": "呜呜呜……",
+        "id": "1707081013455912960",
+        "location": "晗雪窝",
+        "name": "⌬🐱晗雪🍥",
+        "pinned_tweet_id": "1820874210199384274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 490,
+          "like_count": 19576,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 1280
+        },
+        "username": "Hanxue0509",
+        "verified": false
+      }
+    ]
+  }
+}

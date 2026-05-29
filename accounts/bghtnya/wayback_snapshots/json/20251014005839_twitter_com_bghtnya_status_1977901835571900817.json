@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1977722999865266532",
+    "created_at": "2025-10-14T00:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T01:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977901835571900817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977901835571900817",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977722999865266532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 好似喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1977722966659276800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JIj0vboAAEIyd.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1977722967233802240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JIj24aMAAYtR4.jpg",
+        "width": 810
+      },
+      {
+        "duration_ms": 6314,
+        "height": 1280,
+        "media_key": "7_1977722966642417664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1977722966642417664/pu/img/QLqiBemL2ra-s3Cg.jpg",
+        "public_metrics": {
+          "view_count": 440
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977722966642417664/pu/vid/avc1/320x568/sMugfR9oxXJn86lq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977722966642417664/pu/vid/avc1/480x852/v6Zc1lENpcuyB8pS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977722966642417664/pu/vid/avc1/720x1280/JFwzhoec23wfb3Zo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1977722966642417664/pu/pl/CFnjvG4nTiVYwe85.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 15904,
+        "height": 1280,
+        "media_key": "7_1977722968139812865",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1977722968139812865/pu/img/jYnKh-NvY2fR7yMp.jpg",
+        "public_metrics": {
+          "view_count": 184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977722968139812865/pu/vid/avc1/320x710/ZbMfJJA3QbZloPbS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977722968139812865/pu/vid/avc1/480x1066/5AuTjoE6SJo9JGwD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977722968139812865/pu/vid/avc1/576x1280/qFQE7Bij32zNGKTQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1977722968139812865/pu/pl/RnXUDNzJD_EUtW0S.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1977722999865266532",
+        "created_at": "2025-10-14T00:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T01:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977901835571900817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977901835571900817",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977722999865266532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 好似喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977722966659276800",
+            "3_1977722967233802240",
+            "7_1977722966642417664",
+            "7_1977722968139812865"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "1977722999865266532",
+        "created_at": "2025-10-13T13:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T14:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977722999865266532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7wdJMCHrw",
+              "end": 106,
+              "expanded_url": "https://x.com/y0zarashi/status/1977722999865266532/video/1",
+              "media_key": "3_1977722966659276800",
+              "start": 83,
+              "url": "https://t.co/R7wdJMCHrw"
+            },
+            {
+              "display_url": "pic.x.com/R7wdJMCHrw",
+              "end": 106,
+              "expanded_url": "https://x.com/y0zarashi/status/1977722999865266532/video/1",
+              "media_key": "3_1977722967233802240",
+              "start": 83,
+              "url": "https://t.co/R7wdJMCHrw"
+            },
+            {
+              "display_url": "pic.x.com/R7wdJMCHrw",
+              "end": 106,
+              "expanded_url": "https://x.com/y0zarashi/status/1977722999865266532/video/1",
+              "media_key": "7_1977722966642417664",
+              "start": 83,
+              "url": "https://t.co/R7wdJMCHrw"
+            },
+            {
+              "display_url": "pic.x.com/R7wdJMCHrw",
+              "end": 106,
+              "expanded_url": "https://x.com/y0zarashi/status/1977722999865266532/video/1",
+              "media_key": "7_1977722968139812865",
+              "start": 83,
+              "url": "https://t.co/R7wdJMCHrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977722999865266532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 969,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃400mg dpt了和25g苯乙胺,后者导致血压升高,前者导致精神凌迟,昏迷过中睾丸疼痛难忍，现在医院查明肾衰竭。所以目前这几周24小时都有空，大胆跟你们对线。 https://t.co/R7wdJMCHrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7940,
+          "following_count": 2086,
+          "like_count": 163211,
+          "listed_count": 20,
+          "media_count": 3262,
+          "tweet_count": 41069
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "无糖不术 mtf 不要在我的帖子下面谈论政治。谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1977704829515407415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977242514815172611/L4QZACw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 2534
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

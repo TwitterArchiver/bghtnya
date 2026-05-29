@@ -1,0 +1,501 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1811210614406340609"
+      ],
+      "media_source_tweet_id": [
+        "1811234205386318131"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      }
+    ],
+    "conversation_id": "1811235766837883099",
+    "created_at": "2024-07-11T03:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T04:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811235766837883099"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Steamサマーセール",
+          "probability": 0.2114,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 75,
+          "tag": "Steam"
+        },
+        {
+          "end": 94,
+          "start": 82,
+          "tag": "Steamサマーセール"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589428860432834560",
+          "start": 3,
+          "username": "llrinnell"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/MRlH1HYpGz",
+          "end": 118,
+          "expanded_url": "https://twitter.com/llrinnell/status/1811234205386318131/photo/1",
+          "media_key": "3_1811210614406340609",
+          "start": 95,
+          "url": "https://t.co/MRlH1HYpGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811235766837883099",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811234205386318131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llrinnell: Steamサマーセールは12日の午前2時まで\nつまり次の真夜中2時で終了だよ！\n欲しいゲームがある方はお買い忘れなく！\n#Steam #Steamサマーセール https://t.co/MRlH1HYpGz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1811210614406340609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSK2dSUbYAElTvY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811210614406340609"
+          ],
+          "media_source_tweet_id": [
+            "1811234205386318131"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "1811235766837883099",
+        "created_at": "2024-07-11T03:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T04:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811235766837883099"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Steamサマーセール",
+              "probability": 0.2114,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 75,
+              "tag": "Steam"
+            },
+            {
+              "end": 94,
+              "start": 82,
+              "tag": "Steamサマーセール"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589428860432834560",
+              "start": 3,
+              "username": "llrinnell"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MRlH1HYpGz",
+              "end": 118,
+              "expanded_url": "https://twitter.com/llrinnell/status/1811234205386318131/photo/1",
+              "media_key": "3_1811210614406340609",
+              "start": 95,
+              "url": "https://t.co/MRlH1HYpGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811235766837883099",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811234205386318131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llrinnell: Steamサマーセールは12日の午前2時まで\nつまり次の真夜中2時で終了だよ！\n欲しいゲームがある方はお買い忘れなく！\n#Steam #Steamサマーセール https://t.co/MRlH1HYpGz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811210614406340609"
+          ]
+        },
+        "author_id": "1589428860432834560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "1811234205386318131",
+        "created_at": "2024-07-11T03:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T04:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811234205386318131"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Steamサマーセール",
+              "probability": 0.2066,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 60,
+              "tag": "Steam"
+            },
+            {
+              "end": 79,
+              "start": 67,
+              "tag": "Steamサマーセール"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MRlH1HYpGz",
+              "end": 103,
+              "expanded_url": "https://twitter.com/llrinnell/status/1811234205386318131/photo/1",
+              "media_key": "3_1811210614406340609",
+              "start": 80,
+              "url": "https://t.co/MRlH1HYpGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811234205386318131",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 177,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Steamサマーセールは12日の午前2時まで\nつまり次の真夜中2時で終了だよ！\n欲しいゲームがある方はお買い忘れなく！\n#Steam #Steamサマーセール https://t.co/MRlH1HYpGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 1412,
+          "like_count": 77400,
+          "listed_count": 7,
+          "tweet_count": 16383
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T01:26:14.000Z",
+        "description": "ゲーミングぴんくねこみみ🐈‍⬛🐾 \nかわいい絵や動画を作って好きな話してます \n🎨 SD(AI)+drawing \n🎮️ Steam, MH Now, FF14 \n\n▶️ Fan art #おねんねあーと \n▶️ https://t.co/EMlnRMM9vv \n▶️ https://t.co/8NvjohyDp7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 94,
+                "tag": "おねんねあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@llrinnell",
+                "end": 130,
+                "expanded_url": "http://youtube.com/@llrinnell",
+                "start": 107,
+                "url": "https://t.co/EMlnRMM9vv"
+              },
+              {
+                "display_url": "huggingface.co/RinneAi",
+                "end": 158,
+                "expanded_url": "http://huggingface.co/RinneAi",
+                "start": 135,
+                "url": "https://t.co/8NvjohyDp7"
+              }
+            ]
+          }
+        },
+        "id": "1589428860432834560",
+        "name": "りんねおねんね🐱💤",
+        "pinned_tweet_id": "1811234205386318131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706555482771734528/xPhPttLr_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23849,
+          "following_count": 858,
+          "like_count": 55613,
+          "listed_count": 208,
+          "tweet_count": 12784
+        },
+        "username": "llrinnell",
+        "verified": false
+      }
+    ]
+  }
+}

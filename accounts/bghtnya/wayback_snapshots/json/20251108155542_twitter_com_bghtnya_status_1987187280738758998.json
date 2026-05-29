@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1987109221125828942",
+    "created_at": "2025-11-08T15:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T16:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987187280738758998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 18,
+          "id": "1817584080437014528",
+          "start": 11,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987187280738758998",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987158639350829391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @N552AA 还没 累死了还有作业要写😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1987158639350829391].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1987158639350829391",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1987158639350829391"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1987109221125828942",
+        "created_at": "2025-11-08T15:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987187280738758998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 18,
+              "id": "1817584080437014528",
+              "start": 11,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987187280738758998",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987158639350829391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @N552AA 还没 累死了还有作业要写😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8146,
+          "following_count": 2117,
+          "like_count": 166099,
+          "listed_count": 20,
+          "media_count": 3402,
+          "tweet_count": 42194
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "/生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了/我情愿躺在虚无主义的深渊里，什么也不做，静静地看着一切，等待终结的降临。",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 1068,
+          "like_count": 69301,
+          "listed_count": 3,
+          "media_count": 1983,
+          "tweet_count": 13337
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/断续含糖/坐标上海/有小证/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq/主人：@ayumi_0222_ @nahida_miao\n/长在春风中，活在药效里。/上海市贴贴微信群群主",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "ayumi_0222_"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 991,
+          "like_count": 3916,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

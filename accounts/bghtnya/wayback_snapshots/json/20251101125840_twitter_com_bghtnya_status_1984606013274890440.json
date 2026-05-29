@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1984606013274890440",
+    "created_at": "2025-11-01T12:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T13:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984606013274890440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1948280350108680193",
+          "start": 3,
+          "username": "luoxue3943"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status",
+          "end": 41,
+          "expanded_url": "http://x.com/bghtnya/status",
+          "start": 18,
+          "status": 404,
+          "unwound_url": "https://x.com/bghtnya/status",
+          "url": "https://t.co/uB4Qr6XrtH"
+        },
+        {
+          "display_url": "github.com/bghtnya/TransF",
+          "end": 86,
+          "expanded_url": "http://github.com/bghtnya/TransF",
+          "start": 63,
+          "status": 404,
+          "unwound_url": "https://github.com/bghtnya/TransF",
+          "url": "https://t.co/tphbJf0mqX"
+        },
+        {
+          "display_url": "bghtnya.github.io/TransFlag_Avat",
+          "end": 115,
+          "expanded_url": "http://bghtnya.github.io/TransFlag_Avat",
+          "start": 92,
+          "status": 404,
+          "unwound_url": "http://bghtnya.github.io/TransFlag_Avat",
+          "url": "https://t.co/32yaizndq4"
+        },
+        {
+          "display_url": "t.co/fa",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/fa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984606013274890440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984518259975376947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luoxue3943: 根据https://t.co/uB4Qr6XrtH…重新写了个支持推特头像预览的版本\n原仓库：https://t.co/tphbJf0mqX…\n原网站：https://t.co/32yaizndq4…\ngithub：https://t.co/fa…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1984606013274890440",
+        "created_at": "2025-11-01T12:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T13:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984606013274890440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1948280350108680193",
+              "start": 3,
+              "username": "luoxue3943"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status",
+              "end": 41,
+              "expanded_url": "http://x.com/bghtnya/status",
+              "start": 18,
+              "status": 404,
+              "unwound_url": "https://x.com/bghtnya/status",
+              "url": "https://t.co/uB4Qr6XrtH"
+            },
+            {
+              "display_url": "github.com/bghtnya/TransF",
+              "end": 86,
+              "expanded_url": "http://github.com/bghtnya/TransF",
+              "start": 63,
+              "status": 404,
+              "unwound_url": "https://github.com/bghtnya/TransF",
+              "url": "https://t.co/tphbJf0mqX"
+            },
+            {
+              "display_url": "bghtnya.github.io/TransFlag_Avat",
+              "end": 115,
+              "expanded_url": "http://bghtnya.github.io/TransFlag_Avat",
+              "start": 92,
+              "status": 404,
+              "unwound_url": "http://bghtnya.github.io/TransFlag_Avat",
+              "url": "https://t.co/32yaizndq4"
+            },
+            {
+              "display_url": "t.co/fa",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/fa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984606013274890440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984518259975376947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luoxue3943: 根据https://t.co/uB4Qr6XrtH…重新写了个支持推特头像预览的版本\n原仓库：https://t.co/tphbJf0mqX…\n原网站：https://t.co/32yaizndq4…\ngithub：https://t.co/fa…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948280350108680193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1984518259975376947",
+        "created_at": "2025-11-01T07:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T08:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984518259975376947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status",
+              "end": 25,
+              "expanded_url": "http://x.com/bghtnya/status",
+              "start": 2,
+              "status": 404,
+              "unwound_url": "https://x.com/bghtnya/status",
+              "url": "https://t.co/uB4Qr6XrtH"
+            },
+            {
+              "display_url": "github.com/bghtnya/TransF",
+              "end": 70,
+              "expanded_url": "http://github.com/bghtnya/TransF",
+              "start": 47,
+              "status": 404,
+              "unwound_url": "https://github.com/bghtnya/TransF",
+              "url": "https://t.co/tphbJf0mqX"
+            },
+            {
+              "display_url": "bghtnya.github.io/TransFlag_Avat",
+              "end": 99,
+              "expanded_url": "http://bghtnya.github.io/TransFlag_Avat",
+              "start": 76,
+              "status": 404,
+              "unwound_url": "http://bghtnya.github.io/TransFlag_Avat",
+              "url": "https://t.co/32yaizndq4"
+            },
+            {
+              "display_url": "github.com/luoxue3943/tra",
+              "end": 131,
+              "expanded_url": "http://github.com/luoxue3943/tra",
+              "start": 108,
+              "status": 404,
+              "unwound_url": "https://github.com/luoxue3943/tra",
+              "url": "https://t.co/faJh4731ri"
+            },
+            {
+              "description": "Generated by create next app",
+              "display_url": "transflag.luoxue.cc",
+              "end": 159,
+              "expanded_url": "http://transflag.luoxue.cc",
+              "start": 136,
+              "status": 200,
+              "title": "头像添加鱼板跨旗工具",
+              "unwound_url": "https://transflag.luoxue.cc/",
+              "url": "https://t.co/jd0oZxpvO5"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/bghtnya/status/1984002839107240157",
+              "start": 160,
+              "url": "https://t.co/tn6Et9BbFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984518259975376947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984002839107240157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据https://t.co/uB4Qr6XrtH…重新写了个支持推特头像预览的版本\n原仓库：https://t.co/tphbJf0mqX…\n原网站：https://t.co/32yaizndq4…\ngithub：https://t.co/faJh4731ri…\n网站：https://t.co/jd0oZxpvO5 https://t.co/tn6Et9BbFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1983125347576230255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004616573583360/w5fqBBBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8021,
+          "following_count": 2099,
+          "like_count": 165439,
+          "listed_count": 20,
+          "media_count": 3354,
+          "tweet_count": 41833
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T07:13:39.000Z",
+        "description": "07年天才少女丨INFP丨 半个家长党丨日常状态随机刷新丨因为淡推所以纯随缘回fo，当然也可以私信/tg丨日常出没在湖南长沙｜tg：https://t.co/7t1w3pp2gd 最爱的老婆是@Moyang0709 ^ω^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Moyang0709"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/luoxue3943",
+                "end": 89,
+                "expanded_url": "http://t.me/luoxue3943",
+                "start": 66,
+                "url": "https://t.co/7t1w3pp2gd"
+              }
+            ]
+          }
+        },
+        "id": "1948280350108680193",
+        "location": "Hong Kong",
+        "name": "珞雪 😉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984517921352437760/WGDXQ1y2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 42,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 432
+        },
+        "username": "luoxue3943",
+        "verified": false
+      }
+    ]
+  }
+}

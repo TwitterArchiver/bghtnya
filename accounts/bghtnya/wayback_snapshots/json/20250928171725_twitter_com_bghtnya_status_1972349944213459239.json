@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972349940845395968"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1972171978107965761",
+    "created_at": "2025-09-28T17:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972349944213459239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1972166289050456064",
+          "start": 0,
+          "username": "BiLiCCBG"
+        },
+        {
+          "end": 20,
+          "id": "1597473293078269952",
+          "start": 10,
+          "username": "Hobo6paHe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2q3mJUGlVQ",
+          "end": 51,
+          "expanded_url": "https://x.com/bghtnya/status/1972349944213459239/photo/1",
+          "media_key": "3_1972349940845395968",
+          "start": 28,
+          "url": "https://t.co/2q3mJUGlVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972349944213459239",
+    "in_reply_to_user_id": "1972166289050456064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972171978107965761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiLiCCBG @Hobo6paHe 马斯克好似喵 https://t.co/2q3mJUGlVQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Hobo6paHe].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Hobo6paHe",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Hobo6paHe"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_1972349940845395968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18x0jzaQAAyvma.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972349940845395968"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1972171978107965761",
+        "created_at": "2025-09-28T17:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972349944213459239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1972166289050456064",
+              "start": 0,
+              "username": "BiLiCCBG"
+            },
+            {
+              "end": 20,
+              "id": "1597473293078269952",
+              "start": 10,
+              "username": "Hobo6paHe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2q3mJUGlVQ",
+              "end": 51,
+              "expanded_url": "https://x.com/bghtnya/status/1972349944213459239/photo/1",
+              "media_key": "3_1972349940845395968",
+              "start": 28,
+              "url": "https://t.co/2q3mJUGlVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972349944213459239",
+        "in_reply_to_user_id": "1972166289050456064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972171978107965761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiLiCCBG @Hobo6paHe 马斯克好似喵 https://t.co/2q3mJUGlVQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972166289050456064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1972171978107965761",
+        "created_at": "2025-09-28T05:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T06:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972171978107965761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "男娘"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "药娘"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "hrt"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "xym"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1597473293078269952",
+              "start": 8,
+              "username": "Hobo6paHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972171978107965761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 801,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "之前号被封了😭 @Hobo6paHe\n伊隆马斯克我捅死你喵捅死你喵捅死你喵捅死你喵捅死你喵捅死你喵捅死你喵捅死你喵\n捅死你喵捅死你喵捅死你喵捅死你喵捅死你喵捅死你喵捅死你喵 \n资本你赢了 待会补档以前的图😭\n#男娘 #药娘 #hrt  #xym #伪娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7603,
+          "following_count": 2079,
+          "like_count": 160896,
+          "listed_count": 18,
+          "media_count": 3184,
+          "tweet_count": 40564
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T05:07:48.000Z",
+        "description": "含糖小男娘 166 43kg  谢谢你陌生人",
+        "id": "1972166289050456064",
+        "name": "臣臣博格🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972166506877534208/ChbKjoxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "BiLiCCBG",
+        "verified": false
+      }
+    ]
+  }
+}

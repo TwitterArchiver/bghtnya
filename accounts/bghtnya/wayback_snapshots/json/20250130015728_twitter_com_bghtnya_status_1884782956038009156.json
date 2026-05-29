@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1884616242843279788",
+    "created_at": "2025-01-30T01:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T02:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884782956038009156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831743728530169856",
+          "start": 0,
+          "username": "MisakaNetwkSys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884782956038009156",
+    "in_reply_to_user_id": "1831743728530169856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884625863854928091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaNetwkSys pwp"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884625863854928091].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884625863854928091",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884625863854928091"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1884616242843279788",
+        "created_at": "2025-01-30T01:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T02:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884782956038009156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831743728530169856",
+              "start": 0,
+              "username": "MisakaNetwkSys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884782956038009156",
+        "in_reply_to_user_id": "1831743728530169856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884625863854928091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaNetwkSys pwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4809,
+          "following_count": 1819,
+          "like_count": 122210,
+          "listed_count": 12,
+          "media_count": 2017,
+          "tweet_count": 29969
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T17:18:57.000Z",
+        "description": "小药娘怎么你了😠\nGPG Key (Personal): F0EB 9289 3C9B 487C CE2C  7A16 3B38 5D98 2992 E954",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "webpagesvc.misakanetworksystem.org/index.html",
+                "end": 23,
+                "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
+                "start": 0,
+                "url": "https://t.co/pYr94k73ss"
+              }
+            ]
+          }
+        },
+        "id": "1831743728530169856",
+        "location": "/Users/MisakaNetworkSystem/",
+        "name": "Misaka Network System 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️😢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831745719545262080/EQQ9g5Uq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 153,
+          "like_count": 4011,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/pYr94k73ss",
+        "username": "MisakaNetwkSys",
+        "verified": false
+      }
+    ]
+  }
+}

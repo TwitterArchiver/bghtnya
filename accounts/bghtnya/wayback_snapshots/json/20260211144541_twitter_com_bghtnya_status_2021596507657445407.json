@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2021497133594181792",
+    "created_at": "2026-02-11T14:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021596507657445407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782063289675255808",
+          "start": 0,
+          "username": "Kisaragi_Momoe"
+        },
+        {
+          "end": 31,
+          "id": "1913535505230442497",
+          "start": 16,
+          "username": "3638349600Ogas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 55,
+          "expanded_url": "https://x.com/bghtnya/status/2021596460551155824",
+          "start": 32,
+          "url": "https://t.co/KlsHxMUqDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021596507657445407",
+    "in_reply_to_user_id": "1782063289675255808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021596460551155824",
+        "type": "quoted"
+      },
+      {
+        "id": "2021523989349491093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisaragi_Momoe @3638349600Ogas https://t.co/KlsHxMUqDo"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2021523989349491093].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2021523989349491093",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2021523989349491093"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2021497133594181792",
+        "created_at": "2026-02-11T14:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021596507657445407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782063289675255808",
+              "start": 0,
+              "username": "Kisaragi_Momoe"
+            },
+            {
+              "end": 31,
+              "id": "1913535505230442497",
+              "start": 16,
+              "username": "3638349600Ogas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 55,
+              "expanded_url": "https://x.com/bghtnya/status/2021596460551155824",
+              "start": 32,
+              "url": "https://t.co/KlsHxMUqDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021596507657445407",
+        "in_reply_to_user_id": "1782063289675255808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021596460551155824",
+            "type": "quoted"
+          },
+          {
+            "id": "2021523989349491093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisaragi_Momoe @3638349600Ogas https://t.co/KlsHxMUqDo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2021497133594181792",
+        "created_at": "2026-02-11T14:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021596460551155824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896404668462301185",
+              "start": 0,
+              "username": "garconch12"
+            },
+            {
+              "end": 27,
+              "id": "1913535505230442497",
+              "start": 12,
+              "username": "3638349600Ogas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021596460551155824",
+        "in_reply_to_user_id": "1896404668462301185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021535017906618388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garconch12 @3638349600Ogas 平等 不做皇帝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2020370645071327297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8885,
+          "following_count": 2072,
+          "like_count": 172088,
+          "listed_count": 18,
+          "media_count": 3719,
+          "tweet_count": 45327
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T15:06:19.000Z",
+        "description": "焦虑型依恋&持续性想死｜MtX(划掉)无证含糖友跨男娘(划掉)性别是🍑！｜坐标山东高三苦逼高中生｜唯一最爱的月月主人老婆，愿逐月华流照君 @nomexfirebullet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "nomexfirebullet"
+              }
+            ]
+          }
+        },
+        "id": "1782063289675255808",
+        "location": "在你心里",
+        "name": "如月 桃枝🍥🏳️‍⚧️🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑",
+        "pinned_tweet_id": "2005503341976252873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984682878085840897/6gda--vn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1458,
+          "like_count": 35897,
+          "listed_count": 5,
+          "media_count": 205,
+          "tweet_count": 4419
+        },
+        "username": "Kisaragi_Momoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "一个天残家暴大龄木桶饭的日记本/hrt：2025-10-08 /持证含糖！/🍰：2006-01-08/永远喜欢迷子——叫ぶよ迷い星の歌！/想要和小千和尤娜一起旅行直到时间的尽头/最好的姐姐：@FuyutoriGin !!!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "FuyutoriGin"
+              }
+            ]
+          }
+        },
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "🍥阿德利鹊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019368462192414720/VO8gwhAY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 506,
+          "like_count": 985,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 454
+        },
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}

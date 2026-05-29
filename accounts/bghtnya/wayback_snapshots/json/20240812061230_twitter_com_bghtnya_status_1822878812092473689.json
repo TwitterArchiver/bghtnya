@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1822505965461348643",
+    "created_at": "2024-08-12T06:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T07:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822878812092473689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760312154203557888",
+          "start": 0,
+          "username": "YuiSato2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822878812092473689",
+    "in_reply_to_user_id": "1760312154203557888",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822505965461348643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuiSato2007 挺好（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1822505965461348643",
+        "created_at": "2024-08-12T06:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T07:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822878812092473689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760312154203557888",
+              "start": 0,
+              "username": "YuiSato2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822878812092473689",
+        "in_reply_to_user_id": "1760312154203557888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822505965461348643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuiSato2007 挺好（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822505962068123648"
+          ]
+        },
+        "author_id": "1760312154203557888",
+        "conversation_id": "1822505965461348643",
+        "created_at": "2024-08-11T05:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T06:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822505965461348643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txxxzr9fa6",
+              "end": 39,
+              "expanded_url": "https://twitter.com/YuiSato2007/status/1822505965461348643/photo/1",
+              "media_key": "3_1822505962068123648",
+              "start": 16,
+              "url": "https://t.co/txXXZr9fA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822505965461348643",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5908,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新日元好丑！以后日元印我如何？ https://t.co/txXXZr9fA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 1457,
+          "like_count": 86274,
+          "listed_count": 10,
+          "tweet_count": 18597
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T14:35:11.000Z",
+        "description": "日中🇯🇵🇨🇳混血~凉宫ハルヒ~ /ハルヒ是神/川崎/EINSAM团 团长/SOS团 团长/正在寻找外星人，未来人和超能力者/超监制/ 母语：CN/不喜欢支黑/阿虚❤️： @KiminTW_offical",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "KiminTW_offical"
+              }
+            ]
+          }
+        },
+        "id": "1760312154203557888",
+        "name": "凉宫ハルヒ 🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822625437736202240/8brKB4Ux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 12,
+          "like_count": 1057,
+          "listed_count": 2,
+          "tweet_count": 583
+        },
+        "username": "YuiSato2007",
+        "verified": false
+      }
+    ]
+  }
+}

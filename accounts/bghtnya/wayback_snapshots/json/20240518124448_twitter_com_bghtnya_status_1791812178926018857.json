@@ -1,0 +1,257 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1791474155189367198",
+    "created_at": "2024-05-18T12:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T13:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791812178926018857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1070694634098065410",
+          "start": 0,
+          "username": "BootJenna"
+        },
+        {
+          "end": 22,
+          "id": "1132458589719629824",
+          "start": 11,
+          "username": "dabanmaige"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791812178926018857",
+    "in_reply_to_user_id": "1070694634098065410",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791635057582473397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BootJenna @dabanmaige 合理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1791474155189367198",
+        "created_at": "2024-05-18T12:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T13:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791812178926018857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1070694634098065410",
+              "start": 0,
+              "username": "BootJenna"
+            },
+            {
+              "end": 22,
+              "id": "1132458589719629824",
+              "start": 11,
+              "username": "dabanmaige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791812178926018857",
+        "in_reply_to_user_id": "1070694634098065410",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791635057582473397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BootJenna @dabanmaige 合理"
+      },
+      {
+        "attachments": {},
+        "author_id": "1070694634098065410",
+        "conversation_id": "1791474155189367198",
+        "created_at": "2024-05-18T01:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T02:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791635057582473397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132458589719629824",
+              "start": 0,
+              "username": "dabanmaige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791635057582473397",
+        "in_reply_to_user_id": "1132458589719629824",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23908,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791474155189367198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dabanmaige 换季了记得穿长袖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512977289151143942/MNqca0C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 1336,
+          "like_count": 65307,
+          "listed_count": 7,
+          "tweet_count": 13418
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-06T15:01:08.000Z",
+        "description": "泛+4i INFP 靴控 大爱紧身衣 白丝 是过气网黄",
+        "id": "1070694634098065410",
+        "location": "Toronto, Ontario",
+        "name": "娜酱喵喵喵",
+        "pinned_tweet_id": "1781503721324593271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602194042300895232/ldvbGMpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12576,
+          "following_count": 3641,
+          "like_count": 13765,
+          "listed_count": 40,
+          "tweet_count": 23765
+        },
+        "username": "BootJenna",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-26T01:29:02.000Z",
+        "description": "基督徒。北京某大院里长大的上海人，在东京大阪先后居住了12年。日添公司主营日本投資，移民，房产。麦哥欢迎三觀一致的朋友咨询。微信：dabanmaige，电报：https://t.co/d69g41TbJC 。中国上海出身、北京大学卒業、東京大学中退。大阪在住の永住者。一期一会, 敬天愛人。#日本移民",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 145,
+                "tag": "日本移民"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+XQ2ebyd6VBsxO…",
+                "end": 102,
+                "expanded_url": "https://t.me/+XQ2ebyd6VBsxOTk1",
+                "start": 79,
+                "url": "https://t.co/d69g41TbJC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nichiten.jimdofree.com",
+                "end": 23,
+                "expanded_url": "https://nichiten.jimdofree.com/",
+                "start": 0,
+                "url": "https://t.co/KGO9qxkNMB"
+              }
+            ]
+          }
+        },
+        "id": "1132458589719629824",
+        "location": "大阪 大阪市 天王寺区",
+        "name": "大阪麦哥",
+        "pinned_tweet_id": "1582711686771142658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729516541522358272/VOGWEa34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29082,
+          "following_count": 766,
+          "like_count": 22849,
+          "listed_count": 98,
+          "tweet_count": 15213
+        },
+        "url": "https://t.co/KGO9qxkNMB",
+        "username": "dabanmaige",
+        "verified": true
+      }
+    ]
+  }
+}

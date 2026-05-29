@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888981910652850176"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "1888981920215912829",
+    "created_at": "2025-02-10T16:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T17:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888981920215912829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bilibili.com/video/BV1TYNae…",
+          "end": 75,
+          "expanded_url": "https://www.bilibili.com/video/BV1TYNaeuE1Q?p=1&unique_k=114514",
+          "start": 52,
+          "url": "https://t.co/47Psq4IZ9i"
+        },
+        {
+          "display_url": "pic.x.com/ufTxoQl7et",
+          "end": 99,
+          "expanded_url": "https://x.com/bghtnya/status/1888981920215912829/photo/1",
+          "media_key": "3_1888981910652850176",
+          "start": 76,
+          "url": "https://t.co/ufTxoQl7et"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888981920215912829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【Shuzuku+黑阈+无线调试 实现Android下 无root 无电脑 最高权限内循环-哔哩哔哩】 https://t.co/47Psq4IZ9i https://t.co/ufTxoQl7et"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1888981910652850176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjcDChuaEAAjGv1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888981910652850176"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1888981920215912829",
+        "created_at": "2025-02-10T16:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T17:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888981920215912829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bilibili.com/video/BV1TYNae…",
+              "end": 75,
+              "expanded_url": "https://www.bilibili.com/video/BV1TYNaeuE1Q?p=1&unique_k=114514",
+              "start": 52,
+              "url": "https://t.co/47Psq4IZ9i"
+            },
+            {
+              "display_url": "pic.x.com/ufTxoQl7et",
+              "end": 99,
+              "expanded_url": "https://x.com/bghtnya/status/1888981920215912829/photo/1",
+              "media_key": "3_1888981910652850176",
+              "start": 76,
+              "url": "https://t.co/ufTxoQl7et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888981920215912829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【Shuzuku+黑阈+无线调试 实现Android下 无root 无电脑 最高权限内循环-哔哩哔哩】 https://t.co/47Psq4IZ9i https://t.co/ufTxoQl7et"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5571,
+          "following_count": 1829,
+          "like_count": 123834,
+          "listed_count": 14,
+          "media_count": 2125,
+          "tweet_count": 30689
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

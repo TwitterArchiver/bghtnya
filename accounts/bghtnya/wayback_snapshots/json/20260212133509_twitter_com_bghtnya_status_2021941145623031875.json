@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2021582581213589508",
+    "created_at": "2026-02-12T13:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021941145623031875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        },
+        {
+          "end": 24,
+          "id": "1778696847563104256",
+          "start": 14,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        },
+        {
+          "end": 47,
+          "id": "716102708873170944",
+          "start": 31,
+          "username": "ufucjxtssuvovlk"
+        },
+        {
+          "end": 57,
+          "id": "2020519480972238848",
+          "start": 48,
+          "username": "c4lluml1"
+        },
+        {
+          "end": 72,
+          "id": "1518404201168007168",
+          "start": 58,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021941145623031875",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021866346569773489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu @gold_bihu @grok @ufucjxtssuvovlk @c4lluml1 @godspeedyou50 写的比我好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2021582581213589508",
+        "created_at": "2026-02-12T13:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021941145623031875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 24,
+              "id": "1778696847563104256",
+              "start": 14,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            },
+            {
+              "end": 47,
+              "id": "716102708873170944",
+              "start": 31,
+              "username": "ufucjxtssuvovlk"
+            },
+            {
+              "end": 57,
+              "id": "2020519480972238848",
+              "start": 48,
+              "username": "c4lluml1"
+            },
+            {
+              "end": 72,
+              "id": "1518404201168007168",
+              "start": 58,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021941145623031875",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021866346569773489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu @gold_bihu @grok @ufucjxtssuvovlk @c4lluml1 @godspeedyou50 写的比我好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2021582581213589508",
+        "created_at": "2026-02-12T08:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021866346569773489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            },
+            {
+              "end": 33,
+              "id": "716102708873170944",
+              "start": 17,
+              "username": "ufucjxtssuvovlk"
+            },
+            {
+              "end": 43,
+              "id": "2020519480972238848",
+              "start": 34,
+              "username": "c4lluml1"
+            },
+            {
+              "end": 58,
+              "id": "1518404201168007168",
+              "start": 44,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021866346569773489",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021621270220267974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @grok @ufucjxtssuvovlk @c4lluml1 @godspeedyou50 grok这下能当史官了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2020370645071327297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8902,
+          "following_count": 2072,
+          "like_count": 172243,
+          "listed_count": 18,
+          "media_count": 3721,
+          "tweet_count": 45396
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 660,
+          "like_count": 2268,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "🦖 ｜od🐛｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜📜处方放在https://t.co/MS7VCxzFgu    ｜✈️推个便宜机场https://t.co/Nl7I5ItTH8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 60,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 37,
+                "url": "https://t.co/MS7VCxzFgu"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 96,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 73,
+                "url": "https://t.co/Nl7I5ItTH8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ddlg28",
+                "end": 23,
+                "expanded_url": "http://t.me/ddlg28",
+                "start": 0,
+                "url": "https://t.co/8uTrHXUza9"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1999827971180490853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 510,
+          "like_count": 11387,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/8uTrHXUza9",
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7904142,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6076,
+          "media_count": 8202210,
+          "tweet_count": 102371291
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-02T03:19:25.000Z",
+        "description": "反乌托邦",
+        "id": "716102708873170944",
+        "location": "比利时",
+        "name": "诶哎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581125143199375361/yxHQy22y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 80,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 244
+        },
+        "username": "ufucjxtssuvovlk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-08T15:26:38.000Z",
+        "description": "不可能在电视里摆上一个像Archie Bunker（美国70年代开播的电视剧《All in the Family》中的一个固执的对西班牙人、共产主义者、嬉皮士、同性恋、犹太人、女性解放运动者和波兰裔美国人抱有偏见的胖子）一样的角色。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/getoutforchina",
+                "end": 23,
+                "expanded_url": "https://t.me/getoutforchina",
+                "start": 0,
+                "url": "https://t.co/VRKfGLxQVz"
+              }
+            ]
+          }
+        },
+        "id": "2020519480972238848",
+        "location": "（富途牛牛受害者）",
+        "name": "富途牛牛.埃里克·希欧多尔·卡特曼",
+        "pinned_tweet_id": "2020934483088936966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020915044498931716/YGKMNu_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 33,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/VRKfGLxQVz",
+        "username": "c4lluml1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/@Jahseh14138/双相I型",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Jahseh14138"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1994852955737264187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 113,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1268
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

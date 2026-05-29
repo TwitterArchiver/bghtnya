@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1816758291164463314",
+    "created_at": "2024-07-26T12:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T13:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816809222404997371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816809222404997371",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816758291164463314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 逆天观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1816758291164463314",
+        "created_at": "2024-07-26T12:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T13:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816809222404997371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816809222404997371",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816758291164463314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 逆天观点"
+      },
+      {
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1816758291164463314",
+        "created_at": "2024-07-26T08:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T09:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816758291164463314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816758291164463314",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7969,
+          "like_count": 83,
+          "quote_count": 9,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待\n“lgbt饿4天就正常了”\n这一观点？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 1420,
+          "like_count": 81014,
+          "listed_count": 8,
+          "tweet_count": 17385
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "我方了。",
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井橘音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808421663094296576/LyX7poIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 1331,
+          "like_count": 97854,
+          "listed_count": 6,
+          "tweet_count": 4353
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1819958901368148222",
+    "created_at": "2024-08-04T07:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T08:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820003090059391124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714510407006851072",
+          "start": 0,
+          "username": "hhhhhhhhhh68887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820003090059391124",
+    "in_reply_to_user_id": "1714510407006851072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819958901368148222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhhhhhhh68887 白嫖怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1819958901368148222",
+        "created_at": "2024-08-04T07:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T08:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820003090059391124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820003090059391124",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819958901368148222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 白嫖怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819958884041400320"
+          ]
+        },
+        "author_id": "1714510407006851072",
+        "conversation_id": "1819958901368148222",
+        "created_at": "2024-08-04T04:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T05:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819958901368148222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jLPJQOKK03",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hhhhhhhhhh68887/status/1819958901368148222/photo/1",
+              "media_key": "3_1819958884041400320",
+              "start": 28,
+              "url": "https://t.co/jLPJQOKK03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819958901368148222",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2662,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吼吼，我b站账号有400个币了，看看你的😳（bushi https://t.co/jLPJQOKK03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 1455,
+          "like_count": 84599,
+          "listed_count": 10,
+          "tweet_count": 18275
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "法国诗人、演员、戏剧理论家、法兰西先锋国的护国主、极速弥赛亚和国家先锋主义阵线主席\n\n宝宝：@DrNorstar\n卡慈宝宝：@saksamalah2\n妈妈：@Tabunkaede @zhao_Remake",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "DrNorstar"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "saksamalah2"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Tabunkaede"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "zhao_Remake"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "法国“太阳”",
+        "name": "安托南·阿尔托Antonin Artaud🇫🇷",
+        "pinned_tweet_id": "1819620073201717351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819234362728370179/RI4YKX2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 689,
+          "like_count": 21199,
+          "listed_count": 3,
+          "tweet_count": 7701
+        },
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      }
+    ]
+  }
+}

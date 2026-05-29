@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1834894452843794496",
+    "created_at": "2024-09-14T11:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T12:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834921032098234519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752528596718211072",
+          "start": 0,
+          "username": "GotouSugi_Kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834921032098234519",
+    "in_reply_to_user_id": "1752528596718211072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834894452843794496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GotouSugi_Kh 来窝们东昌中学"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1834894452843794496].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1834894452843794496",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1834894452843794496"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1834894452843794496",
+        "created_at": "2024-09-14T11:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T12:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834921032098234519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752528596718211072",
+              "start": 0,
+              "username": "GotouSugi_Kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834921032098234519",
+        "in_reply_to_user_id": "1752528596718211072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834894452843794496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GotouSugi_Kh 来窝们东昌中学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 1508,
+          "like_count": 94923,
+          "listed_count": 10,
+          "tweet_count": 20816
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "09/初三/#原神/崩鐵/納西妲流螢厨/民社/遠視壬/漢英西日柬語/精神高棉人🇰🇭/可愛的 @Raiden_1927 @Frost_SZH @Mualani_Ch @linjiyewei @TsuyuriNagisa @miku_suki393939 @CharmingFurina/@CharmingFirefly",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "原神"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Raiden_1927"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Frost_SZH"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Mualani_Ch"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "linjiyewei"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "TsuyuriNagisa"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "genshin.hoyoverse.com/ja",
+                "end": 23,
+                "expanded_url": "http://genshin.hoyoverse.com/ja",
+                "start": 0,
+                "url": "https://t.co/Jkbfkb52VK"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "現居匹諾康尼 故鄉柬埔寨🇰🇭  單位 保安司令部 西冰庫",
+        "name": "🩶後藤 杦 💚🇰🇭（遠視主義）(ស្រលាញ់កម្ពុជា)",
+        "pinned_tweet_id": "1828436571487367193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827373324785348608/0tJn91ah_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 1106,
+          "like_count": 12086,
+          "listed_count": 1,
+          "tweet_count": 5776
+        },
+        "url": "https://t.co/Jkbfkb52VK",
+        "username": "GotouSugi_Kh",
+        "verified": false
+      }
+    ]
+  }
+}

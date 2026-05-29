@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990302648042717184"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1989865290352792013",
+    "created_at": "2025-11-17T06:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T07:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990302650269937869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "927238728",
+          "start": 0,
+          "username": "DajeYuki1807"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkWGFjsS3b",
+          "end": 37,
+          "expanded_url": "https://x.com/bghtnya/status/1990302650269937869/photo/1",
+          "media_key": "3_1990302648042717184",
+          "start": 14,
+          "url": "https://t.co/wkWGFjsS3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990302650269937869",
+    "in_reply_to_user_id": "927238728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989865290352792013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DajeYuki1807 https://t.co/wkWGFjsS3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1119,
+        "media_key": "3_1990302648042717184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G575tpwbAAAwBHP.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 16900,
+        "height": 1124,
+        "media_key": "13_1989865230705553408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989865230705553408/img/ofTBh7hRR_PkSYfm.jpg",
+        "public_metrics": {
+          "view_count": 94507
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989865230705553408/vid/avc1/320x624/o4JnF0h8n8lek6MG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989865230705553408/vid/avc1/480x936/VqCAI0SkxEMLHIAk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989865230705553408/vid/avc1/576x1124/ifoxtEtNrrXtfqwp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989865230705553408/pl/UuqLg9MLzqkAh5Ro.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990302648042717184"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1989865290352792013",
+        "created_at": "2025-11-17T06:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990302650269937869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "927238728",
+              "start": 0,
+              "username": "DajeYuki1807"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkWGFjsS3b",
+              "end": 37,
+              "expanded_url": "https://x.com/bghtnya/status/1990302650269937869/photo/1",
+              "media_key": "3_1990302648042717184",
+              "start": 14,
+              "url": "https://t.co/wkWGFjsS3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990302650269937869",
+        "in_reply_to_user_id": "927238728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989865290352792013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DajeYuki1807 https://t.co/wkWGFjsS3b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989865230705553408"
+          ]
+        },
+        "author_id": "927238728",
+        "conversation_id": "1989865290352792013",
+        "created_at": "2025-11-16T01:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T02:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989865290352792013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qgzps6pCK",
+              "end": 35,
+              "expanded_url": "https://x.com/DajeYuki1807/status/1989865290352792013/video/1",
+              "media_key": "13_1989865230705553408",
+              "start": 12,
+              "url": "https://t.co/6qgzps6pCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989865290352792013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 100046,
+          "like_count": 988,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "圣火喵喵教入教仪式现场 https://t.co/6qgzps6pCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8184,
+          "following_count": 2121,
+          "like_count": 168567,
+          "listed_count": 0,
+          "media_count": 3437,
+          "tweet_count": 42608
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-05T09:28:45.000Z",
+        "description": "何故为吾貼標籤？ Why label me?",
+        "id": "927238728",
+        "location": "New Zealand",
+        "name": "陳三三🇨🇳🇳🇿🇿🇦🇸🇬🇲🇾❤️💛",
+        "pinned_tweet_id": "1462679745775030276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612255622267039744/59D1RVKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 190,
+          "like_count": 61767,
+          "listed_count": 5,
+          "media_count": 10862,
+          "tweet_count": 35155
+        },
+        "username": "DajeYuki1807",
+        "verified": false
+      }
+    ]
+  }
+}

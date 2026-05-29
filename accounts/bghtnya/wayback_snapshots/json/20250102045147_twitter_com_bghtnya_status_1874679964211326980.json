@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1874481783053713547",
+    "created_at": "2025-01-02T04:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T05:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874679964211326980"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "澄闪",
+          "probability": 0.3544,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "baizhou_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874679964211326980",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874481783053713547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhou_kawaii 澄闪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1874481783053713547",
+        "created_at": "2025-01-02T04:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874679964211326980"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "澄闪",
+              "probability": 0.3544,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "baizhou_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874679964211326980",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874481783053713547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhou_kawaii 澄闪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874481780566405120"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1874481783053713547",
+        "created_at": "2025-01-01T15:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T16:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874481783053713547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaogPBowYz",
+              "end": 23,
+              "expanded_url": "https://x.com/baizhou_kawaii/status/1874481783053713547/photo/1",
+              "media_key": "3_1874481780566405120",
+              "start": 0,
+              "url": "https://t.co/QaogPBowYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874481783053713547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2378,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QaogPBowYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068,
+          "following_count": 1788,
+          "like_count": 119063,
+          "listed_count": 12,
+          "media_count": 1882,
+          "tweet_count": 28596
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "忘れないようメモにしてよ",
+        "id": "1680834021377593344",
+        "location": "你♥️里",
+        "name": "坂下白粥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1865673360228938229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872551600591675392/w1RAaK5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 839,
+          "like_count": 54020,
+          "listed_count": 9,
+          "media_count": 3348,
+          "tweet_count": 19016
+        },
+        "username": "baizhou_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1912056472621457806",
+    "created_at": "2025-04-16T21:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T22:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912625174131732554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        },
+        {
+          "end": 27,
+          "id": "1733491347431321600",
+          "start": 12,
+          "username": "AlphaOrionis09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912625174131732554",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912056472621457806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 @AlphaOrionis09"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1912056472621457806",
+        "created_at": "2025-04-16T21:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T22:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912625174131732554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 27,
+              "id": "1733491347431321600",
+              "start": 12,
+              "username": "AlphaOrionis09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912625174131732554",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912056472621457806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 @AlphaOrionis09"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1912056472621457806",
+        "created_at": "2025-04-15T08:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T09:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912056472621457806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912056472621457806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 111558,
+          "like_count": 1139,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "小药娘在KFC兼职。\n\n顾客：我要透你\n小药娘：😳下班可以吗？\n顾客：什么下班？我要土豆泥，快点！小心我投诉你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5925,
+          "following_count": 1895,
+          "like_count": 130407,
+          "listed_count": 13,
+          "media_count": 2387,
+          "tweet_count": 33281
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫客",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15437,
+          "following_count": 184,
+          "like_count": 512,
+          "listed_count": 54,
+          "media_count": 76,
+          "tweet_count": 15472
+        },
+        "username": "B_cat38324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T14:18:47.000Z",
+        "description": "⚜️幽霊＆ﾃﾝｼ｜ＳＮＳノ詩人。",
+        "id": "1733491347431321600",
+        "location": "无线电波",
+        "name": "Akari",
+        "pinned_tweet_id": "1850896106701595124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867493725351686145/mrgfkn29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 687,
+          "like_count": 14943,
+          "listed_count": 5,
+          "media_count": 611,
+          "tweet_count": 7983
+        },
+        "username": "AlphaOrionis09",
+        "verified": false
+      }
+    ]
+  }
+}

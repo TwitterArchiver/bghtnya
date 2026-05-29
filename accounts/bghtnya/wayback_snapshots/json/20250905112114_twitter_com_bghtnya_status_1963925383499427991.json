@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1962769856018739678",
+    "created_at": "2025-09-05T11:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T12:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963925383499427991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazaAkira"
+        },
+        {
+          "end": 27,
+          "id": "1587653801305153538",
+          "start": 15,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963925383499427991",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962775104351551630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazaAkira @XiaoHuiHuiH 666"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1962775104351551630].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1962775104351551630",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1962775104351551630"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1962769856018739678",
+        "created_at": "2025-09-05T11:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963925383499427991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazaAkira"
+            },
+            {
+              "end": 27,
+              "id": "1587653801305153538",
+              "start": 15,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963925383499427991",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962775104351551630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazaAkira @XiaoHuiHuiH 666"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7447,
+          "following_count": 2068,
+          "like_count": 157691,
+          "listed_count": 18,
+          "media_count": 3111,
+          "tweet_count": 39782
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我17岁没成年，推特不会给我推送黄色内容，我既不会传播淫秽物品也不可能拍。第二我是顺直男，性取向正常和任何🏳️‍🌈圈子没有任何关系。第三我没有也不会药物滥用，事实上这些年我一直在劝阻大家进行类似行为。第四，我有精神病。第五，我爱党爱国爱社会主义，请不要给我扣上反革命的帽子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/SFZpOvz5Se"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "翎野 游戳🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963655595862757381/ZQ_ObJTm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7920,
+          "following_count": 1405,
+          "like_count": 45514,
+          "listed_count": 11,
+          "media_count": 3334,
+          "tweet_count": 27100
+        },
+        "url": "https://t.co/SFZpOvz5Se",
+        "username": "KagurazaAkira",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11500,
+          "following_count": 1257,
+          "like_count": 135958,
+          "listed_count": 22,
+          "media_count": 4424,
+          "tweet_count": 60842
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

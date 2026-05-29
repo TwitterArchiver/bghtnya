@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1818557224656191895",
+    "created_at": "2024-07-31T11:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T12:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818612751499248010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651469730740592642",
+          "start": 0,
+          "username": "KawaiiSmolChino"
+        },
+        {
+          "end": 32,
+          "id": "1615586607482163201",
+          "start": 17,
+          "username": "RealKafuuChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818612751499248010",
+    "in_reply_to_user_id": "1651469730740592642",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818557224656191895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiSmolChino @RealKafuuChino 两只智乃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1818557224656191895",
+        "created_at": "2024-07-31T11:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T12:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818612751499248010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651469730740592642",
+              "start": 0,
+              "username": "KawaiiSmolChino"
+            },
+            {
+              "end": 32,
+              "id": "1615586607482163201",
+              "start": 17,
+              "username": "RealKafuuChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818612751499248010",
+        "in_reply_to_user_id": "1651469730740592642",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818557224656191895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiSmolChino @RealKafuuChino 两只智乃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818557202434867201"
+          ]
+        },
+        "author_id": "1651469730740592642",
+        "conversation_id": "1818557224656191895",
+        "created_at": "2024-07-31T08:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T09:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818557224656191895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/iOf0K85ZQk",
+              "end": 32,
+              "expanded_url": "https://twitter.com/KawaiiSmolChino/status/1818557224656191895/photo/1",
+              "media_key": "3_1818557202434867201",
+              "start": 9,
+              "url": "https://t.co/iOf0K85ZQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818557224656191895",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "历史性的会晤喵~ https://t.co/iOf0K85ZQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 1439,
+          "like_count": 82014,
+          "listed_count": 9,
+          "tweet_count": 17772
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T06:14:10.000Z",
+        "description": "self-proclaimed free thinker.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/chino_suki",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/chino_suki",
+                "start": 0,
+                "url": "https://t.co/jUt8EzMvzf"
+              }
+            ]
+          }
+        },
+        "id": "1651469730740592642",
+        "location": "Rabbit House🍀",
+        "name": "𝒞𝒽𝒾𝓃𝑜☕️💮🩵~🎉",
+        "pinned_tweet_id": "1794022382446977369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811729245363957760/sbtpuiHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 496,
+          "like_count": 23247,
+          "listed_count": 3,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/jUt8EzMvzf",
+        "username": "KawaiiSmolChino",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "",
+        "id": "1615586607482163201",
+        "location": "Tsuen Wan,HK",
+        "name": "智乃",
+        "pinned_tweet_id": "1806508338395636109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815703625030918144/wnm5wr0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 998,
+          "like_count": 32607,
+          "listed_count": 2,
+          "tweet_count": 92
+        },
+        "username": "RealKafuuChino",
+        "verified": false
+      }
+    ]
+  }
+}

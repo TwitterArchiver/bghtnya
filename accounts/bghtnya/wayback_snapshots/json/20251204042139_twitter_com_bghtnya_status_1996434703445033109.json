@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1996177484535169428",
+    "created_at": "2025-12-04T04:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T05:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996434703445033109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915006586269188096",
+          "start": 0,
+          "username": "huifengbixia"
+        },
+        {
+          "end": 28,
+          "id": "1884745808605818880",
+          "start": 14,
+          "username": "Bunbohue40037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996434703445033109",
+    "in_reply_to_user_id": "1915006586269188096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996241047744053275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huifengbixia @Bunbohue40037 不如你国牢中特色政治正确 又是台湾不可分割又是华为好华为美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1996177484535169428",
+        "created_at": "2025-12-04T04:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996434703445033109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915006586269188096",
+              "start": 0,
+              "username": "huifengbixia"
+            },
+            {
+              "end": 28,
+              "id": "1884745808605818880",
+              "start": 14,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996434703445033109",
+        "in_reply_to_user_id": "1915006586269188096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996241047744053275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huifengbixia @Bunbohue40037 不如你国牢中特色政治正确 又是台湾不可分割又是华为好华为美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915006586269188096",
+        "conversation_id": "1996177484535169428",
+        "created_at": "2025-12-03T15:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996241047744053275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 23,
+              "id": "1884745808605818880",
+              "start": 9,
+              "username": "Bunbohue40037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996241047744053275",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996240449439486186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @Bunbohue40037 因为这就是欧美国家的政治正确啊，人家才不care你反不反共，爱不爱民主自由。人家只关心你够不够环保，爱不爱动物。人类从来就是自私又虚伪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8308,
+          "following_count": 2121,
+          "like_count": 171794,
+          "listed_count": 20,
+          "media_count": 3570,
+          "tweet_count": 43871
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T11:35:31.000Z",
+        "description": "反人类不等于反人道，不喜欢人类不等于我就要去杀人放火强奸，我只是希望灭霸打个响指，我讨厌人类是因为我看透了人类本质，一切的罪恶都是人类本身😂",
+        "id": "1915006586269188096",
+        "name": "灰风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996044902807797760/0DdwYaIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 425,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 225
+        },
+        "username": "huifengbixia",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế（圣诞 ver）",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 219,
+          "like_count": 97083,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 10290
+        },
+        "username": "Bunbohue40037",
+        "verified": false
+      }
+    ]
+  }
+}

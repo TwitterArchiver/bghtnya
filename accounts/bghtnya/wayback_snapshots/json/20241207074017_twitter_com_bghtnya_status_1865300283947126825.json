@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1865064077481083238",
+    "created_at": "2024-12-07T07:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T08:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865300283947126825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1826871427972362240",
+          "start": 0,
+          "username": "misaka__network"
+        },
+        {
+          "end": 28,
+          "id": "1850747541257916416",
+          "start": 17,
+          "username": "baizeyinyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865300283947126825",
+    "in_reply_to_user_id": "1826871427972362240",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865299879595262379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaka__network @baizeyinyu ⊙▽⊙"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1865299879595262379].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1865299879595262379",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1865299879595262379"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1865064077481083238",
+        "created_at": "2024-12-07T07:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T08:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865300283947126825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1826871427972362240",
+              "start": 0,
+              "username": "misaka__network"
+            },
+            {
+              "end": 28,
+              "id": "1850747541257916416",
+              "start": 17,
+              "username": "baizeyinyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865300283947126825",
+        "in_reply_to_user_id": "1826871427972362240",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865299879595262379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaka__network @baizeyinyu ⊙▽⊙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3640,
+          "following_count": 1625,
+          "like_count": 108931,
+          "listed_count": 10,
+          "media_count": 1751,
+          "tweet_count": 26171
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T06:38:09.000Z",
+        "description": "Pronoun: Misaka/Misaka's;\nGPG Key Fingerprint : \n504F 17DF 71D6 9D0D 785B  7175 E873 944E 069A C0DF\nTrans Non-Binary.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "webpagesvc.misakanetworksystem.org",
+                "end": 23,
+                "expanded_url": "http://webpagesvc.misakanetworksystem.org/",
+                "start": 0,
+                "url": "https://t.co/LAe6nNsv0r"
+              }
+            ]
+          }
+        },
+        "id": "1826871427972362240",
+        "location": "/Users/MisakaNetworkServices/",
+        "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️@🇳🇿*🇦🇶O🇹🇼",
+        "pinned_tweet_id": "1827748764364472464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862605023592534016/dXoXULSp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 313,
+          "like_count": 18028,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4795
+        },
+        "url": "https://t.co/LAe6nNsv0r",
+        "username": "misaka__network",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T03:53:08.000Z",
+        "description": "🇨🇳From PRC/2005.11./大学专科生/ISFP/友跨顺男/中文/Eng ok",
+        "id": "1850747541257916416",
+        "location": "Trinity, Kivotos",
+        "name": "Unorthodox✝️Angel",
+        "pinned_tweet_id": "1859182225813885374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861946551121408000/Xd6ir21h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 188,
+          "like_count": 2012,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1776
+        },
+        "username": "baizeyinyu",
+        "verified": false
+      }
+    ]
+  }
+}

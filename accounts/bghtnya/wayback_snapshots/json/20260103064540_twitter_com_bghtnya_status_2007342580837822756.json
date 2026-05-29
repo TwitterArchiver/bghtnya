@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2006626080011300869",
+    "created_at": "2026-01-03T06:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007342580837822756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007342580837822756",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006626080011300869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt 好玩 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2006626028781973509",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j3vdqaMAU1iUL.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2006626028748472320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j3vdibAAAvDKt.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3023,
+        "media_key": "3_2006626028744286208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j3vdhbIAAnMug.jpg",
+        "width": 4029
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2006626028958146560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j3veUaYAAnRkv.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2006626080011300869",
+        "created_at": "2026-01-03T06:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007342580837822756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007342580837822756",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006626080011300869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt 好玩 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006626028781973509",
+            "3_2006626028748472320",
+            "3_2006626028744286208",
+            "3_2006626028958146560"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006626080011300869",
+        "created_at": "2026-01-01T07:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006626080011300869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9rEiE8maK",
+              "end": 37,
+              "expanded_url": "https://x.com/Jaciezyt/status/2006626080011300869/photo/1",
+              "media_key": "3_2006626028781973509",
+              "start": 14,
+              "url": "https://t.co/A9rEiE8maK"
+            },
+            {
+              "display_url": "pic.x.com/A9rEiE8maK",
+              "end": 37,
+              "expanded_url": "https://x.com/Jaciezyt/status/2006626080011300869/photo/1",
+              "media_key": "3_2006626028748472320",
+              "start": 14,
+              "url": "https://t.co/A9rEiE8maK"
+            },
+            {
+              "display_url": "pic.x.com/A9rEiE8maK",
+              "end": 37,
+              "expanded_url": "https://x.com/Jaciezyt/status/2006626080011300869/photo/1",
+              "media_key": "3_2006626028744286208",
+              "start": 14,
+              "url": "https://t.co/A9rEiE8maK"
+            },
+            {
+              "display_url": "pic.x.com/A9rEiE8maK",
+              "end": 37,
+              "expanded_url": "https://x.com/Jaciezyt/status/2006626080011300869/photo/1",
+              "media_key": "3_2006626028958146560",
+              "start": 14,
+              "url": "https://t.co/A9rEiE8maK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006626080011300869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10804,
+          "like_count": 185,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "新年的第一场摇曳露营⛺️！ https://t.co/A9rEiE8maK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8661,
+          "following_count": 2085,
+          "like_count": 174296,
+          "listed_count": 18,
+          "media_count": 3682,
+          "tweet_count": 44882
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心❤ | 里@__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "levimc_org"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFiZW"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 ❄🏳️",
+        "pinned_tweet_id": "1997887382092443786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 808,
+          "like_count": 54624,
+          "listed_count": 7,
+          "media_count": 1121,
+          "tweet_count": 13527
+        },
+        "url": "https://t.co/v1k3icFiZW",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

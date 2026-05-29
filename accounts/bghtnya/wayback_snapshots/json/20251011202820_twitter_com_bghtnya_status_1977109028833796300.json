@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975856390976753664"
+      ],
+      "media_source_tweet_id": [
+        "1975856403475828909"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1977109028833796300",
+    "created_at": "2025-10-11T20:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T21:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977109028833796300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2384854741",
+          "start": 3,
+          "username": "Rinyu001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DEs5XWvba6",
+          "end": 45,
+          "expanded_url": "https://x.com/Rinyu001/status/1975856403475828909/photo/1",
+          "media_key": "3_1975856390976753664",
+          "start": 22,
+          "url": "https://t.co/DEs5XWvba6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977109028833796300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975856403475828909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinyu001: 是绿猫咖啡哦～ https://t.co/DEs5XWvba6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975856390976753664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2um60da0AAPXbI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975856390976753664"
+          ],
+          "media_source_tweet_id": [
+            "1975856403475828909"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1977109028833796300",
+        "created_at": "2025-10-11T20:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T21:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977109028833796300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2384854741",
+              "start": 3,
+              "username": "Rinyu001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DEs5XWvba6",
+              "end": 45,
+              "expanded_url": "https://x.com/Rinyu001/status/1975856403475828909/photo/1",
+              "media_key": "3_1975856390976753664",
+              "start": 22,
+              "url": "https://t.co/DEs5XWvba6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977109028833796300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975856403475828909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinyu001: 是绿猫咖啡哦～ https://t.co/DEs5XWvba6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975856390976753664"
+          ]
+        },
+        "author_id": "2384854741",
+        "conversation_id": "1975856403475828909",
+        "created_at": "2025-10-08T09:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T10:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975856403475828909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DEs5XWvba6",
+              "end": 31,
+              "expanded_url": "https://x.com/Rinyu001/status/1975856403475828909/photo/1",
+              "media_key": "3_1975856390976753664",
+              "start": 8,
+              "url": "https://t.co/DEs5XWvba6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975856403475828909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 20295,
+          "like_count": 494,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "是绿猫咖啡哦～ https://t.co/DEs5XWvba6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/35371135…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/63BEDCHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7935,
+          "following_count": 2087,
+          "like_count": 162733,
+          "listed_count": 20,
+          "media_count": 3254,
+          "tweet_count": 40982
+        },
+        "url": "https://t.co/63BEDCHLlz",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-12T07:27:12.000Z",
+        "description": "🏳️‍⚧️🍥MtF/HRT：2025.1.28/无证含糖中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinyu003",
+                "end": 23,
+                "expanded_url": "https://t.me/Rinyu003",
+                "start": 0,
+                "url": "https://t.co/Brenmf4X2I"
+              }
+            ]
+          }
+        },
+        "id": "2384854741",
+        "name": "綾羽Rinyu🍥",
+        "pinned_tweet_id": "1971257635585618136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888594779652685824/Rem2lP-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 208,
+          "like_count": 4983,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/Brenmf4X2I",
+        "username": "Rinyu001",
+        "verified": false
+      }
+    ]
+  }
+}

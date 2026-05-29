@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1984569802313421143",
+    "created_at": "2025-11-03T19:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T20:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985436006611632526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962134873906479104",
+          "start": 0,
+          "username": "Ethereumresiden"
+        },
+        {
+          "end": 25,
+          "id": "1348244970029813761",
+          "start": 17,
+          "username": "EascaSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985436006611632526",
+    "in_reply_to_user_id": "1962134873906479104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985372379166769259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethereumresiden @EascaSu 性别是多维的，包括染色体、生理特征、激素水平和心理认同。心理性别（gender identity）有大量神经科学与心理学证据支持，并非幻想。激素治疗虽不能改变染色体，但能改变第二性征，缓解性别焦虑，是医学认可的干预手段。将性别简化为生理一维，是伪科学化思维，忽视科学与个人心理健康。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1984569802313421143",
+        "created_at": "2025-11-03T19:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T20:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985436006611632526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962134873906479104",
+              "start": 0,
+              "username": "Ethereumresiden"
+            },
+            {
+              "end": 25,
+              "id": "1348244970029813761",
+              "start": 17,
+              "username": "EascaSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985436006611632526",
+        "in_reply_to_user_id": "1962134873906479104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985372379166769259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethereumresiden @EascaSu 性别是多维的，包括染色体、生理特征、激素水平和心理认同。心理性别（gender identity）有大量神经科学与心理学证据支持，并非幻想。激素治疗虽不能改变染色体，但能改变第二性征，缓解性别焦虑，是医学认可的干预手段。将性别简化为生理一维，是伪科学化思维，忽视科学与个人心理健康。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962134873906479104",
+        "conversation_id": "1984569802313421143",
+        "created_at": "2025-11-03T15:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985372379166769259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 17,
+              "id": "1348244970029813761",
+              "start": 9,
+              "username": "EascaSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985372379166769259",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985252587411767699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @EascaSu 什么是伪科学？生理性别是伪科学还是心里性别是伪科学？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1983125347576230255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606741670346754/ZL5Mm9Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8033,
+          "following_count": 2103,
+          "like_count": 165522,
+          "listed_count": 20,
+          "media_count": 3362,
+          "tweet_count": 41906
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:46:43.000Z",
+        "description": "要避雷我请趁早，总比日久见人心那种幻灭感要温柔的多",
+        "id": "1962134873906479104",
+        "name": "汐",
+        "pinned_tweet_id": "1980496399109353728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979587548079861760/WI2VMlsM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 215,
+          "like_count": 4490,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 895
+        },
+        "username": "Ethereumresiden",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T12:27:12.000Z",
+        "description": "aka. 白玥/猫猫女孩/爱好语言学和历史/🇮🇪foghlaimeoir Gaeilge",
+        "id": "1348244970029813761",
+        "location": "Trans-la-Forêt, France",
+        "name": "Éasca Geal🏳️‍⚧️🇵🇸",
+        "pinned_tweet_id": "1935571600814088645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972679443157319680/Sphgb9y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 367,
+          "like_count": 5047,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3406
+        },
+        "username": "EascaSu",
+        "verified": false
+      }
+    ]
+  }
+}

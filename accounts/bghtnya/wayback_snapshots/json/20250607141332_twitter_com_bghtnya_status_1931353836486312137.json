@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931353833814519808"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1931037627173785768",
+    "created_at": "2025-06-07T14:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931353836486312137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1736843633322840064",
+          "start": 0,
+          "username": "NanaimoSt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rOGC9HJ1oI",
+          "end": 34,
+          "expanded_url": "https://x.com/bghtnya/status/1931353836486312137/photo/1",
+          "media_key": "3_1931353833814519808",
+          "start": 11,
+          "url": "https://t.co/rOGC9HJ1oI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931353836486312137",
+    "in_reply_to_user_id": "1736843633322840064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931037627173785768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaimoSt https://t.co/rOGC9HJ1oI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1931353833814519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2MFEAacAA7oE-.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931353833814519808"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931037627173785768",
+        "created_at": "2025-06-07T14:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T15:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931353836486312137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1736843633322840064",
+              "start": 0,
+              "username": "NanaimoSt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOGC9HJ1oI",
+              "end": 34,
+              "expanded_url": "https://x.com/bghtnya/status/1931353836486312137/photo/1",
+              "media_key": "3_1931353833814519808",
+              "start": 11,
+              "url": "https://t.co/rOGC9HJ1oI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931353836486312137",
+        "in_reply_to_user_id": "1736843633322840064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931037627173785768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaimoSt https://t.co/rOGC9HJ1oI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736843633322840064",
+        "conversation_id": "1931037627173785768",
+        "created_at": "2025-06-06T17:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T18:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931037627173785768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931037627173785768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1941,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲着没事逛了会贴吧感觉要变身*黑了，我需要冷静"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6344,
+          "following_count": 1958,
+          "like_count": 141848,
+          "listed_count": 14,
+          "media_count": 2635,
+          "tweet_count": 35697
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T20:20:16.000Z",
+        "description": "江泽民（1926年8月17日生）男，汉族，江苏省扬州市人。1943年起参加地下党领导的学生运动，1946年4月加入中国共产党，1947年毕业于上海交通大学电机系。曾任中国共产党中央委员会总书记，中国共产党中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席",
+        "id": "1736843633322840064",
+        "location": "Burnaby, British Columbia",
+        "name": "江泽民 official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793663824513662976/DQWx6St5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 109,
+          "like_count": 3131,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 1132
+        },
+        "username": "NanaimoSt",
+        "verified": false
+      }
+    ]
+  }
+}

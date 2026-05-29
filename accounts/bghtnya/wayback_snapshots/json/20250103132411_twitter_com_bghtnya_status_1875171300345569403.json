@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1874776892861247488"
+      ],
+      "media_source_tweet_id": [
+        "1874777022360396107"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1875171300345569403",
+    "created_at": "2025-01-03T13:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T14:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875171300345569403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1479811966503772160",
+          "start": 3,
+          "username": "funwinn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EgoGbfMAR1",
+          "end": 43,
+          "expanded_url": "https://x.com/funwinn/status/1874777022360396107/video/1",
+          "media_key": "7_1874776892861247488",
+          "start": 20,
+          "url": "https://t.co/EgoGbfMAR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875171300345569403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 275
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874777022360396107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @funwinn: 突发新闻！！ https://t.co/EgoGbfMAR1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60010,
+        "height": 360,
+        "media_key": "7_1874776892861247488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1874776892861247488/pu/img/SpMx9COSSsLwGdh3.jpg",
+        "public_metrics": {
+          "view_count": 183385
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874776892861247488/pu/vid/avc1/480x270/HkZgIJmu517cxlLj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874776892861247488/pu/vid/avc1/640x360/OOISWJeAQqowN3Hd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1874776892861247488/pu/pl/W_SUbVANZAi2Jd7a.m3u8?tag=12&v=a7b"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874776892861247488"
+          ],
+          "media_source_tweet_id": [
+            "1874777022360396107"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1875171300345569403",
+        "created_at": "2025-01-03T13:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T14:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875171300345569403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479811966503772160",
+              "start": 3,
+              "username": "funwinn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgoGbfMAR1",
+              "end": 43,
+              "expanded_url": "https://x.com/funwinn/status/1874777022360396107/video/1",
+              "media_key": "7_1874776892861247488",
+              "start": 20,
+              "url": "https://t.co/EgoGbfMAR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875171300345569403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874777022360396107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @funwinn: 突发新闻！！ https://t.co/EgoGbfMAR1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874776892861247488"
+          ]
+        },
+        "author_id": "1479811966503772160",
+        "conversation_id": "1874777022360396107",
+        "created_at": "2025-01-02T11:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T12:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874777022360396107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgoGbfMAR1",
+              "end": 30,
+              "expanded_url": "https://x.com/funwinn/status/1874777022360396107/video/1",
+              "media_key": "7_1874776892861247488",
+              "start": 7,
+              "url": "https://t.co/EgoGbfMAR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874777022360396107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 420769,
+          "like_count": 1672,
+          "quote_count": 8,
+          "reply_count": 47,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "突发新闻！！ https://t.co/EgoGbfMAR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4075,
+          "following_count": 1796,
+          "like_count": 119755,
+          "listed_count": 12,
+          "media_count": 1890,
+          "tweet_count": 28823
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T13:47:42.000Z",
+        "description": "我是一个巨型坦克牲口 Just Funny Winnie (Funwinn)",
+        "id": "1479811966503772160",
+        "location": "一个不为人知地方",
+        "name": "Funny Winnie",
+        "pinned_tweet_id": "1821119662513652029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567126036852408320/kR11QTEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14014,
+          "following_count": 691,
+          "like_count": 108440,
+          "listed_count": 42,
+          "media_count": 4700,
+          "tweet_count": 53043
+        },
+        "username": "funwinn",
+        "verified": false
+      }
+    ]
+  }
+}

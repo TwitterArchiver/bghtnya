@@ -1,0 +1,398 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1810289199804997963",
+    "created_at": "2024-07-09T07:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T08:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810576292796063856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1609382690964340736",
+          "start": 0,
+          "username": "chiori_momo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810576292796063856",
+    "in_reply_to_user_id": "1609382690964340736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810289199804997963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiori_momo 这个问题明日方舟玩家有较高发言权"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1810289199804997963",
+        "created_at": "2024-07-09T07:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T08:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810576292796063856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1609382690964340736",
+              "start": 0,
+              "username": "chiori_momo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810576292796063856",
+        "in_reply_to_user_id": "1609382690964340736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810289199804997963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiori_momo 这个问题明日方舟玩家有较高发言权"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810289197393272832"
+          ]
+        },
+        "author_id": "1609382690964340736",
+        "conversation_id": "1810289199804997963",
+        "created_at": "2024-07-08T12:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T13:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810289199804997963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Pl11HMuZMm",
+              "end": 60,
+              "expanded_url": "https://twitter.com/chiori_momo/status/1810289199804997963/photo/1",
+              "media_key": "3_1810289197393272832",
+              "start": 37,
+              "url": "https://t.co/Pl11HMuZMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810289199804997963",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6929,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么男生的脚闻起来是闷臭的，女生的却是酸臭的，难道真的是因为激素不同？ https://t.co/Pl11HMuZMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 1408,
+          "like_count": 76744,
+          "listed_count": 7,
+          "tweet_count": 16265
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T02:55:17.000Z",
+        "description": "🍥02年，是只狐娘，会喵喵叫。因被诅咒变成公的，现长期服用解药。\n诗诗姐：@utashimoshi\n墨妹妹：@sleepinker\n狐娘妹妹：@mengxintu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "utashimoshi"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "sleepinker"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "mengxintu"
+              }
+            ]
+          }
+        },
+        "id": "1609382690964340736",
+        "location": "兽耳动物园",
+        "name": "千織ちおり",
+        "pinned_tweet_id": "1661053564263993344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796093522132729856/ubrv9K9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3805,
+          "following_count": 1056,
+          "like_count": 3801,
+          "listed_count": 7,
+          "tweet_count": 3014
+        },
+        "username": "chiori_momo",
+        "verified": false
+      }
+    ]
+  }
+}

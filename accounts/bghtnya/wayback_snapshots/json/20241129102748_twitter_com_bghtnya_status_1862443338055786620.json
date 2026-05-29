@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1862322179574309321",
+    "created_at": "2024-11-29T10:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T11:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862443338055786620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1829677182609997826",
+          "start": 0,
+          "username": "twsdah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862443338055786620",
+    "in_reply_to_user_id": "1829677182609997826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862322179574309321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twsdah 为了看画师没传到pixiv的作品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1862322179574309321",
+        "created_at": "2024-11-29T10:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T11:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862443338055786620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1829677182609997826",
+              "start": 0,
+              "username": "twsdah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862443338055786620",
+        "in_reply_to_user_id": "1829677182609997826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862322179574309321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twsdah 为了看画师没传到pixiv的作品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862322170283614209"
+          ]
+        },
+        "author_id": "1829677182609997826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1862322179574309321",
+        "created_at": "2024-11-29T02:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T03:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862322179574309321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uepIZo4eq",
+              "end": 40,
+              "expanded_url": "https://x.com/twsdah/status/1862322179574309321/photo/1",
+              "media_key": "3_1862322170283614209",
+              "start": 17,
+              "url": "https://t.co/5uepIZo4eq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862322179574309321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 81352,
+          "like_count": 891,
+          "quote_count": 11,
+          "reply_count": 47,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "那么其他推友们翻墙是为了什么呢🤔 https://t.co/5uepIZo4eq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 1602,
+          "like_count": 107294,
+          "listed_count": 9,
+          "media_count": 1729,
+          "tweet_count": 25706
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:27:15.000Z",
+        "description": "26岁，男，天津大学本科，港前四(qs)工科硕士毕业，现在香港某大型手机公司做芯片设计，练习时长两年半。是个孤独的人，游戏爱好者，比较爱玩米哈游三件套，重氪玩家，现在转型成为博启(博德之门3)玩家。最喜欢的女团：blackpink/DLE 最喜欢的男团：EXO/CNBLUE/防弹少年团/Bigbang",
+        "id": "1829677182609997826",
+        "location": "Amersfoort, Nederland",
+        "name": "米笑梓-初代目",
+        "pinned_tweet_id": "1857457117466419382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852039959764701185/YppKMvbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 233,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1043
+        },
+        "username": "twsdah",
+        "verified": false
+      }
+    ]
+  }
+}

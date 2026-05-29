@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2023204658572083239",
+    "created_at": "2026-02-16T01:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T02:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023204658572083239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023204658572083239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023011754523967681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: [UDP红包] 没收到就是丢包了。\n[TCP红包] 没收到就重传直到确认。\n[IP红包] 没收到就是路由错误。\n[HTTP红包] 没收到就返回404。\n[DNS红包] 没收到就是解析失败。\n[FTP红包] 没收到就是传输中断。\n[ICMP红包] 没收到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2023204658572083239",
+        "created_at": "2026-02-16T01:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023204658572083239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023204658572083239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023011754523967681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: [UDP红包] 没收到就是丢包了。\n[TCP红包] 没收到就重传直到确认。\n[IP红包] 没收到就是路由错误。\n[HTTP红包] 没收到就返回404。\n[DNS红包] 没收到就是解析失败。\n[FTP红包] 没收到就是传输中断。\n[ICMP红包] 没收到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433678976564662273",
+        "conversation_id": "2023011754523967681",
+        "created_at": "2026-02-15T12:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023011754523967681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023011754523967681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "[UDP红包] 没收到就是丢包了。\n[TCP红包] 没收到就重传直到确认。\n[IP红包] 没收到就是路由错误。\n[HTTP红包] 没收到就返回404。\n[DNS红包] 没收到就是解析失败。\n[FTP红包] 没收到就是传输中断。\n[ICMP红包] 没收到就发送超时消息。\n[ARP红包] 没收到就是地址找不到。\n[DHCP红包] 没收到就是分配冲突。\n[SSH红包] 没收到就是密钥错误。\n[SSL红包] 没收到就是证书过期。\n[BGP红包] 没收到就是路径撤回。\n[SMTP红包] 没收到就是服务器拒收。\n[POP3红包] 没收到就是连接超时。\n[VoIP红包] 没收到就是网络抖动。\n[VPN红包] 没收到就是隧道加密。\n[NAT红包] 没收到就是转换丢失。\n[QoS红包] 没收到就是优先级低。\n[CDN红包] 没收到就是缓存未命中。\n[MPLS红包] 没收到就是标签错误。\n[WiFi红包] 没收到就是信号弱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 27761,
+          "like_count": 424,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "[UDP红包] 没收到就是丢包了。\n[TCP红包] 没收到就重传直到确认。\n[IP红包] 没收到就是路由错误。\n[HTTP红包] 没收到就返回404。\n[DNS红包] 没收到就是解析失败。\n[FTP红包] 没收到就是传输中断。\n[ICMP红包] 没收到就发送超时消息。\n[ARP红包] 没收到就是地址找不到。\n[DHCP红包]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2023057004500296149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8921,
+          "following_count": 2074,
+          "like_count": 172723,
+          "listed_count": 18,
+          "media_count": 3731,
+          "tweet_count": 45594
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117526,
+          "following_count": 1042,
+          "like_count": 51513,
+          "listed_count": 272,
+          "media_count": 19259,
+          "tweet_count": 29238
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

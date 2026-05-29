@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1860588092509552912",
+    "created_at": "2024-11-24T14:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T15:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860697005317931122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1352930854448680960",
+          "start": 0,
+          "username": "hyhcrh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860697005317931122",
+    "in_reply_to_user_id": "1352930854448680960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860588092509552912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyhcrh 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1860588092509552912",
+        "created_at": "2024-11-24T14:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T15:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860697005317931122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1352930854448680960",
+              "start": 0,
+              "username": "hyhcrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860697005317931122",
+        "in_reply_to_user_id": "1352930854448680960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860588092509552912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyhcrh 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352930854448680960",
+        "conversation_id": "1860588092509552912",
+        "created_at": "2024-11-24T07:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T08:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860588092509552912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/1860573491252330891",
+              "start": 14,
+              "url": "https://t.co/xZ9sL2NLPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860588092509552912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1765,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860573491252330891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凸起：hi\n摁下去：hi~ https://t.co/xZ9sL2NLPF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3481,
+          "following_count": 1588,
+          "like_count": 106166,
+          "listed_count": 9,
+          "tweet_count": 25262
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-23T10:47:17.000Z",
+        "description": "R.I.P. starmoe / 16现役JK (she | her) | 自签名认证家暴党 | 不建政 | MC泰拉腐竹玩家 | 昵称可能变化，靠用户名找我 \\ 即使我锁推，只要同意我fo你我必定互关哦 🐘mastodon/🦋bluesky同名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hyhcrh",
+                "end": 23,
+                "expanded_url": "https://t.me/hyhcrh",
+                "start": 0,
+                "url": "https://t.co/WJ6oBwUGow"
+              }
+            ]
+          }
+        },
+        "id": "1352930854448680960",
+        "location": "在服务器里",
+        "name": "神楽坂 依云🍥",
+        "pinned_tweet_id": "1657621571362783232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502807334170468352/3MDJLkyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817,
+          "following_count": 1636,
+          "like_count": 117795,
+          "listed_count": 9,
+          "tweet_count": 8354
+        },
+        "url": "https://t.co/WJ6oBwUGow",
+        "username": "hyhcrh",
+        "verified": false
+      }
+    ]
+  }
+}

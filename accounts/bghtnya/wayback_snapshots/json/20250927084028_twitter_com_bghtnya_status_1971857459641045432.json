@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1971697712098955769",
+    "created_at": "2025-09-27T08:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T09:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971857459641045432"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "典中典",
+          "probability": 0.4898,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 22,
+          "id": "1766644305660420096",
+          "start": 11,
+          "username": "suikahsnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971857459641045432",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971811363887734865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @suikahsnya 典中典（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1971811363887734865].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1971811363887734865",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1971811363887734865"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1971697712098955769",
+        "created_at": "2025-09-27T08:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971857459641045432"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "典中典",
+              "probability": 0.4898,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 22,
+              "id": "1766644305660420096",
+              "start": 11,
+              "username": "suikahsnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971857459641045432",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971811363887734865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @suikahsnya 典中典（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7575,
+          "following_count": 2081,
+          "like_count": 160665,
+          "listed_count": 18,
+          "media_count": 3177,
+          "tweet_count": 40490
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "天残党/生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 1068,
+          "like_count": 67268,
+          "listed_count": 3,
+          "media_count": 1901,
+          "tweet_count": 13004
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "西瓜必須是酸的/09年/高一/友跨🏳️‍⚧️/MtF傾向🍥（hrt開始2025.7.15，斷糖中，在等糖寄過來）/GD嚴重/極度容貌焦慮/苦逼住宿生/期待成年後srs/（半）家長黨（？ 算存疑）/🚪₩0/堅決不自殘不od不抽菸不喝酒不鬧事/皮下醜國男/坐標上海/原帳號@gotousugi被盜，推友巡迴中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "gotousugi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXvmT7"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "西瓜好酸喵🏳️‍⚧️🍥🍉🧊🍔🍜（大號被盜）",
+        "pinned_tweet_id": "1961349996306907630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969054346727059456/GXALGfIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 918,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/iBBruXvmT7",
+        "username": "suikahsnya",
+        "verified": false
+      }
+    ]
+  }
+}

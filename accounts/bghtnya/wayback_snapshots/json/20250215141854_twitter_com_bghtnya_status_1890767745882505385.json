@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1890750847715270675",
+    "created_at": "2025-02-15T14:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T15:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890767745882505385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1435832892609937408",
+          "start": 0,
+          "username": "9ncolj"
+        },
+        {
+          "end": 19,
+          "id": "829391339833823232",
+          "start": 8,
+          "username": "ohotomosan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890767745882505385",
+    "in_reply_to_user_id": "1435832892609937408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890766819205505198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9ncolj @ohotomosan 其实这主要跟厂家没什么关系 看的是价位 小米现在也切割低端 哄抬物价 华为苹果虽然一直是中高端品牌 但和小米vivo对比 其实主要是机型性能上差别不大 而是性价比的区别）\n当然 对我来说 最重要的还是看能不能解boot loader锁 能不能root刷模块（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1890750847715270675",
+        "created_at": "2025-02-15T14:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890767745882505385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1435832892609937408",
+              "start": 0,
+              "username": "9ncolj"
+            },
+            {
+              "end": 19,
+              "id": "829391339833823232",
+              "start": 8,
+              "username": "ohotomosan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890767745882505385",
+        "in_reply_to_user_id": "1435832892609937408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890766819205505198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9ncolj @ohotomosan 其实这主要跟厂家没什么关系 看的是价位 小米现在也切割低端 哄抬物价 华为苹果虽然一直是中高端品牌 但和小米vivo对比 其实主要是机型性能上差别不大 而是性价比的区别）\n当然 对我来说 最重要的还是看能不能解boot loader锁 能不能root刷模块（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435832892609937408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1890750847715270675",
+        "created_at": "2025-02-15T14:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890766819205505198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829391339833823232",
+              "start": 0,
+              "username": "ohotomosan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890766819205505198",
+        "in_reply_to_user_id": "829391339833823232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890750847715270675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohotomosan 看你了，如果你想玩一些高端游戏就搞华为、苹果这种，如果你只是玩一些普通游戏，而且不是太多vivo差不多就可以了👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5692,
+          "following_count": 1832,
+          "like_count": 124111,
+          "listed_count": 14,
+          "media_count": 2167,
+          "tweet_count": 30954
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T05:10:25.000Z",
+        "description": "我愿以生命为代价，在无垠的宇宙中遨游\n                   宇宙在上，魂归星海",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 23,
+                "expanded_url": "https://drive.google.com/drive/folders/1-12_jEv6pHJxJ4R6M1-uUKZ6gnJdr-V_",
+                "start": 0,
+                "url": "https://t.co/7LtwER26Ja"
+              }
+            ]
+          }
+        },
+        "id": "1435832892609937408",
+        "location": "月球🌕🌙",
+        "name": "星辉辉喵(^･ω･)✨🌌",
+        "pinned_tweet_id": "1805562403809263862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734967796755525632/56Wf6kbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 699,
+          "like_count": 52191,
+          "listed_count": 14,
+          "media_count": 2284,
+          "tweet_count": 19321
+        },
+        "url": "https://t.co/7LtwER26Ja",
+        "username": "9ncolj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T18:07:59.000Z",
+        "description": "日語/中文/English.\n在學華語（普通話，粵台語）。發信日本語學，文化，生活情報。\n普通にゲームかペチの話題多め",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/oilmajor_ootom…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/oilmajor_ootomo?t=hjDNDa&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/irBXWMOAFM"
+              }
+            ]
+          }
+        },
+        "id": "829391339833823232",
+        "name": "おほとも（犬儒）",
+        "pinned_tweet_id": "1865254598644240617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865256573465149440/MJPtJwmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 4695,
+          "like_count": 43015,
+          "listed_count": 11,
+          "media_count": 3071,
+          "tweet_count": 81824
+        },
+        "url": "https://t.co/irBXWMOAFM",
+        "username": "ohotomosan",
+        "verified": false
+      }
+    ]
+  }
+}

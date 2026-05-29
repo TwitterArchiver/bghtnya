@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1980966879285108772",
+    "created_at": "2025-10-24T17:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T18:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981772202954699124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        },
+        {
+          "end": 21,
+          "id": "1817821126640496640",
+          "start": 10,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981772202954699124",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981747254445867407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 @MTNEKO8964 氷主席发表重要讲话"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981747254445867407].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981747254445867407",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981747254445867407"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1980966879285108772",
+        "created_at": "2025-10-24T17:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981772202954699124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            },
+            {
+              "end": 21,
+              "id": "1817821126640496640",
+              "start": 10,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981772202954699124",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981747254445867407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 @MTNEKO8964 氷主席发表重要讲话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7972,
+          "following_count": 2096,
+          "like_count": 164850,
+          "listed_count": 19,
+          "media_count": 3308,
+          "tweet_count": 41518
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872125929033752576/g6_gdy6W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 90,
+          "like_count": 21513,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 11012
+        },
+        "username": "tube1925",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫｜面条的tg频道https://t.co/6TaiTWH1P7｜妈妈@Tim_Pan_5｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Tim_Pan_5"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "sanmiguelnoodle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 101,
+                "expanded_url": "http://t.me/MTNEKO123456",
+                "start": 78,
+                "url": "https://t.co/6TaiTWH1P7"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1979465452196892949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3947,
+          "following_count": 3300,
+          "like_count": 41031,
+          "listed_count": 7,
+          "media_count": 654,
+          "tweet_count": 6402
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

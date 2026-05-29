@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "1959919926300602614",
+    "created_at": "2025-08-26T02:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T03:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960163345111118029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939867725435912192",
+          "start": 0,
+          "username": "xiaoxunjiang520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960163345111118029",
+    "in_reply_to_user_id": "1939867725435912192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959919926300602614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxunjiang520 我高中直接连学校wifi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1959919923083481088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMIyTOaEAAJFA2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1959919926300602614",
+        "created_at": "2025-08-26T02:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T03:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960163345111118029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939867725435912192",
+              "start": 0,
+              "username": "xiaoxunjiang520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960163345111118029",
+        "in_reply_to_user_id": "1939867725435912192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959919926300602614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxunjiang520 我高中直接连学校wifi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959919923083481088"
+          ]
+        },
+        "author_id": "1939867725435912192",
+        "conversation_id": "1959919926300602614",
+        "created_at": "2025-08-25T10:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959919926300602614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FhMzK10ckH",
+              "end": 42,
+              "expanded_url": "https://x.com/xiaoxunjiang520/status/1959919926300602614/photo/1",
+              "media_key": "3_1959919923083481088",
+              "start": 19,
+              "url": "https://t.co/FhMzK10ckH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959919926300602614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3640,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "开学之后我要带这3大法宝去学校😋😋😋 https://t.co/FhMzK10ckH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7390,
+          "following_count": 2054,
+          "like_count": 156472,
+          "listed_count": 18,
+          "media_count": 3067,
+          "tweet_count": 39409
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T02:04:56.000Z",
+        "description": "11年的无证小药娘🍥叫我小寻就行咯😘有重度抑郁和狂躁症🤕喜欢吃😋甜甜的🍥已彻底炸柜半家长党😭最爱的老公🥰@wjhlovelzp 好闺闺@daimo12138 逃生仓@yizhixiaoxun520详情看下面↓QQ群：744190720 TG群：https://t.co/uKrCGKBnTD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "wjhlovelzp"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "daimo12138"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "yizhixiaoxun520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+f2Ymt1vt5cE1O…",
+                "end": 145,
+                "expanded_url": "https://t.me/+f2Ymt1vt5cE1OTA1",
+                "start": 122,
+                "url": "https://t.co/uKrCGKBnTD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.report/zh-cn/submissi…",
+                "end": 23,
+                "expanded_url": "https://mtf.report/zh-cn/submissions/zS520zx1314",
+                "start": 0,
+                "url": "https://t.co/SuSXQE2TCr"
+              }
+            ]
+          }
+        },
+        "id": "1939867725435912192",
+        "location": "雌二醇星球",
+        "name": "小寻酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1947887817897492688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939868808573067265/vlOCrlfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 572,
+          "like_count": 577,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/SuSXQE2TCr",
+        "username": "xiaoxunjiang520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1924689474669424673",
+    "created_at": "2025-05-20T13:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T14:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924818138908262729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 19,
+          "id": "1666407332681768963",
+          "start": 11,
+          "username": "biluawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924818138908262729",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924785855430066412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @biluawa 来广东窝野肯定找你玩"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1924785855430066412].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924785855430066412",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1924785855430066412"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1924689474669424673",
+        "created_at": "2025-05-20T13:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924818138908262729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 19,
+              "id": "1666407332681768963",
+              "start": 11,
+              "username": "biluawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924818138908262729",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924785855430066412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @biluawa 来广东窝野肯定找你玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6310,
+          "following_count": 1951,
+          "like_count": 137704,
+          "listed_count": 14,
+          "media_count": 2536,
+          "tweet_count": 34936
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1089,
+          "like_count": 57895,
+          "listed_count": 3,
+          "media_count": 1500,
+          "tweet_count": 11291
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T11:30:52.000Z",
+        "description": "大证mtf/减肥ing｜喜欢百合｜想变可爱｜🎮东方夜雀食堂/音游/MC🎮｜可互fo｜不骂人/不键政/不阴阳怪气等",
+        "id": "1666407332681768963",
+        "name": "彼露阡白🏳️‍⚧️",
+        "pinned_tweet_id": "1889062507190620418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845683312989458432/a0yU_Q3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 678,
+          "like_count": 5392,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 823
+        },
+        "username": "biluawa",
+        "verified": false
+      }
+    ]
+  }
+}

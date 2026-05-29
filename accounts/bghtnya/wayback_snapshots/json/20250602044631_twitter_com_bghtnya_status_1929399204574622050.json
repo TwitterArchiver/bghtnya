@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1929196619376861464",
+    "created_at": "2025-06-02T04:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T05:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929399204574622050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929399204574622050",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929196619376861464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 怎么锁推了👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929196619376861464].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929196619376861464",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929196619376861464"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1929196619376861464",
+        "created_at": "2025-06-02T04:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T05:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929399204574622050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929399204574622050",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929196619376861464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 怎么锁推了👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6315,
+          "following_count": 1959,
+          "like_count": 140113,
+          "listed_count": 13,
+          "media_count": 2603,
+          "tweet_count": 35450
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "关注枫糖喵，关注枫糖谢谢喵….抬杠骂街人身攻击一律屏蔽。YouTube频道：https://t.co/obHINacrGO；邮箱：konekoutena@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 61,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 38,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1929199671353700553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926130050291707905/n3Mp1qR3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8010,
+          "following_count": 1658,
+          "like_count": 5769,
+          "listed_count": 34,
+          "media_count": 4032,
+          "tweet_count": 12529
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

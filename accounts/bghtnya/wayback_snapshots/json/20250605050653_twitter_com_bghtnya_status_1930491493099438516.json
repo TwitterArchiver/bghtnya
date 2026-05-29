@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1930212690598752589",
+    "created_at": "2025-06-05T05:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T06:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930491493099438516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930491493099438516",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930212690598752589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 刀战房"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21501,
+        "height": 960,
+        "media_key": "13_1930212118269214720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930212118269214720/img/Rzvdsreh8Oa2io0n.jpg",
+        "public_metrics": {
+          "view_count": 762627
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930212118269214720/vid/avc1/320x564/EKB55EhPv7kguV2K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930212118269214720/vid/avc1/480x846/Rpl1fcYY-e-JPHBv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930212118269214720/vid/avc1/544x960/Yk74p9X4R3o_GSW0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930212118269214720/pl/wQX09-_-KrXAJl1O.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 1211,
+        "media_key": "3_1930212159142715392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsl9u2bXYAAHBR6.jpg",
+        "width": 905
+      },
+      {
+        "height": 1041,
+        "media_key": "3_1930212174326108160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsl9vu_XkAAyHti.jpg",
+        "width": 556
+      },
+      {
+        "height": 1178,
+        "media_key": "3_1930212401359495168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsl988wWIAAqNRW.jpg",
+        "width": 667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1930212690598752589",
+        "created_at": "2025-06-05T05:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T06:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930491493099438516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930491493099438516",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930212690598752589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 刀战房"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930212118269214720",
+            "3_1930212159142715392",
+            "3_1930212174326108160",
+            "3_1930212401359495168"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1930212690598752589",
+        "created_at": "2025-06-04T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930212690598752589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46H2Sq55ub",
+              "end": 149,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1930212690598752589/video/1",
+              "media_key": "13_1930212118269214720",
+              "start": 126,
+              "url": "https://t.co/46H2Sq55ub"
+            },
+            {
+              "display_url": "pic.x.com/46H2Sq55ub",
+              "end": 149,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1930212690598752589/video/1",
+              "media_key": "3_1930212159142715392",
+              "start": 126,
+              "url": "https://t.co/46H2Sq55ub"
+            },
+            {
+              "display_url": "pic.x.com/46H2Sq55ub",
+              "end": 149,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1930212690598752589/video/1",
+              "media_key": "3_1930212174326108160",
+              "start": 126,
+              "url": "https://t.co/46H2Sq55ub"
+            },
+            {
+              "display_url": "pic.x.com/46H2Sq55ub",
+              "end": 149,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1930212690598752589/video/1",
+              "media_key": "3_1930212401359495168",
+              "start": 126,
+              "url": "https://t.co/46H2Sq55ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930212690598752589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1177,
+          "impression_count": 2056176,
+          "like_count": 4661,
+          "quote_count": 108,
+          "reply_count": 535,
+          "retweet_count": 485
+        },
+        "reply_settings": "everyone",
+        "text": "6月4日，武汉大学四食堂发生持刀砍人事件\n一名学生因论文答辩没过，持刀在食堂内随机砍人，现场画面显示有人受伤。\n该学生在朋友圈表示，“只能去食堂刀人了，刀几个幸运观众陪我上路。懒得玩了，重开。”\n“集体无法解决，那只有杀，啥东西都不如一把菜刀好使。” https://t.co/46H2Sq55ub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6334,
+          "following_count": 1958,
+          "like_count": 140896,
+          "listed_count": 14,
+          "media_count": 2614,
+          "tweet_count": 35552
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1930033346018480586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006351,
+          "following_count": 956,
+          "like_count": 6766,
+          "listed_count": 8154,
+          "media_count": 29356,
+          "tweet_count": 35890
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

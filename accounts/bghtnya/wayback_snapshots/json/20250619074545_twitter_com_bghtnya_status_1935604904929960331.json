@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1935371053662179633",
+    "created_at": "2025-06-19T07:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T08:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935604904929960331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935604904929960331",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935371053662179633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 钓鱼佬永不空军"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_1935371041750069248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvRtVwXMAAlrP1.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1935371053662179633",
+        "created_at": "2025-06-19T07:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935604904929960331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935604904929960331",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935371053662179633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 钓鱼佬永不空军"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935371041750069248"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1935371053662179633",
+        "created_at": "2025-06-18T16:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935371053662179633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/22nynW8RVl",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/1935371053662179633/photo/1",
+              "media_key": "3_1935371041750069248",
+              "start": 0,
+              "url": "https://t.co/22nynW8RVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935371053662179633",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 104627,
+          "like_count": 1151,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/22nynW8RVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 2002,
+          "like_count": 147109,
+          "listed_count": 14,
+          "media_count": 2746,
+          "tweet_count": 36639
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享沙雕图。没啥雷点，对任何群体都保持友好。爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏(互fo",
+        "pinned_tweet_id": "1935529110371184835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4172,
+          "following_count": 711,
+          "like_count": 1062,
+          "listed_count": 5,
+          "media_count": 1707,
+          "tweet_count": 1890
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

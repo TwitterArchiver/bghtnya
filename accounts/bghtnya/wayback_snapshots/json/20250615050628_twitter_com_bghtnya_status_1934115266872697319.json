@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1934045691657019608",
+    "created_at": "2025-06-15T05:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T06:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934115266872697319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460443622533320712",
+          "start": 0,
+          "username": "_lidonhtingone_"
+        },
+        {
+          "end": 29,
+          "id": "1545736499597307904",
+          "start": 17,
+          "username": "Andy1782010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934115266872697319",
+    "in_reply_to_user_id": "1460443622533320712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934114760309846452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_lidonhtingone_ @Andy1782010 6\n不过现在上海高考是机考"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934114760309846452].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934114760309846452",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934114760309846452"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1934045691657019608",
+        "created_at": "2025-06-15T05:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T06:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934115266872697319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460443622533320712",
+              "start": 0,
+              "username": "_lidonhtingone_"
+            },
+            {
+              "end": 29,
+              "id": "1545736499597307904",
+              "start": 17,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934115266872697319",
+        "in_reply_to_user_id": "1460443622533320712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934114760309846452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_lidonhtingone_ @Andy1782010 6\n不过现在上海高考是机考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6460,
+          "following_count": 1994,
+          "like_count": 145563,
+          "listed_count": 14,
+          "media_count": 2714,
+          "tweet_count": 36398
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T03:04:46.000Z",
+        "description": "114514",
+        "id": "1460443622533320712",
+        "location": "太原",
+        "name": "ldt🇨🇳",
+        "pinned_tweet_id": "1860703527561257131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678620505807507456/Re3gt1sv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 422,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 669,
+          "tweet_count": 12483
+        },
+        "username": "_lidonhtingone_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\n（🚪9.9元 同类免费\n猫猫@AGeSang2008\ncrush @guo_lao32576\n杂鱼@mhtqwq\n妈咪@zzzChumo\n里推@Andy1782025\n距2025年上海市初中学业水平考试还有0天（2025.6.14-15）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zzzChumo"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Andy1782025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/G9B0EMYSRr"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010（中考加油）",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 4037,
+          "like_count": 11595,
+          "listed_count": 6,
+          "media_count": 113,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/G9B0EMYSRr",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

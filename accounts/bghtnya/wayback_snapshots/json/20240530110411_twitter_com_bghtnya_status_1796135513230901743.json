@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1796118249953996990",
+    "created_at": "2024-05-30T11:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T12:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796135513230901743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743584609965940736",
+          "start": 0,
+          "username": "nugget_pixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796135513230901743",
+    "in_reply_to_user_id": "1743584609965940736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796118249953996990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nugget_pixel 可爱qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1796118249953996990",
+        "created_at": "2024-05-30T11:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T12:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796135513230901743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743584609965940736",
+              "start": 0,
+              "username": "nugget_pixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796135513230901743",
+        "in_reply_to_user_id": "1743584609965940736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796118249953996990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nugget_pixel 可爱qwq"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796118234355445760"
+          ]
+        },
+        "author_id": "1743584609965940736",
+        "conversation_id": "1796118249953996990",
+        "created_at": "2024-05-30T09:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T10:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796118249953996990"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "百褶裙",
+              "probability": 0.4776,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PjKrPZgD6V",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nugget_pixel/status/1796118249953996990/photo/1",
+              "media_key": "3_1796118234355445760",
+              "start": 8,
+              "url": "https://t.co/PjKrPZgD6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796118249953996990",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 312,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "百褶裙→百皺裙 https://t.co/PjKrPZgD6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 1354,
+          "like_count": 68397,
+          "listed_count": 7,
+          "tweet_count": 14217
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T10:45:49.000Z",
+        "description": "🌈bi🌈 infp/isfp love is love 女巫的碎碎念记录 小女孩請和我互fo 希望大家都能和我玩的開心 不參與任何政治相關",
+        "id": "1743584609965940736",
+        "location": "🚪52純綠聊天無意義但是我想設(︎ ᐛ )",
+        "name": "像素鸡块",
+        "pinned_tweet_id": "1754148359626215693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743587384963596288/UBgXM3xW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 238,
+          "like_count": 8066,
+          "listed_count": 0,
+          "tweet_count": 2271
+        },
+        "username": "nugget_pixel",
+        "verified": false
+      }
+    ]
+  }
+}

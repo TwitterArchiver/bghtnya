@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1851177201561227761",
+    "created_at": "2024-10-30T13:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T14:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851613695404904672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1316103441182158849",
+          "start": 0,
+          "username": "xsf727"
+        },
+        {
+          "end": 24,
+          "id": "1393440410974908417",
+          "start": 8,
+          "username": "awxs_2081573566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851613695404904672",
+    "in_reply_to_user_id": "1316103441182158849",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851293844740194694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsf727 @awxs_2081573566 感觉可以拿去喂chatgpt然后批量生产劳保经典名句（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1851177201561227761",
+        "created_at": "2024-10-30T13:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T14:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851613695404904672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1316103441182158849",
+              "start": 0,
+              "username": "xsf727"
+            },
+            {
+              "end": 24,
+              "id": "1393440410974908417",
+              "start": 8,
+              "username": "awxs_2081573566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851613695404904672",
+        "in_reply_to_user_id": "1316103441182158849",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851293844740194694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsf727 @awxs_2081573566 感觉可以拿去喂chatgpt然后批量生产劳保经典名句（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316103441182158849",
+        "conversation_id": "1851177201561227761",
+        "created_at": "2024-10-29T16:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T17:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851293844740194694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1393440410974908417",
+              "start": 0,
+              "username": "awxs_2081573566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851293844740194694",
+        "in_reply_to_user_id": "1393440410974908417",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1253,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851177201561227761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awxs_2081573566 没绷住，中国家庭的独有话术"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWGZ1o"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3362,
+          "following_count": 1543,
+          "like_count": 101930,
+          "listed_count": 9,
+          "tweet_count": 23735
+        },
+        "url": "https://t.co/y39tjWGZ1o",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T19:48:17.000Z",
+        "description": "男 INFP，纯死宅，二次元，没朋友，轻微厌女，厌世b，来推吐苦水不喜欢可以直接给我拉黑惹🥺，脾气一般情况下很好，触及底线解锁红温模式。不建政\n最后的最后永远爱丛雨😝",
+        "id": "1316103441182158849",
+        "location": "地球",
+        "name": "断风（脑子不正常版）",
+        "pinned_tweet_id": "1846788983050871134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844300523350130688/4B1Raij0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 109,
+          "like_count": 410,
+          "listed_count": 0,
+          "tweet_count": 1546
+        },
+        "username": "xsf727",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T05:37:46.000Z",
+        "description": "快来人fo我捏，想让好多好多人fo我/07/可能是mtf…？/mtx/不经常看推/😭😭😭😭😭/多少沾点/可能是oder/割手手/私信大概率会回？/想要当学者/我想当暖言猫猫/自由平等博爱，爱死你们了（？/目前一直不上学（？/脑抽/最喜欢晒自己的战雷号了😋/政史地选手",
+        "id": "1393440410974908417",
+        "location": "距离你384403.9千米",
+        "name": "受城狮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1393909683899944963/pXTImDrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 225,
+          "like_count": 4661,
+          "listed_count": 0,
+          "tweet_count": 692
+        },
+        "username": "awxs_2081573566",
+        "verified": false
+      }
+    ]
+  }
+}

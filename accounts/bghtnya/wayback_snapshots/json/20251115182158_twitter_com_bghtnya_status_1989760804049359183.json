@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989760800303751168"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1989760804049359183",
+    "created_at": "2025-11-15T18:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T19:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989760804049359183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O1J4hS35JE",
+          "end": 46,
+          "expanded_url": "https://x.com/bghtnya/status/1989760804049359183/photo/1",
+          "media_key": "3_1989760800303751168",
+          "start": 23,
+          "url": "https://t.co/O1J4hS35JE"
+        },
+        {
+          "display_url": "x.com/ww123qwq/statu…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/ww123qwq/status/1989633524543181299",
+          "start": 47,
+          "url": "https://t.co/74ZlBeXC6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989760804049359183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989633524543181299",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让窝想起来全文背诵篇目\n《朋友，窝有4不交》 https://t.co/O1J4hS35JE https://t.co/74ZlBeXC6S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989760804049359183].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989760804049359183",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989760804049359183"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989760800303751168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G50M59oaIAAXgi_.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989633520923545601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yZJU_bkAEGA32.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989633520923545601"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1989633524543181299",
+        "created_at": "2025-11-15T09:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989633524543181299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5I79A5uxrf",
+              "end": 158,
+              "expanded_url": "https://x.com/ww123qwq/status/1989633524543181299/photo/1",
+              "media_key": "3_1989633520923545601",
+              "start": 135,
+              "url": "https://t.co/5I79A5uxrf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989633524543181299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 246,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "：朋友 我只交这五种\n1.药物滥用的，享受当下，这是不内耗，我交。\n2.割手自伤的，不伤别人只伤自己，这是善良，我交。\n3.涉黄拍照的，好看养眼，这是自我欣赏，我交。\n4.喜欢二次元的，哦哈哟学妹，我交。\n5.同性恋的，女的有抑郁症男的到处找人吃，这是生活态度，我交。 https://t.co/5I79A5uxrf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8185,
+          "following_count": 2119,
+          "like_count": 167007,
+          "listed_count": 20,
+          "media_count": 3421,
+          "tweet_count": 42449
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪88/188/520/1314，女生免费解锁色图个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味，接线下，接露出，接任务，找金主上海，比较负能",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 244,
+          "like_count": 40618,
+          "listed_count": 3,
+          "media_count": 319,
+          "tweet_count": 11405
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

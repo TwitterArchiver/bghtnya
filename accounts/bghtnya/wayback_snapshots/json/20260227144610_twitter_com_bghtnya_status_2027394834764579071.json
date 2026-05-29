@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2027193494679523658",
+    "created_at": "2026-02-27T14:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027394834764579071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913535505230442497",
+          "start": 0,
+          "username": "3638349600Ogas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027394834764579071",
+    "in_reply_to_user_id": "1913535505230442497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027193494679523658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3638349600Ogas 好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2027193471539535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIJuMoa4AAjcRJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027193471560478720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIJuMtacAAXT2Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2027193472810459136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIJuRXboAAxWcy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2027193494679523658",
+        "created_at": "2026-02-27T14:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027394834764579071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913535505230442497",
+              "start": 0,
+              "username": "3638349600Ogas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027394834764579071",
+        "in_reply_to_user_id": "1913535505230442497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027193494679523658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3638349600Ogas 好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027193471539535872",
+            "3_2027193471560478720",
+            "3_2027193472810459136"
+          ]
+        },
+        "author_id": "1913535505230442497",
+        "conversation_id": "2027193494679523658",
+        "created_at": "2026-02-27T01:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027193494679523658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmo7K5QZUh",
+              "end": 43,
+              "expanded_url": "https://x.com/3638349600Ogas/status/2027193494679523658/photo/1",
+              "media_key": "3_2027193471539535872",
+              "start": 20,
+              "url": "https://t.co/tmo7K5QZUh"
+            },
+            {
+              "display_url": "pic.x.com/tmo7K5QZUh",
+              "end": 43,
+              "expanded_url": "https://x.com/3638349600Ogas/status/2027193494679523658/photo/1",
+              "media_key": "3_2027193471560478720",
+              "start": 20,
+              "url": "https://t.co/tmo7K5QZUh"
+            },
+            {
+              "display_url": "pic.x.com/tmo7K5QZUh",
+              "end": 43,
+              "expanded_url": "https://x.com/3638349600Ogas/status/2027193494679523658/photo/1",
+              "media_key": "3_2027193472810459136",
+              "start": 20,
+              "url": "https://t.co/tmo7K5QZUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027193494679523658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终点站：百家湖\n愿你到时候还未忘记阿鹊 https://t.co/tmo7K5QZUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9053,
+          "following_count": 2084,
+          "like_count": 174641,
+          "listed_count": 18,
+          "media_count": 3787,
+          "tweet_count": 46224
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "记住我\n姐姐：@FuyutoriGin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "FuyutoriGin"
+              }
+            ]
+          }
+        },
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "🍥阿德利鹊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025236900873994245/a3w-USMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 522,
+          "like_count": 1020,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 469
+        },
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}

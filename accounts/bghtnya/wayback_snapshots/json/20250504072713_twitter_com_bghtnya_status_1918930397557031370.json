@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1918924544649121899",
+    "created_at": "2025-05-04T07:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T08:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918930397557031370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1662627793375739904",
+          "start": 0,
+          "username": "zjwezdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918930397557031370",
+    "in_reply_to_user_id": "1662627793375739904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918928232771907600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjwezdh 😺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918928232771907600].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1918928232771907600",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1918928232771907600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1918924544649121899",
+        "created_at": "2025-05-04T07:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T08:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918930397557031370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1662627793375739904",
+              "start": 0,
+              "username": "zjwezdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918930397557031370",
+        "in_reply_to_user_id": "1662627793375739904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918928232771907600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjwezdh 😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6234,
+          "following_count": 1930,
+          "like_count": 134899,
+          "listed_count": 13,
+          "media_count": 2476,
+          "tweet_count": 34271
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T01:12:29.000Z",
+        "description": "愿你想要得到的都能得到，得不到的都能释怀| 人和想法，还有感情都很浪漫，生活在幻想之中| 精神寄托：比邻星| MBTI:INFP-T| 意识形态：自由主义| 希望自己能用行动践行普世价值| 不看黄，不涉黄，不涩涩| 最主要是分享一些自己的日常生活，感情经历，以及对一些事情的看法| 电子阳痿| 真的超级善良...",
+        "id": "1662627793375739904",
+        "location": "127.0.0.1",
+        "name": "laimudada🏳️‍🌈（片姐请别骚扰我，我不看黄，也不买淫）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665972900439154688/banO5oCe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 205,
+          "like_count": 5307,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1595
+        },
+        "username": "zjwezdh",
+        "verified": false
+      }
+    ]
+  }
+}

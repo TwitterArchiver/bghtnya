@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1960179846849405020",
+    "created_at": "2025-08-26T17:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960391547255431648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1027764083565711360",
+          "start": 0,
+          "username": "__Inty__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960391547255431648",
+    "in_reply_to_user_id": "1027764083565711360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960179846849405020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Inty__ 一阵强烈的音乐响起"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16783,
+        "height": 1920,
+        "media_key": "13_1960069284337754112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960069284337754112/img/WM1C7rE-LKNK5UQy.jpg",
+        "public_metrics": {
+          "view_count": 5969389
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960069284337754112/pl/uZG4sSa7M__5Q17L.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960069284337754112/vid/avc1/1080x1920/VLUG570qMPVuFL9f.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960069284337754112/vid/avc1/320x568/AwWPItfKqps84FOi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960069284337754112/vid/avc1/480x852/xG1VhruQLrYbZNcv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960069284337754112/vid/avc1/720x1280/sfx8n84i4mKwM6ht.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1960179846849405020",
+        "created_at": "2025-08-26T17:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960391547255431648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1027764083565711360",
+              "start": 0,
+              "username": "__Inty__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960391547255431648",
+        "in_reply_to_user_id": "1027764083565711360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960179846849405020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Inty__ 一阵强烈的音乐响起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960069284337754112"
+          ],
+          "media_source_tweet_id": [
+            "1960069793530425795"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "conversation_id": "1960179846849405020",
+        "created_at": "2025-08-26T03:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960179846849405020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ab3Wk3GqfE",
+              "end": 54,
+              "expanded_url": "https://x.com/CollinRugg/status/1960069793530425795/video/1",
+              "media_key": "13_1960069284337754112",
+              "start": 31,
+              "url": "https://t.co/Ab3Wk3GqfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960179846849405020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 653821,
+          "like_count": 883,
+          "quote_count": 10,
+          "reply_count": 153,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "最新消息：一架直升机在法国试图汲水扑灭森林大火时坠入湖中。\n\nhttps://t.co/Ab3Wk3GqfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7395,
+          "following_count": 2059,
+          "like_count": 157190,
+          "listed_count": 18,
+          "media_count": 3076,
+          "tweet_count": 39567
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "为你分享世界热点新闻。 时政聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 41,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 18,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "Inty News",
+        "pinned_tweet_id": "1957417321007309105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722701,
+          "following_count": 102,
+          "like_count": 1536,
+          "listed_count": 2146,
+          "media_count": 32566,
+          "tweet_count": 91840
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

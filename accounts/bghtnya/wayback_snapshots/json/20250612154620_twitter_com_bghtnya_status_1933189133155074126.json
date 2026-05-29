@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1932864237157728657",
+    "created_at": "2025-06-12T15:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T16:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933189133155074126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1807065209657532416",
+          "start": 0,
+          "username": "cdwdsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933189133155074126",
+    "in_reply_to_user_id": "1807065209657532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932864237157728657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cdwdsa 哈人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1932864101673230336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLpqONWYAAFZAP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1932864149219934208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLps_VXgAAqt54.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1932864194593816576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLpvoXWAAAZch1.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1932864237157728657",
+        "created_at": "2025-06-12T15:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T16:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933189133155074126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1807065209657532416",
+              "start": 0,
+              "username": "cdwdsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933189133155074126",
+        "in_reply_to_user_id": "1807065209657532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932864237157728657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdwdsa 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932864101673230336",
+            "3_1932864149219934208",
+            "3_1932864194593816576"
+          ]
+        },
+        "author_id": "1807065209657532416",
+        "conversation_id": "1932864237157728657",
+        "created_at": "2025-06-11T18:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T19:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932864237157728657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzzE9BWeMT",
+              "end": 164,
+              "expanded_url": "https://x.com/cdwdsa/status/1932864237157728657/photo/1",
+              "media_key": "3_1932864101673230336",
+              "start": 141,
+              "url": "https://t.co/DzzE9BWeMT"
+            },
+            {
+              "display_url": "pic.x.com/DzzE9BWeMT",
+              "end": 164,
+              "expanded_url": "https://x.com/cdwdsa/status/1932864237157728657/photo/1",
+              "media_key": "3_1932864149219934208",
+              "start": 141,
+              "url": "https://t.co/DzzE9BWeMT"
+            },
+            {
+              "display_url": "pic.x.com/DzzE9BWeMT",
+              "end": 164,
+              "expanded_url": "https://x.com/cdwdsa/status/1932864237157728657/photo/1",
+              "media_key": "3_1932864194593816576",
+              "start": 141,
+              "url": "https://t.co/DzzE9BWeMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932864237157728657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 24968,
+          "like_count": 222,
+          "quote_count": 3,
+          "reply_count": 79,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真踏马逆天啊，宿舍有个母体，我说这几天全身红疙瘩痒的不行，以为是过敏，直到今天我发现床上有虫子吸血的，我他妈一问全宿舍都痒痒的，吧我的床拆了五六只虫子我还好奇我天天洗澡洗衣服，怎么会有，知道我看到我对面那个人，床下全他妈是虫巢，虫卵，他也不爱卫生，还打呼噜吵得要死，给你们看他的床 https://t.co/DzzE9BWeMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6428,
+          "following_count": 1981,
+          "like_count": 144744,
+          "listed_count": 14,
+          "media_count": 2681,
+          "tweet_count": 36165
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T14:55:03.000Z",
+        "description": "06/抑郁/172/60kg/hrt241007/有A+了呢/mtf/缺爱/别离开我好吗/不是同类过🚪50在聊天/性取向偏男？/不发黄推/不抽烟/不喝酒/不赌博/不建政/两次自杀未遂/被抛弃一次/家住石家庄学校在新疆不要问了...回复比较慢不经常看推特",
+        "id": "1807065209657532416",
+        "location": "我活在影子里，光都是别人的",
+        "name": "活着好累🍥 🏳‍⚧",
+        "pinned_tweet_id": "1933165209830732061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880235339450839042/BeLhSKkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1434,
+          "like_count": 1972,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 513
+        },
+        "username": "cdwdsa",
+        "verified": false
+      }
+    ]
+  }
+}

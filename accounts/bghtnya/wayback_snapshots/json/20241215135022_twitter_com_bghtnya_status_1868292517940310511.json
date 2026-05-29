@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1868238640075444246",
+    "created_at": "2024-12-15T13:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T14:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868292517940310511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557909637747318790",
+          "start": 0,
+          "username": "woshizuzhang"
+        },
+        {
+          "end": 26,
+          "id": "1703297947121901568",
+          "start": 14,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868292517940310511",
+    "in_reply_to_user_id": "1557909637747318790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868288270435803262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshizuzhang @xue_zhi2008 不是\n男的也有雌二醇\n只是更少（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1868288270435803262].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1868288270435803262",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1868288270435803262"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1868238640075444246",
+        "created_at": "2024-12-15T13:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T14:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868292517940310511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557909637747318790",
+              "start": 0,
+              "username": "woshizuzhang"
+            },
+            {
+              "end": 26,
+              "id": "1703297947121901568",
+              "start": 14,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868292517940310511",
+        "in_reply_to_user_id": "1557909637747318790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868288270435803262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshizuzhang @xue_zhi2008 不是\n男的也有雌二醇\n只是更少（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3699,
+          "following_count": 1669,
+          "like_count": 111939,
+          "listed_count": 13,
+          "media_count": 1792,
+          "tweet_count": 26995
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T01:59:45.000Z",
+        "description": "本人可以接受一切政治立场的人",
+        "id": "1557909637747318790",
+        "name": "天下第一组长",
+        "pinned_tweet_id": "1697833177174409502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715731902890684416/DjSwDsPw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 509,
+          "like_count": 17864,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3649
+        },
+        "username": "woshizuzhang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "2008.4.28出厂🎉||2021.7.29持证/20.11.11含糖MtF🏳️‍⚧️||持“证”ADHD&ASD🤕||2024.4.28大证||411已约2026.7手术🥳||退役CChOer🧪||拒绝od但我也理解||业余:药理学💊＆有机化学⚗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 0,
+                "url": "https://t.co/dFGrxix1Zt"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "重庆市",
+        "name": "织不唧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841829606376312832/re_4oKm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 320,
+          "like_count": 5300,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/dFGrxix1Zt",
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

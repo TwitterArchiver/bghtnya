@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1805300354629915080",
+    "created_at": "2024-06-25T04:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T05:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805463224332304751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1532720734144970753",
+          "start": 0,
+          "username": "sappho_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805463224332304751",
+    "in_reply_to_user_id": "1532720734144970753",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805300354629915080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sappho_ovo 随机采访"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1805300354629915080",
+        "created_at": "2024-06-25T04:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T05:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805463224332304751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1532720734144970753",
+              "start": 0,
+              "username": "sappho_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805463224332304751",
+        "in_reply_to_user_id": "1532720734144970753",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805300354629915080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sappho_ovo 随机采访"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805300348271443972"
+          ]
+        },
+        "author_id": "1532720734144970753",
+        "conversation_id": "1805300354629915080",
+        "created_at": "2024-06-24T18:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T19:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805300354629915080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mjKgYNZgkP",
+              "end": 85,
+              "expanded_url": "https://twitter.com/sappho_ovo/status/1805300354629915080/photo/1",
+              "media_key": "3_1805300348271443972",
+              "start": 62,
+              "url": "https://t.co/mjKgYNZgkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805300354629915080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7906,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了研究男性洗澡时用的什么牌子沐浴露，我观察了100名男性并进行了随机采访，其中98 名男性的回答都是“你他妈怎么进来的？ https://t.co/mjKgYNZgkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024,
+          "following_count": 1380,
+          "like_count": 72654,
+          "listed_count": 7,
+          "tweet_count": 15388
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T13:48:03.000Z",
+        "description": "ℭ𝔞𝔲𝔰𝔢 ℑ'𝔪 𝔰𝔱𝔲𝔭𝔦𝔡, 𝔰𝔞𝔡𝔦𝔰𝔱𝔦𝔠 𝔞𝔫𝔡 𝔰𝔲𝔦𝔠𝔦𝔡𝔞𝔩。",
+        "id": "1532720734144970753",
+        "location": "666",
+        "name": "𝖘𝖆𝖕𝖕𝖍𝖔",
+        "pinned_tweet_id": "1796880432241561871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733665340553621504/pamOYs95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 785,
+          "like_count": 19523,
+          "listed_count": 0,
+          "tweet_count": 2478
+        },
+        "username": "sappho_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

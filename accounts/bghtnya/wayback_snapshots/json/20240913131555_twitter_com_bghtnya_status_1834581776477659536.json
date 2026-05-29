@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1834452838447284637",
+    "created_at": "2024-09-13T13:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T14:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834581776477659536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "SusieBetelgeuse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834581776477659536",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834452838447284637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SusieBetelgeuse 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1834452838447284637",
+        "created_at": "2024-09-13T13:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T14:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834581776477659536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "SusieBetelgeuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834581776477659536",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834452838447284637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SusieBetelgeuse 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688233455363219456",
+        "conversation_id": "1834452838447284637",
+        "created_at": "2024-09-13T04:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T05:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834452838447284637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834452838447284637",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3430,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "班主任：无论你选择什么性别，只要成为一个正直的人就好了😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 1505,
+          "like_count": 94470,
+          "listed_count": 10,
+          "tweet_count": 20679
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "😽🎮 🏳️‍⚧️🍥◂Ⓘ▸",
+        "id": "1688233455363219456",
+        "location": "Betelgeuse, Orion α",
+        "name": "スージー・グリッター#ベテルギウス",
+        "pinned_tweet_id": "1831372862344888683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834529980581138433/s-r-yr0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 669,
+          "like_count": 115027,
+          "listed_count": 5,
+          "tweet_count": 21271
+        },
+        "username": "SusieBetelgeuse",
+        "verified": false
+      }
+    ]
+  }
+}

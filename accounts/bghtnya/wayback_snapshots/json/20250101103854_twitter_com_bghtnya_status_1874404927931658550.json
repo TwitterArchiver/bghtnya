@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1874326549794873584",
+    "created_at": "2025-01-01T10:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T11:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874404927931658550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792101664117161984",
+          "start": 0,
+          "username": "Amberlona_LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874404927931658550",
+    "in_reply_to_user_id": "1792101664117161984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874326549794873584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amberlona_LK 抄抄窝的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1874326549794873584",
+        "created_at": "2025-01-01T10:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T11:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874404927931658550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792101664117161984",
+              "start": 0,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874404927931658550",
+        "in_reply_to_user_id": "1792101664117161984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874326549794873584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amberlona_LK 抄抄窝的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792101664117161984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "1874326549794873584",
+        "created_at": "2025-01-01T05:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T06:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874326549794873584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874326549794873584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 822,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "个人新年愿景：\n1.希望大家都好好的\n2.希望大家脱离各自困境\n3.希望世界抗争胜利\n4.开启求学之路\n5.获得病历报告\n6.获得声音\n7.获得体型与合适体重\n8.头发长到肩膀或胸\n9.希望破解教材放自学机制\n10.学习自理知识\n\n最后，我决定开启贺年活动：抄ID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4058,
+          "following_count": 1784,
+          "like_count": 118853,
+          "listed_count": 12,
+          "media_count": 1881,
+          "tweet_count": 28542
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T07:55:38.000Z",
+        "description": "she/her\n不要讨厌我😭\n极深柜的底层穷人 但是永远爱大家\n本体是直言不讳的玫瑰剑客\n心中的大姐姐：Diana Spencer\n星空合众国居民\nLGBTQ+友好\n以清水+牢骚+学术为主 清水牢骚占大头\n现实与理想混合的进步派左翼\n@bayer04fussball 球迷\n独立生活派\n正一派/禅宗/祆教/亚述教会",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "bayer04fussball"
+              }
+            ]
+          }
+        },
+        "id": "1792101664117161984",
+        "location": "Sonder rede dra hulle dieblaam",
+        "name": "Tuệ Quều (امبر لونا)",
+        "pinned_tweet_id": "1858043172703682561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792112053118791680/8zI0c-Dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 534,
+          "like_count": 25384,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 10324
+        },
+        "username": "Amberlona_LK",
+        "verified": false
+      }
+    ]
+  }
+}

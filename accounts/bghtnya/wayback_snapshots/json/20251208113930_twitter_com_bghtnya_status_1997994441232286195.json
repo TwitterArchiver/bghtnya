@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997994420365570048"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1997805118927065430",
+    "created_at": "2025-12-08T11:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T12:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997994441232286195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6fJmwrFp6J",
+          "end": 35,
+          "expanded_url": "https://x.com/bghtnya/status/1997994441232286195/photo/1",
+          "media_key": "3_1997994420365570048",
+          "start": 12,
+          "url": "https://t.co/6fJmwrFp6J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997994441232286195",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997805118927065430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x https://t.co/6fJmwrFp6J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997994420365570048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pNVukaMAALI4t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997994420365570048"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1997805118927065430",
+        "created_at": "2025-12-08T11:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997994441232286195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fJmwrFp6J",
+              "end": 35,
+              "expanded_url": "https://x.com/bghtnya/status/1997994441232286195/photo/1",
+              "media_key": "3_1997994420365570048",
+              "start": 12,
+              "url": "https://t.co/6fJmwrFp6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997994441232286195",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997805118927065430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x https://t.co/6fJmwrFp6J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1997805118927065430",
+        "created_at": "2025-12-07T23:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T00:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997805118927065430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997805118927065430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子你就继续往头像上加美国圣诞帽，吴京在战狼一点也不累不冷，哪吒在天上一点也不辛苦不难过，原神在应用商店一点也不孤单不伤心，华为在手机店一点也不失落不痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8321,
+          "following_count": 2109,
+          "like_count": 172403,
+          "listed_count": 20,
+          "media_count": 3597,
+          "tweet_count": 44122
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/CS/Fullstack/LLM Apps/Leftist/Blogger      #odtwt💊#drugtwt💉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 71,
+                "tag": "odtwt"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 1701,
+          "like_count": 22787,
+          "listed_count": 13,
+          "media_count": 897,
+          "tweet_count": 7705
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

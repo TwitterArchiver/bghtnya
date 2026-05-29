@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1936785743130816663",
+    "created_at": "2025-06-23T03:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T04:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936990130189021376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936990130189021376",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936785743130816663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 我是晶哥，介于你在推特上频繁发送“习近平你妈什么时候死啊？” ，我们初步认定你违反了《国家安全法》，作为美国间谍并涉及犯颠覆国家政权罪，请你在24小时之内穿上白丝水手服前往最近派出所自首，否则我将派出武装直升机围攻你家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936785724608507904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDYWuFWcAATynT.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936785724529098752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDYWtyawAARfWt.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936785724650475520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDYWuPW0AA9CRU.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1936785743130816663",
+        "created_at": "2025-06-23T03:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T04:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936990130189021376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936990130189021376",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936785743130816663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 我是晶哥，介于你在推特上频繁发送“习近平你妈什么时候死啊？” ，我们初步认定你违反了《国家安全法》，作为美国间谍并涉及犯颠覆国家政权罪，请你在24小时之内穿上白丝水手服前往最近派出所自首，否则我将派出武装直升机围攻你家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936785724608507904",
+            "3_1936785724529098752",
+            "3_1936785724650475520"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936785743130816663",
+        "created_at": "2025-06-22T13:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936785743130816663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQ7iOjV93a",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1936785743130816663/photo/1",
+              "media_key": "3_1936785724608507904",
+              "start": 0,
+              "url": "https://t.co/bQ7iOjV93a"
+            },
+            {
+              "display_url": "pic.x.com/bQ7iOjV93a",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1936785743130816663/photo/1",
+              "media_key": "3_1936785724529098752",
+              "start": 0,
+              "url": "https://t.co/bQ7iOjV93a"
+            },
+            {
+              "display_url": "pic.x.com/bQ7iOjV93a",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1936785743130816663/photo/1",
+              "media_key": "3_1936785724650475520",
+              "start": 0,
+              "url": "https://t.co/bQ7iOjV93a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936785743130816663",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 19963,
+          "like_count": 155,
+          "quote_count": 26,
+          "reply_count": 42,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bQ7iOjV93a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6498,
+          "following_count": 2006,
+          "like_count": 149209,
+          "listed_count": 14,
+          "media_count": 2781,
+          "tweet_count": 37054
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 2444,
+          "like_count": 21728,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 5161
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,800 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1508516052753285122",
+          "name": "Mahjong Soul"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1508516052753285122",
+          "name": "Mahjong Soul"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1818849769927889092",
+    "created_at": "2024-08-01T03:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T04:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818849769927889092"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "牌の日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1108269664751087617",
+          "start": 3,
+          "username": "MahjongSoul_JP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818849769927889092",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1220
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818844112411402674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MahjongSoul_JP: 【RPキャンペーン】\n8月1日は #牌の日 ！\n\nこちらを記念して、\nイラストを公開＆RPキャンペーンを実施！\n\n▼プレゼント\n・雀魂オリジナルカード麻雀 50名様\n\n▼参加方法\n①本アカウントをフォロー\n②当ツイートをリポスト\n\n※締め…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1818849769927889092",
+        "created_at": "2024-08-01T03:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T04:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818849769927889092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "牌の日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1108269664751087617",
+              "start": 3,
+              "username": "MahjongSoul_JP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818849769927889092",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1220
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818844112411402674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MahjongSoul_JP: 【RPキャンペーン】\n8月1日は #牌の日 ！\n\nこちらを記念して、\nイラストを公開＆RPキャンペーンを実施！\n\n▼プレゼント\n・雀魂オリジナルカード麻雀 50名様\n\n▼参加方法\n①本アカウントをフォロー\n②当ツイートをリポスト\n\n※締め…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817800162649206784"
+          ]
+        },
+        "author_id": "1108269664751087617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1818844112411402674",
+        "created_at": "2024-08-01T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818844112411402674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "牌の日"
+            },
+            {
+              "end": 163,
+              "start": 160,
+              "tag": "雀魂"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 157,
+              "id": "153794351",
+              "start": 143,
+              "username": "fujikawa_fure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Xj7JFgxx6b",
+              "end": 187,
+              "expanded_url": "https://twitter.com/MahjongSoul_JP/status/1818844112411402674/photo/1",
+              "media_key": "3_1817800162649206784",
+              "start": 164,
+              "url": "https://t.co/Xj7JFgxx6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818844112411402674",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 44171,
+          "like_count": 747,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 1220
+        },
+        "reply_settings": "everyone",
+        "text": "【RPキャンペーン】\n8月1日は #牌の日 ！\n\nこちらを記念して、\nイラストを公開＆RPキャンペーンを実施！\n\n▼プレゼント\n・雀魂オリジナルカード麻雀 50名様\n\n▼参加方法\n①本アカウントをフォロー\n②当ツイートをリポスト\n\n※締め切り:8月8日(木)23:59\n\n画:藤川フレ(@fujikawa_fure )\n#雀魂 https://t.co/Xj7JFgxx6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1445,
+          "like_count": 82333,
+          "listed_count": 9,
+          "tweet_count": 17847
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-20T07:30:53.000Z",
+        "description": "無料オンライン麻雀「雀魂」の公式アカウントにゃ！ \n今日もみんなでたのしくジャンジャン遊ぶにゃ！ \n\nお問い合わせはこちら：https://t.co/5Z5q3W3lWX\nDiscord：https://t.co/99jbDJ24ZD\nハッシュタグ：#雀魂 #じゃんたま",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "雀魂"
+              },
+              {
+                "end": 135,
+                "start": 129,
+                "tag": "じゃんたま"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mahjongsoul.com/support",
+                "end": 85,
+                "expanded_url": "http://mahjongsoul.com/support",
+                "start": 62,
+                "url": "https://t.co/5Z5q3W3lWX"
+              },
+              {
+                "display_url": "discord.gg/mahjongsoul",
+                "end": 117,
+                "expanded_url": "http://discord.gg/mahjongsoul",
+                "start": 94,
+                "url": "https://t.co/99jbDJ24ZD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahjongsoul.com",
+                "end": 23,
+                "expanded_url": "https://mahjongsoul.com",
+                "start": 0,
+                "url": "https://t.co/GCWH6OPz7t"
+              }
+            ]
+          }
+        },
+        "id": "1108269664751087617",
+        "location": "魂天神社",
+        "name": "【公式】雀魂-じゃんたま-",
+        "pinned_tweet_id": "1815945004235338112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788385824054415360/a5sOTuVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553099,
+          "following_count": 20,
+          "like_count": 899,
+          "listed_count": 2344,
+          "tweet_count": 6014
+        },
+        "url": "https://t.co/GCWH6OPz7t",
+        "username": "MahjongSoul_JP",
+        "verified": true
+      }
+    ]
+  }
+}

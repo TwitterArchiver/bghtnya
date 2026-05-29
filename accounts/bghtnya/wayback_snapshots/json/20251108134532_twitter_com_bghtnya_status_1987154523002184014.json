@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1987109221125828942",
+    "created_at": "2025-11-08T13:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T14:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987154523002184014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "suikahsnya"
+        },
+        {
+          "end": 19,
+          "id": "1817584080437014528",
+          "start": 12,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987154523002184014",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987126532075364444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suikahsnya @N552AA 可能喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1987126532075364444].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1987126532075364444",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1987126532075364444"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1987109221125828942",
+        "created_at": "2025-11-08T13:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987154523002184014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "suikahsnya"
+            },
+            {
+              "end": 19,
+              "id": "1817584080437014528",
+              "start": 12,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987154523002184014",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987126532075364444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suikahsnya @N552AA 可能喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北京 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8147,
+          "following_count": 2117,
+          "like_count": 166103,
+          "listed_count": 20,
+          "media_count": 3402,
+          "tweet_count": 42190
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "09年/高一/LGBTQ🏳️‍⚧️🏳️‍🌈/MtF🍥（hrt2025.9.30）/GD嚴重/極度容貌焦慮/精神狀況很差/住宿生/政治立場民國派🇹🇼但是不願參與政治/🚪₩0/希望同類互fo貼貼/堅決不自殘不od不抽菸不喝酒不鬧事/皮下醜國男哥布林/坐標上海/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXuP3z"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "西瓜好酸喵🏳️‍⚧️🍥🍉🧊🍔🍜",
+        "pinned_tweet_id": "1987057161919463506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969054346727059456/GXALGfIo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 1311,
+          "like_count": 5651,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2996
+        },
+        "url": "https://t.co/iBBruXuP3z",
+        "username": "suikahsnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/断续含糖/坐标上海/有小证/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq/主人：@ayumi_0222_ @nahida_miao\n/长在春风中，活在药效里。/上海市贴贴微信群群主",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "ayumi_0222_"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 990,
+          "like_count": 3910,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

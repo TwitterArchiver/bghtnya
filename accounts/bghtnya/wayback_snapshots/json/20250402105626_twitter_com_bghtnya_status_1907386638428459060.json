@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1906900732009136483",
+    "created_at": "2025-04-02T10:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T11:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907386638428459060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1194305042578362368",
+          "start": 0,
+          "username": "Jam79922967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907386638428459060",
+    "in_reply_to_user_id": "1194305042578362368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906900732009136483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jam79922967 蚌埠住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83100,
+        "height": 480,
+        "media_key": "13_1906900623758389248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906900623758389248/img/OJdKEW-xB6pGkboc.jpg",
+        "public_metrics": {
+          "view_count": 101613
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906900623758389248/vid/avc1/320x426/kv2dlSQLSkq6Xj6G.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906900623758389248/vid/avc1/360x480/yHysEdP7V-YzWKi1.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906900623758389248/pl/1H38CxMuBnKQdYII.m3u8?tag=16&v=cc5"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1906900732009136483",
+        "created_at": "2025-04-02T10:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907386638428459060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194305042578362368",
+              "start": 0,
+              "username": "Jam79922967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907386638428459060",
+        "in_reply_to_user_id": "1194305042578362368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906900732009136483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jam79922967 蚌埠住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906900623758389248"
+          ]
+        },
+        "author_id": "1194305042578362368",
+        "conversation_id": "1906900732009136483",
+        "created_at": "2025-04-01T02:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T03:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906900732009136483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LI7uEQO5QP",
+              "end": 51,
+              "expanded_url": "https://x.com/Jam79922967/status/1906900732009136483/video/1",
+              "media_key": "13_1906900623758389248",
+              "start": 28,
+              "url": "https://t.co/LI7uEQO5QP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906900732009136483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 182400,
+          "like_count": 619,
+          "quote_count": 9,
+          "reply_count": 62,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "朝鲜人见到三胖要这样，平时就得学会，临场用起来才自然。 https://t.co/LI7uEQO5QP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5807,
+          "following_count": 1842,
+          "like_count": 126602,
+          "listed_count": 14,
+          "media_count": 2288,
+          "tweet_count": 32131
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T17:25:09.000Z",
+        "description": "專業人士，人格獨立。無論批評或褒揚什麽，皆基於事實，而非出於個人恩怨。",
+        "id": "1194305042578362368",
+        "location": "Taiwan",
+        "name": "Petrichor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555428587083366400/Ao7hhUWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605591,
+          "following_count": 1190,
+          "like_count": 2135,
+          "listed_count": 1165,
+          "media_count": 18013,
+          "tweet_count": 29285
+        },
+        "username": "Jam79922967",
+        "verified": true
+      }
+    ]
+  }
+}

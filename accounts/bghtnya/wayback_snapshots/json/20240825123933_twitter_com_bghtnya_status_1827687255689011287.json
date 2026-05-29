@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1827649620232614354",
+    "created_at": "2024-08-25T12:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T13:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827687255689011287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799785180326146048",
+          "start": 0,
+          "username": "ChinomaronCos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827687255689011287",
+    "in_reply_to_user_id": "1799785180326146048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827649620232614354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChinomaronCos 豪可爱 羡慕呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1827649620232614354",
+        "created_at": "2024-08-25T12:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T13:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827687255689011287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799785180326146048",
+              "start": 0,
+              "username": "ChinomaronCos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827687255689011287",
+        "in_reply_to_user_id": "1799785180326146048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827649620232614354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinomaronCos 豪可爱 羡慕呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826271625916104704",
+            "3_1826271625916145664"
+          ]
+        },
+        "author_id": "1799785180326146048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557772061992296448",
+              "name": "Usada Pekora"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557772061992296448",
+              "name": "Usada Pekora"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557772061992296448",
+              "name": "Usada Pekora"
+            }
+          }
+        ],
+        "conversation_id": "1827649620232614354",
+        "created_at": "2024-08-25T10:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T11:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827649620232614354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twcu2xaorp",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ChinomaronCos/status/1827649620232614354/photo/1",
+              "media_key": "3_1826271625916104704",
+              "start": 18,
+              "url": "https://t.co/TWCU2xAORP"
+            },
+            {
+              "display_url": "pic.x.com/twcu2xaorp",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ChinomaronCos/status/1827649620232614354/photo/1",
+              "media_key": "3_1826271625916145664",
+              "start": 18,
+              "url": "https://t.co/TWCU2xAORP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827649620232614354",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 6230,
+          "like_count": 480,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "ぺこらちゃんのコスプレ👯\n※おとこ https://t.co/TWCU2xAORP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 1491,
+          "like_count": 90357,
+          "listed_count": 10,
+          "tweet_count": 19608
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T12:46:48.000Z",
+        "description": "チノマロンのコスプレ垢です♂※加工\n本垢（イラスト）→@ChinoMaron \n雑多垢→@Chinokuri\nFanBox、Fantiaにエッチなコスプレアップしてます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ChinoMaron"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "Chinokuri"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinomaron.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://chinomaron.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/SHrViOk1tw"
+              }
+            ]
+          }
+        },
+        "id": "1799785180326146048",
+        "name": "チノマロンのコスプレ垢",
+        "pinned_tweet_id": "1815691323988398144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799785424376025088/rcM2gGKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12854,
+          "following_count": 20,
+          "like_count": 455,
+          "listed_count": 32,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/SHrViOk1tw",
+        "username": "ChinomaronCos",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1944042682822930457",
+    "created_at": "2025-07-13T03:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T04:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944243942205403228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248913476002537472",
+          "start": 0,
+          "username": "PRCAngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944243942205403228",
+    "in_reply_to_user_id": "1248913476002537472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944042682822930457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRCAngel 草"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944042669354704897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvqggf8W4AEcM1w.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1944042682822930457",
+        "created_at": "2025-07-13T03:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944243942205403228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248913476002537472",
+              "start": 0,
+              "username": "PRCAngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944243942205403228",
+        "in_reply_to_user_id": "1248913476002537472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944042682822930457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRCAngel 草"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944042669354704897"
+          ]
+        },
+        "author_id": "1248913476002537472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1944042682822930457",
+        "created_at": "2025-07-12T14:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T15:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944042682822930457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "BW"
+            },
+            {
+              "end": 94,
+              "start": 86,
+              "tag": "cosplay"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sKFAxF4qe",
+              "end": 124,
+              "expanded_url": "https://x.com/PRCAngel/status/1944042682822930457/photo/1",
+              "media_key": "3_1944042669354704897",
+              "start": 101,
+              "url": "https://t.co/3sKFAxF4qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944042682822930457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10163,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天在上海BW出cosplay，在南京西路附近玩，被警察叫去盘问了。\n\n出的是明日方舟的cos，警察问我出这个是“什么性质”的，难蚌。\n\n这下成为疑似境外势力了😂\n#BW #cosplay #明日方舟 https://t.co/3sKFAxF4qe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7116,
+          "following_count": 2021,
+          "like_count": 151806,
+          "listed_count": 17,
+          "media_count": 2892,
+          "tweet_count": 38107
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T10:01:47.000Z",
+        "description": "天使 / 𝘈𝘯𝘨𝘦𝘭 ｜Cosplay爱好者｜💙Blue Archive｜❤️明日方舟｜谷子经济研究中｜政治经济｜游戏影视｜日常生活｜欢迎同好扩列~｜健康生活方式研究中｜ #DontDie",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "DontDie"
+              }
+            ]
+          }
+        },
+        "id": "1248913476002537472",
+        "location": "Shanghai",
+        "name": "⁺✞A יהוה 的天使✞₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828293352359653376/f9B2wwli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5705,
+          "following_count": 1149,
+          "like_count": 35022,
+          "listed_count": 24,
+          "media_count": 2391,
+          "tweet_count": 14464
+        },
+        "username": "PRCAngel",
+        "verified": true
+      }
+    ]
+  }
+}

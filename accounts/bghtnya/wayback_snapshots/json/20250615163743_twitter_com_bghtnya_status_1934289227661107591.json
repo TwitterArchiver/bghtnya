@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1934268505056309691",
+    "created_at": "2025-06-15T16:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T17:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934289227661107591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        },
+        {
+          "end": 27,
+          "id": "1386670401422434304",
+          "start": 14,
+          "username": "xx1012000456"
+        },
+        {
+          "end": 40,
+          "id": "1893688350076542976",
+          "start": 28,
+          "username": "drug_artist"
+        },
+        {
+          "end": 50,
+          "id": "1796959726967889920",
+          "start": 41,
+          "username": "hami0721"
+        },
+        {
+          "end": 67,
+          "id": "1638893284218261504",
+          "start": 51,
+          "username": "Benzyl_titanium"
+        },
+        {
+          "end": 77,
+          "id": "1614594152062406656",
+          "start": 68,
+          "username": "fnggnjn1"
+        },
+        {
+          "end": 88,
+          "id": "1659962043460354050",
+          "start": 78,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 100,
+          "id": "1124658845664653314",
+          "start": 89,
+          "username": "CY_Mystica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934289227661107591",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934268505056309691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day @xx1012000456 @drug_artist @hami0721 @Benzyl_titanium @fnggnjn1 @SalviaSWC @CY_Mystica 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1934268500778029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtfm9AkaEAAz0g5.jpg",
+        "width": 750
+      },
+      {
+        "height": 840,
+        "media_key": "3_1934268500820033536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtfm9AubAAA2qlD.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1880,
+        "media_key": "3_1934268501822414848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtfm9EdaIAADpT1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1934268501361102848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtfm9CvbEAAtkTD.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1934268505056309691",
+        "created_at": "2025-06-15T16:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T17:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934289227661107591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            },
+            {
+              "end": 27,
+              "id": "1386670401422434304",
+              "start": 14,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 40,
+              "id": "1893688350076542976",
+              "start": 28,
+              "username": "drug_artist"
+            },
+            {
+              "end": 50,
+              "id": "1796959726967889920",
+              "start": 41,
+              "username": "hami0721"
+            },
+            {
+              "end": 67,
+              "id": "1638893284218261504",
+              "start": 51,
+              "username": "Benzyl_titanium"
+            },
+            {
+              "end": 77,
+              "id": "1614594152062406656",
+              "start": 68,
+              "username": "fnggnjn1"
+            },
+            {
+              "end": 88,
+              "id": "1659962043460354050",
+              "start": 78,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 100,
+              "id": "1124658845664653314",
+              "start": 89,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934289227661107591",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934268505056309691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day @xx1012000456 @drug_artist @hami0721 @Benzyl_titanium @fnggnjn1 @SalviaSWC @CY_Mystica 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934268500778029056",
+            "3_1934268500820033536",
+            "3_1934268501822414848",
+            "3_1934268501361102848"
+          ]
+        },
+        "author_id": "1867639848569372672",
+        "conversation_id": "1934268505056309691",
+        "created_at": "2025-06-15T15:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T16:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934268505056309691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 103,
+              "id": "1386670401422434304",
+              "start": 90,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 116,
+              "id": "1893688350076542976",
+              "start": 104,
+              "username": "drug_artist"
+            },
+            {
+              "end": 126,
+              "id": "1796959726967889920",
+              "start": 117,
+              "username": "hami0721"
+            },
+            {
+              "end": 143,
+              "id": "1638893284218261504",
+              "start": 127,
+              "username": "Benzyl_titanium"
+            },
+            {
+              "end": 153,
+              "id": "1614594152062406656",
+              "start": 144,
+              "username": "fnggnjn1"
+            },
+            {
+              "end": 164,
+              "id": "1659962043460354050",
+              "start": 154,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 176,
+              "id": "1124658845664653314",
+              "start": 165,
+              "username": "CY_Mystica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEuWILHykG",
+              "end": 211,
+              "expanded_url": "https://x.com/overdose_day/status/1934268505056309691/photo/1",
+              "media_key": "3_1934268500778029056",
+              "start": 188,
+              "url": "https://t.co/nEuWILHykG"
+            },
+            {
+              "display_url": "pic.x.com/nEuWILHykG",
+              "end": 211,
+              "expanded_url": "https://x.com/overdose_day/status/1934268505056309691/photo/1",
+              "media_key": "3_1934268500820033536",
+              "start": 188,
+              "url": "https://t.co/nEuWILHykG"
+            },
+            {
+              "display_url": "pic.x.com/nEuWILHykG",
+              "end": 211,
+              "expanded_url": "https://x.com/overdose_day/status/1934268505056309691/photo/1",
+              "media_key": "3_1934268501822414848",
+              "start": 188,
+              "url": "https://t.co/nEuWILHykG"
+            },
+            {
+              "display_url": "pic.x.com/nEuWILHykG",
+              "end": 211,
+              "expanded_url": "https://x.com/overdose_day/status/1934268505056309691/photo/1",
+              "media_key": "3_1934268501361102848",
+              "start": 188,
+              "url": "https://t.co/nEuWILHykG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934268505056309691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 768,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "回家了今天我联系了一个做贷款的 我把我爹之前转钱送我的车子给做抵押贷款了 现在拿到了11万 护照很久之前就到了直接曼谷系度 飞叶子玩票子 别他妈吃傻逼化工原料了 出来系度我免费请\n@xx1012000456 @drug_artist @hami0721 @Benzyl_titanium @fnggnjn1 @SalviaSWC\n@CY_Mystica\n谁还想去，评论区留言 https://t.co/nEuWILHykG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6468,
+          "following_count": 1995,
+          "like_count": 145645,
+          "listed_count": 14,
+          "media_count": 2717,
+          "tweet_count": 36418
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "无偿分享精神活性化工原料，欢迎访问:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 41,
+                "expanded_url": "https://overdose.day",
+                "start": 18,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 1689,
+          "like_count": 967,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 578,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1662
+        },
+        "username": "xx1012000456",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "化学极乐百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "name": "沐雨",
+        "pinned_tweet_id": "1901290151500005462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 137,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:39:36.000Z",
+        "description": "前支黑/岁静ing/喜欢学习药理学知识/欢迎来找我聊天or咨询/👮😡👊\n不卖东西！不卖东西！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/F7BbOBdexI"
+              }
+            ]
+          }
+        },
+        "id": "1796959726967889920",
+        "location": "lab 5",
+        "name": "hachimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900753595794116608/aTeKYG2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 299,
+          "like_count": 2951,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/F7BbOBdexI",
+        "username": "hami0721",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计 https://t.co/avoL4bMrR2 @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Benzyl-titanium.top",
+                "end": 130,
+                "expanded_url": "https://www.Benzyl-titanium.top",
+                "start": 107,
+                "url": "https://t.co/avoL4bMrR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://Benzyl-titanium.pages.dev",
+                "start": 0,
+                "url": "https://t.co/BiZSbrkM2B"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 527,
+          "like_count": 8216,
+          "listed_count": 5,
+          "media_count": 310,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/BiZSbrkM2B",
+        "username": "Benzyl_titanium",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 蛆蛆要涨粉🥺🥺🥺 不推荐任何人使用我提到的药品",
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium⌬",
+        "pinned_tweet_id": "1919232126148362586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 52,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 688
+        },
+        "username": "fnggnjn1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 116,
+          "like_count": 2598,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1013
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | 自伤 | 中文/Eng/Ita🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1909306355841957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 231,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1350
+        },
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "author_id": "1512976991976402949",
+    "conversation_id": "1849460791214506011",
+    "created_at": "2024-10-26T03:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T04:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850023554022269371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752341491656040448",
+          "start": 0,
+          "username": "diedai198213520"
+        }
+      ]
+    },
+    "id": "1850023554022269371",
+    "in_reply_to_user_id": "1752341491656040448",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850023252514550179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diedai198213520 https://t.co/8npJOVRsRX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1512976991976402949",
+        "conversation_id": "1849460791214506011",
+        "created_at": "2024-10-26T03:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T04:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850023554022269371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752341491656040448",
+              "start": 0,
+              "username": "diedai198213520"
+            }
+          ]
+        },
+        "id": "1850023554022269371",
+        "in_reply_to_user_id": "1752341491656040448",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849671424224657482",
+            "type": "quoted"
+          },
+          {
+            "id": "1850023252514550179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diedai198213520 https://t.co/8npJOVRsRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860835883769024512/ru5rGcTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3512,
+          "following_count": 1594,
+          "like_count": 106661,
+          "listed_count": 9,
+          "tweet_count": 25405
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T14:42:33.000Z",
+        "description": "",
+        "id": "1752341491656040448",
+        "name": "diedai19820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758000581430378496/23RVm-26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 135,
+          "like_count": 1848,
+          "listed_count": 0,
+          "tweet_count": 218
+        },
+        "username": "diedai198213520",
+        "verified": false
+      }
+    ]
+  }
+}

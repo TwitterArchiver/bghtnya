@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1960329674246017430",
+    "created_at": "2025-08-26T15:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960358627572891806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1566790307194216450",
+          "start": 0,
+          "username": "080216q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960358627572891806",
+    "in_reply_to_user_id": "1566790307194216450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960329674246017430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@080216q 还真是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960329674246017430].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960329674246017430",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960329674246017430"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1960329674246017430",
+        "created_at": "2025-08-26T15:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960358627572891806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1566790307194216450",
+              "start": 0,
+              "username": "080216q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960358627572891806",
+        "in_reply_to_user_id": "1566790307194216450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960329674246017430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@080216q 还真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7392,
+          "following_count": 2056,
+          "like_count": 156779,
+          "listed_count": 18,
+          "media_count": 3076,
+          "tweet_count": 39498
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T14:08:22.000Z",
+        "description": "王梦 🍑fo罢了🇨🇳爱党爱国爱人民，晶哥别找我🇨🇳欢迎来互fo（私信滴滴），所有立场友好🇨🇳点赞转发不代表我认同观点🇨🇳台独女神的第一个野爹证",
+        "id": "1566790307194216450",
+        "location": "中南海怀仁堂",
+        "name": "拉萨哈基米治国理政🇨🇳",
+        "pinned_tweet_id": "1957484049691202037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957687000007397378/2-GZNvlm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 722,
+          "like_count": 26312,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 4254
+        },
+        "username": "080216q",
+        "verified": false
+      }
+    ]
+  }
+}

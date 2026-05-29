@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1936766925448843628",
+    "created_at": "2025-06-23T02:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T03:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936979729007153633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "822715997081583618",
+          "start": 0,
+          "username": "yinchao_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936979729007153633",
+    "in_reply_to_user_id": "822715997081583618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936766925448843628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinchao_qaq 意义明确的特写"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7930,
+        "height": 1920,
+        "media_key": "13_1936766825330872320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936766825330872320/img/jv4RAV0FJcHknsxv.jpg",
+        "public_metrics": {
+          "view_count": 5964
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936766825330872320/vid/avc1/1080x1920/YJx6xswZ9Kaer2D3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936766825330872320/vid/avc1/720x1280/dUoyT8AZmNZ0Dj9H.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936766825330872320/vid/avc1/320x568/2LmSZL0nSuFGH4eq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936766825330872320/pl/2ZuVIRPFZFE72-Ad.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936766825330872320/vid/avc1/480x852/59onwEV18OliGC3b.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1936766925448843628",
+        "created_at": "2025-06-23T02:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T03:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936979729007153633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "822715997081583618",
+              "start": 0,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936979729007153633",
+        "in_reply_to_user_id": "822715997081583618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936766925448843628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinchao_qaq 意义明确的特写"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936766825330872320"
+          ]
+        },
+        "author_id": "822715997081583618",
+        "conversation_id": "1936766925448843628",
+        "created_at": "2025-06-22T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936766925448843628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCxwsliGXO",
+              "end": 31,
+              "expanded_url": "https://x.com/yinchao_qaq/status/1936766925448843628/video/1",
+              "media_key": "13_1936766825330872320",
+              "start": 8,
+              "url": "https://t.co/JCxwsliGXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936766925448843628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11986,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "意义不明的特写 https://t.co/JCxwsliGXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6497,
+          "following_count": 2006,
+          "like_count": 149034,
+          "listed_count": 14,
+          "media_count": 2780,
+          "tweet_count": 37013
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:02:33.000Z",
+        "description": "🚪68r 两杯奶茶～（私号128r）｜杭州/不要键政/she/her/残忍变性女巫｜🦋@yinchao-qaq.com｜一个人也要好好地活着｜⚠️不是男娘伪娘CD⚠️讨厌露阴癖⚠️谁跟你是同好了？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "yinchao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ychqaq",
+                "end": 23,
+                "expanded_url": "https://t.me/ychqaq",
+                "start": 0,
+                "url": "https://t.co/PJk4FY9AJx"
+              }
+            ]
+          }
+        },
+        "id": "822715997081583618",
+        "name": "隐潮🏳️‍⚧️",
+        "pinned_tweet_id": "1896409028957470930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776790104377602048/jQ2yJmrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5009,
+          "following_count": 1115,
+          "like_count": 9355,
+          "listed_count": 10,
+          "media_count": 1032,
+          "tweet_count": 6902
+        },
+        "url": "https://t.co/PJk4FY9AJx",
+        "username": "yinchao_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

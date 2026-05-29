@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1840007641579565339",
+    "created_at": "2024-09-28T17:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T18:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840075664663425413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1349005011196456960",
+          "start": 0,
+          "username": "D3m0Ev1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840075664663425413",
+    "in_reply_to_user_id": "1349005011196456960",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840007641579565339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3m0Ev1l 男女混血导致的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1840007641579565339",
+        "created_at": "2024-09-28T17:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T18:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840075664663425413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1349005011196456960",
+              "start": 0,
+              "username": "D3m0Ev1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840075664663425413",
+        "in_reply_to_user_id": "1349005011196456960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840007641579565339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3m0Ev1l 男女混血导致的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840007638572249089"
+          ]
+        },
+        "author_id": "1349005011196456960",
+        "conversation_id": "1840007641579565339",
+        "created_at": "2024-09-28T12:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T13:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840007641579565339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyj3met7ex",
+              "end": 49,
+              "expanded_url": "https://twitter.com/D3m0Ev1l/status/1840007641579565339/photo/1",
+              "media_key": "3_1840007638572249089",
+              "start": 26,
+              "url": "https://t.co/EYj3met7EX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "1840007641579565339",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 778,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同学让我买个一男一女的厕所胶牌挂书包上因为我是男娘 https://t.co/EYj3met7EX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 1536,
+          "like_count": 98254,
+          "listed_count": 10,
+          "tweet_count": 21918
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-12T14:47:31.000Z",
+        "description": "Pansexual femboy/demiboy\nHong Kong\nINFP-T\nADHD diagnosed\n3D animator\nNative Cantonese speaker\nSpeaks Cantonese, Mandarin, English\nLGBTQIA+friendly 🏳️‍🌈 🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/20675409…",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/20675409/mania",
+                "start": 0,
+                "url": "https://t.co/1WGkhtuPYY"
+              }
+            ]
+          }
+        },
+        "id": "1349005011196456960",
+        "location": "Yuen Long District, Hong Kong",
+        "name": "EV1L D3M0",
+        "pinned_tweet_id": "1745818308346257811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657234649830285312/qEpN8yMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 4963,
+          "like_count": 80272,
+          "listed_count": 1,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/1WGkhtuPYY",
+        "username": "D3m0Ev1l",
+        "verified": false
+      }
+    ]
+  }
+}

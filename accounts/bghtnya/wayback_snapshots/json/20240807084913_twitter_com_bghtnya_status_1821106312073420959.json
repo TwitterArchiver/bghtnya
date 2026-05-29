@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1821058175405322309",
+    "created_at": "2024-08-07T08:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T09:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821106312073420959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "RokuNanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821106312073420959",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821058175405322309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RokuNanami 人民喜欢的艺术就是好艺术，你不同意，你算老几？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1821058175405322309",
+        "created_at": "2024-08-07T08:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T09:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821106312073420959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "RokuNanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821106312073420959",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821058175405322309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RokuNanami 人民喜欢的艺术就是好艺术，你不同意，你算老几？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821058173085872128"
+          ]
+        },
+        "author_id": "1247123754158702593",
+        "conversation_id": "1821058175405322309",
+        "created_at": "2024-08-07T05:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T06:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821058175405322309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7c3Rp552gK",
+              "end": 23,
+              "expanded_url": "https://twitter.com/RokuNanami/status/1821058175405322309/photo/1",
+              "media_key": "3_1821058173085872128",
+              "start": 0,
+              "url": "https://t.co/7c3Rp552gK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821058175405322309",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 936,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7c3Rp552gK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 1455,
+          "like_count": 85299,
+          "listed_count": 9,
+          "tweet_count": 18441
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "我在读马哲，而且我是左人但是自由主义｜乌友｜孤独摇滚厨                                          有时Zword但仅针对于粉红和极端皇汉（我不是支黑）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com/RokuNanami",
+                "end": 23,
+                "expanded_url": "https://Twitter.com/RokuNanami",
+                "start": 0,
+                "url": "https://t.co/8MnKBR7m0A"
+              }
+            ]
+          }
+        },
+        "id": "1247123754158702593",
+        "location": "North Region, Singapore",
+        "name": "海Roku6mi",
+        "pinned_tweet_id": "1820396422774370760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815071715711741953/dSDl7TuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 601,
+          "like_count": 16434,
+          "listed_count": 4,
+          "tweet_count": 2138
+        },
+        "url": "https://t.co/8MnKBR7m0A",
+        "username": "RokuNanami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1890772799003730008",
+    "created_at": "2025-02-15T15:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T16:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890785650200166908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2833771699",
+          "start": 0,
+          "username": "Ksharp_Moring"
+        },
+        {
+          "end": 26,
+          "id": "1253165636210978817",
+          "start": 15,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890785650200166908",
+    "in_reply_to_user_id": "2833771699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890785361002926584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ksharp_Moring @Exusiai159 苹果越狱能获得什么权限"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1890772799003730008",
+        "created_at": "2025-02-15T15:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T16:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890785650200166908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2833771699",
+              "start": 0,
+              "username": "Ksharp_Moring"
+            },
+            {
+              "end": 26,
+              "id": "1253165636210978817",
+              "start": 15,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890785650200166908",
+        "in_reply_to_user_id": "2833771699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890785361002926584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ksharp_Moring @Exusiai159 苹果越狱能获得什么权限"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2833771699",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1890772799003730008",
+        "created_at": "2025-02-15T15:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T16:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890785361002926584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890785361002926584",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890782287920312793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 以前越狱过iPhone 5S，不知道现在越狱怎么样了，查了下几乎没有新一点的消息（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5688,
+          "following_count": 1832,
+          "like_count": 124179,
+          "listed_count": 14,
+          "media_count": 2174,
+          "tweet_count": 31033
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-27T07:43:51.000Z",
+        "description": "社恐 /过期男大(社畜) /00年老东西 /辣鸡大专毕业 /IN(T|F)P-T 5w4 /Furry /二刺螈（石头门 EVA 弹丸论破等） /简&繁中👌 English👌. 不甘心成为一个平庸的人。超绝密界面👉@KsharpStarOS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "KsharpStarOS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/33794499",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/33794499",
+                "start": 0,
+                "url": "https://t.co/jckeD8fhzk"
+              }
+            ]
+          }
+        },
+        "id": "2833771699",
+        "location": "未来机构第15支部",
+        "name": "青辰/Harvey Gong 🌈",
+        "pinned_tweet_id": "1847685032087085319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844414215324565513/or3mWotY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1032,
+          "like_count": 14362,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3359
+        },
+        "url": "https://t.co/jckeD8fhzk",
+        "username": "Ksharp_Moring",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，也喜欢萝莉，术力口/性取向未知/头图来自剧毒的KCN老师/⚠️会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本/数码产品迷，Windows二合一爱好者/鹿野灸一生推/编程一生黑/拉黑政治歧视仇恨言论/有大量政治内容的账号恕不回fo/扩列可私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "https://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/7uMHbOqbVv"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐 原莱塔尼亚租借地",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1853604123599622531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872518131320782849/gk6fK5jD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 4455,
+          "like_count": 88826,
+          "listed_count": 6,
+          "media_count": 2826,
+          "tweet_count": 27101
+        },
+        "url": "https://t.co/7uMHbOqbVv",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

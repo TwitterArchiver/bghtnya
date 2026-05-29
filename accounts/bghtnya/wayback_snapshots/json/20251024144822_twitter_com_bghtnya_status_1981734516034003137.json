@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1981704444648788062",
+    "created_at": "2025-10-24T14:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T15:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981734516034003137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981734516034003137",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981704444648788062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 天台一家亲（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_1981704428756295680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Btra3WYAAC1-o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1981704444648788062",
+        "created_at": "2025-10-24T14:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981734516034003137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981734516034003137",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981704444648788062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 天台一家亲（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981704428756295680"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1981704444648788062",
+        "created_at": "2025-10-24T12:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981704444648788062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4CMFUUS6j",
+              "end": 50,
+              "expanded_url": "https://x.com/FurinaDF/status/1981704444648788062/photo/1",
+              "media_key": "3_1981704428756295680",
+              "start": 27,
+              "url": "https://t.co/n4CMFUUS6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981704444648788062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1697,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸炒币炒爆仓\n我妈山顶买黄金 \n我在csgo买饰品 https://t.co/n4CMFUUS6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7971,
+          "following_count": 2095,
+          "like_count": 164557,
+          "listed_count": 19,
+          "media_count": 3306,
+          "tweet_count": 41472
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "希望咱发的东西，都在你的意料之外喵@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58734,
+          "following_count": 2374,
+          "like_count": 29587,
+          "listed_count": 169,
+          "media_count": 7384,
+          "tweet_count": 11923
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

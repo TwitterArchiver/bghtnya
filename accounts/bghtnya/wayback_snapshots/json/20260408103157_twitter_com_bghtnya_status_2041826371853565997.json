@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2041499496841203880",
+    "created_at": "2026-04-08T10:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T11:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041826371853565997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 27,
+          "id": "1509391402484080646",
+          "start": 16,
+          "username": "moran_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041826371853565997",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041825306777153794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @moran_neko 信号很好啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041825306777153794].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041825306777153794",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041825306777153794"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2041499496841203880",
+        "created_at": "2026-04-08T10:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041826371853565997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 27,
+              "id": "1509391402484080646",
+              "start": 16,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041826371853565997",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041825306777153794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @moran_neko 信号很好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9020,
+          "following_count": 2119,
+          "like_count": 175211,
+          "listed_count": 18,
+          "media_count": 3824,
+          "tweet_count": 46743
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 F Stu🎧🍟🍔🥤🚪1680JPY/EN/JP 😘🍩 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています🍬",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1838814967161852327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 4220,
+          "like_count": 34317,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 20187
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "ⓘ┋\n嘘——快躲好，不要被命运抓住了┋\n成分请看置顶帖┋\n挂一个走失的孩子@mokuneko_21┋\n好用✈️https://t.co/66SqMBfwdM┋\n个人博客👇🌐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "mokuneko_21"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mojie.co/register?aff=R…",
+                "end": 78,
+                "expanded_url": "https://mojie.co/register?aff=RrsfMvA5",
+                "start": 55,
+                "url": "https://t.co/66SqMBfwdM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "空调外机",
+        "name": "默然✨²¹",
+        "pinned_tweet_id": "2021094955960369368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034922845395197952/4a1QDbiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2982,
+          "following_count": 1788,
+          "like_count": 39408,
+          "listed_count": 6,
+          "media_count": 1851,
+          "tweet_count": 8348
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

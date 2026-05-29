@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1874976832355004692",
+    "created_at": "2025-01-03T00:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T01:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874983051421446197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1234639893088751616",
+          "start": 0,
+          "username": "Acoustic_MtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874983051421446197",
+    "in_reply_to_user_id": "1234639893088751616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874976832355004692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acoustic_MtF ChatGPT好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1874976832355004692",
+        "created_at": "2025-01-03T00:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T01:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874983051421446197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1234639893088751616",
+              "start": 0,
+              "username": "Acoustic_MtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874983051421446197",
+        "in_reply_to_user_id": "1234639893088751616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874976832355004692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acoustic_MtF ChatGPT好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874976825472122880",
+            "3_1874976825467957248",
+            "3_1874976825467887616",
+            "3_1874976825480495104"
+          ]
+        },
+        "author_id": "1234639893088751616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1874976832355004692",
+        "created_at": "2025-01-03T00:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T01:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874976832355004692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVN0aFpADP",
+              "end": 119,
+              "expanded_url": "https://x.com/Acoustic_MtF/status/1874976832355004692/photo/1",
+              "media_key": "3_1874976825472122880",
+              "start": 96,
+              "url": "https://t.co/FVN0aFpADP"
+            },
+            {
+              "display_url": "pic.x.com/FVN0aFpADP",
+              "end": 119,
+              "expanded_url": "https://x.com/Acoustic_MtF/status/1874976832355004692/photo/1",
+              "media_key": "3_1874976825467957248",
+              "start": 96,
+              "url": "https://t.co/FVN0aFpADP"
+            },
+            {
+              "display_url": "pic.x.com/FVN0aFpADP",
+              "end": 119,
+              "expanded_url": "https://x.com/Acoustic_MtF/status/1874976832355004692/photo/1",
+              "media_key": "3_1874976825467887616",
+              "start": 96,
+              "url": "https://t.co/FVN0aFpADP"
+            },
+            {
+              "display_url": "pic.x.com/FVN0aFpADP",
+              "end": 119,
+              "expanded_url": "https://x.com/Acoustic_MtF/status/1874976832355004692/photo/1",
+              "media_key": "3_1874976825480495104",
+              "start": 96,
+              "url": "https://t.co/FVN0aFpADP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874976832355004692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来没有哭得如此畅快过\n五年来，我第一次感受到，灵魂与身心的统一，和青春的飞扬与自由，原来如此绚烂。\n在相当的一段时间里，我是“醒”着做梦的：原来我的人生，可以如此美好\n我想，心中已经有答案 https://t.co/FVN0aFpADP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4074,
+          "following_count": 1795,
+          "like_count": 119433,
+          "listed_count": 0,
+          "media_count": 1888,
+          "tweet_count": 28713
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-03T00:41:11.000Z",
+        "description": "MtF🏳️‍⚧️｜❤️@sora__0_o__o_0❤️ ｜INFP-T｜2022.11.19～hrt｜已去势｜回家的路上｜夢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "sora__0_o__o_0"
+              }
+            ]
+          }
+        },
+        "id": "1234639893088751616",
+        "location": " 永远在路上",
+        "name": "千早绫希🍥",
+        "pinned_tweet_id": "1874472118815260801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817249029337780224/1MTbn825_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 141,
+          "like_count": 2765,
+          "listed_count": 5,
+          "media_count": 343,
+          "tweet_count": 1617
+        },
+        "username": "Acoustic_MtF",
+        "verified": false
+      }
+    ]
+  }
+}

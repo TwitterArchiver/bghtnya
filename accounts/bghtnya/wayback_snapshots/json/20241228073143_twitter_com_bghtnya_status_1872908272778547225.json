@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1872678508000165960",
+    "created_at": "2024-12-28T07:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T08:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872908272778547225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1747564136719085568",
+          "start": 0,
+          "username": "passion_sugar"
+        },
+        {
+          "end": 23,
+          "id": "1813971881990742016",
+          "start": 15,
+          "username": "TXTYYDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872908272778547225",
+    "in_reply_to_user_id": "1747564136719085568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872907835392311808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@passion_sugar @TXTYYDZ 🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1872907835392311808].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1872907835392311808",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1872907835392311808"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1872678508000165960",
+        "created_at": "2024-12-28T07:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T08:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872908272778547225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1747564136719085568",
+              "start": 0,
+              "username": "passion_sugar"
+            },
+            {
+              "end": 23,
+              "id": "1813971881990742016",
+              "start": 15,
+              "username": "TXTYYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872908272778547225",
+        "in_reply_to_user_id": "1747564136719085568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872907835392311808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@passion_sugar @TXTYYDZ 🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4039,
+          "following_count": 1769,
+          "like_count": 116869,
+          "listed_count": 13,
+          "media_count": 1845,
+          "tweet_count": 28055
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T10:19:03.000Z",
+        "description": "一只小小的的高二女生🙃（趴），ヽ(*´з｀*)ﾉ喜欢/瑟瑟小说/音游/贴贴/睡觉/甜食爱好者/mc，时不时分享好玩的事情🥰🥰｜不线下！喵@soutsummer｜匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "soutsummer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ztlhsy54122",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ztlhsy54122",
+                "start": 0,
+                "url": "https://t.co/GdRB3IoJG4"
+              }
+            ]
+          }
+        },
+        "id": "1747564136719085568",
+        "location": "距离你520m",
+        "name": "爱嗑糖的百香果",
+        "pinned_tweet_id": "1829843524939874481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804568911708590080/IBpTSGOl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9148,
+          "following_count": 495,
+          "like_count": 7870,
+          "listed_count": 12,
+          "media_count": 300,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/GdRB3IoJG4",
+        "username": "passion_sugar",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "抽象与生活，梗图即为艺术！\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "铁西区是沈阳的不是鞍山也不是四平铁西区",
+        "name": "田小唐",
+        "pinned_tweet_id": "1861387934043381936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859925167511867392/8aZE_D2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 892,
+          "like_count": 36875,
+          "listed_count": 8,
+          "media_count": 1398,
+          "tweet_count": 8282
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      }
+    ]
+  }
+}

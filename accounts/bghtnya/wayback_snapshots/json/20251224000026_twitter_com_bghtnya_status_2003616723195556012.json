@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2003352247221256620",
+    "created_at": "2025-12-24T00:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T01:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003616723195556012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763128096579055616",
+          "start": 0,
+          "username": "sleochii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003616723195556012",
+    "in_reply_to_user_id": "1763128096579055616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003431192352498163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleochii 冲刺！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2003352247221256620",
+        "created_at": "2025-12-24T00:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T01:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003616723195556012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763128096579055616",
+              "start": 0,
+              "username": "sleochii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003616723195556012",
+        "in_reply_to_user_id": "1763128096579055616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003431192352498163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleochii 冲刺！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763128096579055616",
+        "conversation_id": "2003352247221256620",
+        "created_at": "2025-12-23T11:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003431192352498163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003431192352498163",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003352247221256620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 你长得真的像电棍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8372,
+          "following_count": 2086,
+          "like_count": 173150,
+          "listed_count": 19,
+          "media_count": 3645,
+          "tweet_count": 44508
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T09:04:53.000Z",
+        "description": "🚪300",
+        "id": "1763128096579055616",
+        "location": "惠愛醫院3號樓",
+        "name": "AAA二手武士刀转卖",
+        "pinned_tweet_id": "1919661478015086906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999757521133928452/ej4JLEhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 172,
+          "like_count": 15684,
+          "listed_count": 0,
+          "media_count": 662,
+          "tweet_count": 6287
+        },
+        "username": "sleochii",
+        "verified": false
+      }
+    ]
+  }
+}

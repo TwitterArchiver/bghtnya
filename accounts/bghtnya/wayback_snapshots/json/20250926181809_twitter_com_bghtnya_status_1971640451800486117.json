@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1971456507729617268",
+    "created_at": "2025-09-26T18:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T19:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971640451800486117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581270347713810434",
+          "start": 0,
+          "username": "23arhson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971640451800486117",
+    "in_reply_to_user_id": "1581270347713810434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971638702331023728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@23arhson 是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1971456507729617268",
+        "created_at": "2025-09-26T18:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T19:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971640451800486117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581270347713810434",
+              "start": 0,
+              "username": "23arhson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971640451800486117",
+        "in_reply_to_user_id": "1581270347713810434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971638702331023728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@23arhson 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581270347713810434",
+        "conversation_id": "1971456507729617268",
+        "created_at": "2025-09-26T18:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T19:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971638702331023728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971638702331023728",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971456507729617268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 动漫社就是神人聚集地，这种地方不如不去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7561,
+          "following_count": 2081,
+          "like_count": 160567,
+          "listed_count": 18,
+          "media_count": 3177,
+          "tweet_count": 40466
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T13:07:01.000Z",
+        "description": "我叫冰蛾\n本账号的内容可能含有\n精神状态抽象/负能/会发带有敏感标记的血图/FTX/ASD/ADHD  \n不键政，大部分都在自言自语不必理会\n称呼我请用你/他/它\n互fo查成分后会回，  精神健全的号https://t.co/SQIlbwI82y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/220284ami_nums…",
+                "end": 123,
+                "expanded_url": "https://x.com/220284ami_nums?t=qtEUH4JJVzlUSO-ozumqjQ&s=09",
+                "start": 100,
+                "url": "https://t.co/SQIlbwI82y"
+              }
+            ]
+          }
+        },
+        "id": "1581270347713810434",
+        "name": "火花飞蛾🏳️‍⚧️",
+        "pinned_tweet_id": "1962564270300012912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932467253951569920/p9TK_1FP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 188,
+          "like_count": 2720,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 657
+        },
+        "username": "23arhson",
+        "verified": false
+      }
+    ]
+  }
+}

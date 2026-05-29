@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937489581638844419"
+      ],
+      "media_source_tweet_id": [
+        "1937489592468602894"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "1937752482454888707",
+    "created_at": "2025-06-25T05:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T06:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937752482454888707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "saoweve"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GyVeCZpzmV",
+          "end": 36,
+          "expanded_url": "https://x.com/saoweve/status/1937489592468602894/photo/1",
+          "media_key": "3_1937489581638844419",
+          "start": 13,
+          "url": "https://t.co/GyVeCZpzmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937752482454888707",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937489592468602894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saoweve: https://t.co/GyVeCZpzmV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_1937489581638844419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNYgl2agAMIkZG.png",
+        "width": 814
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937489581638844419"
+          ],
+          "media_source_tweet_id": [
+            "1937489592468602894"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1937752482454888707",
+        "created_at": "2025-06-25T05:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T06:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937752482454888707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1690570637499154432",
+              "start": 3,
+              "username": "saoweve"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyVeCZpzmV",
+              "end": 36,
+              "expanded_url": "https://x.com/saoweve/status/1937489592468602894/photo/1",
+              "media_key": "3_1937489581638844419",
+              "start": 13,
+              "url": "https://t.co/GyVeCZpzmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937752482454888707",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937489592468602894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saoweve: https://t.co/GyVeCZpzmV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937489581638844419"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "1937489592468602894",
+        "created_at": "2025-06-24T12:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937489592468602894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyVeCZpzmV",
+              "end": 23,
+              "expanded_url": "https://x.com/saoweve/status/1937489592468602894/photo/1",
+              "media_key": "3_1937489581638844419",
+              "start": 0,
+              "url": "https://t.co/GyVeCZpzmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937489592468602894",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 24017,
+          "like_count": 349,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GyVeCZpzmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6917,
+          "following_count": 2009,
+          "like_count": 149995,
+          "listed_count": 15,
+          "media_count": 2800,
+          "tweet_count": 37334
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "出错了，但是我们做对了",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937167378510426116/OYo5MO_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3557,
+          "following_count": 368,
+          "like_count": 23816,
+          "listed_count": 12,
+          "media_count": 1493,
+          "tweet_count": 13069
+        },
+        "username": "saoweve",
+        "verified": true
+      }
+    ]
+  }
+}

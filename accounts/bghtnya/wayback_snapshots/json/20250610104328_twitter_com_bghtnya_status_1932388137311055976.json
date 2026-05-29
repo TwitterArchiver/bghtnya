@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1932315843029086711",
+    "created_at": "2025-06-10T10:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T11:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932388137311055976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Teufel_Tigrov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932388137311055976",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932315843029086711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teufel_Tigrov 乌 吉 仁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1932315843029086711",
+        "created_at": "2025-06-10T10:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T11:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932388137311055976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Teufel_Tigrov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932388137311055976",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932315843029086711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teufel_Tigrov 乌 吉 仁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383940842239381510",
+        "conversation_id": "1932315843029086711",
+        "created_at": "2025-06-10T05:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T06:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932315843029086711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/jianlvup/status/1932284082135970176",
+              "start": 6,
+              "url": "https://t.co/EsADRwR7A7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932315843029086711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932284082135970176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乌 仁 吉 https://t.co/EsADRwR7A7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6373,
+          "following_count": 1978,
+          "like_count": 144014,
+          "listed_count": 14,
+          "media_count": 2668,
+          "tweet_count": 36030
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/电脑配件零售商/亞空間生物/异位面恶意生命体/厌恶键政仔，跳脸会B",
+        "id": "1383940842239381510",
+        "location": "Nilfheim",
+        "name": "狐店長🍖「亞空間狐」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911003273693102080/YJtmcZSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 812,
+          "like_count": 101284,
+          "listed_count": 23,
+          "media_count": 11133,
+          "tweet_count": 83373
+        },
+        "username": "Teufel_Tigrov",
+        "verified": false
+      }
+    ]
+  }
+}

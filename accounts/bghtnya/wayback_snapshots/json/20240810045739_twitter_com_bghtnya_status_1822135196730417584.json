@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1822056812222529946",
+    "created_at": "2024-08-10T04:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T05:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822135196730417584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "897246854",
+          "start": 0,
+          "username": "schouffeur"
+        },
+        {
+          "end": 23,
+          "id": "143810986",
+          "start": 12,
+          "username": "dw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822135196730417584",
+    "in_reply_to_user_id": "897246854",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822061417039880696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@schouffeur @dw_chinese 上帝算歌姬吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1822056812222529946",
+        "created_at": "2024-08-10T04:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T05:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822135196730417584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "897246854",
+              "start": 0,
+              "username": "schouffeur"
+            },
+            {
+              "end": 23,
+              "id": "143810986",
+              "start": 12,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822135196730417584",
+        "in_reply_to_user_id": "897246854",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822061417039880696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@schouffeur @dw_chinese 上帝算歌姬吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897246854",
+        "conversation_id": "1822056812222529946",
+        "created_at": "2024-08-10T00:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T01:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822061417039880696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "143810986",
+              "start": 0,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822061417039880696",
+        "in_reply_to_user_id": "143810986",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3089,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822056812222529946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dw_chinese 现在是男是女，都必须由人来决定，而不是由上帝决定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 1456,
+          "like_count": 85891,
+          "listed_count": 10,
+          "tweet_count": 18534
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-22T10:21:42.000Z",
+        "description": "Christian, love philosophy and logical thinking.",
+        "id": "897246854",
+        "location": "Melbourne, Victoria",
+        "name": "Alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497671925270601729/3Hny3sbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3107,
+          "following_count": 1029,
+          "like_count": 10515,
+          "listed_count": 26,
+          "tweet_count": 16592
+        },
+        "username": "schouffeur",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207092,
+          "following_count": 24,
+          "like_count": 132,
+          "listed_count": 5127,
+          "tweet_count": 75584
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

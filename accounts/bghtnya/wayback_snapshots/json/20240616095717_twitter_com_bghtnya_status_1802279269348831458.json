@@ -1,0 +1,251 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1802193092084461608",
+    "created_at": "2024-06-16T09:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T10:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802279269348831458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 27,
+          "id": "1558395418110636033",
+          "start": 11,
+          "username": "LeeinCN_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802279269348831458",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802271354697449578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @LeeinCN_Offical 草"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1802271354697449578].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1802271354697449578",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1802271354697449578"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1802193092084461608",
+        "created_at": "2024-06-16T09:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T10:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802279269348831458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 27,
+              "id": "1558395418110636033",
+              "start": 11,
+              "username": "LeeinCN_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802279269348831458",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802271354697449578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @LeeinCN_Offical 草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1361,
+          "like_count": 71189,
+          "listed_count": 7,
+          "tweet_count": 14944
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "无证🍥23.12.8/xyn/she/天残党/深柜/不键政，中立派/INT(F?)P/音游人/\n\n我只会躲在墙角，看着别人的成就和未来自己什么都做不了",
+        "id": "1709376564713127936",
+        "location": "广东粤北山卡拉",
+        "name": "管脚🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757403432682733568/263Lzi5p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 911,
+          "like_count": 19380,
+          "listed_count": 7,
+          "tweet_count": 3786
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T10:10:12.000Z",
+        "description": "From Taiwan🇹🇼‖星際和平公司業務鞏固部駐台顧問‖落榜藝術生‖爆照 #Lee老鼠自攝‖大愛 #知更鳥 🕊️/#花火🎭/#霞沢ミユ🐰‖ #BlueArchive #HonkaiStarRail‖逃生艙@lilaoshuNo1&鎖帳@lilaoshuzuikeai",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "Lee老鼠自攝"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "知更鳥"
+              },
+              {
+                "end": 62,
+                "start": 59,
+                "tag": "花火"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "霞沢ミユ"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "tag": "BlueArchive"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "tag": "HonkaiStarRail"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "lilaoshuNo1"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "lilaoshuzuikeai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/LeeinCN_Offica…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/LeeinCN_Offical/status/1723261547387232395?s=19",
+                "start": 0,
+                "url": "https://t.co/HrhdO82uBL"
+              }
+            ]
+          }
+        },
+        "id": "1558395418110636033",
+        "location": "Taiwan/Chongqing‖按此處⬇獲取個人自介🎦",
+        "name": "Lee老鼠不是米老鼠『知更鳥夢女』",
+        "pinned_tweet_id": "1786622156564316240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798977011546984449/ft8z1wEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 987,
+          "like_count": 450,
+          "listed_count": 7,
+          "tweet_count": 11167
+        },
+        "url": "https://t.co/HrhdO82uBL",
+        "username": "LeeinCN_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

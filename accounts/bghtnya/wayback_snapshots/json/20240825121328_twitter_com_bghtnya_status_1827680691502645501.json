@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1827594122607067570",
+    "created_at": "2024-08-25T12:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T13:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827680691502645501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547587299248025600",
+          "start": 0,
+          "username": "Corrrine233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827680691502645501",
+    "in_reply_to_user_id": "1547587299248025600",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827679481328517300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Corrrine233 嗷 豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1827594122607067570",
+        "created_at": "2024-08-25T12:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T13:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827680691502645501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547587299248025600",
+              "start": 0,
+              "username": "Corrrine233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827680691502645501",
+        "in_reply_to_user_id": "1547587299248025600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827679481328517300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Corrrine233 嗷 豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547587299248025600",
+        "conversation_id": "1827594122607067570",
+        "created_at": "2024-08-25T12:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T13:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827679481328517300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827679481328517300",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827594122607067570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 有一定算法基础的可以试试（比如会串串或者数数之类的\n同时建议赛前看看stl和一些简单数据结构和算法（欧拉筛，单调队列，分块，前缀和等等\n（但是我真的希望csp不考串串和数数（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 1490,
+          "like_count": 90347,
+          "listed_count": 10,
+          "tweet_count": 19605
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T14:22:31.000Z",
+        "description": "澄ます、生きている、\nウォルマートのレジ袋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Corrrine",
+                "end": 23,
+                "expanded_url": "https://t.me/Corrrine",
+                "start": 0,
+                "url": "https://t.co/bzJWsmoz8p"
+              }
+            ]
+          }
+        },
+        "id": "1547587299248025600",
+        "location": "显生宙",
+        "name": "蚀祏 ⌬ qstanm",
+        "pinned_tweet_id": "1718486117073522876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627335832498757632/aFad3Nl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 256,
+          "like_count": 7099,
+          "listed_count": 0,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/bzJWsmoz8p",
+        "username": "Corrrine233",
+        "verified": false
+      }
+    ]
+  }
+}

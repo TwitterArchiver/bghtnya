@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920072917855129600",
+        "3_1920072925774032897"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1920072928340951094",
+    "created_at": "2025-05-07T11:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T12:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920072928340951094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1528509807086428160",
+          "start": 9,
+          "username": "SeeNoEv78539061"
+        },
+        {
+          "end": 39,
+          "id": "1512976991976402949",
+          "start": 31,
+          "username": "bghtnya"
+        },
+        {
+          "end": 59,
+          "id": "1603904249649188864",
+          "start": 46,
+          "username": "maomaoServer"
+        },
+        {
+          "end": 78,
+          "id": "1753293214826848256",
+          "start": 67,
+          "username": "tatanakots"
+        },
+        {
+          "end": 105,
+          "id": "1521553831775158273",
+          "start": 96,
+          "username": "ww123qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITONwu02fW",
+          "end": 131,
+          "expanded_url": "https://x.com/bghtnya/status/1920072928340951094/photo/1",
+          "media_key": "3_1920072917855129600",
+          "start": 108,
+          "url": "https://t.co/ITONwu02fW"
+        },
+        {
+          "display_url": "pic.x.com/ITONwu02fW",
+          "end": 131,
+          "expanded_url": "https://x.com/bghtnya/status/1920072928340951094/photo/1",
+          "media_key": "3_1920072925774032897",
+          "start": 108,
+          "url": "https://t.co/ITONwu02fW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920072928340951094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "图一：\nseri：@SeeNoEv78539061 \n冰棍： @bghtnya \n小奶猫： @maomaoServer \nたたなこ： @tatanakots \n\n图二补：阿紫/伊奈（  ？/ @ww123qwq ） https://t.co/ITONwu02fW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_1920072917855129600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqV4JVOaUAAdq0X.jpg",
+        "width": 1920
+      },
+      {
+        "height": 999,
+        "media_key": "3_1920072925774032897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqV4JyubMAEaZr1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920072917855129600",
+            "3_1920072925774032897"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1920072928340951094",
+        "created_at": "2025-05-07T11:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T12:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920072928340951094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1528509807086428160",
+              "start": 9,
+              "username": "SeeNoEv78539061"
+            },
+            {
+              "end": 39,
+              "id": "1512976991976402949",
+              "start": 31,
+              "username": "bghtnya"
+            },
+            {
+              "end": 59,
+              "id": "1603904249649188864",
+              "start": 46,
+              "username": "maomaoServer"
+            },
+            {
+              "end": 78,
+              "id": "1753293214826848256",
+              "start": 67,
+              "username": "tatanakots"
+            },
+            {
+              "end": 105,
+              "id": "1521553831775158273",
+              "start": 96,
+              "username": "ww123qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITONwu02fW",
+              "end": 131,
+              "expanded_url": "https://x.com/bghtnya/status/1920072928340951094/photo/1",
+              "media_key": "3_1920072917855129600",
+              "start": 108,
+              "url": "https://t.co/ITONwu02fW"
+            },
+            {
+              "display_url": "pic.x.com/ITONwu02fW",
+              "end": 131,
+              "expanded_url": "https://x.com/bghtnya/status/1920072928340951094/photo/1",
+              "media_key": "3_1920072925774032897",
+              "start": 108,
+              "url": "https://t.co/ITONwu02fW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920072928340951094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图一：\nseri：@SeeNoEv78539061 \n冰棍： @bghtnya \n小奶猫： @maomaoServer \nたたなこ： @tatanakots \n\n图二补：阿紫/伊奈（  ？/ @ww123qwq ） https://t.co/ITONwu02fW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1913785389120389610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6251,
+          "following_count": 1935,
+          "like_count": 135717,
+          "listed_count": 13,
+          "media_count": 2494,
+          "tweet_count": 34501
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T22:55:19.000Z",
+        "description": "",
+        "id": "1528509807086428160",
+        "name": "MTF_Eta10",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528512113077104640/u9G3GJPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 58,
+          "like_count": 3653,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "username": "SeeNoEv78539061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T00:06:06.000Z",
+        "description": "喵喵~🚪20 接线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnmsb.xin",
+                "end": 23,
+                "expanded_url": "https://cnmsb.xin",
+                "start": 0,
+                "url": "https://t.co/4NyBNrsWmA"
+              }
+            ]
+          }
+        },
+        "id": "1603904249649188864",
+        "location": "/data/local/tmp",
+        "name": "不穿胖次の小奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890722217224519680/TCFiQ89r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 45,
+          "like_count": 712,
+          "listed_count": 2,
+          "media_count": 335,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/4NyBNrsWmA",
+        "username": "maomaoServer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年一般辍学女高 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 ✉️小证 24/04/15 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 189,
+          "like_count": 21432,
+          "listed_count": 2,
+          "media_count": 1144,
+          "tweet_count": 7207
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 188,
+          "like_count": 40040,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 10618
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

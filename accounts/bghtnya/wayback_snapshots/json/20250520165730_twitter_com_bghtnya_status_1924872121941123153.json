@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1924783641357648263",
+    "created_at": "2025-05-20T16:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T17:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924872121941123153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1837078362",
+          "start": 0,
+          "username": "Chaos_Kitty_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924872121941123153",
+    "in_reply_to_user_id": "1837078362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924821952272982403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chaos_Kitty_qwq 签到打哔卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1924783641357648263",
+        "created_at": "2025-05-20T16:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T17:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924872121941123153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1837078362",
+              "start": 0,
+              "username": "Chaos_Kitty_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924872121941123153",
+        "in_reply_to_user_id": "1837078362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924821952272982403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chaos_Kitty_qwq 签到打哔卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837078362",
+        "conversation_id": "1924783641357648263",
+        "created_at": "2025-05-20T13:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924821952272982403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924821952272982403",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924783641357648263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 怎么升级的？看很多？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6312,
+          "following_count": 1952,
+          "like_count": 137913,
+          "listed_count": 14,
+          "media_count": 2545,
+          "tweet_count": 34997
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-09T01:08:18.000Z",
+        "description": "Married with a cis woman/Type 2 diabetes/Lawful good/Not minding being perceived as any gender/LGBT-friendly\n已婚（对方顺女）/二型糖尿病/守序善良/不介意被当作任何性别/LGBT友好",
+        "id": "1837078362",
+        "name": "混沌小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785002187539746817/CmkyzbaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 2104,
+          "like_count": 75727,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 8818
+        },
+        "username": "Chaos_Kitty_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

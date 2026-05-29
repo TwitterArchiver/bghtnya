@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1881582908299005980",
+    "created_at": "2025-01-22T03:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T04:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881901361421508643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "TheSolipsism"
+        },
+        {
+          "end": 22,
+          "id": "1671537694139117570",
+          "start": 14,
+          "username": "syt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881901361421508643",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881794388340441335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSolipsism @syt8964 特朗普喜欢男同但是不喜欢跨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1881582908299005980",
+        "created_at": "2025-01-22T03:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T04:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881901361421508643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "TheSolipsism"
+            },
+            {
+              "end": 22,
+              "id": "1671537694139117570",
+              "start": 14,
+              "username": "syt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881901361421508643",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881794388340441335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSolipsism @syt8964 特朗普喜欢男同但是不喜欢跨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1881582908299005980",
+        "created_at": "2025-01-21T20:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T21:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881794388340441335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1671537694139117570",
+              "start": 0,
+              "username": "syt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881794388340441335",
+        "in_reply_to_user_id": "1671537694139117570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1001,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881582908299005980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syt8964 更扯淡的是随便一搜“川普上台整顿lgbt”到处都是\n但是特朗普任命的 LGBT 🏳️‍🌈 已经有好几位了\n特朗普背刺顺顺？\n那就是Trump从来和顺殖都不是同一战队的咯？更像是民主党误导了顺顺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4279,
+          "following_count": 1821,
+          "like_count": 121608,
+          "listed_count": 11,
+          "media_count": 1971,
+          "tweet_count": 29599
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🍥hrt2024.4.20/持“證”ADHD💯/小证持有⁉️/178cm57kg/A-Level🇭🇰/🔞08 年 16 岁小登♿️/前osw编辑/需要促智/美白/减肥/HRT等药物找@Minokakay喵 /舞萌w3神人/💦VOCALOID/Sis:@beijieyoufengle💤💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "Minokakay"
+              },
+              {
+                "end": 146,
+                "start": 130,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "🚪38/68/188",
+        "name": "翎.𝟙𝕞𝕞∅ℝ𝕥𝕒𝕃🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879353361637769216/oY2gzXcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 1586,
+          "like_count": 77927,
+          "listed_count": 10,
+          "media_count": 2381,
+          "tweet_count": 19369
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "TheSolipsism",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T15:17:07.000Z",
+        "description": "奇异搞笑网左😇",
+        "id": "1671537694139117570",
+        "name": "小王同志🇺🇦🇵🇸🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855237886981062656/DC2YcJ6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 858,
+          "like_count": 14192,
+          "listed_count": 9,
+          "media_count": 324,
+          "tweet_count": 961
+        },
+        "username": "syt8964",
+        "verified": false
+      }
+    ]
+  }
+}

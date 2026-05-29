@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      }
+    ],
+    "conversation_id": "1840032598762107233",
+    "created_at": "2024-09-28T17:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T18:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840076917258760239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "IshiharaMayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840076917258760239",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840032598762107233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IshiharaMayi 防成龙装置迷你版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          }
+        ],
+        "conversation_id": "1840032598762107233",
+        "created_at": "2024-09-28T17:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T18:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840076917258760239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "IshiharaMayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840076917258760239",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840032598762107233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IshiharaMayi 防成龙装置迷你版"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840032596291633152"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "conversation_id": "1840032598762107233",
+        "created_at": "2024-09-28T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840032598762107233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ygdf77nrhg",
+              "end": 23,
+              "expanded_url": "https://twitter.com/IshiharaMayi/status/1840032598762107233/photo/1",
+              "media_key": "3_1840032596291633152",
+              "start": 0,
+              "url": "https://t.co/YGDf77nrhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840032598762107233",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19219,
+          "like_count": 292,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YGDf77nrhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三牲 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 1536,
+          "like_count": 98266,
+          "listed_count": 10,
+          "tweet_count": 21919
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "To explore everything with cold rationality... | holder of #bnb #btc #usdt Friendly to the LGBTQ community🏳️‍⚧️| meme B0T nya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "bnb"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "btc"
+              },
+              {
+                "end": 74,
+                "start": 69,
+                "tag": "usdt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "systemspace.top",
+                "end": 23,
+                "expanded_url": "https://systemspace.top",
+                "start": 0,
+                "url": "https://t.co/i5pVuxnmFs"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "N/A",
+        "name": "石原 真依",
+        "pinned_tweet_id": "1833272111982645399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800166615193104384/ogmmHTVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7359,
+          "following_count": 139,
+          "like_count": 123166,
+          "listed_count": 34,
+          "tweet_count": 21988
+        },
+        "url": "https://t.co/i5pVuxnmFs",
+        "username": "IshiharaMayi",
+        "verified": true
+      }
+    ]
+  }
+}

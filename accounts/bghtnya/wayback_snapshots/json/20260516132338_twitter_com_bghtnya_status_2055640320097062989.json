@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2055182234500686123",
+    "created_at": "2026-05-16T13:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055640320097062989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025857853534416896",
+          "start": 0,
+          "username": "HIOG119209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055640320097062989",
+    "in_reply_to_user_id": "2025857853534416896",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055639962142585039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HIOG119209 win10"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055639959231717377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcZptQa4AEsNhj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2055182234500686123",
+        "created_at": "2026-05-16T13:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055640320097062989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025857853534416896",
+              "start": 0,
+              "username": "HIOG119209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055640320097062989",
+        "in_reply_to_user_id": "2025857853534416896",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055639962142585039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HIOG119209 win10"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055639959231717377"
+          ]
+        },
+        "author_id": "2025857853534416896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055182234500686123",
+        "created_at": "2026-05-16T13:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055639962142585039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKNS04jKdg",
+              "end": 37,
+              "expanded_url": "https://x.com/HIOG119209/status/2055639962142585039/photo/1",
+              "media_key": "3_2055639959231717377",
+              "start": 14,
+              "url": "https://t.co/MKNS04jKdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055639962142585039",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055182234500686123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 有点意思 https://t.co/MKNS04jKdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2053034864085971095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9349,
+          "following_count": 2270,
+          "like_count": 178243,
+          "listed_count": 21,
+          "media_count": 3903,
+          "tweet_count": 47804
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T08:58:52.000Z",
+        "description": "FPS/ZenlessZoneZero/HonkaiStarRail/Blue Archive/Strinova/Minecraft gamer/在校高三学生/ INTP-T/ DP/⚤",
+        "id": "2025857853534416896",
+        "name": "HIOG🇨🇳⚤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025857934576734208/tK7NpLQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 81,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 91
+        },
+        "username": "HIOG119209",
+        "verified": false
+      }
+    ]
+  }
+}

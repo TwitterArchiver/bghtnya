@@ -1,0 +1,159 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1808501266525630722",
+    "created_at": "2024-07-04T03:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T04:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808698265904492873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699298317392580608",
+          "start": 0,
+          "username": "bakajinping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808698265904492873",
+    "in_reply_to_user_id": "1699298317392580608",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808695271133753426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakajinping maimaiDX"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1808695271133753426].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1808695271133753426",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1808695271133753426"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1808501266525630722",
+        "created_at": "2024-07-04T03:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T04:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808698265904492873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699298317392580608",
+              "start": 0,
+              "username": "bakajinping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808698265904492873",
+        "in_reply_to_user_id": "1699298317392580608",
+        "lang": "eu",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808695271133753426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakajinping maimaiDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高二牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 1395,
+          "like_count": 75068,
+          "listed_count": 9,
+          "tweet_count": 15862
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "失眠ing\n不定时退推\nYGO大师对决",
+        "id": "1699298317392580608",
+        "name": "baka🫙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808018999428763649/-JN1tGjs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 644,
+          "like_count": 48663,
+          "listed_count": 3,
+          "tweet_count": 14443
+        },
+        "username": "bakajinping",
+        "verified": false
+      }
+    ]
+  }
+}

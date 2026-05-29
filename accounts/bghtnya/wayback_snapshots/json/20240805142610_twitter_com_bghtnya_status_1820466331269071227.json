@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1820427646767186325",
+    "created_at": "2024-08-05T14:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T15:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820466331269071227"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "overdose",
+          "probability": 0.4957,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598326999",
+          "start": 0,
+          "username": "BaggIE6_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820466331269071227",
+    "in_reply_to_user_id": "1598326999",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820427646767186325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaggIE6_0 overdose"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1820427646767186325",
+        "created_at": "2024-08-05T14:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T15:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820466331269071227"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "overdose",
+              "probability": 0.4957,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598326999",
+              "start": 0,
+              "username": "BaggIE6_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820466331269071227",
+        "in_reply_to_user_id": "1598326999",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820427646767186325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaggIE6_0 overdose"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820427634230034432"
+          ]
+        },
+        "author_id": "1598326999",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1820427646767186325",
+        "created_at": "2024-08-05T11:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T12:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820427646767186325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/V1EbpWKtiP",
+              "end": 37,
+              "expanded_url": "https://twitter.com/BaggIE6_0/status/1820427646767186325/photo/1",
+              "media_key": "3_1820427634230034432",
+              "start": 14,
+              "url": "https://t.co/V1EbpWKtiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820427646767186325",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1354,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "overwatch（即答） https://t.co/V1EbpWKtiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 1455,
+          "like_count": 85062,
+          "listed_count": 10,
+          "tweet_count": 18371
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-16T12:35:06.000Z",
+        "description": "ⓘ 该账号本体是无机物，请知悉\n\nⓘ 慢热（或许）所以太跳脸会ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.cmx.im/@baggie",
+                "end": 23,
+                "expanded_url": "https://m.cmx.im/@baggie",
+                "start": 0,
+                "url": "https://t.co/d4oPq9Z2kx"
+              }
+            ]
+          }
+        },
+        "id": "1598326999",
+        "location": "baggie://version",
+        "name": "Baggie™",
+        "pinned_tweet_id": "1568575442864738304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780612959141810176/ImA2rG55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 392,
+          "like_count": 81109,
+          "listed_count": 5,
+          "tweet_count": 22977
+        },
+        "url": "https://t.co/d4oPq9Z2kx",
+        "username": "BaggIE6_0",
+        "verified": false
+      }
+    ]
+  }
+}

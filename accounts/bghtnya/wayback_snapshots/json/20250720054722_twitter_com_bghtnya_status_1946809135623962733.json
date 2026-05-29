@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1946239453053571198",
+    "created_at": "2025-07-20T05:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T06:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946809135623962733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946809135623962733",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 404,
+      "like_count": 17,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946239453053571198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 那窝性别要接入高频交流电了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1946239440592003072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJudahXYAAvepr.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1946239453053571198",
+        "created_at": "2025-07-20T05:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T06:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946809135623962733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946809135623962733",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946239453053571198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 那窝性别要接入高频交流电了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946239440592003072"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1946239453053571198",
+        "created_at": "2025-07-18T16:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946239453053571198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNU5t79nmt",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1946239453053571198/photo/1",
+              "media_key": "3_1946239440592003072",
+              "start": 0,
+              "url": "https://t.co/nNU5t79nmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946239453053571198",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 105646,
+          "like_count": 1965,
+          "quote_count": 11,
+          "reply_count": 68,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nNU5t79nmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7200,
+          "following_count": 2029,
+          "like_count": 152838,
+          "listed_count": 17,
+          "media_count": 2930,
+          "tweet_count": 38342
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85954,
+          "following_count": 972,
+          "like_count": 42441,
+          "listed_count": 199,
+          "media_count": 13860,
+          "tweet_count": 20683
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

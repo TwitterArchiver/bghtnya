@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1965103858428117250",
+    "created_at": "2025-09-10T06:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T07:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965658978719072506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699298317392580608",
+          "start": 0,
+          "username": "bakajinping"
+        },
+        {
+          "end": 26,
+          "id": "1525539628475772929",
+          "start": 13,
+          "username": "NoNonsenseND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965658978719072506",
+    "in_reply_to_user_id": "1699298317392580608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965603373908197454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakajinping @NoNonsenseND 线程池"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1965603373908197454].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1965603373908197454",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1965603373908197454"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1965103858428117250",
+        "created_at": "2025-09-10T06:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965658978719072506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699298317392580608",
+              "start": 0,
+              "username": "bakajinping"
+            },
+            {
+              "end": 26,
+              "id": "1525539628475772929",
+              "start": 13,
+              "username": "NoNonsenseND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965658978719072506",
+        "in_reply_to_user_id": "1699298317392580608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965603373908197454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakajinping @NoNonsenseND 线程池"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🍰2007.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7438,
+          "following_count": 2069,
+          "like_count": 157692,
+          "listed_count": 18,
+          "media_count": 3126,
+          "tweet_count": 39872
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "",
+        "id": "1699298317392580608",
+        "location": "需要回fo请留言",
+        "name": "🗷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958873762062811136/J3RBHi9o_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 657,
+          "like_count": 66438,
+          "listed_count": 5,
+          "media_count": 3943,
+          "tweet_count": 22783
+        },
+        "username": "bakajinping",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T18:16:22.000Z",
+        "description": "Providing relatability, insights, & lots of memes on Neurodivergence & Mental Health - #AuDHD+ 2e Neurodivergent Millennial\n\n#ActuallyAutistic #ADHD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 87,
+                "tag": "AuDHD"
+              },
+              {
+                "end": 142,
+                "start": 125,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 148,
+                "start": 143,
+                "tag": "ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/nononsensend",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/nononsensend",
+                "start": 0,
+                "url": "https://t.co/pBnUuAm6iM"
+              }
+            ]
+          }
+        },
+        "id": "1525539628475772929",
+        "location": "Also on FB, IG, and BS",
+        "name": "No Nonsense Neurodivergent",
+        "pinned_tweet_id": "1949949260356575718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531544399401787392/JFehWAlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70864,
+          "following_count": 311,
+          "like_count": 4746,
+          "listed_count": 189,
+          "media_count": 5103,
+          "tweet_count": 9851
+        },
+        "url": "https://t.co/pBnUuAm6iM",
+        "username": "NoNonsenseND",
+        "verified": true
+      }
+    ]
+  }
+}

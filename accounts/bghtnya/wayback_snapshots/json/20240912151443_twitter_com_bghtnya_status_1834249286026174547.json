@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1833870416869560481",
+    "created_at": "2024-09-12T15:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T16:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834249286026174547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1708305542396125184",
+          "start": 0,
+          "username": "SAIMU726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834249286026174547",
+    "in_reply_to_user_id": "1708305542396125184",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833870416869560481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SAIMU726 蓝色药丸：隔着屏幕给对面的（）一巴掌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1833870416869560481",
+        "created_at": "2024-09-12T15:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T16:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834249286026174547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1708305542396125184",
+              "start": 0,
+              "username": "SAIMU726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834249286026174547",
+        "in_reply_to_user_id": "1708305542396125184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833870416869560481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAIMU726 蓝色药丸：隔着屏幕给对面的（）一巴掌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833870407369383936"
+          ]
+        },
+        "author_id": "1708305542396125184",
+        "conversation_id": "1833870416869560481",
+        "created_at": "2024-09-11T14:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T15:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833870416869560481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rczt1d7nw",
+              "end": 29,
+              "expanded_url": "https://twitter.com/SAIMU726/status/1833870416869560481/photo/1",
+              "media_key": "3_1833870407369383936",
+              "start": 6,
+              "url": "https://t.co/5rcZt1D7Nw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833870416869560481",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 87645,
+          "like_count": 829,
+          "quote_count": 35,
+          "reply_count": 63,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "请做出选择 https://t.co/5rcZt1D7Nw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 1504,
+          "like_count": 94218,
+          "listed_count": 10,
+          "tweet_count": 20608
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T02:19:26.000Z",
+        "description": "说些自己喜欢的|提问箱https://t.co/oEMU0W4ACh|",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sjleoaimu09",
+                "end": 34,
+                "expanded_url": "https://ngl.link/sjleoaimu09",
+                "start": 11,
+                "url": "https://t.co/oEMU0W4ACh"
+              }
+            ]
+          }
+        },
+        "id": "1708305542396125184",
+        "name": "M",
+        "pinned_tweet_id": "1827726082235404592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817094298841808900/AAlfR3Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 1091,
+          "like_count": 11141,
+          "listed_count": 12,
+          "tweet_count": 2184
+        },
+        "username": "SAIMU726",
+        "verified": true
+      }
+    ]
+  }
+}
