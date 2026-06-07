@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "2061307821652861024",
+    "created_at": "2026-06-02T05:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061678142859935972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042969235505242112",
+          "start": 0,
+          "username": "lfcypo"
+        },
+        {
+          "end": 22,
+          "id": "1811604757670137856",
+          "start": 8,
+          "username": "SB_Puzzlerlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061678142859935972",
+    "in_reply_to_user_id": "2042969235505242112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061673370635346217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfcypo @SB_Puzzlerlee 皇后大道东上为何冇皇宫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2061307821652861024",
+        "created_at": "2026-06-02T05:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061678142859935972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042969235505242112",
+              "start": 0,
+              "username": "lfcypo"
+            },
+            {
+              "end": 22,
+              "id": "1811604757670137856",
+              "start": 8,
+              "username": "SB_Puzzlerlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061678142859935972",
+        "in_reply_to_user_id": "2042969235505242112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061673370635346217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfcypo @SB_Puzzlerlee 皇后大道东上为何冇皇宫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042969235505242112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2061307821652861024",
+        "created_at": "2026-06-02T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061673370635346217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 23,
+              "id": "1811604757670137856",
+              "start": 9,
+              "username": "SB_Puzzlerlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061673370635346217",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061663684808917481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @SB_Puzzlerlee 皇后大道东转皇后大道中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10011,
+          "following_count": 2355,
+          "like_count": 181723,
+          "listed_count": 21,
+          "media_count": 4008,
+          "tweet_count": 49002
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T14:13:24.000Z",
+        "description": "08.10.21 广东｜高二在读｜计算机｜生化｜想变可爱喵....\n\n「如果这一切能帮ta们的话，那就去做吧！」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lfcypo",
+                "end": 23,
+                "expanded_url": "https://github.com/lfcypo",
+                "start": 0,
+                "url": "https://t.co/l8q95vyHka"
+              }
+            ]
+          }
+        },
+        "id": "2042969235505242112",
+        "name": "lfcypo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042971547795890176/sMuA86rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/l8q95vyHka",
+        "username": "lfcypo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "爱党爱国🇨🇳/小号@maybe_FuckU/@puzzlerlee最严厉的父亲/狗与@careforme123禁止入内⛔️/报名拼图者野爹请点下方链接/蓝v关注必回，没回私",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "maybe_FuckU"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "careforme123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20556…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2055632908568887528",
+                "start": 0,
+                "url": "https://t.co/LIaeSkwnh0"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "Beijing Tongzhou",
+        "name": "Sager Wang🍥🏳️‍⚧️（专图拼图者秦🐴）",
+        "pinned_tweet_id": "2061122301459038442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961401691754497/x_qAoeDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1148,
+          "like_count": 1649,
+          "listed_count": 3,
+          "media_count": 932,
+          "tweet_count": 6098
+        },
+        "url": "https://t.co/LIaeSkwnh0",
+        "username": "SB_Puzzlerlee",
+        "verified": true
+      }
+    ]
+  }
+}

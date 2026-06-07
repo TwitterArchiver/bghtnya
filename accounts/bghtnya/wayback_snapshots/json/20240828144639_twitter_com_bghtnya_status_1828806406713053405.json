@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "1828742163993383358",
+    "created_at": "2024-08-28T14:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T15:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828806406713053405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1733856143683051520",
+          "start": 0,
+          "username": "sstgnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828806406713053405",
+    "in_reply_to_user_id": "1733856143683051520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828742163993383358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sstgnb 雀食难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1828742163993383358",
+        "created_at": "2024-08-28T14:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T15:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828806406713053405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1733856143683051520",
+              "start": 0,
+              "username": "sstgnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828806406713053405",
+        "in_reply_to_user_id": "1733856143683051520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828742163993383358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sstgnb 雀食难"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828742144611459072"
+          ]
+        },
+        "author_id": "1733856143683051520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1828742163993383358",
+        "created_at": "2024-08-28T10:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T11:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828742163993383358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2c9yqshap",
+              "end": 26,
+              "expanded_url": "https://twitter.com/sstgnb/status/1828742163993383358/photo/1",
+              "media_key": "3_1828742144611459072",
+              "start": 3,
+              "url": "https://t.co/f2C9yQsHAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828742163993383358",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难玩 https://t.co/f2C9yQsHAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07准高三牲 / 🧊 冰棍必须是烫的！（确信）/ 🍥 断续含糖 / 📍坐标上海 / 🦋 INFP-A / Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥ヘ(≧∇≦)",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794371914208858112/PLLbuVWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 1492,
+          "like_count": 91103,
+          "listed_count": 10,
+          "tweet_count": 19803
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T14:28:21.000Z",
+        "description": "｜药娘｜06｜174/56｜24.5.5含糖🍥｜自卑｜敏感｜内向｜社恐｜有同好可以聊天｜石家庄｜可接线下｜🚪36｜最好的小狗@tianming_devil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "tianming_devil"
+              }
+            ]
+          }
+        },
+        "id": "1733856143683051520",
+        "location": "你的心里",
+        "name": "可爱的六六🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1827628133203542314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808341364637421568/rBBsnbiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 327,
+          "like_count": 3697,
+          "listed_count": 4,
+          "tweet_count": 2057
+        },
+        "username": "sstgnb",
+        "verified": false
+      }
+    ]
+  }
+}

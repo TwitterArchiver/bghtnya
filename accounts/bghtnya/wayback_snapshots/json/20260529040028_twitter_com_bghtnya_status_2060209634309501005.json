@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2059986723288093022",
+    "created_at": "2026-05-29T04:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060209634309501005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060209634309501005",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059986723288093022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 六千六百六十六"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99566,
+        "height": 1280,
+        "media_key": "13_2059985872343502849",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059985872343502849/img/xDQKAxwNUBTFC-5y.jpg",
+        "public_metrics": {
+          "view_count": 263
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059985872343502849/vid/avc1/320x568/_BP7Q9ora-HEdttm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059985872343502849/vid/avc1/480x852/O1PvdBePt-2xVxTP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059985872343502849/vid/avc1/720x1280/zNTJWTlU1i0G49JC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059985872343502849/pl/UQiljVt6HdT7mwxA.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1428,
+        "media_key": "3_2059985872322527232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaKPJIbgAAexTF.jpg",
+        "width": 1238
+      },
+      {
+        "height": 899,
+        "media_key": "3_2059985872314060800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaKPJGaUAARxrz.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2059986723288093022",
+        "created_at": "2026-05-29T04:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060209634309501005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060209634309501005",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059986723288093022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 六千六百六十六"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059985872343502849",
+            "3_2059985872322527232",
+            "3_2059985872314060800"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059986723288093022",
+        "created_at": "2026-05-28T13:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:11:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059985929167937695",
+          "2059986723288093022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "，, 视频播放量 8225、弹幕量 31、点赞数 296、投硬币枚数 5、收藏人数 84、转发人数 229, 视频作者 红桃影, 作者简介 今夜は月が綺麗ですね，相关视频：创业TV比你皮包还长的蘸水面，网络人物志第67期 @小逊，[堂哥TV]臭鳜鱼牛排，堂哥TV之手打果汁加龟苓膏 最能吃的一集，堂哥tv之变异鸡蛋汤，【堂哥tv】食用高级挑担，【堂哥tv】依旧超雄兄弟情，广西美食家TV之可乐奶茶，老表tv之秘制鸡蛋炒饭，堂哥tv之辣条",
+              "display_url": "b23.tv/2Ny04V4",
+              "end": 41,
+              "expanded_url": "https://b23.tv/2Ny04V4",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2059985963326246912/tmx1Ri7i?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2059985963326246912/tmx1Ri7i?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "堂哥TV之洗脚水冷面_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1CKPbz1ECa/?buvid=XU48C2C4D304A1A8F88AC09A62CC670D53456&from_spmid=search.search-result.0.0&is_story_h5=false&mid=7rCVgu7uIHGlIA7Ek14DKQ%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=817c6c34-d47b-442e-a032-7d497f43dd08&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1779973695&unique_k=2Ny04V4&up_id=669240562",
+              "url": "https://t.co/XbUugyVDmP"
+            },
+            {
+              "display_url": "pic.x.com/PH9NFf0I31",
+              "end": 118,
+              "expanded_url": "https://x.com/qianxunchan/status/2059986723288093022/video/1",
+              "media_key": "13_2059985872343502849",
+              "start": 95,
+              "url": "https://t.co/PH9NFf0I31"
+            },
+            {
+              "display_url": "pic.x.com/PH9NFf0I31",
+              "end": 118,
+              "expanded_url": "https://x.com/qianxunchan/status/2059986723288093022/video/1",
+              "media_key": "3_2059985872322527232",
+              "start": 95,
+              "url": "https://t.co/PH9NFf0I31"
+            },
+            {
+              "display_url": "pic.x.com/PH9NFf0I31",
+              "end": 118,
+              "expanded_url": "https://x.com/qianxunchan/status/2059986723288093022/video/1",
+              "media_key": "3_2059985872314060800",
+              "start": 95,
+              "url": "https://t.co/PH9NFf0I31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059986723288093022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【堂哥TV之洗脚水冷面-哔哩哔哩】 https://t.co/XbUugyVDmP\n\n堂哥vs加州漫展洗脚水\n难道他们的脚比我堂哥tv的脚还猛🤮🤮🤔\n\n（视频可能有恶心元素不适请立刻离开） https://t.co/PH9NFf0I31"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9972,
+          "following_count": 2363,
+          "like_count": 180221,
+          "listed_count": 21,
+          "media_count": 3989,
+          "tweet_count": 48631
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在主页网站\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "金门大桥🌁San Francisco, CA🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1144,
+          "like_count": 4430,
+          "listed_count": 9,
+          "media_count": 716,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}
