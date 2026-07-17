@@ -86,7 +86,8 @@ jobs:
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
-          COUNT=$(git diff --cached --numstat | wc -l)
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🔁 全量重试 图片 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
@@ -155,7 +156,8 @@ jobs:
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
-          COUNT=$(git diff --cached --numstat | wc -l)
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🔁 全量重试 视频 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
@@ -233,6 +235,7 @@ jobs:
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           if git diff --cached --quiet; then echo "✅ 无新内容"; exit 0; fi
-          COUNT=$(git diff --cached --numstat | wc -l)
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "✅ 全量重试完成 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
