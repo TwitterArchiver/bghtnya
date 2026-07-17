@@ -24,11 +24,14 @@ jobs:
       - name: 读取账号列表
         id: info
         run: |
-          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
-          if [ -f "accounts.txt" ]; then
-            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
-          else
-            ACCOUNTS="$REPO"
+          # 扫描 accounts/ 目录，取所有含 wayback_snapshots 的子目录 = 真实账号列表
+          # 支持单账号 / 多账号 / 仓库名≠账号名；不依赖 accounts.txt
+          ACCOUNTS=$(ls -1 accounts 2>/dev/null | while IFS= read -r name; do
+            [ -d "accounts/${name}/wayback_snapshots" ] && echo "$name"
+          done)
+          # 兜底：扫不到（首次建档前）则用仓库名
+          if [ -z "$ACCOUNTS" ]; then
+            ACCOUNTS=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           fi
           echo "accounts<<EOF" >> $GITHUB_OUTPUT
           echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
@@ -126,7 +129,8 @@ jobs:
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
-          COUNT=$(git diff --cached --numstat | wc -l)
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🔄 增量 HTML+图片 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
@@ -150,11 +154,14 @@ jobs:
       - name: 读取账号列表
         id: info
         run: |
-          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
-          if [ -f "accounts.txt" ]; then
-            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
-          else
-            ACCOUNTS="$REPO"
+          # 扫描 accounts/ 目录，取所有含 wayback_snapshots 的子目录 = 真实账号列表
+          # 支持单账号 / 多账号 / 仓库名≠账号名；不依赖 accounts.txt
+          ACCOUNTS=$(ls -1 accounts 2>/dev/null | while IFS= read -r name; do
+            [ -d "accounts/${name}/wayback_snapshots" ] && echo "$name"
+          done)
+          # 兜底：扫不到（首次建档前）则用仓库名
+          if [ -z "$ACCOUNTS" ]; then
+            ACCOUNTS=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           fi
           echo "accounts<<EOF" >> $GITHUB_OUTPUT
           echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
@@ -204,7 +211,8 @@ jobs:
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           git diff --cached --quiet && echo "无新内容" && exit 0
-          COUNT=$(git diff --cached --numstat | wc -l)
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "🎬 增量 视频 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
 
@@ -228,11 +236,14 @@ jobs:
       - name: 读取账号列表
         id: info
         run: |
-          REPO=$(echo "${{ github.repository }}" | cut -d'/' -f2)
-          if [ -f "accounts.txt" ]; then
-            ACCOUNTS=$(grep -v '^#' accounts.txt | grep -v '^$')
-          else
-            ACCOUNTS="$REPO"
+          # 扫描 accounts/ 目录，取所有含 wayback_snapshots 的子目录 = 真实账号列表
+          # 支持单账号 / 多账号 / 仓库名≠账号名；不依赖 accounts.txt
+          ACCOUNTS=$(ls -1 accounts 2>/dev/null | while IFS= read -r name; do
+            [ -d "accounts/${name}/wayback_snapshots" ] && echo "$name"
+          done)
+          # 兜底：扫不到（首次建档前）则用仓库名
+          if [ -z "$ACCOUNTS" ]; then
+            ACCOUNTS=$(echo "${{ github.repository }}" | cut -d'/' -f2)
           fi
           echo "accounts<<EOF" >> $GITHUB_OUTPUT
           echo "$ACCOUNTS"     >> $GITHUB_OUTPUT
@@ -291,6 +302,7 @@ jobs:
             if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
           if git diff --cached --quiet; then echo "✅ 本周无新内容"; exit 0; fi
-          COUNT=$(git diff --cached --numstat | wc -l)
+          COUNT=$(git diff --cached --name-only | grep -v -e "/_log/" -e "/archive_index\.json$" -e "/index\.json$" -e "/media_index\.json$" | wc -l)
+          [ "$COUNT" -eq 0 ] && COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "✅ 增量完成 (+${COUNT} 文件) $(date -u +%Y-%m-%d) [skip ci]"
           git push
