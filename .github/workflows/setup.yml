@@ -210,20 +210,52 @@ jobs:
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
-      - name: 推送
+      - name: 推送（分批，避免单次 pack 过大导致 HTTP 500）
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config http.postBuffer 524288000   # 500MB 缓冲兜底
+          git config http.version HTTP/1.1        # 大推送下 HTTP/2 偶发 500，回退更稳
+
+          BATCH_BYTES=$((800*1024*1024))          # 每累计约 800MB 就提交并推送一批
+
+          push_with_retry () {
+            for i in 1 2 3 4 5; do
+              git push && return 0
+              echo "  [推送失败 第 ${i}/5 次，等 $((i*15))s 重试]"
+              sleep $((i*15))
+            done
+            return 1
+          }
+
           git add -A
-          git diff --cached --name-only | while IFS= read -r f; do
-            if [ ! -f "$f" ]; then continue; fi
-            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
-            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
+          mapfile -t FILES < <(git diff --cached --name-only)
+          git reset -q
+          [ "${#FILES[@]}" -eq 0 ] && echo "无新内容" && exit 0
+
+          acc=0; batch=0
+          flush () {
+            git diff --cached --quiet && return 0
+            batch=$((batch+1))
+            git commit -q -m "🎬 首次建档 视频 (批次 ${batch}) [skip ci]"
+            push_with_retry || { echo "::error::第 ${batch} 批推送失败"; exit 1; }
+            acc=0
+          }
+
+          for f in "${FILES[@]}"; do
+            if [ -f "$f" ]; then
+              size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+              [ "$size" -gt 104857600 ] && continue   # 跳过 >100MB 单文件（GitHub 硬限制）
+            else
+              size=0                                   # 已删除的文件，照常 stage 其删除
+            fi
+            git add -A -- "$f"
+            acc=$((acc+size))
+            [ "$acc" -ge "$BATCH_BYTES" ] && flush
           done
-          git diff --cached --quiet && echo "无新内容" && exit 0
-          COUNT=$(git diff --cached --numstat | wc -l)
-          git commit -m "🎬 首次建档 视频 (+${COUNT} 文件) [skip ci]"
-          git push
+          flush   # 尾批
+
+          echo "✅ 视频分批推送完成，共 ${batch} 批"
 
   build-avatar:
     name: 建档 头像+收尾
@@ -234,6 +266,8 @@ jobs:
       TWITTER_PROXY_BASE: ${{ secrets.TWITTER_PROXY_BASE }}
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: 检出仓库（拉最新）
@@ -301,4 +335,45 @@ jobs:
           COUNT=$(git diff --cached --numstat | wc -l)
           git commit -m "✅ 首次建档完成 (+${COUNT} 文件) [skip ci]"
           git push
+
+      - name: 开启 GitHub Pages
+        env:
+          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          # 需要 pages:write 权限(见 job permissions);用 PAT 更可靠
+          echo '{"source":{"branch":"main","path":"/"}}' | \
+            gh api repos/${{ github.repository }}/pages --method POST --input - 2>/dev/null \
+          || echo '{"source":{"branch":"main","path":"/"}}' | \
+            gh api repos/${{ github.repository }}/pages --method PUT --input - 2>/dev/null \
+          || echo "Pages 可能已开启或无权限,跳过"
+          gh repo edit "${{ github.repository }}" \
+            --homepage "${{ steps.info.outputs.pages_url }}" 2>/dev/null || true
+
+      - name: 自动填充仓库简介（从 profile.json 的 name）
+        env:
+          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          # 取第一个账号的 profile.json name,拼成 "<name> 的本地推文存档"
+          FIRST=$(echo "${{ steps.info.outputs.accounts }}" | head -1)
+          PF="accounts/${FIRST}/wayback_snapshots/profile.json"
+          [ -f "$PF" ] || { echo "无 profile.json,跳过"; exit 0; }
+          python3 - "$PF" <<'PYEOF2'
+          import json,sys,unicodedata,subprocess,os
+          pf=sys.argv[1]
+          name=(json.load(open(pf,encoding='utf-8')).get('name') or '').strip()
+          if not name: sys.exit(0)
+          # 全角标点结尾不加空格,其余加空格
+          last=name[-1]
+          cat=unicodedata.category(last); w=unicodedata.east_asian_width(last)
+          sep='' if (cat.startswith('P') and w=='F') else ' '
+          desc=f"{name}{sep}的本地推文存档"
+          repo=os.environ['GITHUB_REPOSITORY']
+          subprocess.run(['gh','api',f'repos/{repo}','--method','PATCH',
+                          '-f',f'description={desc}'],check=False)
+          print("已设置简介:",desc)
+          PYEOF2
+
+      - name: 首次建档完成
+        run: |
+          echo "✅ 首次建档完成，已停止"
           echo "🔗 ${{ steps.info.outputs.pages_url }}"
