@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2087412776033792482",
+    "created_at": "2026-08-12T09:24:19.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087470225063354765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805373961020260353",
+          "start": 0,
+          "username": "ciyou9443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087470225063354765",
+    "in_reply_to_user_id": "1805373961020260353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087412776033792482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciyou9443 好玩的 以后我也试试"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3152,
+        "media_key": "3_2087412758392537088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf62BubAAAAD9K.jpg",
+        "width": 1724
+      },
+      {
+        "height": 1537,
+        "media_key": "3_2087412767389351936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPf62jPbgAA-IBC.jpg",
+        "width": 3461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2087412776033792482",
+        "created_at": "2026-08-12T09:24:19.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087470225063354765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805373961020260353",
+              "start": 0,
+              "username": "ciyou9443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087470225063354765",
+        "in_reply_to_user_id": "1805373961020260353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087412776033792482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciyou9443 好玩的 以后我也试试"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087412758392537088",
+            "3_2087412767389351936"
+          ]
+        },
+        "author_id": "1805373961020260353",
+        "conversation_id": "2087412776033792482",
+        "created_at": "2026-08-12T05:36:02.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087412776033792482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGKTzsvqEk",
+              "end": 101,
+              "expanded_url": "https://x.com/ciyou9443/status/2087412776033792482/photo/1",
+              "media_key": "3_2087412758392537088",
+              "start": 78,
+              "url": "https://t.co/qGKTzsvqEk"
+            },
+            {
+              "display_url": "pic.x.com/qGKTzsvqEk",
+              "end": 101,
+              "expanded_url": "https://x.com/ciyou9443/status/2087412776033792482/photo/1",
+              "media_key": "3_2087412767389351936",
+              "start": 78,
+              "url": "https://t.co/qGKTzsvqEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087412776033792482",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087412758392537088"
+          },
+          {
+            "media_key": "3_2087412767389351936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5969,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赤足出门大成功！\n一位大叔：“小姑娘你咋光着脚走路”\n素：“啊哈，没事”\n不光滑的路段走上去其实无碍，就像按摩，但被烈日晒过的地面走上去感觉要把脚烫熟了。 https://t.co/qGKTzsvqEk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2087470225063354765",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10101,
+          "following_count": 2315,
+          "like_count": 180721,
+          "listed_count": 18,
+          "media_count": 4015,
+          "tweet_count": 49235
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T22:54:46.000Z",
+        "description": "沉吟...思索💫素是辉夜姬💫💫💫💫\n隐藏一些时间线 清除一些时间线\n电波系御姐/间期性水仙/概率云切片\n眠眠猫：@hoshinemu123 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "hoshinemu123"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1805373961020260353",
+        "is_identity_verified": false,
+        "location": "望舒",
+        "most_recent_tweet_id": "2087450770753089719",
+        "name": "素素素素素",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805373961020260353/1720126400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069443294250270720/tNNa1NeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 407,
+          "like_count": 13793,
+          "listed_count": 5,
+          "media_count": 464,
+          "tweet_count": 3535
+        },
+        "url": "",
+        "username": "ciyou9443",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

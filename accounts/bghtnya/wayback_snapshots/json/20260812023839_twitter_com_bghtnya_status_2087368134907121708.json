@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2087128093387636762",
+    "created_at": "2026-08-12T02:38:39.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T03:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087368134907121708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045513838850641921",
+          "start": 0,
+          "username": "inline_int"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087368134907121708",
+    "in_reply_to_user_id": "2045513838850641921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087128093387636762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inline_int 怎么忍住不笑的（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20767,
+        "height": 576,
+        "media_key": "13_2087128058352537600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087128058352537600/img/_ZJNEsr2mg-MgXL-.jpg",
+        "public_metrics": {
+          "view_count": 1039
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087128058352537600/vid/avc1/480x270/XchGJOVfXfOq25Lr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087128058352537600/vid/avc1/640x360/v1_MQ8zdqAxe5MpS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087128058352537600/vid/avc1/1024x576/ZbQTn5RPA6btsVYD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087128058352537600/pl/mbZhAAFLwe0_h97S.m3u8"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2087128093387636762",
+        "created_at": "2026-08-12T02:38:39.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087368134907121708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087368134907121708",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087128093387636762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int 怎么忍住不笑的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087128058352537600"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2087128093387636762",
+        "created_at": "2026-08-11T10:44:49.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087128093387636762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJgtog7sHw",
+              "end": 27,
+              "expanded_url": "https://x.com/inline_int/status/2087128093387636762/video/1",
+              "media_key": "13_2087128058352537600",
+              "start": 4,
+              "url": "https://t.co/WJgtog7sHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087128093387636762",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087128058352537600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1706,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "馋哭了 https://t.co/WJgtog7sHw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2087368134907121708",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10082,
+          "following_count": 2308,
+          "like_count": 180580,
+          "listed_count": 18,
+          "media_count": 4013,
+          "tweet_count": 49181
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2087362012955422840",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2085062492888461640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1784805629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 1274,
+          "like_count": 2674,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

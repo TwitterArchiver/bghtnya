@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090575073518510080"
+      ],
+      "media_source_tweet_id": [
+        "2090575100974391569"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2090616111075328468",
+    "created_at": "2026-08-21T01:44:57.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090616111075328468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1612381098809634816",
+          "start": 3,
+          "username": "a_free_cat00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8oBoxVkg1f",
+          "end": 78,
+          "expanded_url": "https://x.com/a_free_cat00/status/2090575100974391569/video/1",
+          "media_key": "13_2090575073518510080",
+          "start": 55,
+          "url": "https://t.co/8oBoxVkg1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090616111075328468",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090575073518510080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090575100974391569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a_free_cat00: 北京机器人展，一个机器人在地上不停的抽搐，是不是应该帮它叫救护车呢。。😂 https://t.co/8oBoxVkg1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38666,
+        "height": 960,
+        "media_key": "13_2090575073518510080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090575073518510080/img/7lTCkrPrL31pDMbH.jpg",
+        "public_metrics": {
+          "view_count": 93
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090575073518510080/vid/avc1/320x568/Tr6wCwiK-B4B1RWS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090575073518510080/vid/avc1/480x852/vMnxCHIFqPuOnNJM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090575073518510080/vid/avc1/540x960/3uuNM346goLzKmFZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090575073518510080/pl/TgZwYTY6j4xJSmtS.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090575073518510080"
+          ],
+          "media_source_tweet_id": [
+            "2090575100974391569"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2090616111075328468",
+        "created_at": "2026-08-21T01:44:57.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090616111075328468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1612381098809634816",
+              "start": 3,
+              "username": "a_free_cat00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oBoxVkg1f",
+              "end": 78,
+              "expanded_url": "https://x.com/a_free_cat00/status/2090575100974391569/video/1",
+              "media_key": "13_2090575073518510080",
+              "start": 55,
+              "url": "https://t.co/8oBoxVkg1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090616111075328468",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090575073518510080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090575100974391569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a_free_cat00: 北京机器人展，一个机器人在地上不停的抽搐，是不是应该帮它叫救护车呢。。😂 https://t.co/8oBoxVkg1f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090575073518510080"
+          ]
+        },
+        "author_id": "1612381098809634816",
+        "conversation_id": "2090575100974391569",
+        "created_at": "2026-08-20T23:01:59.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T00:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090575100974391569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oBoxVkg1f",
+              "end": 60,
+              "expanded_url": "https://x.com/a_free_cat00/status/2090575100974391569/video/1",
+              "media_key": "13_2090575073518510080",
+              "start": 37,
+              "url": "https://t.co/8oBoxVkg1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090575100974391569",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090575073518510080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "北京机器人展，一个机器人在地上不停的抽搐，是不是应该帮它叫救护车呢。。😂 https://t.co/8oBoxVkg1f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2090616111075328468",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10501,
+          "following_count": 2323,
+          "like_count": 182046,
+          "listed_count": 20,
+          "media_count": 4072,
+          "tweet_count": 49841
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-09T09:29:52.000Z",
+        "description": "已翻墙逃出的一只自由散漫的野猫。 追求自由民主，喜欢反讽专政。 家里圈养的粉红猫、无脑猫、脑残猫、嘴喷芬芳猫、乱发广告猫，请自觉绕道。与世无争，懒得与粉红争论，见一个屏蔽一个。@a_free_cat20为备用号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "a_free_cat20"
+              }
+            ]
+          }
+        },
+        "id": "1612381098809634816",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2090608534144811226",
+        "name": "自由散漫喵",
+        "pinned_tweet_id": "1897241655650242924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612381098809634816/1715212542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612381601757036545/1L-2e7ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7615,
+          "following_count": 665,
+          "like_count": 41282,
+          "listed_count": 46,
+          "media_count": 2349,
+          "tweet_count": 11786
+        },
+        "url": "",
+        "username": "a_free_cat00",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

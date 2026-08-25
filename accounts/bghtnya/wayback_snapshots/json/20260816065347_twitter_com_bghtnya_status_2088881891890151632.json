@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2088865988834169322",
+    "created_at": "2026-08-16T06:53:47.000Z",
+    "display_text_range": [
+      10,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088881891890151632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "qiuylove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088881891890151632",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088881345661694348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuylove 那个我用手机登录 他让我从电脑上接收验证码 但是我电脑上收不到验证码"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088881345661694348].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088881345661694348",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2088881345661694348"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2088865988834169322",
+        "created_at": "2026-08-16T06:53:47.000Z",
+        "display_text_range": [
+          10,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088881891890151632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "qiuylove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088881891890151632",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088881345661694348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuylove 那个我用手机登录 他让我从电脑上接收验证码 但是我电脑上收不到验证码"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2088881891890151632",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10379,
+          "following_count": 2324,
+          "like_count": 181415,
+          "listed_count": 20,
+          "media_count": 4038,
+          "tweet_count": 49538
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "⚠️fo前请DM说明来意/❤️纯情女高？！/单取大概率回block/🥵涩涩or技术推/🥺出厂16年的人类小女孩喵/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVzxjb / 阿弃主人@Ak1raQ_love (这个不是对象喵对象是顺女) / 有对象❤️勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 112,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 89,
+                "url": "https://t.co/BFK1NVzxjb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 23,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=16563",
+                "start": 0,
+                "url": "https://t.co/paxAwGcaiJ"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "is_identity_verified": false,
+        "location": "Seattle, WA",
+        "most_recent_tweet_id": "2046391493729063289",
+        "name": "小秋月 🎀🕯️",
+        "pinned_tweet_id": "2024703264550498423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/908312740455907330/1723091129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 940,
+          "like_count": 88296,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 4021
+        },
+        "url": "https://t.co/paxAwGcaiJ",
+        "username": "qiuylove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
