@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2093850290567123419",
+    "created_at": "2026-08-30T02:27:58.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T03:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093888428878516495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093888428878516495",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093850290567123419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 习近平下台以后是不是打不出来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093850280307896320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7ZvHqasAAfpYM.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2093850290567123419",
+        "created_at": "2026-08-30T02:27:58.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093888428878516495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093888428878516495",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093850290567123419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 习近平下台以后是不是打不出来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093850280307896320"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "2093850290567123419",
+        "created_at": "2026-08-29T23:56:25.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T00:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093850290567123419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cf3FTPdy3Q",
+              "end": 32,
+              "expanded_url": "https://x.com/ggdxfulan/status/2093850290567123419/photo/1",
+              "media_key": "3_2093850280307896320",
+              "start": 9,
+              "url": "https://t.co/Cf3FTPdy3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093850290567123419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093850280307896320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1618,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "输入法屏蔽敏感词 https://t.co/Cf3FTPdy3Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2093888428878516495",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10825,
+          "following_count": 2336,
+          "like_count": 183488,
+          "listed_count": 20,
+          "media_count": 4142,
+          "tweet_count": 50276
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "一个看书的人\n星火系统",
+        "id": "1639816523190763521",
+        "is_identity_verified": false,
+        "location": "距离你2km",
+        "most_recent_tweet_id": "2093850290567123419",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2090668604144734460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639816523190763521/1706021227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090504060596367360/8Fy0O0CT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18034,
+          "following_count": 531,
+          "like_count": 38118,
+          "listed_count": 33,
+          "media_count": 3899,
+          "tweet_count": 12061
+        },
+        "url": "",
+        "username": "ggdxfulan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

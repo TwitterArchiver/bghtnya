@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2097656394996703638",
+    "created_at": "2026-09-09T23:04:27.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T00:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097823479328579673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821055156026482688",
+          "start": 0,
+          "username": "parksundal0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097823479328579673",
+    "in_reply_to_user_id": "1821055156026482688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097656394996703638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@parksundal0528 饭碗里插筷子 其实我觉得没什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2097656389091184640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxfXzyb0AAYiDr.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2097656394996703638",
+        "created_at": "2026-09-09T23:04:27.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T00:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097823479328579673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821055156026482688",
+              "start": 0,
+              "username": "parksundal0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097823479328579673",
+        "in_reply_to_user_id": "1821055156026482688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097656394996703638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@parksundal0528 饭碗里插筷子 其实我觉得没什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097656389091184640"
+          ]
+        },
+        "author_id": "1821055156026482688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2097656394996703638",
+        "created_at": "2026-09-09T12:00:31.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097656394996703638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ijy49ZV8V1",
+              "end": 94,
+              "expanded_url": "https://x.com/parksundal0528/status/2097656394996703638/photo/1",
+              "media_key": "3_2097656389091184640",
+              "start": 71,
+              "url": "https://t.co/Ijy49ZV8V1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097656394996703638",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2097656389091184640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1749,
+          "impression_count": 2002242,
+          "like_count": 15796,
+          "quote_count": 221,
+          "reply_count": 419,
+          "retweet_count": 1120
+        },
+        "reply_settings": "everyone",
+        "text": "한중일🇰🇷🇨🇳🇯🇵 사람들 화내게 하는법\n\n4층 호텔 방 배정해 주기\n밥그릇에 젓가락(또는 숟가락) 꽂기\n신발 신고 침대에 눕기 https://t.co/Ijy49ZV8V1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2097823479328579673",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10962,
+          "following_count": 2339,
+          "like_count": 185610,
+          "listed_count": 21,
+          "media_count": 4208,
+          "tweet_count": 50950
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-07T05:26:12.000Z",
+        "description": "AI크리에이터. 문화·역사·유머를 그림과 영상으로 \n문의: sdpkr0528@gmail.com",
+        "id": "1821055156026482688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097738708925731022",
+        "name": "박선달 | Park Sundal",
+        "pinned_tweet_id": "2097570003541450758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821055156026482688/1785383127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082673901998620672/mQqBtMvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7806,
+          "following_count": 3815,
+          "like_count": 44167,
+          "listed_count": 15,
+          "media_count": 887,
+          "tweet_count": 33051
+        },
+        "url": "",
+        "username": "parksundal0528",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

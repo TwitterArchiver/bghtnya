@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2092852732227162192",
+    "created_at": "2026-08-27T05:57:01.000Z",
+    "display_text_range": [
+      50,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092853874218426800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "umehara02A01"
+        },
+        {
+          "end": 25,
+          "id": "2045513838850641921",
+          "start": 14,
+          "username": "inline_int"
+        },
+        {
+          "end": 35,
+          "id": "1543753719451242496",
+          "start": 26,
+          "username": "4x_n2ym3"
+        },
+        {
+          "end": 49,
+          "id": "1352337878282461185",
+          "start": 36,
+          "username": "Sky__Horizon"
+        },
+        {
+          "end": 64,
+          "id": "1449508126315536392",
+          "start": 50,
+          "username": "Sky___Horizon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092853874218426800",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092853420525056385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umehara02A01 @inline_int @4x_n2ym3 @Sky__Horizon @sky___horizon"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Sky__Horizon].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Sky__Horizon",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Sky__Horizon"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2092852732227162192",
+        "created_at": "2026-08-27T05:57:01.000Z",
+        "display_text_range": [
+          50,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092853874218426800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "umehara02A01"
+            },
+            {
+              "end": 25,
+              "id": "2045513838850641921",
+              "start": 14,
+              "username": "inline_int"
+            },
+            {
+              "end": 35,
+              "id": "1543753719451242496",
+              "start": 26,
+              "username": "4x_n2ym3"
+            },
+            {
+              "end": 49,
+              "id": "1352337878282461185",
+              "start": 36,
+              "username": "Sky__Horizon"
+            },
+            {
+              "end": 64,
+              "id": "1449508126315536392",
+              "start": 50,
+              "username": "Sky___Horizon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092853874218426800",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092853420525056385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umehara02A01 @inline_int @4x_n2ym3 @Sky__Horizon @sky___horizon"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2092852732227162192",
+        "created_at": "2026-08-27T05:55:13.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092853420525056385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 23,
+              "id": "1766644305660420096",
+              "start": 10,
+              "username": "umehara02A01"
+            },
+            {
+              "end": 36,
+              "id": "2045513838850641921",
+              "start": 25,
+              "username": "inline_int"
+            },
+            {
+              "end": 47,
+              "id": "1543753719451242496",
+              "start": 38,
+              "username": "4x_n2ym3"
+            },
+            {
+              "end": 62,
+              "id": "1352337878282461185",
+              "start": 49,
+              "username": "Sky__Horizon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092853420525056385",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092852732227162192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya \n@umehara02A01 \n@inline_int \n@4x_n2ym3 \n@Sky__Horizon"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2092853874218426800",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10745,
+          "following_count": 2330,
+          "like_count": 182922,
+          "listed_count": 20,
+          "media_count": 4106,
+          "tweet_count": 50088
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "akaすいかちゃん/高校2年生/mtf（x?🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領/zh-hant/ja/en/@happysugarlifeA 推し/暗黒面垢@sakurazakiAC02/大好きな姉💕@rafaeru54035903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "happysugarlifeA"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "sakurazakiAC02"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "rafaeru54035903"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF2uTU"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "is_identity_verified": false,
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "most_recent_tweet_id": "2092853002076037240",
+        "name": "梅原寒咲🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2088255840302358771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766644305660420096/1783255749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084055985422061568/b3nnME5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 2441,
+          "like_count": 21329,
+          "listed_count": 7,
+          "media_count": 617,
+          "tweet_count": 10695
+        },
+        "url": "https://t.co/BjCzmF2uTU",
+        "username": "umehara02A01",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092853683709219208",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2090679435578225112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 671,
+          "like_count": 3097,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/gnrh使用中/明日方舟摆烂玩家/等待arcaea7.0/maimai菜鸟/chunithm疑似瓶颈/间歇性潜水/99.99%回fo/备用@X_ouso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 92,
+                "username": "X_ouso"
+              }
+            ]
+          }
+        },
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2092703953511489567",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2087979862351118414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 3320,
+          "like_count": 1888,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-16T22:50:49.000Z",
+        "description": "仍然處於對於這個混亂世界的認識之中.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SkyeeHorizon",
+                "end": 23,
+                "expanded_url": "https://t.me/SkyeeHorizon",
+                "start": 0,
+                "url": "https://t.co/jwlQf3nsmA"
+              }
+            ]
+          }
+        },
+        "id": "1449508126315536392",
+        "is_identity_verified": false,
+        "location": "Tokyo, Japan",
+        "most_recent_tweet_id": "2092826582587249046",
+        "name": "Sky_Horizon",
+        "pinned_tweet_id": "2089032576535269733",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1449508126315536392/1761901084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080785043820318720/E7DoDMmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 158,
+          "like_count": 4264,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/jwlQf3nsmA",
+        "username": "Sky___Horizon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

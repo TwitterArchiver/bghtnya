@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2097600185136484667",
+    "created_at": "2026-09-09T08:17:33.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T09:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097600281471226311"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097600281471226311",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097600185136484667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本地运行看local分支"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2097600185136484667",
+        "created_at": "2026-09-09T08:17:33.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097600281471226311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097600281471226311",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097600185136484667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本地运行看local分支"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2097600185136484667",
+        "created_at": "2026-09-09T08:17:10.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097600185136484667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "sent twitter post into telegram. Contribute to bghtnya/twitter_to_tg development by creating an account on GitHub.",
+              "display_url": "github.com/bghtnya/twitte…",
+              "end": 79,
+              "expanded_url": "https://github.com/bghtnya/twitter_to_tg",
+              "start": 56,
+              "status": 200,
+              "title": "GitHub - bghtnya/twitter_to_tg: sent twitter post into telegram",
+              "unwound_url": "https://github.com/bghtnya/twitter_to_tg",
+              "url": "https://t.co/GuNuL8fUXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097600185136484667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开源~ 推特推文自动同步tg，全是gpt写的~\n可以选择本地运行或者挂载github action上\n仓库地址：https://t.co/GuNuL8fUXw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2097600281471226311",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10942,
+          "following_count": 2341,
+          "like_count": 185587,
+          "listed_count": 21,
+          "media_count": 4207,
+          "tweet_count": 50936
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

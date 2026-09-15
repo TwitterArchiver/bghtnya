@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2097809418570383871",
+    "created_at": "2026-09-10T10:58:59.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098003297722605574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "RenChanT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098003297722605574",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097809418570383871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChanT_T 有什么问题？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2097809418570383871",
+        "created_at": "2026-09-10T10:58:59.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098003297722605574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098003297722605574",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097809418570383871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChanT_T 有什么问题？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037575598730584064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2097809418570383871",
+        "created_at": "2026-09-09T22:08:35.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T23:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097809418570383871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2097344206574649758",
+              "start": 130,
+              "url": "https://t.co/I8gaPmFKjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097809418570383871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2296,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097344206574649758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李颖正在变成一个娱乐性质的账号而非新闻以及传播群体抗争\n并不是自由派需要李颖来作宣传 而是李颖这个垃圾提前抢占了墙外自由派时政KOL的生态位 以至于没有什么人可以挑战他的地位 哪怕他现在只是个成天搬石 没有一丝严肃性和真实性可言 坚持0原创的中推最大泔水桶😅 https://t.co/I8gaPmFKjA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2098003297722605574",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10974,
+          "following_count": 2342,
+          "like_count": 185735,
+          "listed_count": 21,
+          "media_count": 4212,
+          "tweet_count": 50985
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "似掉的大号@RenChan_VmV \n目前初三上推不频繁/挺🏳️‍🌈🏳️‍⚧️ 社民主义 左翼 唯一愿景就是世界太平🌹🕊️🆓/纯观点输出不喜勿喷\n不聊🇨🇳敏感话题❌晶哥放过我吧🖐️😭🖐️\n小猪@asuka_ra1n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "RenChan_VmV"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "asuka_ra1n"
+              }
+            ]
+          }
+        },
+        "id": "2037575598730584064",
+        "is_identity_verified": false,
+        "location": "反支云等恶俗狗革命根据地",
+        "most_recent_tweet_id": "2097976679029522542",
+        "name": "東洋蓮花酥🏳️‍🌈🏳️‍⚧️🌹重生归来我要夺回属于自己的一切🔥 🇹🇼 👊",
+        "pinned_tweet_id": "2092681004955906271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037575598730584064/1787783909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079425858989912064/VLFzMkJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 507,
+          "like_count": 20860,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 1763
+        },
+        "url": "",
+        "username": "RenChanT_T",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

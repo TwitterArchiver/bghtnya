@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095926075184570368"
+      ],
+      "media_source_tweet_id": [
+        "2096055722002038868"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2096439645936792051",
+    "created_at": "2026-09-06T03:25:36.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096439645936792051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026283442259017729",
+          "start": 3,
+          "username": "bigjusir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MNLUylvW6i",
+          "end": 48,
+          "expanded_url": "https://x.com/bigjusir/status/2096055722002038868/photo/1",
+          "media_key": "3_2095926075184570368",
+          "start": 25,
+          "url": "https://t.co/MNLUylvW6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096439645936792051",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095926075184570368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096055722002038868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bigjusir: 学计算机的好学生👍🏻 https://t.co/MNLUylvW6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2095926075184570368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRY5qSLa4AAw0tm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095926075184570368"
+          ],
+          "media_source_tweet_id": [
+            "2096055722002038868"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2096439645936792051",
+        "created_at": "2026-09-06T03:25:36.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096439645936792051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026283442259017729",
+              "start": 3,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNLUylvW6i",
+              "end": 48,
+              "expanded_url": "https://x.com/bigjusir/status/2096055722002038868/photo/1",
+              "media_key": "3_2095926075184570368",
+              "start": 25,
+              "url": "https://t.co/MNLUylvW6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096439645936792051",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095926075184570368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096055722002038868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bigjusir: 学计算机的好学生👍🏻 https://t.co/MNLUylvW6i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095926075184570368"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2096055722002038868",
+        "created_at": "2026-09-05T02:00:01.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096055722002038868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNLUylvW6i",
+              "end": 34,
+              "expanded_url": "https://x.com/bigjusir/status/2096055722002038868/photo/1",
+              "media_key": "3_2095926075184570368",
+              "start": 11,
+              "url": "https://t.co/MNLUylvW6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096055722002038868",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095926075184570368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 20245,
+          "like_count": 344,
+          "quote_count": 1,
+          "reply_count": 72,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "学计算机的好学生👍🏻 https://t.co/MNLUylvW6i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2096439645936792051",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10896,
+          "following_count": 2332,
+          "like_count": 184939,
+          "listed_count": 21,
+          "media_count": 4196,
+          "tweet_count": 50732
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096438094467924382",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5902,
+          "following_count": 4423,
+          "like_count": 8728,
+          "listed_count": 13,
+          "media_count": 1187,
+          "tweet_count": 4718
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

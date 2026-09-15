@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2095417387353047404",
+    "created_at": "2026-09-03T08:23:15.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095427391334318188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095427391334318188",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095417387353047404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina 豆包没法做到吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095417387353047404].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095417387353047404",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095417387353047404"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2095417387353047404",
+        "created_at": "2026-09-03T08:23:15.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095427391334318188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095427391334318188",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095417387353047404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina 豆包没法做到吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2095427391334318188",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10886,
+          "following_count": 2336,
+          "like_count": 184370,
+          "listed_count": 21,
+          "media_count": 4175,
+          "tweet_count": 50534
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\nINFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 26.04.17~ 26.05.19 | 已炸柜 | 碎碎念or日常 @syyann2026 | ❌ NSFW | 家长反对党 Ultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syyann.vercel.app",
+                "end": 23,
+                "expanded_url": "https://syyann.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/0k3EylxPZD"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "is_identity_verified": false,
+        "location": "lover @nyaepheia",
+        "most_recent_tweet_id": "2080510779741307312",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "2065655723187740857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763577841588056064/1774876065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 1856,
+          "like_count": 27306,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 9051
+        },
+        "url": "https://t.co/0k3EylxPZD",
+        "username": "yxrchina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2093001814098731044",
+    "created_at": "2026-08-28T03:41:36.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093182181418074333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093182181418074333",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093001814098731044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 玩得好花"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6366,
+        "height": 1272,
+        "media_key": "13_2093001767256788992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093001767256788992/img/yic5BAaULwb1c7f_.jpg",
+        "public_metrics": {
+          "view_count": 10398
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093001767256788992/vid/avc1/320x564/wORBvS5AFTARwx5t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093001767256788992/vid/avc1/480x848/2gzrLdvhi5DJu4ye.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093001767256788992/vid/avc1/720x1272/QzWtPCNZyibTinAV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093001767256788992/pl/mV4xGREOAQP_W6AJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2093001814098731044",
+        "created_at": "2026-08-28T03:41:36.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093182181418074333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093182181418074333",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093001814098731044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 玩得好花"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093001767256788992"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2093001814098731044",
+        "created_at": "2026-08-27T15:44:53.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093001814098731044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFmX3xg8rX",
+              "end": 89,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2093001814098731044/video/1",
+              "media_key": "13_2093001767256788992",
+              "start": 66,
+              "url": "https://t.co/MFmX3xg8rX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093001814098731044",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093001767256788992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 15280,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "【新闻】8月26日广州市番禺区顺发公园，有人拍到有一名cd（变装者），男扮女装在街头露出，并在厕所继续尾随偷拍，后面出动了警员⬇️ https://t.co/MFmX3xg8rX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2093182181418074333",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10760,
+          "following_count": 2329,
+          "like_count": 183011,
+          "listed_count": 20,
+          "media_count": 4118,
+          "tweet_count": 50129
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "location": "鄂｜🉑✈️｜🚪59｜私信｜蓝v必回请耐心等待",
+        "most_recent_tweet_id": "2093096298073436659",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15491,
+          "following_count": 1127,
+          "like_count": 1117,
+          "listed_count": 32,
+          "media_count": 471,
+          "tweet_count": 2584
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

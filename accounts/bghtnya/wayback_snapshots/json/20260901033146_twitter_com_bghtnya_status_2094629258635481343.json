@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2094558839593124170",
+    "created_at": "2026-09-01T03:31:46.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094629258635481343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1370359999629643779",
+          "start": 0,
+          "username": "HeypixelNetwork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094629258635481343",
+    "in_reply_to_user_id": "1370359999629643779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094558839593124170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeypixelNetwork 哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35459,
+        "height": 960,
+        "media_key": "13_2094558775327981568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094558775327981568/img/PvFBBRP0otuc2aNN.jpg",
+        "public_metrics": {
+          "view_count": 126
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094558775327981568/vid/avc1/320x426/wkzRgquFLXCAKsFa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094558775327981568/vid/avc1/480x640/B6sRddQWQgczO7GA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094558775327981568/vid/avc1/720x960/GgwU32bHgRg3YP9J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094558775327981568/pl/opiQN4YKipEeQrSL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2094558839593124170",
+        "created_at": "2026-09-01T03:31:46.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094629258635481343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1370359999629643779",
+              "start": 0,
+              "username": "HeypixelNetwork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094629258635481343",
+        "in_reply_to_user_id": "1370359999629643779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094558839593124170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeypixelNetwork 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094558775327981568"
+          ]
+        },
+        "author_id": "1370359999629643779",
+        "conversation_id": "2094558839593124170",
+        "created_at": "2026-08-31T22:51:57.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T23:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094558839593124170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFgExEYE3M",
+              "end": 29,
+              "expanded_url": "https://x.com/HeypixelNetwork/status/2094558839593124170/video/1",
+              "media_key": "13_2094558775327981568",
+              "start": 6,
+              "url": "https://t.co/sFgExEYE3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094558839593124170",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094558775327981568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 297,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比射精好看 https://t.co/sFgExEYE3M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2094629258635481343",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10860,
+          "following_count": 2334,
+          "like_count": 183934,
+          "listed_count": 21,
+          "media_count": 4159,
+          "tweet_count": 50414
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2021-03-12T13:04:28.000Z",
+        "description": "喂，■■■■，你开挂玩得很开心嘛。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "http://ys.mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/GRorbsTzsf"
+              }
+            ]
+          }
+        },
+        "id": "1370359999629643779",
+        "is_identity_verified": false,
+        "location": "阳光下见 舞台上见",
+        "most_recent_tweet_id": "2094564621902639595",
+        "name": "布吉岛官方",
+        "pinned_tweet_id": "1872546209635893628",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370359999629643779/1783850333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872551250149179392/w-z2viqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 1663,
+          "like_count": 17915,
+          "listed_count": 5,
+          "media_count": 2327,
+          "tweet_count": 42458
+        },
+        "url": "https://t.co/GRorbsTzsf",
+        "username": "HeypixelNetwork",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2096470867962413314",
+    "created_at": "2026-09-06T13:51:56.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096597270703542283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1580168521845452801",
+          "start": 0,
+          "username": "S0D4___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096597270703542283",
+    "in_reply_to_user_id": "1580168521845452801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096470867962413314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S0D4___ 还是太幸运了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61033,
+        "height": 720,
+        "media_key": "13_2096470787733803008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096470787733803008/img/kAIFRoCZIHiBUdNJ.jpg",
+        "public_metrics": {
+          "view_count": 123303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096470787733803008/vid/avc1/360x270/eppSn-q7nc2lxRUN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096470787733803008/vid/avc1/480x360/jtxCYh-Zbjh5qRCE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096470787733803008/vid/avc1/960x720/kyw9dLFieNNyhHSo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096470787733803008/pl/GceK1sEXnrQ3gRIU.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2096470867962413314",
+        "created_at": "2026-09-06T13:51:56.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096597270703542283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1580168521845452801",
+              "start": 0,
+              "username": "S0D4___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096597270703542283",
+        "in_reply_to_user_id": "1580168521845452801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096470867962413314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S0D4___ 还是太幸运了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096470787733803008"
+          ]
+        },
+        "author_id": "1580168521845452801",
+        "conversation_id": "2096470867962413314",
+        "created_at": "2026-09-06T05:29:40.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096470867962413314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0eIVbPbd4",
+              "end": 33,
+              "expanded_url": "https://x.com/S0D4___/status/2096470867962413314/video/1",
+              "media_key": "13_2096470787733803008",
+              "start": 10,
+              "url": "https://t.co/s0eIVbPbd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096470867962413314",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2096470787733803008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 922,
+          "impression_count": 237124,
+          "like_count": 3279,
+          "quote_count": 21,
+          "reply_count": 4,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさばネタバレ https://t.co/s0eIVbPbd4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2096597270703542283",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10903,
+          "following_count": 2332,
+          "like_count": 185112,
+          "listed_count": 21,
+          "media_count": 4198,
+          "tweet_count": 50769
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-12T12:08:46.000Z",
+        "description": "イラスト垢👉@mug4_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "mug4_"
+              }
+            ]
+          }
+        },
+        "id": "1580168521845452801",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096591386648981999",
+        "name": "無我",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580168521845452801/1727968452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085346871577559040/LxlWhIKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 804,
+          "like_count": 8135,
+          "listed_count": 5,
+          "media_count": 2540,
+          "tweet_count": 9480
+        },
+        "url": "",
+        "username": "S0D4___",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

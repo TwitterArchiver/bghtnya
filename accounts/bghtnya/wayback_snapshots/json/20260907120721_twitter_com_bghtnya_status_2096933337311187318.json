@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096932502279778304"
+      ],
+      "media_source_tweet_id": [
+        "2096933017235358207"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096933337311187318",
+    "created_at": "2026-09-07T12:07:21.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096933337311187318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882671462210998272",
+          "start": 3,
+          "username": "HosinoEJ"
+        },
+        {
+          "end": 33,
+          "id": "1479696561302999042",
+          "start": 23,
+          "username": "quite8964"
+        },
+        {
+          "end": 42,
+          "id": "1512976991976402949",
+          "start": 34,
+          "username": "bghtnya"
+        },
+        {
+          "end": 52,
+          "id": "1882671462210998272",
+          "start": 43,
+          "username": "HosinoEJ"
+        },
+        {
+          "end": 65,
+          "id": "1476017183050579968",
+          "start": 53,
+          "username": "Vulcan_KSPX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9V7DfgHzWK",
+          "end": 89,
+          "expanded_url": "https://x.com/HosinoEJ/status/2096933017235358207/photo/1",
+          "media_key": "3_2096932502279778304",
+          "start": 66,
+          "url": "https://t.co/9V7DfgHzWK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096933337311187318",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096932502279778304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096933017235358207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HosinoEJ: 超——大貼貼！\n\n@quite8964 @bghtnya @HosinoEJ @Vulcan_KSPX https://t.co/9V7DfgHzWK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2096932502279778304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnNADRbcAAk0mG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096932502279778304"
+          ],
+          "media_source_tweet_id": [
+            "2096933017235358207"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096933337311187318",
+        "created_at": "2026-09-07T12:07:21.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096933337311187318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882671462210998272",
+              "start": 3,
+              "username": "HosinoEJ"
+            },
+            {
+              "end": 33,
+              "id": "1479696561302999042",
+              "start": 23,
+              "username": "quite8964"
+            },
+            {
+              "end": 42,
+              "id": "1512976991976402949",
+              "start": 34,
+              "username": "bghtnya"
+            },
+            {
+              "end": 52,
+              "id": "1882671462210998272",
+              "start": 43,
+              "username": "HosinoEJ"
+            },
+            {
+              "end": 65,
+              "id": "1476017183050579968",
+              "start": 53,
+              "username": "Vulcan_KSPX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9V7DfgHzWK",
+              "end": 89,
+              "expanded_url": "https://x.com/HosinoEJ/status/2096933017235358207/photo/1",
+              "media_key": "3_2096932502279778304",
+              "start": 66,
+              "url": "https://t.co/9V7DfgHzWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096933337311187318",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096932502279778304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096933017235358207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HosinoEJ: 超——大貼貼！\n\n@quite8964 @bghtnya @HosinoEJ @Vulcan_KSPX https://t.co/9V7DfgHzWK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096932502279778304"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096933017235358207",
+        "created_at": "2026-09-07T12:06:05.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:04:06.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096932518448746562",
+          "2096932712330518609",
+          "2096933017235358207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1479696561302999042",
+              "start": 9,
+              "username": "quite8964"
+            },
+            {
+              "end": 28,
+              "id": "1512976991976402949",
+              "start": 20,
+              "username": "bghtnya"
+            },
+            {
+              "end": 38,
+              "id": "1882671462210998272",
+              "start": 29,
+              "username": "HosinoEJ"
+            },
+            {
+              "end": 51,
+              "id": "1476017183050579968",
+              "start": 39,
+              "username": "Vulcan_KSPX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9V7DfgHzWK",
+              "end": 75,
+              "expanded_url": "https://x.com/HosinoEJ/status/2096933017235358207/photo/1",
+              "media_key": "3_2096932502279778304",
+              "start": 52,
+              "url": "https://t.co/9V7DfgHzWK"
+            },
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2096932128995020904",
+              "start": 76,
+              "url": "https://t.co/krK3mRlAEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096933017235358207",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096932502279778304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096932128995020904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超——大貼貼！\n\n@quite8964 @bghtnya @HosinoEJ @Vulcan_KSPX https://t.co/9V7DfgHzWK https://t.co/krK3mRlAEf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2096933337311187318",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10902,
+          "following_count": 2332,
+          "like_count": 185244,
+          "listed_count": 21,
+          "media_count": 4199,
+          "tweet_count": 50805
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "🏴‍☠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw19SA"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "is_identity_verified": false,
+        "location": "TaiPei",
+        "most_recent_tweet_id": "2096933345439662259",
+        "name": "HosinoNeko",
+        "pinned_tweet_id": "2093304272121393531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882671462210998272/1744719573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078823944208195584/ihFWiaXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 606,
+          "like_count": 4551,
+          "listed_count": 4,
+          "media_count": 908,
+          "tweet_count": 4605
+        },
+        "url": "https://t.co/2FBvyw19SA",
+        "username": "HosinoEJ",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2096932298281369864",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2085000009490243749",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479696561302999042/1718372140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10980,
+          "following_count": 3158,
+          "like_count": 33098,
+          "listed_count": 31,
+          "media_count": 670,
+          "tweet_count": 14966
+        },
+        "url": "",
+        "username": "quite8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-29T02:28:30.000Z",
+        "description": "Amateur rocket scientist, KSP modder\nReading astrodynamics and control theory...\nPartner: @EVEEJ0624\nFriends: @qwq_automaton @pop20225 @chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "EVEEJ0624"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "qwq_automaton"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "pop20225"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1476017183050579968",
+        "is_identity_verified": false,
+        "location": "Tranquility Base",
+        "most_recent_tweet_id": "2096932965150499290",
+        "name": "VulcanCSM",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476017183050579968/1689611675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761769241173458944/QuW1ZZv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 472,
+          "like_count": 10655,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1230
+        },
+        "url": "",
+        "username": "Vulcan_KSPX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

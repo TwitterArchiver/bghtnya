@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097658686277885952"
+      ],
+      "media_source_tweet_id": [
+        "2097659163346395384"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2098013755091345496",
+    "created_at": "2026-09-10T11:40:33.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098013755091345496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1266554479656136705",
+          "start": 3,
+          "username": "P31NT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k3sGDNUD0h",
+          "end": 53,
+          "expanded_url": "https://x.com/P31NT/status/2097659163346395384/photo/1",
+          "media_key": "3_2097658686277885952",
+          "start": 30,
+          "url": "https://t.co/k3sGDNUD0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098013755091345496",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097658686277885952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1570
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097659163346395384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @P31NT: 永久に放置してるまどマギのラフ絵…… https://t.co/k3sGDNUD0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 727,
+        "media_key": "3_2097658686277885952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxhdhebIAAJZqm.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097658686277885952"
+          ],
+          "media_source_tweet_id": [
+            "2097659163346395384"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2098013755091345496",
+        "created_at": "2026-09-10T11:40:33.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098013755091345496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1266554479656136705",
+              "start": 3,
+              "username": "P31NT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3sGDNUD0h",
+              "end": 53,
+              "expanded_url": "https://x.com/P31NT/status/2097659163346395384/photo/1",
+              "media_key": "3_2097658686277885952",
+              "start": 30,
+              "url": "https://t.co/k3sGDNUD0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098013755091345496",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097658686277885952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1570
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097659163346395384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @P31NT: 永久に放置してるまどマギのラフ絵…… https://t.co/k3sGDNUD0h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097658686277885952"
+          ]
+        },
+        "author_id": "1266554479656136705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2097659163346395384",
+        "created_at": "2026-09-09T12:11:31.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097659163346395384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3sGDNUD0h",
+              "end": 42,
+              "expanded_url": "https://x.com/P31NT/status/2097659163346395384/photo/1",
+              "media_key": "3_2097658686277885952",
+              "start": 19,
+              "url": "https://t.co/k3sGDNUD0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097659163346395384",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097658686277885952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1534,
+          "impression_count": 206466,
+          "like_count": 19438,
+          "quote_count": 26,
+          "reply_count": 7,
+          "retweet_count": 1570
+        },
+        "reply_settings": "everyone",
+        "text": "永久に放置してるまどマギのラフ絵…… https://t.co/k3sGDNUD0h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2098013755091345496",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10974,
+          "following_count": 2342,
+          "like_count": 185751,
+          "listed_count": 21,
+          "media_count": 4213,
+          "tweet_count": 50990
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-30T02:18:28.000Z",
+        "description": "兎鷺ぬい(@N1U3G)のサブ￤一次二次雑多注意￤最近は魔法少女創作￤https://t.co/86BhBG0KF7\n🎀icon⇒@star_pocco 🖤header⇒@nekochan3232",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 5,
+                "username": "N1U3G"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "star_pocco"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "nekochan3232"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/1N0T9",
+                "end": 58,
+                "expanded_url": "https://lit.link/1N0T9",
+                "start": 35,
+                "url": "https://t.co/86BhBG0KF7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@P31NT",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@P31NT",
+                "start": 0,
+                "url": "https://t.co/Xa0PdPy2KZ"
+              }
+            ]
+          }
+        },
+        "id": "1266554479656136705",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097704158833074242",
+        "name": "ぬい🎀",
+        "pinned_tweet_id": "1959848893111275568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1266554479656136705/1755767956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958459733347876864/ly722-3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 338,
+          "like_count": 4210,
+          "listed_count": 10,
+          "media_count": 309,
+          "tweet_count": 3145
+        },
+        "url": "https://t.co/Xa0PdPy2KZ",
+        "username": "P31NT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

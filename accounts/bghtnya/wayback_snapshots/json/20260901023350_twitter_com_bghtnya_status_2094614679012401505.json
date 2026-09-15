@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2094396445977911474",
+    "created_at": "2026-09-01T02:33:50.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T03:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094614679012401505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094614679012401505",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094396445977911474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi 明日方舟老玩家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2094396445977911474",
+        "created_at": "2026-09-01T02:33:50.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094614679012401505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094614679012401505",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094396445977911474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi 明日方舟老玩家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2094396445977911474",
+        "created_at": "2026-08-31T12:06:39.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094396445977911474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhixiang_tih/s…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/zhixiang_tih/status/2094329376452358178",
+              "start": 120,
+              "url": "https://t.co/R4xbZhhwmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094396445977911474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 984,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094329376452358178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃脚，也得看你怎么吃脚\n有的人会放很多很多的白袜，来追求醇厚的口感，但是却尝不出脚本来的味道\n他们有的会说，因为他们不喜欢脚本身的味道，而白袜很好地改掉了这个味道\n但是你吃的是脚啊，不是在吃白袜，白袜只是用来给脚的味道作装饰的，可别搞反了 https://t.co/R4xbZhhwmK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2094614679012401505",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10859,
+          "following_count": 2334,
+          "like_count": 183863,
+          "listed_count": 21,
+          "media_count": 4158,
+          "tweet_count": 50394
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "is_identity_verified": false,
+        "location": "朝天门",
+        "most_recent_tweet_id": "2094592848868106291",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2094246384962863447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754494415152766976/1782808002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081044089487941632/4n6xQeCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6158,
+          "following_count": 2359,
+          "like_count": 33163,
+          "listed_count": 10,
+          "media_count": 3080,
+          "tweet_count": 28625
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "IchinichiNagi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

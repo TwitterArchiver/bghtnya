@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2092218490421961020",
+    "created_at": "2026-08-25T14:36:33.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092259841100423407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1351574309882396675",
+          "start": 0,
+          "username": "baiseshanguang5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092259841100423407",
+    "in_reply_to_user_id": "1351574309882396675",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092218490421961020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiseshanguang5 来玩卡拉比丘喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2092218490421961020",
+        "created_at": "2026-08-25T14:36:33.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092259841100423407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1351574309882396675",
+              "start": 0,
+              "username": "baiseshanguang5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092259841100423407",
+        "in_reply_to_user_id": "1351574309882396675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092218490421961020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiseshanguang5 来玩卡拉比丘喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351574309882396675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2092218490421961020",
+        "created_at": "2026-08-25T11:52:14.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092218490421961020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092218490421961020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1945,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都回来玩csgo吧，我求你们了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2092259841100423407",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10721,
+          "following_count": 2327,
+          "like_count": 182680,
+          "listed_count": 20,
+          "media_count": 4103,
+          "tweet_count": 50028
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-19T16:56:53.000Z",
+        "description": "爱玩csgo niko铁粉 要懂得爱我 不许骂我",
+        "id": "1351574309882396675",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092218490421961020",
+        "name": "白色闪光",
+        "pinned_tweet_id": "1873805272797634705",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351574309882396675/1648676058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904090800654528512/Py24EiPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74915,
+          "following_count": 13,
+          "like_count": 1221,
+          "listed_count": 177,
+          "media_count": 482,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "baiseshanguang5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

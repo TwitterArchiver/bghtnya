@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2095016903907635359",
+    "created_at": "2026-09-02T08:25:48.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T09:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095065643712479529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095065643712479529",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095016903907635359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 东北口音"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30100,
+        "height": 1280,
+        "media_key": "13_2095016865290678272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095016865290678272/img/19O7sGHt2T5rQkON.jpg",
+        "public_metrics": {
+          "view_count": 212
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095016865290678272/vid/avc1/320x568/g8DBRZRRRvicA9iS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095016865290678272/vid/avc1/480x852/YG_b1Zqr-LN6kayS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095016865290678272/vid/avc1/720x1280/yQK4wXJ5q92Ekxtk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095016865290678272/pl/hFk8F-6o_9uVyCyW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2095016903907635359",
+        "created_at": "2026-09-02T08:25:48.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095065643712479529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095065643712479529",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095016903907635359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 东北口音"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095016865290678272"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2095016903907635359",
+        "created_at": "2026-09-02T05:12:08.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095016903907635359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4mxY3Zo3r",
+              "end": 49,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2095016903907635359/video/1",
+              "media_key": "13_2095016865290678272",
+              "start": 26,
+              "url": "https://t.co/g4mxY3Zo3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095016903907635359",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095016865290678272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国留学生大闹日本语言学校课堂，出口成脏，一副凶样 https://t.co/g4mxY3Zo3r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2095065643712479529",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10880,
+          "following_count": 2335,
+          "like_count": 184171,
+          "listed_count": 21,
+          "media_count": 4170,
+          "tweet_count": 50485
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "location": "鄂｜🉑✈️｜🚪59｜私信｜蓝v必回请耐心等待",
+        "most_recent_tweet_id": "2095016903907635359",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15655,
+          "following_count": 1138,
+          "like_count": 1119,
+          "listed_count": 34,
+          "media_count": 484,
+          "tweet_count": 2616
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

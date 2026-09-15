@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093213856797724672"
+      ]
+    },
+    "author_id": "1512976991976402949",
+    "conversation_id": "2093213899487404430",
+    "created_at": "2026-08-28T05:47:38.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T06:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093213899487404430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1995266194576961536",
+          "start": 8,
+          "username": "skyseafor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L1SKQqii6k",
+          "end": 44,
+          "expanded_url": "https://x.com/bghtnya/status/2093213899487404430/video/1",
+          "media_key": "13_2093213856797724672",
+          "start": 21,
+          "url": "https://t.co/L1SKQqii6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093213899487404430",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2093213856797724672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ill越大级（ @skyseafor ） https://t.co/L1SKQqii6k"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [skyseafor].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "skyseafor",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "skyseafor"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17468,
+        "height": 1920,
+        "media_key": "13_2093213856797724672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093213856797724672/img/ZQnX9r1hDMXlQROy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093213856797724672/vid/avc1/320x568/9WqDOHFw2gNBbHBk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093213856797724672/vid/avc1/480x852/r6fpiemj3gZFIFA4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093213856797724672/vid/avc1/1080x1920/2wiBa6bRbwwH5_ao.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093213856797724672/vid/avc1/720x1280/EPu3gAGZWhYnpiSN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093213856797724672/pl/jiaS_QSB-SB5vEIL.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093213856797724672"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2093213899487404430",
+        "created_at": "2026-08-28T05:47:38.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093213899487404430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1995266194576961536",
+              "start": 8,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1SKQqii6k",
+              "end": 44,
+              "expanded_url": "https://x.com/bghtnya/status/2093213899487404430/video/1",
+              "media_key": "13_2093213856797724672",
+              "start": 21,
+              "url": "https://t.co/L1SKQqii6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093213899487404430",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093213856797724672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ill越大级（ @skyseafor ） https://t.co/L1SKQqii6k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2093213899487404430",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10764,
+          "following_count": 2329,
+          "like_count": 183060,
+          "listed_count": 20,
+          "media_count": 4122,
+          "tweet_count": 50142
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
