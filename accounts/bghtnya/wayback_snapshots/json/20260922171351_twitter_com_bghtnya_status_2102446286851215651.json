@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2102382417591816502",
+    "created_at": "2026-09-22T17:13:51.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T18:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102446286851215651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102446286851215651",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102382417591816502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 一带一路"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128336,
+        "height": 1350,
+        "media_key": "13_2102241895938510848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102241895938510848/img/FigwcndCM6HPvQFx.jpg",
+        "public_metrics": {
+          "view_count": 36498
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102241895938510848/vid/avc1/480x600/BEq09b6Ty7fMIZCb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102241895938510848/vid/avc1/720x900/OmzpksgpflTmU4co.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102241895938510848/vid/avc1/320x400/nUNHnlJHhEWQ5lTW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102241895938510848/vid/avc1/1080x1350/5AnCrLobxJDHnrYN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102241895938510848/pl/aOD6iech85Sk9PFI.m3u8?v=084"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 661,
+        "media_key": "3_2102241966847336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyp7kHaoAAbMlq.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2102382417591816502",
+        "created_at": "2026-09-22T17:13:51.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102446286851215651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102446286851215651",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102382417591816502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 一带一路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102241895938510848",
+            "3_2102241966847336448"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102382417591816502",
+        "created_at": "2026-09-22T13:00:03.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102382417591816502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGdU5mamXY",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2102382417591816502/video/1",
+              "media_key": "13_2102241895938510848",
+              "start": 62,
+              "url": "https://t.co/TGdU5mamXY"
+            },
+            {
+              "display_url": "pic.x.com/TGdU5mamXY",
+              "end": 85,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2102382417591816502/video/1",
+              "media_key": "3_2102241966847336448",
+              "start": 62,
+              "url": "https://t.co/TGdU5mamXY"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098084081678598483",
+              "start": 86,
+              "url": "https://t.co/FQ9gN6u6K4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102382417591816502",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102241895938510848"
+          },
+          {
+            "media_key": "3_2102241966847336448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "电诈园区：“请不要假装很努力，因为结果不会陪你演戏。”\n\n9月21日，柬埔寨当局带领媒体进入波罗勉省“8号园区”实地走访。\n现场画面显示，这座曾被用于网络诈骗活动的园区规模巨大，占地约120公顷，最多可容纳约2万人，内部设有大量办公楼、住宿区、餐厅、商铺、机房、门禁闸机及密集监控设备，宛如一座封闭的“小型城市”。\n\n园区被清空后，办公室内仍遗留大量桌椅、电脑显示器和网络设备。\n记者还发现用于集中存放手机的编号“手机袋”，部分贴有中文姓名标签。\n更引人注意的是，办公室墙上仍保留着中文职场标语：“请不要假装很努力，因为结果不会陪你演戏。”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 97050,
+          "like_count": 303,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098084081678598483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "电诈园区：“请不要假装很努力，因为结果不会陪你演戏。”\n\n9月21日，柬埔寨当局带领媒体进入波罗勉省“8号园区”实地走访。 https://t.co/TGdU5mamXY https://t.co/FQ9gN6u6K4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2102446286851215651",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11124,
+          "following_count": 2342,
+          "like_count": 187476,
+          "listed_count": 21,
+          "media_count": 4272,
+          "tweet_count": 51551
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2102442804450636246",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264109,
+          "following_count": 1084,
+          "like_count": 10520,
+          "listed_count": 8912,
+          "media_count": 54134,
+          "tweet_count": 61476
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

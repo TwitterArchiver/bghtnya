@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2104511155746349413",
+    "created_at": "2026-09-28T11:53:26.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104539981331198065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2085914615574306816",
+          "start": 0,
+          "username": "chicosiaasgard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104539981331198065",
+    "in_reply_to_user_id": "2085914615574306816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104511155746349413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chicosiaasgard 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6037,
+        "height": 1280,
+        "media_key": "13_2104511135512981505",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104511135512981505/img/W1FJi7eKzGbd7LuD.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104511135512981505/vid/avc1/320x568/n3iZ3i64MVlaqnY7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104511135512981505/vid/avc1/480x852/Tze2VKrJXJ_WaeIH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104511135512981505/vid/avc1/720x1280/VirBs04du88T17wY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104511135512981505/pl/PwXhEWPJkzY7TTHU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2104511155746349413",
+        "created_at": "2026-09-28T11:53:26.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104539981331198065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2085914615574306816",
+              "start": 0,
+              "username": "chicosiaasgard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104539981331198065",
+        "in_reply_to_user_id": "2085914615574306816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104511155746349413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chicosiaasgard 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104511135512981505"
+          ]
+        },
+        "author_id": "2085914615574306816",
+        "conversation_id": "2104511155746349413",
+        "created_at": "2026-09-28T09:58:54.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104511155746349413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yu8zTUCtDG",
+              "end": 36,
+              "expanded_url": "https://x.com/chicosiaasgard/status/2104511155746349413/video/1",
+              "media_key": "13_2104511135512981505",
+              "start": 13,
+              "url": "https://t.co/Yu8zTUCtDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104511155746349413",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104511135512981505"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样同时吃两根。。。 https://t.co/Yu8zTUCtDG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2104539981331198065",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11239,
+          "following_count": 2343,
+          "like_count": 188342,
+          "listed_count": 19,
+          "media_count": 4286,
+          "tweet_count": 51745
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T02:24:40.000Z",
+        "description": "MtF/海洋生物/HRT.2024/永远十七岁/生日10.2/🚪8964/持证含糖/ADHD/rle进行中/来和我逛街/来玩第五人格/常驻南京/南京药娘骰子/欢迎同类约我贴贴!泛左翼激跨/主人❤️@bghtnya/妹妹💙@LiciiQAQ/南京第一深情/屁屁虫生物学研究中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "bghtnya"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "2085914615574306816",
+        "is_identity_verified": false,
+        "location": "佛罗里达州 种植园",
+        "most_recent_tweet_id": "2104533854275194893",
+        "name": "🪸Sea Anemone-海音寺 葵🐠🏳️‍⚧️",
+        "pinned_tweet_id": "2102198827264676221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085914615574306816/1786156056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085915281285849088/I6iAJqxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 88,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "chicosiaasgard",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2100049784166085009",
+    "created_at": "2026-09-16T08:41:00.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T09:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100142900193755304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543753719451242496",
+          "start": 0,
+          "username": "4x_n2ym3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100142900193755304",
+    "in_reply_to_user_id": "1543753719451242496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100049784166085009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4x_n2ym3 生快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2099996190943379456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSvaM7agAAnluh.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2099996190985310209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSvaNFaUAEB7kd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2100049784166085009",
+        "created_at": "2026-09-16T08:41:00.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100142900193755304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543753719451242496",
+              "start": 0,
+              "username": "4x_n2ym3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100142900193755304",
+        "in_reply_to_user_id": "1543753719451242496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100049784166085009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4x_n2ym3 生快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099996190943379456",
+            "3_2099996190985310209"
+          ]
+        },
+        "author_id": "1543753719451242496",
+        "conversation_id": "2100049784166085009",
+        "created_at": "2026-09-16T02:31:00.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100049784166085009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAQ5O4Cc4c",
+              "end": 34,
+              "expanded_url": "https://x.com/4x_n2ym3/status/2100049784166085009/photo/1",
+              "media_key": "3_2099996190943379456",
+              "start": 11,
+              "url": "https://t.co/IAQ5O4Cc4c"
+            },
+            {
+              "display_url": "pic.x.com/IAQ5O4Cc4c",
+              "end": 34,
+              "expanded_url": "https://x.com/4x_n2ym3/status/2100049784166085009/photo/1",
+              "media_key": "3_2099996190985310209",
+              "start": 11,
+              "url": "https://t.co/IAQ5O4Cc4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100049784166085009",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099996190943379456"
+          },
+          {
+            "media_key": "3_2099996190985310209"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1362,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日亦是平凡的一日… https://t.co/IAQ5O4Cc4c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2100142900193755304",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11028,
+          "following_count": 2343,
+          "like_count": 186278,
+          "listed_count": 21,
+          "media_count": 4234,
+          "tweet_count": 51215
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/目前使用gnrha/明日方舟摆烂玩家/arcaea7.0享受中/maimai有点菜/chunithm没瓶颈/间歇性潜水/99.99%回fo/备用号@�����",
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2100113139115368725",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2100072181577257039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 3494,
+          "like_count": 3220,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 876
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

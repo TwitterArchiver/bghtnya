@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1512976991976402949",
+    "conversation_id": "2106322739153842187",
+    "created_at": "2026-10-03T22:27:34.000Z",
+    "display_text_range": [
+      7,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T23:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106511505202241650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "427892635",
+          "start": 0,
+          "username": "600G0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106511505202241650",
+    "in_reply_to_user_id": "427892635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106322739153842187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@600G0 你们偷拍的很恶心好吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10373,
+        "height": 1280,
+        "media_key": "13_2106322567564812288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106322567564812288/img/a0ioCxILRAsATP_o.jpg",
+        "public_metrics": {
+          "view_count": 88492
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106322567564812288/vid/avc1/320x568/VGFThZgtphBLrPLP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106322567564812288/vid/avc1/480x852/aLbr6ze7ozkuXhEf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106322567564812288/vid/avc1/720x1280/_U_X0ag5A2xwMThB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106322567564812288/pl/asjxuuayNvgqFZ7c.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2106322739153842187",
+        "created_at": "2026-10-03T22:27:34.000Z",
+        "display_text_range": [
+          7,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T23:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106511505202241650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "427892635",
+              "start": 0,
+              "username": "600G0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106511505202241650",
+        "in_reply_to_user_id": "427892635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106322739153842187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@600G0 你们偷拍的很恶心好吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106322567564812288"
+          ]
+        },
+        "author_id": "427892635",
+        "conversation_id": "2106322739153842187",
+        "created_at": "2026-10-03T09:57:29.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106322739153842187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXNVNgG1vo",
+              "end": 48,
+              "expanded_url": "https://x.com/600G0/status/2106322739153842187/video/1",
+              "media_key": "13_2106322567564812288",
+              "start": 25,
+              "url": "https://t.co/bXNVNgG1vo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106322739153842187",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106322567564812288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 145196,
+          "like_count": 481,
+          "quote_count": 0,
+          "reply_count": 101,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "太没有防备了…\n女孩子在外一定要好好保护好自己… https://t.co/bXNVNgG1vo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2106511505202241650",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11352,
+          "following_count": 2344,
+          "like_count": 189756,
+          "listed_count": 19,
+          "media_count": 4312,
+          "tweet_count": 51971
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-04T03:09:17.000Z",
+        "description": "小女不才\n爱上X的夜\n 这里🈶舞台，🈶观众，愿开心冲浪每一天🏄‍♀️ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀",
+        "id": "427892635",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106386804551336175",
+        "name": "那一夜",
+        "pinned_tweet_id": "2098846888195936377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/427892635/1789485759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099881576125370368/chNmhOF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13647,
+          "following_count": 11888,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1451
+        },
+        "url": "",
+        "username": "600G0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
